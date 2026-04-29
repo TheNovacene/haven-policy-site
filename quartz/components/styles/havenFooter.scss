@@ -1,0 +1,65 @@
+// Haven Footer styles.
+
+.haven-footer {
+  margin-top: 3rem;
+  padding: 1.75rem 1.25rem;
+  background: var(--haven-warm-grey, #e7e2da);
+  border-top: 4px solid var(--haven-tea-rose, #dbb4ad);
+  border-radius: 6px;
+  font-family: "Poppins", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 0.9rem;
+  color: var(--haven-gunmetal, #143642);
+  text-align: center;
+}
+
+.haven-footer-links {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 0.75rem;
+
+  a {
+    color: var(--haven-damson, #786170);
+    font-weight: 500;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.15s ease, color 0.15s ease;
+
+    &:hover {
+      color: var(--haven-china-rose, #b06378);
+      border-bottom-color: var(--haven-china-rose, #b06378);
+    }
+  }
+}
+
+.haven-footer-sep {
+  color: var(--haven-damson, #786170);
+  opacity: 0.5;
+}
+
+.haven-footer-charity {
+  font-size: 0.85rem;
+  line-height: 1.5;
+  margin: 0.5rem auto;
+  max-width: 640px;
+  color: var(--haven-gunmetal, #143642);
+
+  a {
+    color: var(--haven-damson, #786170);
+    text-decoration: none;
+    border-bottom: 1px solid var(--haven-tea-rose, #dbb4ad);
+
+    &:hover {
+      color: var(--haven-china-rose, #b06378);
+      border-bottom-color: var(--haven-china-rose, #b06378);
+    }
+  }
+}
+
+.haven-footer-meta {
+  font-size: 0.75rem;
+  color: var(--haven-damson, #786170);
+  opacity: 0.7;
+  margin-top: 0.75rem;
+}

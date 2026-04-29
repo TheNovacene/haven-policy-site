@@ -1,0 +1,319 @@
+/*
+ * Haven Policy Site — custom styles.
+ * Layered over Quartz v4 defaults. Brand alignment per Haven Brand Basics:
+ *   Primary palette: Rose #b8838c, Damson #786170, China Rose #b06378
+ *   Secondary palette: Sea Green #abccbd, Light Blue #93b7be, Sunny Yellow #f2c078, Tea Rose #dbb4ad
+ *   Tertiary palette: Gunmetal #143642 (text), Warm Grey #e7e2da, Light Pink #ffe3dc (backgrounds)
+ *   Typography: Poppins.
+ */
+
+// === Haven brand colour custom properties ===
+:root {
+  --haven-rose: #b8838c;
+  --haven-damson: #786170;
+  --haven-china-rose: #b06378;
+  --haven-tea-rose: #dbb4ad;
+  --haven-sea-green: #abccbd;
+  --haven-light-blue: #93b7be;
+  --haven-sunny-yellow: #f2c078;
+  --haven-gunmetal: #143642;
+  --haven-warm-grey: #e7e2da;
+  --haven-light-pink: #ffe3dc;
+}
+
+// === Typography ===
+body, .page > #quartz-body {
+  font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+article {
+  max-width: 760px;
+  line-height: 1.65;
+  color: var(--haven-gunmetal);
+}
+
+h1, h2, h3, h4, h5, h6,
+.article-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  color: var(--haven-damson);
+  letter-spacing: -0.01em;
+}
+
+h1, .article-title {
+  color: var(--haven-china-rose);
+  font-weight: 700;
+}
+
+h2 {
+  border-bottom: 2px solid var(--haven-tea-rose);
+  padding-bottom: 0.3rem;
+}
+
+// === Links ===
+a {
+  color: var(--haven-china-rose);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease, color 0.15s ease;
+
+  &:hover {
+    color: var(--haven-damson);
+    border-bottom-color: var(--haven-china-rose);
+    text-decoration: none;
+  }
+
+  &.internal {
+    background: rgba(176, 99, 120, 0.08);
+    padding: 0 4px;
+    border-radius: 3px;
+  }
+}
+
+// === Page surfaces ===
+// Subtle Light Pink background; no extra padding/shadow on .center which
+// would interfere with Quartz's layout calculations (was breaking the right
+// sidebar's graph and ToC scripts).
+body {
+  background: var(--haven-light-pink);
+}
+
+// === Sidebar (left + right) ===
+.sidebar {
+  font-family: "Poppins", sans-serif;
+}
+
+.page-title {
+  color: var(--haven-damson);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+// Search box, dark mode toggle
+.search-button, #darkmode-toggle, .toc-content {
+  background: rgba(255, 255, 255, 0.6);
+  border: 1px solid var(--haven-tea-rose);
+  border-radius: 6px;
+
+  &:hover {
+    border-color: var(--haven-china-rose);
+  }
+}
+
+// Explorer
+.explorer {
+  ul.overflow > li > a,
+  ul.overflow > li > button {
+    color: var(--haven-gunmetal);
+
+    &:hover {
+      color: var(--haven-china-rose);
+    }
+  }
+
+  .folder-outer {
+    color: var(--haven-damson);
+    font-weight: 500;
+  }
+}
+
+// Breadcrumbs
+.breadcrumb-container {
+  font-size: 0.85em;
+  color: var(--haven-damson);
+
+  a {
+    color: var(--haven-damson);
+  }
+}
+
+// Content meta (date, reading time)
+.content-meta {
+  color: var(--haven-damson);
+  font-style: normal;
+  font-size: 0.85rem;
+  opacity: 0.8;
+}
+
+// === Callouts ===
+
+// Default callout border colour matches the brand
+.callout {
+  border-left-color: var(--haven-china-rose);
+}
+
+// Haven-specific callout — distinguished so readers can see "this is Haven specifically"
+.callout[data-callout="haven-specific"] {
+  --color: var(--haven-damson);
+  --border: var(--haven-damson);
+  --bg: rgba(120, 97, 112, 0.08);
+
+  .callout-title {
+    color: var(--haven-damson);
+    &::before {
+      content: "📍 ";
+    }
+  }
+}
+
+// Internal-only — should not appear on public site (sync-vault.py strips these);
+// kept as defence-in-depth visual flag if any escape.
+.callout[data-callout="internal-only"] {
+  --color: #c00;
+  --border: #c00;
+  --bg: rgba(200, 0, 0, 0.08);
+
+  .callout-title {
+    color: #c00;
+    &::before {
+      content: "🔒 INTERNAL ONLY — NOT FOR PUBLIC SITE: ";
+      font-weight: 700;
+    }
+  }
+}
+
+// Warning callouts (used for refresh-notice draft policies)
+.callout[data-callout="warning"] {
+  --color: var(--haven-china-rose);
+  --border: var(--haven-china-rose);
+  --bg: rgba(176, 99, 120, 0.06);
+}
+
+// Info callouts
+.callout[data-callout="info"] {
+  --color: var(--haven-light-blue);
+  --border: var(--haven-light-blue);
+  --bg: rgba(147, 183, 190, 0.10);
+}
+
+// === Status badges (rendered manually if used) ===
+.status-badge {
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  font-weight: 600;
+  margin-right: 8px;
+  font-family: "Poppins", sans-serif;
+
+  &.live { background: var(--haven-sea-green); color: var(--haven-gunmetal); }
+  &.draft { background: var(--haven-sunny-yellow); color: var(--haven-gunmetal); }
+  &.superseded { background: var(--haven-warm-grey); color: var(--haven-damson); }
+  &.archived { background: var(--haven-warm-grey); color: var(--haven-damson); text-decoration: line-through; }
+  &.needs-remediation { background: rgba(176, 99, 120, 0.20); color: var(--haven-china-rose); }
+}
+
+// === Footer ===
+// Inside Quartz's container — no negative margins.
+footer {
+  background: var(--haven-warm-grey);
+  margin-top: 3rem;
+  padding: 1.75rem 1.25rem;
+  border-top: 4px solid var(--haven-tea-rose);
+  border-radius: 6px;
+  font-size: 0.9rem;
+  color: var(--haven-gunmetal);
+
+  ul {
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    justify-content: center;
+  }
+
+  a {
+    color: var(--haven-damson);
+    font-weight: 500;
+
+    &:hover {
+      color: var(--haven-china-rose);
+    }
+  }
+}
+
+// === Tables ===
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+}
+
+th, td {
+  border: 1px solid var(--haven-warm-grey);
+  padding: 0.6rem 0.8rem;
+  text-align: left;
+}
+
+th {
+  background: rgba(176, 99, 120, 0.1);
+  color: var(--haven-damson);
+  font-weight: 600;
+}
+
+tr:nth-child(even) td {
+  background: rgba(255, 227, 220, 0.4);
+}
+
+// === Code ===
+code {
+  background: var(--haven-warm-grey);
+  color: var(--haven-damson);
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.92em;
+}
+
+pre code {
+  background: transparent;
+  color: inherit;
+}
+
+// === Blockquotes ===
+blockquote {
+  border-left: 4px solid var(--haven-china-rose);
+  background: rgba(255, 227, 220, 0.5);
+  padding: 0.75rem 1rem;
+  color: var(--haven-gunmetal);
+  font-style: italic;
+}
+
+// === Dark mode adjustments ===
+[saved-theme="dark"] {
+  .page {
+    background: #0e2a32;
+  }
+  .center {
+    background: var(--haven-gunmetal);
+    box-shadow: none;
+  }
+  article {
+    color: var(--haven-light-pink);
+  }
+  h1, h2, h3, h4, h5, h6, .article-title {
+    color: var(--haven-tea-rose);
+  }
+  h2 {
+    border-bottom-color: rgba(219, 180, 173, 0.3);
+  }
+  a {
+    color: var(--haven-tea-rose);
+    &:hover { color: var(--haven-rose); }
+  }
+  th {
+    background: rgba(176, 99, 120, 0.2);
+    color: var(--haven-tea-rose);
+  }
+  tr:nth-child(even) td {
+    background: rgba(255, 255, 255, 0.03);
+  }
+  blockquote {
+    background: rgba(255, 255, 255, 0.05);
+  }
+  footer {
+    background: rgba(255, 255, 255, 0.05);
+    border-top-color: var(--haven-damson);
+  }
+}
