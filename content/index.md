@@ -11,19 +11,19 @@ This site publishes The Haven's policies in full. The Haven is owned and operate
 ## Quick start by audience
 
 <ul class="audience-grid">
-  <li><a href="audience/commissioners-and-schools/">
+  <li><a href="audience/commissioners-and-schools">
     <span class="audience-card-title">For Commissioners and Schools</span>
     <span class="audience-card-desc">The policies and procurement documents Local Authority and school commissioners typically need.</span>
   </a></li>
-  <li><a href="audience/families/">
+  <li><a href="audience/families">
     <span class="audience-card-title">For Families</span>
     <span class="audience-card-desc">Parent- and carer-facing policies, the family attendance agreement, and the digital age of consent guide.</span>
   </a></li>
-  <li><a href="audience/staff-and-volunteers/">
+  <li><a href="audience/staff-and-volunteers">
     <span class="audience-card-title">For Haven Staff and Volunteers</span>
     <span class="audience-card-desc">Induction reading and the annual sign-off set for everyone working at or for The Haven.</span>
   </a></li>
-  <li><a href="audience/dsl/">
+  <li><a href="audience/dsl">
     <span class="audience-card-title">For the Designated Safeguarding Lead</span>
     <span class="audience-card-desc">The full safeguarding-relevant set, with statutory references and information sharing routes.</span>
   </a></li>

@@ -33,7 +33,10 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 }
 
-// Component layout for list/folder pages (e.g. /policies/safeguarding/)
+// Component layout for list/folder pages (e.g. /policies/safeguarding/) and the
+// homepage. The right sidebar must contain at least one component, otherwise
+// Quartz collapses the layout to single-column at desktop widths and the left
+// sidebar (Search, Explorer) shifts to the top of the content area.
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
@@ -43,5 +46,8 @@ export const defaultListPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
-  right: [],
+  right: [
+    Component.Graph(),
+    Component.Backlinks(),
+  ],
 }
