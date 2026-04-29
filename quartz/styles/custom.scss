@@ -7,6 +7,10 @@
  *   Typography: Poppins.
  */
 
+// Quartz default base styles — provides the page grid (left sidebar / center / right sidebar)
+// and all structural layout. Without this import Quartz collapses to a single column.
+@use "./base.scss";
+
 // === Haven brand colour custom properties ===
 :root {
   --haven-rose: #b8838c;
