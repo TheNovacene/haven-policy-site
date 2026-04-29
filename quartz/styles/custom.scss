@@ -19,6 +19,8 @@
   --haven-gunmetal: #143642;
   --haven-warm-grey: #e7e2da;
   --haven-light-pink: #ffe3dc;
+  --haven-cream: #fbf6f1;     // Calm cream — page background (refined Haven)
+  --haven-cream-soft: #f5ece4; // Slightly warmer cream — alt sections / cards
 }
 
 // === Typography ===
@@ -71,11 +73,11 @@ a {
 }
 
 // === Page surfaces ===
-// Subtle Light Pink background; no extra padding/shadow on .center which
-// would interfere with Quartz's layout calculations (was breaking the right
-// sidebar's graph and ToC scripts).
+// Calm cream background; Light Pink reserved for accents/highlights only.
+// No extra padding/shadow on .center which would interfere with Quartz's
+// layout calculations (was breaking the right sidebar's graph and ToC scripts).
 body {
-  background: var(--haven-light-pink);
+  background: var(--haven-cream);
 }
 
 // === Sidebar (left + right) ===
@@ -253,7 +255,7 @@ th {
 }
 
 tr:nth-child(even) td {
-  background: rgba(255, 227, 220, 0.4);
+  background: var(--haven-cream-soft);
 }
 
 // === Code ===
@@ -274,10 +276,110 @@ pre code {
 // === Blockquotes ===
 blockquote {
   border-left: 4px solid var(--haven-china-rose);
-  background: rgba(255, 227, 220, 0.5);
+  background: var(--haven-cream-soft);
   padding: 0.75rem 1rem;
   color: var(--haven-gunmetal);
   font-style: italic;
+}
+
+// === Homepage audience cards ===
+// Used by the "Quick start by audience" section on content/index.md.
+// Simple list-of-links is rendered as styled card blocks for visual hierarchy.
+.audience-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2.5rem;
+  padding: 0;
+  list-style: none;
+
+  li {
+    margin: 0;
+    padding: 0;
+  }
+
+  a {
+    display: block;
+    padding: 1.1rem 1.25rem;
+    background: white;
+    border: 1px solid var(--haven-warm-grey);
+    border-radius: 8px;
+    color: var(--haven-damson);
+    font-weight: 600;
+    transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+    border-bottom: 1px solid var(--haven-warm-grey);  // override the default link underline
+
+    &:hover {
+      border-color: var(--haven-china-rose);
+      color: var(--haven-china-rose);
+      transform: translateY(-1px);
+      box-shadow: 0 2px 8px rgba(120, 97, 112, 0.08);
+      border-bottom-color: var(--haven-china-rose);
+    }
+
+    .audience-card-title {
+      display: block;
+      font-size: 1.05rem;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+      margin-bottom: 0.25rem;
+    }
+
+    .audience-card-desc {
+      display: block;
+      font-size: 0.88rem;
+      font-weight: 400;
+      color: var(--haven-gunmetal);
+      line-height: 1.45;
+    }
+  }
+}
+
+// === Homepage theme list ===
+// "Browse by theme" — slightly more breathing room than default bullet list,
+// theme name picked out visually.
+.theme-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    padding: 0.6rem 0;
+    border-bottom: 1px solid var(--haven-warm-grey);
+
+    &:last-child { border-bottom: none; }
+
+    a {
+      font-weight: 600;
+      color: var(--haven-damson);
+      border-bottom: none;
+
+      &:hover {
+        color: var(--haven-china-rose);
+      }
+    }
+
+    .theme-desc {
+      display: block;
+      font-size: 0.92rem;
+      color: var(--haven-gunmetal);
+      margin-top: 0.15rem;
+      line-height: 1.5;
+    }
+  }
+}
+
+// Section spacing — looser hierarchy for landing pages
+.landing h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+}
+
+// Subtle section intro paragraph styling
+.section-intro {
+  color: var(--haven-gunmetal);
+  opacity: 0.85;
+  margin-bottom: 1rem;
 }
 
 // === Dark mode adjustments ===

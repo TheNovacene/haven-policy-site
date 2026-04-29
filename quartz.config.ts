@@ -38,9 +38,9 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          // Backgrounds
-          light: "#ffe3dc",            // Light Pink — page background (warm, welcoming)
-          lightgray: "#e7e2da",         // Warm Grey — secondary surfaces, borders
+          // Backgrounds — cream-forward, Light Pink reserved for accents only
+          light: "#fbf6f1",             // Calm warm cream — page background (refined Haven)
+          lightgray: "#efe9e3",          // Slightly warmer than Warm Grey for surfaces / borders
           // Mid tones
           gray: "#b8838c",              // Rose — muted/quiet accent
           // Text
@@ -50,7 +50,7 @@ const config: QuartzConfig = {
           secondary: "#786170",         // Damson — primary heading/link colour
           // Tertiary accent (visited links, secondary hover)
           tertiary: "#b06378",          // China Rose — accent / hover / visited
-          highlight: "rgba(242, 192, 120, 0.25)",  // Sunny Yellow tint
+          highlight: "rgba(176, 99, 120, 0.10)",   // China Rose tint, more subtle
           textHighlight: "#f2c078aa",   // Sunny Yellow translucent
         },
         darkMode: {
