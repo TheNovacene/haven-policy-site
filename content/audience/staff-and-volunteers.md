@@ -2,8 +2,6 @@
 title: "For Haven Staff and Volunteers"
 ---
 
-# For Haven Staff and Volunteers
-
 The induction reading and annual sign-off set for everyone working at or for The Haven, including educators, the wider team, and volunteers.
 
 > The Haven's working principle is that every adult in contact with learners is a potential safeguarding observer. Reading these policies isn't a compliance checkbox — it's the floor of relational care.

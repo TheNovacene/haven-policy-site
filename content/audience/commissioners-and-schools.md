@@ -2,8 +2,6 @@
 title: "For Commissioners and Schools"
 ---
 
-# For Commissioners and Schools
-
 The policies and procurement documents Local Authority commissioners and school-based commissioners typically need when referring a learner to The Haven. The Haven is owned and operated by the [Autistic Girls Network](https://autisticgirlsnetwork.org/) charity.
 
 ## Safeguarding

@@ -2,8 +2,6 @@
 title: "For the Designated Safeguarding Lead"
 ---
 
-# For the Designated Safeguarding Lead
-
 The full safeguarding-relevant policy set for the Designated Safeguarding Lead, Deputy DSLs, and the wider safeguarding team.
 
 > Authoritative external frameworks the DSL works alongside: **KCSIE 2025**, **Working Together to Safeguard Children**, **Prevent Duty Guidance**, **ICO Children's Code**, **Online Safety Act 2023**, and the safeguarding partner arrangements for each learner's local authority area.

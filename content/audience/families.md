@@ -2,8 +2,6 @@
 title: "For Families"
 ---
 
-# For Families
-
 The policies and guides most relevant to parents and carers of learners at The Haven. The Haven is owned and operated by the [Autistic Girls Network](https://autisticgirlsnetwork.org/) charity, and parent voice is central to how The Haven operates.
 
 ## Family-facing guides
