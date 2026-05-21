@@ -236,7 +236,22 @@ def _all_policies_md(published_index: list) -> str:
     """Emit a flat A-Z list of every published policy, generated fresh on
     each sync from the policies we just wrote. No manual maintenance — the
     page is always in lockstep with the vault.
+
+    Notes on rendering:
+      - The body does NOT include an "# All policies (A–Z)" H1. Quartz
+        already renders the frontmatter `title:` as the page H1; adding
+        another would produce a duplicate heading.
+      - Link targets match Quartz's own slug rules — spaces become "-" and
+        "&" becomes "-and-" — so the rendered <a> tags point at the same
+        URLs Quartz emits for each policy page. URL-encoding (%20, %2C) is
+        not used because Quartz's slugifier interprets "%" literally and
+        breaks those links.
     """
+    def quartz_slug(path: str) -> str:
+        """Mirror Quartz's filename → URL slug transformation. Path separators
+        ('/') are preserved; only the segment characters are transformed."""
+        return path.replace("&", "-and-").replace(" ", "-")
+
     # Sort case-insensitively by title, ignoring leading articles
     def sort_key(entry):
         t = entry["title"].lower()
@@ -249,8 +264,8 @@ def _all_policies_md(published_index: list) -> str:
     sorted_entries = sorted(published_index, key=sort_key)
     lines = []
     for entry in sorted_entries:
-        # Link target: site-root-relative path, no .md
-        lines.append(f'- [{entry["title"]}](/{entry["url"]})')
+        slugged_url = quartz_slug(entry["url"])
+        lines.append(f'- [{entry["title"]}](/{slugged_url})')
     body = "\n".join(lines) if lines else "_No policies published yet._"
 
     return f"""---
@@ -258,8 +273,6 @@ title: "All policies (A–Z)"
 cssclasses:
   - landing
 ---
-
-# All policies (A–Z)
 
 Every published Haven policy in one alphabetical list. For a curated view by
 audience, see the [audience packs](audience/). For a thematic view, see the
