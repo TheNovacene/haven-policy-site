@@ -38,25 +38,15 @@ picture of wellbeing, connection, and readiness to learn.
 
 We recognise that many of our learners particularly those with SEND or mental health
 
-challenges have had difficult or even traumatic relationships with conventional schooling. As
+challenges have had difficult or even traumatic relationships with conventional schooling. As a result, attendance may be inconsistent, and that’s okay. We meet each learner where they are.
 
-a result, attendance may be inconsistent, and that’s okay. We meet each learner where they
-
-are.
-
-We encourage regular attendance because we believe in the power of consistent
-
-connection. But we will never punish absence. Instead, we aim to understand it, respond
-
-with care, and co-create a path back to learning.
+We encourage regular attendance because we believe in the power of consistent connection. But we will never punish absence. Instead, we aim to understand it, respond with care, and co-create a path back to learning.
 
 **What Is The Haven?**
 
 The Haven is an online learning partner — not a school. We work with:
 
-●
-
-Home-educating families seeking support and structure
+● Home-educating families seeking support and structure
 
 ● Schools and local authorities looking for specialist online provision
 

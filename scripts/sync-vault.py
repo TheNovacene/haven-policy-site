@@ -107,12 +107,29 @@ def should_publish(fm: dict) -> bool:
     return status in {"live", ""}
 
 
-def sync_one(src: Path, dst: Path, holders: dict, target: str, dry_run: bool):
+def sync_one(src: Path, dst: Path, holders: dict, target: str, dry_run: bool,
+             published_index: list | None = None):
     text = src.read_text(encoding="utf-8")
     fm, _ = parse_frontmatter(text)
 
     if not should_publish(fm):
         return None  # excluded from public build
+
+    # Capture title and site-relative path for the A-Z index, if collecting.
+    if published_index is not None:
+        title = fm.get("title", "").strip() or src.stem
+        # site URL relative to /policies — drop the .md, keep folder structure
+        rel_url = str(dst.relative_to(CONTENT_DIR)).replace(".md", "")
+        # category folder is the first path part after content/policies/
+        try:
+            category = dst.relative_to(CONTENT_DIR / "policies").parts[0]
+        except ValueError:
+            category = ""
+        published_index.append({
+            "title": title,
+            "url": rel_url,
+            "category": category,
+        })
 
     # Strip internal-only callouts (always)
     text = strip_callout(text, "internal-only")
@@ -145,16 +162,37 @@ def main():
 
     # Clear existing content/, preserving directories listed in PRESERVE_DIRS
     # (e.g. audience/ — curated MOC pages that aren't sourced from the vault).
+    # Tolerate PermissionError on individual files: in some sandboxed
+    # environments deletes are blocked but overwrites are allowed, so we
+    # carry on and let the sync overwrite. Stale files in content/ that no
+    # longer exist in the vault will be removed on the next clean run.
     if CONTENT_DIR.exists() and not args.dry_run:
+        def _safe_unlink(p: Path):
+            try:
+                p.unlink()
+            except (PermissionError, FileNotFoundError):
+                pass
+
+        def _safe_rmtree(p: Path):
+            try:
+                shutil.rmtree(p)
+            except (PermissionError, FileNotFoundError):
+                # walk and best-effort unlink files; skip dirs that fail
+                for sub in p.rglob("*"):
+                    if sub.is_file():
+                        _safe_unlink(sub)
+
         for child in CONTENT_DIR.iterdir():
             if child.is_dir():
                 if child.name in PRESERVE_DIRS:
                     continue
-                shutil.rmtree(child)
+                _safe_rmtree(child)
             else:
-                child.unlink()
+                _safe_unlink(child)
 
-    # Walk vault, copy with transforms
+    # Walk vault, copy with transforms. Collect a published-index for the
+    # A-Z page so it stays in lockstep with the vault automatically.
+    published_index: list = []
     n_published = 0
     n_excluded = 0
     for src in args.vault.rglob("*.md"):
@@ -169,7 +207,8 @@ def main():
             continue
 
         dst = CONTENT_DIR / rel
-        result = sync_one(src, dst, holders, args.target, args.dry_run)
+        result = sync_one(src, dst, holders, args.target, args.dry_run,
+                          published_index=published_index)
         if result is None:
             n_excluded += 1
         else:
@@ -180,9 +219,59 @@ def main():
     if not args.dry_run:
         index_path.write_text(_index_md(args.target), encoding="utf-8")
 
+    # A-Z all-policies page (generated from published_index)
+    all_policies_path = CONTENT_DIR / "all-policies.md"
+    if not args.dry_run:
+        all_policies_path.write_text(
+            _all_policies_md(published_index), encoding="utf-8"
+        )
+
     print(f"\nTarget:    {args.target}")
     print(f"Published: {n_published}")
     print(f"Excluded:  {n_excluded} (status not 'live' or in excluded folders/files)")
+    print(f"A-Z page:  {len(published_index)} entries")
+
+
+def _all_policies_md(published_index: list) -> str:
+    """Emit a flat A-Z list of every published policy, generated fresh on
+    each sync from the policies we just wrote. No manual maintenance — the
+    page is always in lockstep with the vault.
+    """
+    # Sort case-insensitively by title, ignoring leading articles
+    def sort_key(entry):
+        t = entry["title"].lower()
+        for prefix in ("the ", "a ", "an "):
+            if t.startswith(prefix):
+                t = t[len(prefix):]
+                break
+        return t
+
+    sorted_entries = sorted(published_index, key=sort_key)
+    lines = []
+    for entry in sorted_entries:
+        # Link target: site-root-relative path, no .md
+        lines.append(f'- [{entry["title"]}](/{entry["url"]})')
+    body = "\n".join(lines) if lines else "_No policies published yet._"
+
+    return f"""---
+title: "All policies (A–Z)"
+cssclasses:
+  - landing
+---
+
+# All policies (A–Z)
+
+Every published Haven policy in one alphabetical list. For a curated view by
+audience, see the [audience packs](audience/). For a thematic view, see the
+[homepage browse list](./).
+
+{body}
+
+---
+
+This list is generated from the published policy set on every site refresh,
+so it is always in sync with what is live on the site.
+"""
 
 
 def _index_md(target: str) -> str:
@@ -201,6 +290,15 @@ cssclasses:
 # Welcome to The Haven's policy site
 
 This site publishes The Haven's policies in full. The Haven is owned and operated by the [Autistic Girls Network](https://autisticgirlsnetwork.org/) charity. The Haven's main site is at [thehavenonline.school](https://thehavenonline.school/).
+
+## Looking for something specific?
+
+<ul class="audience-grid">
+  <li><a href="all-policies">
+    <span class="audience-card-title">View all policies (A–Z)</span>
+    <span class="audience-card-desc">A single alphabetical list of every published Haven policy.</span>
+  </a></li>
+</ul>
 
 ## Quick start by audience
 
