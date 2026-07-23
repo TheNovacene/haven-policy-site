@@ -73,6 +73,7 @@ audience, see the [audience packs](audience/). For a thematic view, see the
 - [Risk Assessment Policy](/policies/health-safety-medical/Risk-Assessment-Policy-v10.25)
 - [RSHE Policy v.02.26](/policies/safeguarding/RSHE-Policy-v.02.26)
 - [SEND Policy](/policies/equality-inclusion-send/SEND-Policy-v01.26)
+- [Site Plan Statement: Online Provision](/policies/governance-legal/Site-Plan-Statement---Online-Provision-v07.26)
 - [Smoking and Vaping Policy](/policies/safeguarding/Smoking-and-Vaping-Policy-v05.26)
 - [Staff Conduct Policy](/policies/hr-staff-conduct/Staff-Conduct-Policy-v10.25)
 - [Staff Induction Policy](/policies/hr-staff-conduct/Staff-Induction-Policy-v05.26)
