@@ -23,7 +23,7 @@ compliance:
   - "Health and Safety at Work etc. Act 1974"
 applies_to: ["haven"]
 related_policies:
-  - "[[Accidents, Incidents and First Aid Policy v04.26-draft]]"
+  - "[[Accidents, Incidents and First Aid Policy v04.26]]"
   - "[[Health and Safety Policy v10.25]]"
   - "[[SEND Policy v01.26]]"
   - "[[Child Protection and Safeguarding Policy v01.26]]"

@@ -26,7 +26,7 @@ related_policies:
   - "[[Health and Safety Policy v10.25]]"
   - "[[Off-site Visits Policy v01.26]]"
   - "[[Lone Working Policy v10.25]]"
-  - "[[Accidents, Incidents and First Aid Policy v04.26-draft]]"
+  - "[[Accidents, Incidents and First Aid Policy v04.26]]"
   - "[[Business Continuity Plan v01.26]]"
   - "[[Transportation Policy for Service Users v10.25]]"
   - "[[Ergonomic Health and Safety Policy v10.25]]"

@@ -9,7 +9,7 @@ audience, see the [audience packs](audience/). For a thematic view, see the
 [homepage browse list](./).
 
 - [Accessibility Plan](/policies/equality-inclusion-send/Accessibility-Plan-v05.26)
-- [Accidents, Incidents and First Aid Policy](/policies/health-safety-medical/Accidents,-Incidents-and-First-Aid-Policy-v04.26-draft)
+- [Accidents, Incidents and First Aid Policy](/policies/health-safety-medical/Accidents,-Incidents-and-First-Aid-Policy-v04.26)
 - [Adaptive Teaching and Differentiation Policy](/policies/curriculum-teaching-quality/Adaptive-Teaching-and-Differentiation-Policy-v05.26)
 - [Anti-Bullying Policy](/policies/behaviour-regulation/Anti-Bullying-Policy-v05.26)
 - [Anti-Racism is Safeguarding Policy](/policies/equality-inclusion-send/Anti-Racism-Policy-v01.26)

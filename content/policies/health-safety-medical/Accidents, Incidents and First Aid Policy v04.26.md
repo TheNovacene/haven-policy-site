@@ -39,17 +39,19 @@ related_policies:
   - "[[Data Protection, Confidentiality & Privacy Policy v10.25]]"
 source_file: "MERGED: First Aid Policy (Online Context) v01.26.docx + DRAFT (not ratified) Accidents, Incidents and First Aid Policy.docx"
 ingested: 2026-04-29
-notes: "DRAFT v04.26 — merger of (i) the live First Aid Policy (Online Context) v01.26 and (ii) the unratified DRAFT Accidents, Incidents and First Aid Policy. Adopts the broader unified-incident framework of the DRAFT, retains placement-start and responsible-adult detail from the live version, and updates statutory references to KCSIE 2025, Online Safety Act 2023, and UK GDPR. Pending Kirsten Roy and Elliot Wassell sign-off."
+notes: "v04.26 — merger of (i) the live First Aid Policy (Online Context) v01.26 and (ii) the unratified DRAFT Accidents, Incidents and First Aid Policy. Adopts the broader unified-incident framework of the DRAFT, retains placement-start and responsible-adult detail from the live version, and updates statutory references to KCSIE 2025, Online Safety Act 2023, and UK GDPR. Signed off 29 April 2026 by Proprietor and Governing Body."
 ---
 
 > [!info] Merged April 2026 — signed off
-> This policy is a draft (April 2026) merging two source policies into a single unified framework. It supersedes both the *[[First Aid Policy (Online Context) v01.26]]* and the unratified *[[DRAFT (not ratified) Accidents, Incidents and First Aid Policy]]*. Signed off 29 April 2026 by Proprietor and Governing Body.
+> This policy merges two source policies into a single unified framework. It supersedes both the *[[First Aid Policy (Online Context) v01.26]]* and the unratified *[[DRAFT (not ratified) Accidents, Incidents and First Aid Policy]]*.
+>
+> **Status:** live — signed off 29 April 2026 by Proprietor and Governing Body.
 
-**Date:** April 2026 (draft)
+**Date:** April 2026
 **Review Date:** April 2027
 **Coordinator:** the Health and Safety Lead
 **Nominated Governor:** Elliot Wassell
-**Version:** 04.26-draft
+**Version:** 04.26
 
 ## 1. Policy Statement and Purpose
 

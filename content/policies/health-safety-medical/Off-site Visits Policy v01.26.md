@@ -153,7 +153,7 @@ Where standards cannot be assured, the visit will not proceed.
 ### 7.2 First Aid and Medication
   - Responsibilities for first aid and medication are managed in line with:
     
-      - **The Haven [[Accidents, Incidents and First Aid Policy v04.26-draft]]  
+      - **The Haven [[Accidents, Incidents and First Aid Policy v04.26]]  
         > **
     
       - **Supporting Learners with Medical Conditions Policy  

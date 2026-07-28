@@ -10,7 +10,10 @@ next_review: 2027-05-21
 review_cycle: "annual"
 owner_role: "Data Protection Officer"
 approver_role: "Proprietor + Governing Body"
-sign_off_record: []
+sign_off_record:
+  - version: "05.26"
+    date: 2026-04-29
+    approver_role: "Proprietor + Governing Body"
 themes:
   - "data-protection"
   - "privacy"
@@ -27,7 +30,7 @@ notes: ""
 # Privacy Notices
 
 > [!info]
-> **Status:** pending-signoff · **Version:** 05.26 · **Last reviewed:** 2026-05-21 · **Next review:** 2027-05-21
+> **Status:** live (signed off 29 April 2026) · **Version:** 05.26 · **Last reviewed:** 2026-05-21 · **Next review:** 2027-05-21
 > **Owner:** Data Protection Officer · **Approved by:** Proprietor + Governing Body
 
 ## Introduction

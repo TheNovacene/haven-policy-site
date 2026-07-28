@@ -28,7 +28,7 @@ related_policies:
   - "[[Off-site Visits Policy v01.26]]"
   - "[[Child Protection and Safeguarding Policy v01.26]]"
   - "[[Staff Conduct Policy v10.25]]"
-  - "[[Accidents, Incidents and First Aid Policy v04.26-draft]]"
+  - "[[Accidents, Incidents and First Aid Policy v04.26]]"
 source_file: "Lone Working Policy v10.25.docx"
 ingested: 2026-04-29
 notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff."

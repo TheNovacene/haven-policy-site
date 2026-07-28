@@ -46,7 +46,7 @@ related_policies:
   - "[[Whistleblowing Policy v01.26]]"
   - "[[Data Protection, Confidentiality & Privacy Policy v10.25]]"
   - "[[Lone Working Policy v10.25]]"
-  - "[[Accidents, Incidents and First Aid Policy v04.26-draft]]"
+  - "[[Accidents, Incidents and First Aid Policy v04.26]]"
 source_file: "Child Protection and Safeguarding Policy v01.26.docx"
 ingested: 2026-04-29
 notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff. / E1 legislative refresh 2026-04-29 — alignment with KCSIE 2025, Online Safety Act 2023 (phased duties), DfE Filtering and Monitoring Standards 2024, Worker Protection (Amendment of Equality Act 2010) Act 2023 (third-party harassment duty), and emerging AI safeguarding considerations. Pending DSL + Proprietor sign-off."
