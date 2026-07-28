@@ -10,9 +10,6 @@ review_cycle: "annual"
 owner_role: "Data Protection Officer"
 approver_role: "Proprietor"
 sign_off_record:
-  - version: "10.26"
-    date: 2026-10-01
-    approver_role: "Proprietor + Governing Body"
   - version: "04.26"
     date: 2026-04-29
     approver_role: "Proprietor + Governing Body"
@@ -56,7 +53,7 @@ notes: "Source filename labels this v10.26 (October 2026 — future-dated). Veri
 
 **Nominated Governor:** Head & Safeguarding Committee
 
-**Version**: 04.26-draft (was v10.26 — corrected from future-dated source)
+**Version**: 04.26
 
 > [!info] Refreshed for AI / DfE 2025 / Diamond AI — signed off April 2026
 > This policy was refreshed on 2026-04-29 to align with **DfE Generative AI in Education 2025**, **ICO Children's Code**, **EU AI Act** (compliance + extension), **UK GDPR / DPA 2018**, and to make explicit the link between the **institutional Diamond Standard** (Safety, Sovereignty, Symmetry, Stewardship) and the **relational Diamond AI posture** (*work with AI; do not offload decisions to AI; do not defer entirely from AI*).

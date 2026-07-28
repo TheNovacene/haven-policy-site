@@ -26,7 +26,6 @@ compliance:
 applies_to: ["haven"]
 related_policies:
   - "[[Data Protection, Confidentiality & Privacy Policy v10.25]]"
-  - "[[Confidentiality and Privacy Policy v.10.25]]"
   - "[[DPIA Digital Platforms]]"
   - "[[Cyber Security Policy v01.26]]"
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"

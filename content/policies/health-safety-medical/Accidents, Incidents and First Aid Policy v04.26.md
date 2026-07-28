@@ -43,7 +43,7 @@ notes: "v04.26 — merger of (i) the live First Aid Policy (Online Context) v01.
 ---
 
 > [!info] Merged April 2026 — signed off
-> This policy merges two source policies into a single unified framework. It supersedes both the *[[First Aid Policy (Online Context) v01.26]]* and the unratified *[[DRAFT (not ratified) Accidents, Incidents and First Aid Policy]]*.
+> This policy merges two source policies into a single unified framework. It supersedes both the *First Aid Policy (Online Context) v01.26* and the unratified *DRAFT (not ratified) Accidents, Incidents and First Aid Policy*.
 >
 > **Status:** live — signed off 29 April 2026 by Proprietor and Governing Body.
 
@@ -66,7 +66,7 @@ This policy sets out a single, unified framework for how The Haven prevents, rec
 - Near misses
 - Health and safety concerns
 
-It replaces the previous *[[First Aid Policy (Online Context) v01.26]]* and the unratified *[[DRAFT (not ratified) Accidents, Incidents and First Aid Policy]]*. All health and safety events are recorded within one system to ensure consistency, accountability and strategic oversight.
+It replaces the previous *First Aid Policy (Online Context) v01.26* and the unratified *DRAFT (not ratified) Accidents, Incidents and First Aid Policy*. All health and safety events are recorded within one system to ensure consistency, accountability and strategic oversight.
 
 > [!haven-specific]
 > The Haven uses the safeguarding recording functionality within **TutorCruncher** as the central digital safeguarding recording system. Other schools adopting this policy stack should substitute their own equivalent system (e.g. CPOMS, MyConcern).
@@ -299,4 +299,4 @@ The policy is benchmarked against DfE and Local Authority guidance to ensure bes
 
 | Version | Date | Approver role | Notes |
 |---------|------|---------------|-------|
-| 04.26-draft | 2026-04-29 | (pending) | Merger of *[[First Aid Policy (Online Context) v01.26]]* and *[[DRAFT (not ratified) Accidents, Incidents and First Aid Policy]]*. Pending Kirsten Roy + Elliot Wassell sign-off. |
+| 04.26 | 2026-04-29 | Proprietor + Governing Body | Merger of *First Aid Policy (Online Context) v01.26* and *DRAFT (not ratified) Accidents, Incidents and First Aid Policy* (both superseded). Signed off by Kirsten Roy and Elliot Wassell. |

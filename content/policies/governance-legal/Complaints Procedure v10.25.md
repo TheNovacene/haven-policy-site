@@ -32,13 +32,13 @@ related_policies:
   - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"
 source_file: "Complaints Procedure v10.25.docx"
 ingested: 2026-04-29
-notes: "A4 remediation 2026-04-29 — revised to achieve full compliance with Independent School Standards Part 7 (paragraphs 7.1–7.11). Five gaps closed: 7.3 accessibility statement; 7.7 three-person panel composition; 7.8 parental rights at hearing; 7.9 findings/inspection access; 7.11 confidentiality clause. Pending Headteacher and Proprietor sign-off."
+notes: "A4 remediation 2026-04-29 — revised to achieve full compliance with Independent School Standards Part 7 (paragraphs 7.1–7.11). Five gaps closed: 7.3 accessibility statement; 7.7 three-person panel composition; 7.8 parental rights at hearing; 7.9 findings/inspection access; 7.11 confidentiality clause. Signed off 29 April 2026 by Proprietor and Governing Body."
 ---
 **Date:** April 2026 (refreshed)  
 **Review Date:** April 2027  
 **Coordinator:** Kirsten Roy  
 **Nominated Governor:** Vicki May  
-**Version:** 04.26-draft
+**Version:** 04.26
 
 > [!info] Refreshed for ISS Part 7 compliance — signed off April 2026
 > This procedure was revised on 2026-04-29 to close five gaps identified against Independent School Standards Part 7 (paragraphs 7.1–7.11): accessibility statement (7.3); three-person panel composition (7.7); parental rights at hearings (7.8); findings and inspection access (7.9); confidentiality and regulatory access clause (7.11).
