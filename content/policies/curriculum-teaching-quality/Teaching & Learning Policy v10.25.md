@@ -46,11 +46,6 @@ notes: "E3 legislative refresh 2026-04-29 — alignment with DfE Generative AI i
 **Nominated Governor:** Vicki May  
 **Version:** v10.25
 
-> [!info] Refreshed for AI / DfE 2025 / Diamond AI — signed off April 2026
-> This policy was refreshed on 2026-04-29 to align with **DfE Generative AI in Education 2025**, **ICO Children's Code**, **EU AI Act** (compliance + extension), **UK GDPR / DPA 2018**, and to make explicit the link between the **institutional Diamond Standard** (Safety, Sovereignty, Symmetry, Stewardship) and the **relational Diamond AI posture** (*work with AI; do not offload decisions to AI; do not defer entirely from AI*).
->
-> **Status:** live — signed off 29 April 2026 by Proprietor and Governing Body.
-
 ## 1. Purpose & Ethos
 The Haven exists to provide a trauma-informed, neurodivergent-affirming, and relational online education for learners aged 12–17.  
 Our teaching and learning practices are designed to:

@@ -42,11 +42,6 @@ ingested: 2026-04-29
 notes: "v04.26 — merger of (i) the live First Aid Policy (Online Context) v01.26 and (ii) the unratified DRAFT Accidents, Incidents and First Aid Policy. Adopts the broader unified-incident framework of the DRAFT, retains placement-start and responsible-adult detail from the live version, and updates statutory references to KCSIE 2025, Online Safety Act 2023, and UK GDPR. Signed off 29 April 2026 by Proprietor and Governing Body."
 ---
 
-> [!info] Merged April 2026 — signed off
-> This policy merges two source policies into a single unified framework. It supersedes both the *First Aid Policy (Online Context) v01.26* and the unratified *DRAFT (not ratified) Accidents, Incidents and First Aid Policy*.
->
-> **Status:** live — signed off 29 April 2026 by Proprietor and Governing Body.
-
 **Date:** April 2026
 **Review Date:** April 2027
 **Coordinator:** the Health and Safety Lead
@@ -67,9 +62,6 @@ This policy sets out a single, unified framework for how The Haven prevents, rec
 - Health and safety concerns
 
 It replaces the previous *First Aid Policy (Online Context) v01.26* and the unratified *DRAFT (not ratified) Accidents, Incidents and First Aid Policy*. All health and safety events are recorded within one system to ensure consistency, accountability and strategic oversight.
-
-> [!haven-specific]
-> The Haven uses the safeguarding recording functionality within **TutorCruncher** as the central digital safeguarding recording system. Other schools adopting this policy stack should substitute their own equivalent system (e.g. CPOMS, MyConcern).
 
 ## 2. Scope
 

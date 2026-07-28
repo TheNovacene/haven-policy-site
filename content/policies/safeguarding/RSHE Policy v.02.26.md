@@ -49,11 +49,6 @@ notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter owner
 **Governance Approval:** Vicki May  
 **Version:** 02.26*
 
-> [!info] Refreshed for KCSIE 2025 — signed off April 2026
-> This policy was refreshed on 2026-04-29 to align with current statutory guidance: **KCSIE 2025**, **Online Safety Act 2023** (phased duties on user-to-user services), **DfE Filtering and Monitoring Standards 2024**, **Worker Protection (Amendment of Equality Act 2010) Act 2023** (preventive duty re sexual harassment, including third-party harassment), and emerging AI safeguarding considerations (DfE *Generative AI in Education* 2025, ICO Children's Code).
->
-> **Status:** live — signed off 29 April 2026 by Proprietor and Governing Body.
-
 **1. Policy Overview** The Haven is a hybrid-flexible (hyflex), trauma-informed, and neurodivergent-affirming school for learners aged 12–17. We are committed to providing inclusive, developmentally appropriate, and evidence-informed Relationships, Sex, and Health Education (RSHE) that reflects the lived experiences and identities of our learners.
 
 Our RSHE curriculum is designed to equip young people with the knowledge, skills, and confidence to make informed, safe, and ethical decisions about their relationships, wellbeing, and bodies.

@@ -48,11 +48,6 @@ notes: "E2 legislative refresh 2026-04-29 — alignment with Online Safety Act 2
 **Nominated Governor:** Vicki May  
 **Version:** v01.26
 
-> [!info] Refreshed for OSA 2023 + Diamond AI — signed off April 2026
-> This policy was refreshed on 2026-04-29 to align with **Online Safety Act 2023** (phased duties on user-to-user services), **DfE Cyber Security Standards for Schools 2024**, **DfE Filtering and Monitoring Standards 2024**, **Generative AI in Education (DfE 2025)**, **ICO Children's Code**, and the Haven's **Diamond AI posture** — *work with AI; do not offload decisions to AI; do not defer entirely from AI*.
->
-> **Status:** live — signed off 29 April 2026 by Proprietor and Governing Body.
-
 ## 1. Policy Statement and Purpose
 The Haven is committed to safeguarding learners, families, and staff in all digital environments. As a hybrid-flexible provider, our reliance on technology for learning, communication, and administration requires strong cyber security practices.
 

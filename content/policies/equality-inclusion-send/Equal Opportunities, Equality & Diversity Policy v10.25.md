@@ -48,11 +48,6 @@ notes: "E4 legislative refresh 2026-04-29 — alignment with Worker Protection (
 **Nominated Governor:** Vicki May  
 **Version:** v10.25
 
-> [!info] Refreshed for Worker Protection Act 2024 — signed off April 2026
-> This policy was refreshed on 2026-04-29 to align with the **Worker Protection (Amendment of Equality Act 2010) Act 2023** — in force from 26 October 2024 — which places a preventive duty on employers to take *reasonable steps* to prevent sexual harassment of employees, including by third parties. Tribunals can uplift compensation by up to 25% where the duty has been breached. The refresh also touches **Equality Act 2010**, **KCSIE 2025**, and **ACAS Code of Practice 2023**.
->
-> **Status:** live — signed off 29 April 2026 by Proprietor and Governing Body.
-
 ## Policy Statement and Purpose 
 
 The Haven is committed to eliminating discrimination, advancing equality of opportunity, and fostering positive relations across all parts of our hybrid learning community. We honour the equal worth of every learner, staff member, family, and partner, and we place diversity, inclusion, and anti-racism at the heart of our safeguarding culture.

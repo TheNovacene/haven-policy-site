@@ -61,11 +61,6 @@ notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter owner
 
 **Version:** 01.26
 
-> [!info] Refreshed for KCSIE 2025 — signed off April 2026
-> This policy was refreshed on 2026-04-29 to align with current statutory guidance: **KCSIE 2025**, **Online Safety Act 2023** (phased duties on user-to-user services), **DfE Filtering and Monitoring Standards 2024**, **Worker Protection (Amendment of Equality Act 2010) Act 2023** (preventive duty re sexual harassment, including third-party harassment), and emerging AI safeguarding considerations (DfE *Generative AI in Education* 2025, ICO Children's Code).
->
-> **Status:** live — signed off 29 April 2026 by Proprietor and Governing Body.
-
 ## Statement of Intent
 The Haven is committed to safeguarding and promoting the physical, mental, and emotional wellbeing of every learner. As a flexible online learning (‘hyflex’) education provider, we recognise that safeguarding responsibilities apply across all digital spaces, including live online sessions, recorded lessons, chat functions, and communication platforms.
 
@@ -412,8 +407,6 @@ maintained and updated as annexes to this policy.
 ## APPENDIX A
 ## LADO / Allegations Contact Details by Local Authority
 
-> [!haven-specific]
-> The LADO contact list below reflects the Local Authorities that currently commission The Haven. Other schools adopting this policy stack should substitute their own commissioning LA contacts. Statutory LADO and MASH contact information should be obtained from each LA's published safeguarding partnership.
 <table>
 <thead>
 <tr class="header">

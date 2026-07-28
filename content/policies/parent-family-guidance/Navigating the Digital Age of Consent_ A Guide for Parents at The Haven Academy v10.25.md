@@ -42,11 +42,6 @@ notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter owner
 **Nominated Governor:** Claire Farmer  
 **Version:** v10.25
 
-> [!info] Refreshed for OSA 2023 + Diamond AI — signed off April 2026
-> This policy was refreshed on 2026-04-29 to align with **Online Safety Act 2023** (phased duties on user-to-user services), **DfE Cyber Security Standards for Schools 2024**, **DfE Filtering and Monitoring Standards 2024**, **Generative AI in Education (DfE 2025)**, **ICO Children's Code**, and the Haven's **Diamond AI posture** — *work with AI; do not offload decisions to AI; do not defer entirely from AI*.
->
-> **Status:** live — signed off 29 April 2026 by Proprietor and Governing Body.
-
 In our increasingly digital world, understanding how to protect our children's online privacy
 
 and safety is paramount. This guide aims to provide you with essential information about the

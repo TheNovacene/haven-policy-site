@@ -52,11 +52,6 @@ notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter owner
 
 **Version:** v01.26
 
-> [!info] Refreshed for KCSIE 2025 — signed off April 2026
-> This policy was refreshed on 2026-04-29 to align with current statutory guidance: **KCSIE 2025**, **Online Safety Act 2023** (phased duties on user-to-user services), **DfE Filtering and Monitoring Standards 2024**, **Worker Protection (Amendment of Equality Act 2010) Act 2023** (preventive duty re sexual harassment, including third-party harassment), and emerging AI safeguarding considerations (DfE *Generative AI in Education* 2025, ICO Children's Code).
->
-> **Status:** live — signed off 29 April 2026 by Proprietor and Governing Body.
-
 ## 1. Scope 
 
 This policy applies to all staff, contractors, governors, learners and volunteers at The Haven, including those engaging in hyflex (hybrid and flexible) learning models. It encompasses all activities, online and in-person, and collaboration with other educational providers, families, local authorities and external agencies.

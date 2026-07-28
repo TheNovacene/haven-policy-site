@@ -52,11 +52,6 @@ notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter owner
 **Nominated Governor:** Vicki May  
 **Version:** v10.25
 
-> [!info] Refreshed for Worker Protection Act 2024 — signed off April 2026
-> This policy was refreshed on 2026-04-29 to align with the **Worker Protection (Amendment of Equality Act 2010) Act 2023** — in force from 26 October 2024 — which places a preventive duty on employers to take *reasonable steps* to prevent sexual harassment of employees, including by third parties. Tribunals can uplift compensation by up to 25% where the duty has been breached. The refresh also touches **Equality Act 2010**, **KCSIE 2025**, and **ACAS Code of Practice 2023**.
->
-> **Status:** live — signed off 29 April 2026 by Proprietor and Governing Body.
-
 ## 1. Purpose
 At The Haven, we uphold the highest standards of professional and ethical conduct to create a nurturing, neurodivergent-affirming, and emotionally safe learning environment. This policy outlines our collective responsibility to act with integrity, professionalism, and care in all interactions—with learners, families, and each other.
 

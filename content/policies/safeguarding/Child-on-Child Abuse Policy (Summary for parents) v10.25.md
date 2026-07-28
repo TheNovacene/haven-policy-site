@@ -47,11 +47,6 @@ notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter owner
 **Nominated Governor:** Claire Farmer  
 **Version:** v10.25
 
-> [!info] Refreshed for KCSIE 2025 — signed off April 2026
-> This policy was refreshed on 2026-04-29 to align with current statutory guidance: **KCSIE 2025**, **Online Safety Act 2023** (phased duties on user-to-user services), **DfE Filtering and Monitoring Standards 2024**, **Worker Protection (Amendment of Equality Act 2010) Act 2023** (preventive duty re sexual harassment, including third-party harassment), and emerging AI safeguarding considerations (DfE *Generative AI in Education* 2025, ICO Children's Code).
->
-> **Status:** live — signed off 29 April 2026 by Proprietor and Governing Body.
-
 ## Policy Statement and Purpose
 At The Haven, we recognise that children can and do abuse other children. This behaviour is harmful, unacceptable, and a safeguarding concern. We are committed to creating a culture where child-on-child abuse is never tolerated, minimised, or dismissed as “banter” or “part of growing up.” Our purpose is to protect all learners, support those affected, and ensure a safe, respectful community across both online and in-person settings.
 
