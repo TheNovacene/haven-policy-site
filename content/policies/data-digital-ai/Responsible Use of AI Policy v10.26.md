@@ -31,7 +31,6 @@ related_policies:
   - "[[Child Protection and Safeguarding Policy v01.26]]"
   - "[[Online Safety & Acceptable Use v01.26]]"
   - "[[Data Protection, Confidentiality & Privacy Policy v10.25]]"
-  - "[[DPIA Digital Platforms]]"
   - "[[Cyber Security Policy v01.26]]"
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"
   - "[[Staff Safer Internet Agreement v10.25]]"
@@ -313,7 +312,7 @@ All restricted uses require:
 
   - AI Request & Review Form
 
-  - [[DPIA Digital Platforms]] (where applicable)
+  - DPIA Digital Platforms (where applicable)
 
   - Child Rights Impact consideration
 

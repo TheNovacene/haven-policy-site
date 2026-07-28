@@ -80,7 +80,6 @@ audience, see the [audience packs](audience/). For a thematic view, see the
 - [Staff Safer Internet Agreement](/policies/hr-staff-conduct/Staff-Safer-Internet-Agreement-v10.25)
 - [Stretch and Challenge Policy](/policies/curriculum-teaching-quality/Stretch-and-Challenge-Policy-v05.26)
 - [Structure of Organisation](/policies/governance-legal/Structure-of-Organisation-v05.26)
-- [Submitting Controller Details](/policies/data-digital-ai/DPIA-Digital-Platforms)
 - [Supporting Medical Conditions Policy (inc. Administration of Medicines)](/policies/health-safety-medical/Supporting-Medical-Conditions-Policy-(inc.-Administration-of-Medicines)-v10.25)
 - [Teaching & Learning Policy (2025/26)](/policies/curriculum-teaching-quality/Teaching--and--Learning-Policy-v10.25)
 - [Transportation Policy for Service Users](/policies/health-safety-medical/Transportation-Policy-for-Service-Users-v10.25)

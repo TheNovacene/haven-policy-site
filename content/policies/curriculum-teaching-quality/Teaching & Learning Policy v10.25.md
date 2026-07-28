@@ -162,7 +162,7 @@ The Haven's [[Responsible Use of AI Policy v10.26]] sets the institutional Diamo
 
   - **Tutors use AI as a thinking partner**, not a marking machine. Drafts, planning prompts, accessibility adaptations, summarisation of own notes, and creative exploration are appropriate. Generating substantive feedback, ranking learners, or making placement/SEND decisions are not.
   - **Learners are taught with AI, not by it.** Where AI is part of a lesson, the pedagogical intent and human framing is explicit. AI outputs are surfaced for critique, not consumed without question.
-  - **Identifiable learner data does not enter public AI tools.** Education-tier tools with appropriate Data Processing Agreements are used per the AI policy and recorded on the [[DPIA Digital Platforms]] register.
+  - **Identifiable learner data does not enter public AI tools.** Education-tier tools with appropriate Data Processing Agreements are used per the AI policy and recorded on the DPIA Digital Platforms register.
   - **Categorical AI avoidance is also rejected.** For neurodivergent learners in particular, AI tools can dismantle barriers to written expression, reading, and organisation — categorical avoidance would be its own form of inaccessibility. The Diamond posture commits us to engaged use under boundaries, not abstention.
   - **Consent and refusability are infrastructural.** Learners are informed when AI is involved in their learning, opt-out is supported, and refusal carries no penalty.
 
