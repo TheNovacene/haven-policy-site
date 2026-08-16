@@ -38,7 +38,7 @@ notes: ""
 We’re a small, relationship-led, online provision. If your child can (with scaffolding) connect to live sessions, communicate with a mentor, and produce artefacts of learning, they’ll likely thrive. If—after real attempts to adapt—there’s persistent distress or non-engagement, we’ll exit with care: a short transition plan, full handover notes, and pro-rata fees settled.
 
 ## Our fit philosophy (what Haven is and isn’t)
-  - **Is:** neuro-affirming, mentor-centred, artefact-based learning (Canvas briefs + Pencil Spaces boards), short live blocks, daily mentor check-ins, optional body-doubling (Open Path).
+  - **Is:** neuro-affirming, mentor-centred, artefact-based learning (Google Classroom briefs + Pencil Spaces boards), short live blocks, daily mentor check-ins, optional body-doubling (Open Path).
 
   - **Isn’t:** passive video school, attendance theatre, or 6+ hours on-camera. We measure **participation and artefacts**, not seat time.
 
@@ -47,7 +47,7 @@ We’re a small, relationship-led, online provision. If your child can (with sca
 
   - **Communication:** can check in with a mentor daily (voice, chat, or short note) and let us know if they’re opting for independent work that day.
 
-  - **Making:** can create *something* that shows learning—notes on the board, a photo of work, a short upload to Canvas—at least once per week to start.
+  - **Making:** can create *something* that shows learning—notes on the board, a photo of work, a short upload to Google Classroom—at least once per week to start.
 
   - **Regulation:** can participate without sustained dysregulation triggered *by the model itself* (pace, online modality), even if life is complex.
 
@@ -56,7 +56,7 @@ We’re a small, relationship-led, online provision. If your child can (with sca
 ## How we decide (a phased, evidence-based process)
 - **Soft Start (Week 1):** low-stakes onboarding. We remove barriers (accounts, logins, routines). Success = gets into spaces and meets mentor.
 
-- **Weeks 2–3:** Minimum Viable Week. Success = 3+ live touches/week (mentor or class) and **one artefact/week** in Canvas/Pencil Spaces.
+- **Weeks 2–3:** Minimum Viable Week. Success = 3+ live touches/week (mentor or class) and **one artefact/week** in Google Classroom/Pencil Spaces.
 
 - **Week 6 Fit Check:** Mentor + parent + learner review. We look at: access, regulation, artefacts, progress toward goals. Decision: continue / continue with adjustments / begin off-ramp.
 
@@ -103,7 +103,7 @@ We’re a small, relationship-led, online provision. If your child can (with sca
 ## How you can help us decide well
   - Tell us early about tech constraints and regulation patterns.
 
-  - Use the mentor channel daily in Week 1–2, even if the message is “not up for live—doing Canvas task X.”
+  - Use the mentor channel daily in Week 1–2, even if the message is “not up for live—doing Google Classroom task X.”
 
   - Share what *does* work (e.g., “camera off + chat only,” “needs 5-minute buffer,” “prefers morning sessions”). We will adapt.
 

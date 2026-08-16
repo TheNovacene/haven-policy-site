@@ -76,7 +76,7 @@ At The Haven, teaching and learning happen across three main modes:
 
   - **Live (Pencil Spaces):** Small-group and 1:1 sessions with subject tutors. Relational presence is key: even silent participation is valued as symbolic charge.
 
-  - **Asynchronous (Canvas):** Structured online courses with creative prompts, flexible activities, and optional assessments, designed to allow learners to revisit material at their own pace.
+  - **Asynchronous (Google Classroom):** Structured online courses with creative prompts, flexible activities, and optional assessments, designed to allow learners to revisit material at their own pace.
 
   - **Independent Exploration:** Learners may request personal Pencil Spaces for self-directed work, side quests, or creative journaling. Mentors support these but not routinely marked.
 
@@ -115,7 +115,7 @@ Our approach to assessment is affirming, relational, and learner-led.
       - Empowerment Passport – *This Is Me Too  
         > *
 
-Assessment outcomes feed into learner profiles on TutorCruncher and Canvas, forming a living document of strengths, preferences, and goals.
+Assessment outcomes feed into learner profiles on TutorCruncher and Google Classroom, forming a living document of strengths, preferences, and goals.
 
 ## 5. Impact & Outcomes
 We measure the success of our teaching and learning through:
@@ -131,7 +131,7 @@ We measure the success of our teaching and learning through:
   - Positive post-16 destinations aligned with each learner’s strengths and aspirations.
 
 ## 6. Quality Assurance
-  - Weekly reflective planning by educators, logged in Canvas.
+  - Weekly reflective planning by educators, logged in Google Classroom.
 
   - Termly learner progress reviews with mentors, parents/carers, and the learner themselves.
 

@@ -81,7 +81,7 @@ It aims to protect:
 Signing this agreement confirms that you understand, commit to, and will uphold these standards in all professional and digital contexts.
 
 ## 2. Scope
-This agreement applies to all The Haven employees, contractors, volunteers, mentors, and governors who use digital technology for any work-related purpose — including laptops, phones, and online platforms (Pencil Spaces, Canvas, Google Workspace, TutorCruncher). Note: The Haven does not use unmoderated community chat platforms (e.g. Discord) for any work-related learner communication.
+This agreement applies to all The Haven employees, contractors, volunteers, mentors, and governors who use digital technology for any work-related purpose — including laptops, phones, and online platforms (Pencil Spaces, Google Classroom, Google Workspace, TutorCruncher). Note: The Haven does not use unmoderated community chat platforms (e.g. Discord) for any work-related learner communication.
 
 ## 3. Core Principles
 To ensure safe and lawful use of digital and AI-based tools, the following roles have defined responsibilities:

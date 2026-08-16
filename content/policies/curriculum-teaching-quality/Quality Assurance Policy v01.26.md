@@ -80,7 +80,7 @@ Teaching and learning are quality assured through a combination of methods, reco
 
   - Scheduled session observations (live or via recording), conducted at least termly for all teaching staff
 
-  - Learning walk-style reviews of online platforms (e.g. Canvas spaces, lesson structures, accessibility features)
+  - Learning walk-style reviews of online platforms (e.g. Google Classroom spaces, lesson structures, accessibility features)
 
   - Review of lesson plans, resources, and learner work for coherence, accessibility, and progression
 

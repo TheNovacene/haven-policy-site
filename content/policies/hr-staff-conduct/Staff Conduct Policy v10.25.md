@@ -154,7 +154,7 @@ All staff are expected to maintain clear, professional boundaries in both their 
 
   - Professional curiosity online (e.g., viewing a student’s social media for safeguarding reasons) may only occur **under DSL guidance** and must be recorded.
 
-  - All communication with learners and families must take place **via approved Haven platforms** (Pencil Spaces, TutorCruncher, Canvas or The Haven email).
+  - All communication with learners and families must take place **via approved Haven platforms** (Pencil Spaces, TutorCruncher, Google Classroom or The Haven email).
 
 Any breach of these boundaries is treated as a **low-level concern** under The Haven’s Low-Level Concerns Procedure and may lead to further investigation.
 

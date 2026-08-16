@@ -39,6 +39,7 @@ Every published Haven policy is available here as a PDF, regenerated automatical
 
 - [Bring Your Own Device (BYOD) Policy (v04.26)](/pdf/data-digital-ai/Bring-Your-Own-Device-(BYOD)-Policy-v01.26.pdf)
 - [Cyber Security Policy (v04.26)](/pdf/data-digital-ai/Cyber-Security-Policy-v01.26.pdf)
+- [Data Protection Impact Assessment — Consolidated (v08.26)](/pdf/data-digital-ai/Data-Protection-Impact-Assessment-Consolidated-v08.26.pdf)
 - [Data Retention Policy and Data Breach Procedure (v05.26)](/pdf/data-digital-ai/Data-Retention-Policy-and-Data-Breach-Procedure-v05.26.pdf)
 - [Declaration: Photos, Videos and Lesson Recordings (v05.26)](/pdf/data-digital-ai/Declaration-Photos-Videos-and-Lesson-Recordings-v05.26.pdf)
 - [Internet, Network and Email Policy (v05.26)](/pdf/data-digital-ai/Internet-Network-and-Email-Policy-v05.26.pdf)
@@ -117,4 +118,4 @@ Every published Haven policy is available here as a PDF, regenerated automatical
 - [The Haven Prevent Duty Policy (v04.26)](/pdf/safeguarding/Prevent-Duty-Policy-v01.26.pdf)
 - [The Haven – Safer Recruitment and Use of Volunteers Policy (v04.26)](/pdf/safeguarding/Safer-Recruitment-and-Use-of-Volunteers-Policy-v01.26.pdf)
 
-*78 policies. PDFs are generated from the live policy pages at every site deploy.*
+*79 policies. PDFs are generated from the live policy pages at every site deploy.*

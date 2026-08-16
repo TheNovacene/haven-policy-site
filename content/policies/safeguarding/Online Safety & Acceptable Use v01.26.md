@@ -123,7 +123,7 @@ The Haven uses a restricted, approved set of platforms. Use of unapproved platfo
 </tr>
 <tr class="odd">
 <td><blockquote>
-<p><strong>Canvas (VLE/LMS)</strong></p>
+<p><strong>Google Classroom (VLE/LMS)</strong></p>
 </blockquote></td>
 <td><blockquote>
 <p>Curriculum delivery, assignments, feedback</p>

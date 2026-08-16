@@ -28,6 +28,7 @@ audience, see the [audience packs](audience/). For a thematic view, see the
 - [Critical Incident Policy](/policies/health-safety-medical/Critical-Incident-Policy-v05.26)
 - [Curriculum Area Risk Assessments](/policies/curriculum-teaching-quality/Curriculum-Area-Risk-Assessments-v05.26)
 - [Cyber Security Policy](/policies/data-digital-ai/Cyber-Security-Policy-v01.26)
+- [Data Protection Impact Assessment — Consolidated](/policies/data-digital-ai/Data-Protection-Impact-Assessment---Consolidated-v08.26)
 - [Data Retention Policy and Data Breach Procedure](/policies/data-digital-ai/Data-Retention-Policy-and-Data-Breach-Procedure-v05.26)
 - [Declaration: Photos, Videos and Lesson Recordings](/policies/data-digital-ai/Declaration---Photos,-Videos-and-Lesson-Recordings-v05.26)
 - [Development Plan](/policies/governance-legal/Development-Plan-v05.26)

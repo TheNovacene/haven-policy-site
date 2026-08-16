@@ -112,7 +112,7 @@ This policy applies to:
 
   - Encryption of devices and data in transit
 
-  - Approved platforms only (Pencil Spaces, Tutor Cruncher, Canvas, Google Workspace for Education)
+  - Approved platforms only (Pencil Spaces, Tutor Cruncher, Google Classroom, Google Workspace for Education)
 
   - Strong password policy: minimum 8 characters, rotated annually
 
@@ -138,7 +138,7 @@ This policy applies to:
 
 Cyber security and AI risk are increasingly entangled. The Haven follows a **Diamond AI posture** — *work with AI; do not offload decisions to AI; do not defer entirely from AI* — and applies it to cyber security in the following ways:
 
-  - **Approved AI tooling only.** AI tools used in Haven systems (assistive AI in Google Workspace, education-grade AI tutoring tools where adopted, AI features in Canvas or Pencil Spaces) must be reviewed and approved under the [[Responsible Use of AI Policy v10.26]] and a DPIA Digital Platforms entry maintained.
+  - **Approved AI tooling only.** AI tools used in Haven systems (assistive AI in Google Workspace, education-grade AI tutoring tools where adopted, AI features in Google Classroom or Pencil Spaces) must be reviewed and approved under the [[Responsible Use of AI Policy v10.26]] and a DPIA Digital Platforms entry maintained.
   - **No offloaded security decisions.** AI may assist with anomaly detection, log triage, or phishing classification. Decisions to suspend an account, isolate a device, or notify the ICO remain with the Data Protection Officer and the Head.
   - **Identifiable data never enters public AI.** Staff must not paste learner-identifiable, safeguarding-sensitive, or commercially confidential data into public AI tools (e.g. consumer ChatGPT, Claude.ai, Gemini consumer tier). Education-tier tools with appropriate data-processing agreements may be used per the AI policy.
   - **AI-generated threats.** Staff are trained to recognise AI-generated phishing, deepfake video calls (especially in safeguarding contexts), and AI-generated impersonation of senior leaders. Verification protocols apply when authorising sensitive actions on the basis of any digital communication.

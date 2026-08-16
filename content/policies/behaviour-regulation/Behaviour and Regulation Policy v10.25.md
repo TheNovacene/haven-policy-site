@@ -184,7 +184,7 @@ This action is used as a safety measure - not a sanction - and is always followe
 
 ## Digital Etiquette
 
-The Haven’s digital classrooms (Pencil Spaces, Canvas) are learning environments governed by the same principles of respect and inclusion as any physical classroom.
+The Haven’s digital classrooms (Pencil Spaces, Google Classroom) are learning environments governed by the same principles of respect and inclusion as any physical classroom.
 
 **Expectations:**
 
