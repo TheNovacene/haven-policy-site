@@ -94,7 +94,7 @@ Regulations 2007 (as amended in 2014)
 
 ● DfE (2022) ‘Working together to improve school attendance’
 
-● DfE (2025) ‘Keeping children safe in education 2025’
+● DfE (2026) ‘Keeping children safe in education 2026’
 
 ● DfE (2018) ‘Working Together to Safeguard Children’
 

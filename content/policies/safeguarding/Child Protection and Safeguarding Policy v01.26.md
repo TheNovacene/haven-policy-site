@@ -131,7 +131,7 @@ and Wales’
 
 ● DfE (2018) ‘Disqualification under the Childcare Act 2006’
 
-● DfE (2025) ‘Keeping children safe in education 2025’
+● DfE (2026) ‘Keeping children safe in education 2026’
 
 ● HM Government (2020) ‘Multi-agency statutory guidance on female genital mutilation’
 
@@ -357,7 +357,7 @@ Haven maintains proportionate, age-appropriate filtering and monitoring with lea
 
 ## Training
 ### Training for all staff includes:
-> ● Review of this policy and DfE (2025) ‘Keeping children safe in education 2025’
+> ● Review of this policy and DfE (2026) ‘Keeping children safe in education 2026’
 > 
 > ● Introduction to the DSL, reporting routes, and safeguarding culture.
 > 
