@@ -30,8 +30,8 @@ notes: ""
 **Version:** v10.25
 
 ## 1. Purpose
-This policy ensures that The Haven Academy acts fairly, lawfully, and without discrimination when considering applications from individuals with criminal records.  
-It fulfils our duties under the **Rehabilitation of Offenders Act 1974 (Exceptions Order 1975)**, the **DBS Code of Practice**, and **Keeping Children Safe in Education (KCSIE 2025)**.
+This policy ensures that The Haven acts fairly, lawfully, and without discrimination when considering applications from individuals with criminal records.  
+It fulfils our duties under the **Rehabilitation of Offenders Act 1974 (Exceptions Order 1975)**, the **DBS Code of Practice**, and **Keeping Children Safe in Education (KCSIE 2026)**.
 
 Our aim is to:
 
@@ -72,7 +72,7 @@ This policy operates under:
   - *Equality Act 2010  
     > *
 
-  - *Keeping Children Safe in Education 2025  
+  - *Keeping Children Safe in Education 2026  
     > *
 
   - *Independent School Standards (Part 4 – Suitability of Staff)  

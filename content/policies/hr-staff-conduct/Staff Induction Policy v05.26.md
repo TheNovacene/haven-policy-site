@@ -19,7 +19,7 @@ themes:
   - "induction"
   - "staff-development"
 compliance:
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "Safer Recruitment guidance"
 applies_to: ["haven"]
 related_policies: []

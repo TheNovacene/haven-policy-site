@@ -23,12 +23,12 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "Business Continuity Plan v01.26.docx"
 ingested: 2026-04-29
-notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff."
+notes: ""
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  
 **Coordinator:** Data Protection Officer (DPO)  
-**Nominated Governor:** Elliot Wassell  
+**Nominated Governor:** the Health and Safety Governor  
 **Version:** v01.26
 
 ## Business Details
@@ -37,7 +37,7 @@ Registered charity: 1196655 (England & Wales) and SC054837(Scotland)
 
 68 South Green Drive, Stratford-upon-Avon, CV37 9HP
 
-[<span class="underline">www.thehavenonline.school</span>](http://www.thehavenacademy.school)
+[www.thehavenonline.school](www.thehavenonline.school)
 
 ## Objectives
 > This document outlines the procedures and protocols The Haven will follow to ensure the continuity of its core functions and the safety and well-being of its community in the event of a significant disruption. The plan is designed to be a clear, actionable guide for staff, enabling a swift and coordinated response to a range of potential crises. Our primary goal is to provide a sense of stability and continuity, ensuring that our safe, nurturing online environment remains accessible even in a crisis.
@@ -45,13 +45,13 @@ Registered charity: 1196655 (England & Wales) and SC054837(Scotland)
 ## 1. Key Personnel and Contact Information
 > The following individuals are designated as the core Business Continuity Team, responsible for initiating and managing the plan.
 > 
-> Proprietor: Cathy Wassell (Secondary contact)  
+> The Proprietor (Secondary contact)  
 >   
-> Head & DSL: Kirsten Roy (Primary contact)
+> The Head & DSL (Primary contact)
 > 
-> Chair of Governors: Vicki May (Secondary contact)
+> The Co-Chair of Governors (Secondary contact)
 > 
-> SENDCo & DDSL: Tammy McChristie
+> The SENCo & Deputy DSL
 > 
 > Contact information for all team members will be held in a secure, off-site location and be accessible via a password-protected digital document.
 
@@ -146,15 +146,15 @@ A technology issue would impact our core functions by disrupting our ability to 
 
 The Recovery Team is responsible for maintaining business continuity and ensuring minimal disruption.
 
-  - **Team Leader:** Kirsten Roy, Head & DSL.
+  - **Team Leader:** the Head, Head & DSL.
     
       - **Responsibilities:** Overall leadership, internal and external communications.
 
-  - **Team Member:** Tammy McChristie, SENDCo & DDSL.
+  - **Team Member:** the Deputy DSL, SENDCo & DDSL.
     
       - **Responsibilities:** Student and staff well-being and a compassionate point of contact for families.
 
-  - **Team Member:** Kirstin Stevens, Technical Lead.
+  - **Team Member:** the Technical Lead, Technical Lead.
     
       - **Responsibilities:** Communications, data & systems management.
 
@@ -166,11 +166,11 @@ The Recovery Team is responsible for maintaining business continuity and ensurin
 
 **3. Communications**
 
-  - **Internal Communications:** Kirsten Roy is in charge of keeping the staff up to date on the recovery status.
+  - **Internal Communications:** The Head is in charge of keeping the staff up to date on the recovery status.
 
-  - **External Communications:** Kirsten Roy and Tammy McChristie are jointly responsible for all communications with students, families, and suppliers. All messaging will be clear, concise, and empathetic, focusing on what we are doing to ensure safety and stability.
+  - **External Communications:** The Head and the Deputy DSL are jointly responsible for all communications with students, families, and suppliers. All messaging will be clear, concise, and empathetic, focusing on what we are doing to ensure safety and stability.
 
-  - **Suppliers:** Kirsten Roy will be responsible for contacting all suppliers to keep them informed.
+  - **Suppliers:** The Head will be responsible for contacting all suppliers to keep them informed.
 
 ### Review and Testing
 This *Business Continuity Plan* will be reviewed by the Leadership Team every six months and tested through a tabletop exercise once every twelve months. This will ensure that our team is prepared and that the plan remains relevant and effective.

@@ -24,18 +24,18 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "SEND Policy v01.26.docx"
 ingested: 2026-04-29
-notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff."
+notes: ""
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  
-**Coordinator:** Tammy McChristie  
-**Nominated Governor:** Vicki May  
+**Coordinator:** the SENCo  
+**Nominated Governor:** the Co-Chair of Governors  
 **Version:** v01.26
 
 **Policy Statement and Purpose  
 **The Haven is a trauma-informed, neurodivergent-affirming hybrid provision for learners aged 12–17. We are committed to inclusion and to ensuring that learners with Special Educational Needs and Disabilities (SEND) are supported to access education, make progress, and thrive.
 
-We recognise that many of our learners join The Haven after experiencing barriers in other settings. This policy outlines how we identify, assess, and meet SEND within our online-first and hybrid provision, in line with the **Children and Families Act 2014**, the **SEND Code of Practice 2015**, the **Equality Act 2010**, and **KCSIE 2025**.
+We recognise that many of our learners join The Haven after experiencing barriers in other settings. This policy outlines how we identify, assess, and meet SEND within our online-first and hybrid provision, in line with the **Children and Families Act 2014**, the **SEND Code of Practice 2015**, the **Equality Act 2010**, and **KCSIE 2026**.
 
 ## 1. Scope
   - Applies to all learners enrolled with The Haven, whether or not they have an Education, Health and Care Plan (EHCP).
@@ -45,7 +45,7 @@ We recognise that many of our learners join The Haven after experiencing barrier
   - Applies across online sessions, hybrid learning, and off-site enrichment.
 
 ## 2. Roles and Responsibilities
-  - **SENCo**: Tammy McChristie, completing the government’s National Professional Qualification for Special Educational Needs (NPQ SENCO) is responsible for implementing SEND provision and liaison with the LA. Responsibility for information-system security and GDPR compliance remains with the DPO.*  
+  - **SENCo**: the postholder is completing the government’s National Professional Qualification for Special Educational Needs (NPQ SENCO) is responsible for implementing SEND provision and liaison with the LA. Responsibility for information-system security and GDPR compliance remains with the DPO.*  
     > *
 
   - **DSL/Head**: Ensures SEND provision aligns with safeguarding and school improvement.

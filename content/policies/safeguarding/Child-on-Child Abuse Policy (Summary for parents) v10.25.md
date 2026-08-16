@@ -21,7 +21,7 @@ themes:
   - safeguarding
   - parent-guidance
 compliance:
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "Online Safety Act 2023"
   - "Sexual Offences Act 2003"
   - "Voyeurism (Offences) Act 2019"
@@ -39,12 +39,12 @@ related_policies:
   - "[[Prevent Duty Policy v01.26_]]"
 source_file: "Child-on-Child Abuse Policy (Summary for parents) v10.25.docx"
 ingested: 2026-04-29
-notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff. / E1 legislative refresh 2026-04-29 — alignment with KCSIE 2025, Online Safety Act 2023 (phased duties), DfE Filtering and Monitoring Standards 2024, Worker Protection (Amendment of Equality Act 2010) Act 2023 (third-party harassment duty), and emerging AI safeguarding considerations. Pending DSL + Proprietor sign-off."
+notes: ""
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  
-**Coordinator:** Kirsten Roy  
-**Nominated Governor:** Claire Farmer  
+**Coordinator:** the Designated Safeguarding Lead  
+**Nominated Governor:** the Safeguarding Governor  
 **Version:** v10.25
 
 ## Policy Statement and Purpose

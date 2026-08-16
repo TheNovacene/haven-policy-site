@@ -8,6 +8,9 @@ review_cycle: "annual"
 owner_role: "Headteacher"
 approver_role: "Proprietor"
 sign_off_record:
+  - version: "unversioned"
+    date: 2026-04-29
+    approver_role: "Proprietor"
 themes:
   - admissions
   - referrals
@@ -23,12 +26,12 @@ related_policies:
   - "[[Family Attendance Agreement v10.25]]"
 source_file: "Referrals and Admissions Policy.docx"
 ingested: 2026-04-29
-notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff."
+notes: ""
 ---
 **Date:** November 2025  
 **Review Date:** August 2026  
-**Coordinator:** Kirsten Roy  
-**Nominated Governor:** Vicki May  
+**Coordinator:** the Head  
+**Nominated Governor:** the Co-Chair of Governors  
 **Version:** v01.26
 
 ## Section 1 – The Policy

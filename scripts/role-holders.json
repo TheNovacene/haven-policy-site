@@ -1,36 +1,33 @@
 {
-  "_comment": "Haven role holders — kept in sync with vault _meta/role-holders.md. When a role holder changes, update both files together.",
+  "_comment": "Haven role holders. DECISION 2026-08-16 (Proprietor): the public site publishes ROLES, not names — role placeholders substitute to role titles. Actual postholder names are recorded privately in vault _meta/role-holders.md only.",
   "_target": "haven",
   "_last_updated": "2026-04-29",
-
   "roles": {
-    "{{Proprietor}}":              "Cathy Wassell",
-    "{{Headteacher}}":             "Kirsten Roy",
-    "{{DSL}}":                     "Kirsten Roy",
-    "{{Designated Safeguarding Lead}}": "Kirsten Roy",
-    "{{Deputy DSL}}":              "Tammy McChristie",
-    "{{SENCo}}":                   "Tammy McChristie",
-    "{{Technical Lead}}":          "Kirstin Stevens",
-    "{{Safeguarding Governor}}":   "Claire Farmer",
-    "{{Lead Governor}}":           "Vicki May",
-    "{{H&S Governor}}":            "Elliot Wassell",
-    "{{Health and Safety Lead}}":  "the Health and Safety Lead",
-    "{{DPO}}":                     "the outsourced Data Protection Officer",
+    "{{Proprietor}}": "the Proprietor",
+    "{{Headteacher}}": "the Head",
+    "{{DSL}}": "the Designated Safeguarding Lead",
+    "{{Designated Safeguarding Lead}}": "the Designated Safeguarding Lead",
+    "{{Deputy DSL}}": "the Deputy DSL",
+    "{{SENCo}}": "the SENCo",
+    "{{Technical Lead}}": "the Technical Lead",
+    "{{Safeguarding Governor}}": "the Safeguarding Governor",
+    "{{Lead Governor}}": "the Co-Chair of Governors",
+    "{{H&S Governor}}": "the Health and Safety Governor",
+    "{{Health and Safety Lead}}": "the Health and Safety Lead",
+    "{{DPO}}": "the outsourced Data Protection Officer",
     "{{Data Protection Officer}}": "the outsourced Data Protection Officer",
-    "{{Examinations Officer}}":    "the Examinations Officer",
-    "{{Quality Assurance Lead}}":  "the Quality Assurance Lead"
+    "{{Examinations Officer}}": "the Examinations Officer",
+    "{{Quality Assurance Lead}}": "the Quality Assurance Lead"
   },
-
   "emails": {
-    "{{Proprietor email}}":        "cathy@autisticgirlsnetwork.org",
-    "{{Headteacher email}}":       "head@autisticgirlsnetwork.org",
-    "{{DSL email}}":               "dsl@autisticgirlsnetwork.org",
-    "{{Deputy DSL email}}":        "tammy@autisticgirlsnetwork.org",
-    "{{Attendance email}}":        "attendance@autisticgirlsnetwork.org",
-    "{{Exams Officer email}}":     "exams@autisticgirlsnetwork.org",
+    "{{Proprietor email}}": "cathy@autisticgirlsnetwork.org",
+    "{{Headteacher email}}": "head@autisticgirlsnetwork.org",
+    "{{DSL email}}": "dsl@autisticgirlsnetwork.org",
+    "{{Deputy DSL email}}": "tammy@autisticgirlsnetwork.org",
+    "{{Attendance email}}": "attendance@autisticgirlsnetwork.org",
+    "{{Exams Officer email}}": "exams@autisticgirlsnetwork.org",
     "{{General enquiries email}}": "hello@autisticgirlsnetwork.org"
   },
-
   "urls": {
     "{{Haven anonymous reporting form URL}}": "https://forms.gle/qGvhiRvGNY46TY7n6"
   }

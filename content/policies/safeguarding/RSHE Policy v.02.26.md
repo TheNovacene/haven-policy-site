@@ -20,7 +20,7 @@ themes:
   - rshe
   - safeguarding
 compliance:
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "Online Safety Act 2023"
   - "ICO Children's Code"
   - "Children and Social Work Act 2017"
@@ -41,12 +41,12 @@ related_policies:
   - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"
 source_file: "RSHE Policy v.02.26.docx"
 ingested: 2026-04-29
-notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff. / E1 legislative refresh 2026-04-29 — alignment with KCSIE 2025, Online Safety Act 2023 (phased duties), DfE Filtering and Monitoring Standards 2024, Worker Protection (Amendment of Equality Act 2010) Act 2023 (third-party harassment duty), and emerging AI safeguarding considerations. Pending DSL + Proprietor sign-off."
+notes: ""
 ---
 ***Approved Date:** February 2026  
 **Review Date:** February 2027  
-**Policy Coordinator:** Kirsten Roy  
-**Governance Approval:** Vicki May  
+**Policy Coordinator:** the Designated Safeguarding Lead  
+**Governance Approval:** the Co-Chair of Governors  
 **Version:** 02.26*
 
 **1. Policy Overview** The Haven is a hybrid-flexible (hyflex), trauma-informed, and neurodivergent-affirming school for learners aged 12–17. We are committed to providing inclusive, developmentally appropriate, and evidence-informed Relationships, Sex, and Health Education (RSHE) that reflects the lived experiences and identities of our learners.
@@ -63,7 +63,7 @@ This policy outlines how RSHE is taught, who is responsible for its delivery, ho
 
   - Equality Act 2010
 
-  - Keeping Children Safe in Education (2025)
+  - Keeping Children Safe in Education (2026)
 
 **3. Scope of RSHE at The Haven**
 
@@ -137,4 +137,4 @@ The *RSHE Policy* is reviewed annually and approved by The Haven’s governing b
 
 **10. Policy Availability** This policy is available on our website and upon request as a printed copy.
 
-For any questions, please contact the RSHE Coordinator at: [<span class="underline">Tammy McChristie</span>](mailto:tammy@autisticgirlsnetwork.org)
+For any questions, please contact the RSHE Coordinator at: [<span class="underline">the Deputy DSL</span>](mailto:tammy@autisticgirlsnetwork.org)

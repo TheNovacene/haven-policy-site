@@ -23,7 +23,7 @@ compliance:
   - "Health and Safety at Work etc. Act 1974"
   - "Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (RIDDOR)"
   - "Supporting Pupils at School with Medical Conditions (DfE 2015)"
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "Online Safety Act 2023"
   - "UK GDPR"
   - "Data Protection Act 2018"
@@ -39,13 +39,13 @@ related_policies:
   - "[[Data Protection, Confidentiality & Privacy Policy v10.25]]"
 source_file: "MERGED: First Aid Policy (Online Context) v01.26.docx + DRAFT (not ratified) Accidents, Incidents and First Aid Policy.docx"
 ingested: 2026-04-29
-notes: "v04.26 — merger of (i) the live First Aid Policy (Online Context) v01.26 and (ii) the unratified DRAFT Accidents, Incidents and First Aid Policy. Adopts the broader unified-incident framework of the DRAFT, retains placement-start and responsible-adult detail from the live version, and updates statutory references to KCSIE 2025, Online Safety Act 2023, and UK GDPR. Signed off 29 April 2026 by Proprietor and Governing Body."
+notes: "v04.26 — merger of (i) the live First Aid Policy (Online Context) v01.26 and (ii) the unratified DRAFT Accidents, Incidents and First Aid Policy. Adopts the broader unified-incident framework of the DRAFT, retains placement-start and responsible-adult detail from the live version, and updates statutory references to KCSIE 2026, Online Safety Act 2023, and UK GDPR. Signed off 29 April 2026 by Proprietor and Governing Body."
 ---
 
 **Date:** April 2026
 **Review Date:** April 2027
 **Coordinator:** the Health and Safety Lead
-**Nominated Governor:** Elliot Wassell
+**Nominated Governor:** the Health and Safety Governor
 **Version:** 04.26
 
 ## 1. Policy Statement and Purpose
@@ -89,7 +89,7 @@ Clarity prevents risk drift. The following definitions are used consistently acr
 
 ### 4.1 Named First Aider
 
-The Haven's named First Aider holds current accredited first aid training and provides professional guidance to staff. Where the named First Aider is the Cathy Wassell, deputy arrangements are documented in the Health and Safety Risk Register so that cover is maintained when the named individual is unavailable.
+The Haven's named First Aider holds current accredited first aid training and provides professional guidance to staff. Where the named First Aider is the Proprietor, deputy arrangements are documented in the Health and Safety Risk Register so that cover is maintained when the named individual is unavailable.
 
 ### 4.2 Online context
 
@@ -99,7 +99,7 @@ The Haven cannot administer physical first aid remotely. In online provision, st
 - Remain calm, keep the learner online where safe to do so, and provide reassurance
 - Contact emergency services (999 in the UK) where required, using the learner's registered address
 - Contact the parent carer / responsible adult immediately if a medical issue arises during a session
-- Escalate concerns promptly to the Kirsten Roy
+- Escalate concerns promptly to the DSL
 
 Primary responsibility for hands-on first aid during online sessions remains with the responsible adult in the home (see section 5).
 
@@ -129,7 +129,7 @@ Staff will:
 
 - Confirm at the start of each block of provision that a responsible adult is present in the home and contactable
 - Use agreed check-in methods (e.g. verbal confirmation, pre-session message, or agreed protocol for older learners)
-- Escalate immediately to the Kirsten Roy or senior staff if concerns arise regarding supervision or safety
+- Escalate immediately to the DSL or senior staff if concerns arise regarding supervision or safety
 
 If a responsible adult cannot be confirmed as present:
 
@@ -167,7 +167,7 @@ Access arrangements:
 
 - Information is held in a secure central digital system accessible only to authorised staff
 - Tutors are provided with clear guidance on how to access emergency information quickly during a live session
-- The Kirsten Roy and senior leaders maintain oversight of accuracy and access permissions
+- The the Designated Safeguarding Lead and senior leaders maintain oversight of accuracy and access permissions
 
 ## 8. Immediate Response Protocol
 
@@ -176,10 +176,10 @@ In any accident or incident, staff must:
 1. Prioritise immediate safety
 2. Contact emergency services where required
 3. Inform the responsible adult
-4. Inform the Kirsten Roy
+4. Inform the DSL
 5. Record the event within 24 hours
 
-Where safeguarding thresholds are met (per *Keeping Children Safe in Education 2025*), referral to external agencies will be made without delay and in line with the [[Child Protection and Safeguarding Policy v01.26]].
+Where safeguarding thresholds are met (per *Keeping Children Safe in Education 2026*), referral to external agencies will be made without delay and in line with the [[Child Protection and Safeguarding Policy v01.26]].
 
 ## 9. Supporting Learners with Medical Conditions
 
@@ -208,19 +208,19 @@ Records must include:
 
 Records are factual and non-stigmatising. Patterns are reviewed to identify systemic pressures within provision, not simply individual learner concerns.
 
-Serious incidents are reviewed by the Kirsten Roy and Elliot Wassell on a termly basis.
+Serious incidents are reviewed by the Head and the Health and Safety Governor on a termly basis.
 
 ## 11. Escalation and External Reporting
 
 The Haven complies with statutory reporting duties including:
 
 - **RIDDOR** — reporting of work-related injuries, occupational diseases, and dangerous occurrences to the Health and Safety Executive where the threshold is met.
-- **Safeguarding referrals** — to the relevant local authority safeguarding teams, in line with KCSIE 2025 and *Working Together to Safeguard Children 2023*.
+- **Safeguarding referrals** — to the relevant local authority safeguarding teams, in line with KCSIE 2026 and *Working Together to Safeguard Children 2023*.
 - **Police referral** — where criminal activity is suspected.
 - **Information Commissioner's Office (ICO) notification** — in the event of a personal data breach meeting the UK GDPR notification threshold (within 72 hours).
 - **Online safety incident reporting** — under the Online Safety Act 2023, content harmful to children, illegal content, and grooming-related incidents are escalated to relevant platforms and, where applicable, to the National Crime Agency or Internet Watch Foundation.
 
-Parent carers will be informed unless doing so places the learner at additional risk, in line with KCSIE 2025 information-sharing principles.
+Parent carers will be informed unless doing so places the learner at additional risk, in line with KCSIE 2026 information-sharing principles.
 
 ## 12. Trauma-Informed Practice
 
@@ -234,7 +234,7 @@ Trauma-informed practice does not remove consequences. It ensures responses are 
 
 ## 13. Roles and Responsibilities
 
-### 13.1 Kirsten Roy
+### 13.1 Designated Safeguarding Lead (DSL)
 
 - Oversees all incident recording and review
 - Leads escalation and agency liaison
@@ -252,7 +252,7 @@ Trauma-informed practice does not remove consequences. It ensures responses are 
 - Must not attempt to diagnose or provide medical treatment remotely
 - Must respond proportionately and calmly to health-related concerns
 - Must record incidents within 24 hours of occurrence (immediately for safeguarding-threshold events)
-- Must escalate safeguarding risk to the Kirsten Roy without delay
+- Must escalate safeguarding risk to the DSL without delay
 - Must record incidents factually and without assumption
 
 ### 13.4 Parent carers / responsible adults
@@ -275,7 +275,7 @@ Trauma-informed practice does not remove consequences. It ensures responses are 
 
 Incident data is not passive record-keeping.
 
-The Kirsten Roy and Elliot Wassell conduct termly analysis to:
+The Head and the Health and Safety Governor conduct termly analysis to:
 
 - Identify patterns
 - Adjust risk assessments
@@ -291,4 +291,4 @@ The policy is benchmarked against DfE and Local Authority guidance to ensure bes
 
 | Version | Date | Approver role | Notes |
 |---------|------|---------------|-------|
-| 04.26 | 2026-04-29 | Proprietor + Governing Body | Merger of *First Aid Policy (Online Context) v01.26* and *DRAFT (not ratified) Accidents, Incidents and First Aid Policy* (both superseded). Signed off by Kirsten Roy and Elliot Wassell. |
+| 04.26 | 2026-04-29 | Proprietor + Governing Body | Merger of *First Aid Policy (Online Context) v01.26* and *DRAFT (not ratified) Accidents, Incidents and First Aid Policy* (both superseded). Signed off by the Head and the Health and Safety Governor. |

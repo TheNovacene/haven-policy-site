@@ -20,7 +20,7 @@ themes:
   - prevent
   - safeguarding
 compliance:
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "Channel Duty Guidance 2023"
   - "Online Safety Act 2023"
   - "Filtering and Monitoring Standards (DfE 2024)"
@@ -40,15 +40,15 @@ related_policies:
   - "[[Staff Conduct Policy v10.25]]"
 source_file: "Prevent Duty Policy v01.26_.docx"
 ingested: 2026-04-29
-notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff. / E1 legislative refresh 2026-04-29 — alignment with KCSIE 2025, Online Safety Act 2023 (phased duties), DfE Filtering and Monitoring Standards 2024, Worker Protection (Amendment of Equality Act 2010) Act 2023 (third-party harassment duty), and emerging AI safeguarding considerations. Pending DSL + Proprietor sign-off."
+notes: ""
 ---
 **Date:** October 2025
 
 **Review Date:** May 2026
 
-**Coordinator:** Kirsten Roy
+**Coordinator:** the Designated Safeguarding Lead
 
-**Nominated Governor:** Claire Farmer
+**Nominated Governor:** the Safeguarding Governor
 
 **Version:** v01.26
 
@@ -78,9 +78,9 @@ This policy aims to:
 
 ## 4. Roles and Responsibilities 
 
-● **Designated Safeguarding Lead (DSL)**: Kirsten Roy
+● **Designated Safeguarding Lead (DSL)**: the Head
 
-● **Deputy DSL**: Tammy McChristie
+● **Deputy DSL**: role held by the SENCo
 
 ● The DSL is the named Prevent Lead responsible for implementation, oversight, and training.
 

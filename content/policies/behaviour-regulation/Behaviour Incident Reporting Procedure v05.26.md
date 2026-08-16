@@ -18,7 +18,7 @@ themes:
   - "behaviour"
   - "incident-reporting"
 compliance:
-  - "KCSIE 2025"
+  - "KCSIE 2026"
 applies_to: ["haven"]
 related_policies: []
 source_file: "Behaviour Incident Reporting.docx"

@@ -32,16 +32,16 @@ related_policies:
   - "[[Ergonomic Health and Safety Policy v10.25]]"
 source_file: "Risk Assessment Policy v10.25.docx"
 ingested: 2026-04-29
-notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff."
+notes: ""
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  
 **Coordinator:** Head  
-**Nominated Governor:** Elliot Wassell  
+**Nominated Governor:** the Health and Safety Governor  
 **Version:** v10.25
 
 **Policy Statement and Purpose  
-**The Haven is committed to identifying, assessing, and mitigating risks across all aspects of our provision. Risk assessment is a statutory duty under the **Health and Safety at Work Act 1974**, the **Management of Health and Safety at Work Regulations 1999**, and **Keeping Children Safe in Education (2025)**. This policy provides the framework for risk management in The Haven’s online-first and hybrid learning environment.
+**The Haven is committed to identifying, assessing, and mitigating risks across all aspects of our provision. Risk assessment is a statutory duty under the **Health and Safety at Work Act 1974**, the **Management of Health and Safety at Work Regulations 1999**, and **Keeping Children Safe in Education (2026)**. This policy provides the framework for risk management in The Haven’s online-first and hybrid learning environment.
 
 ## 1. Scope
   - Applies to all areas of The Haven’s provision, including:

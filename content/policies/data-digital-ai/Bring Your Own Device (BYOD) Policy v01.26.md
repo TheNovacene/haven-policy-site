@@ -22,7 +22,7 @@ themes:
 compliance:
   - "UK GDPR"
   - "Online Safety Act 2023"
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "Cyber Security Standards for Schools (DfE 2024)"
   - "Filtering and Monitoring Standards (DfE 2024)"
   - "Generative AI in Education (DfE 2025)"
@@ -40,12 +40,12 @@ related_policies:
   - "[[Grievance and Disciplinary Policy v10.25]]"
 source_file: "Bring Your Own Device (BYOD) Policy v01.26.docx"
 ingested: 2026-04-29
-notes: "E2 legislative refresh 2026-04-29 — alignment with Online Safety Act 2023 (phased duties), DfE Cyber Security Standards for Schools 2024, DfE Filtering and Monitoring Standards 2024, Generative AI in Education (DfE 2025), ICO Children's Code, and the Haven's Diamond AI posture (work *with* AI; do not offload decisions to AI; do not defer entirely from AI). Pending re-signoff."
+notes: ""
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  
 **Coordinator:** Data Protection Officer (DPO)  
-**Nominated Governor:** Vicki May  
+**Nominated Governor:** the Co-Chair of Governors  
 **Version:** v01.26
 
 **Linked Policies:**
@@ -171,7 +171,7 @@ Failure to comply with this policy may result in:
   - Reporting to relevant safeguarding or data protection authorities where necessary.
 
 ## 10. Staff Declaration
-I confirm that I have read, understood, and agree to the The Haven *Bring Your Own Device (BYOD) Policy*.  
+I confirm that I have read, understood, and agree to The Haven *Bring Your Own Device (BYOD) Policy*.  
 I understand my responsibilities to maintain data security, safeguarding standards, and confidentiality when using personal devices for The Haven-related work.
 
 | **Name (Print)** |  |
@@ -185,7 +185,7 @@ This *Bring Your Own Device (BYOD) Policy*:
 
   - **Fulfils the NCSC “5 Steps to BYOD Security”** for educational settings.
 
-  - **Aligns with KCSIE 2025** on staff digital conduct and online safeguarding.
+  - **Aligns with KCSIE 2026** on staff digital conduct and online safeguarding.
 
   - **Supports the Haven [[Cyber Security Policy v01.26]]** (Sections 5 & 6) on encryption, MFA, and breach response.
 

@@ -28,9 +28,9 @@ notes: ""
 
 **Review date**: August 2026
 
-**Proprietor**: Cathy Wassell
+**Proprietor**: Autistic Girls Network (registered charity)
 
-**Chair of Governors**: Vicki May
+**Governance oversight**: the Co-Chair of Governors
 
 **Version:** 10.25
 
@@ -195,7 +195,7 @@ of the education provided in the home setting.
 
 **Central to how attendance codes are used is:**
 
-  - Code K: Attending Education Provision arranged by a local authority. Schools must also record the nature of provision including unregistered AP (Alternative Provision), such as home tutoring or non-OEAS (Online Education Advisory Service) online education.
+  - Code K: Attending Education Provision arranged by a local authority. Schools must also record the nature of provision including unregistered AP (Alternative Provision), such as home tutoring or non-OEAS (Online Education Accreditation Scheme) online education.
 
   - If schools have arranged the provision, then Code B or Code P must be used:
     

@@ -103,9 +103,9 @@ This Carbon Reduction Plan has been reviewed and signed off by the Board of Gove
 
 Signed:
 
-Cathy Wassell     Proprietor                       Date: 13/05/2026
+Signed by the Proprietor — Date: 13/05/2026
 
-Vicki May      Chair of Governors          Date: 13/05/2026
+Signed by the Co-Chair of Governors — Date: 13/05/2026
 
 ## 8. Publication
 

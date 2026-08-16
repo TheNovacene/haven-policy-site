@@ -18,7 +18,7 @@ themes:
   - "safeguarding"
   - "health-and-wellbeing"
 compliance:
-  - "KCSIE 2025"
+  - "KCSIE 2026"
 applies_to: ["haven"]
 related_policies: []
 source_file: "Smoking and Vaping Policy.docx"

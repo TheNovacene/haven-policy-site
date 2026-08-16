@@ -30,12 +30,12 @@ related_policies:
   - "[[Withdrawal from The Haven v10.25]]"
 source_file: "Family Attendance Agreement v10.25.docx"
 ingested: 2026-04-29
-notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff."
+notes: ""
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  
 **Coordinator:** Head  
-**Nominated Governor:** Vicki May  
+**Nominated Governor:** the Co-Chair of Governors  
 **Version:** v10.25
 
 ## Building Trust. Encouraging Rhythm. Supporting Growth.

@@ -20,7 +20,7 @@ themes:
   - teaching-learning
   - curriculum
 compliance:
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "ICO Children's Code"
   - "Generative AI in Education (DfE 2025)"
   - "Online Safety Act 2023"
@@ -38,12 +38,12 @@ related_policies:
   - "[[Online Safety & Acceptable Use v01.26]]"
 source_file: "Teaching & Learning Policy v10.25.docx"
 ingested: 2026-04-29
-notes: "E3 legislative refresh 2026-04-29 — alignment with DfE Generative AI in Education 2025, ICO Children's Code, EU AI Act (compliance + extension), UK GDPR / Data Protection Act 2018, and explicit link between the institutional Diamond Standard (Safety / Sovereignty / Symmetry / Stewardship) and the relational Diamond AI posture (work with AI; do not offload decisions to AI; do not defer entirely from AI). Pending re-signoff."
+notes: ""
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  
 **Coordinator:** Head  
-**Nominated Governor:** Vicki May  
+**Nominated Governor:** the Co-Chair of Governors  
 **Version:** v10.25
 
 ## 1. Purpose & Ethos
@@ -161,4 +161,4 @@ The Haven's [[Responsible Use of AI Policy v10.26]] sets the institutional Diamo
   - **Categorical AI avoidance is also rejected.** For neurodivergent learners in particular, AI tools can dismantle barriers to written expression, reading, and organisation — categorical avoidance would be its own form of inaccessibility. The Diamond posture commits us to engaged use under boundaries, not abstention.
   - **Consent and refusability are infrastructural.** Learners are informed when AI is involved in their learning, opt-out is supported, and refusal carries no penalty.
 
-The Kirsten Roy, Kirsten Roy and the outsourced Data Protection Officer jointly review AI use in teaching and learning termly.
+The Head, the DSL and the Data Protection Officer jointly review AI use in teaching and learning termly.

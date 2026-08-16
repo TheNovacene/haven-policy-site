@@ -20,7 +20,7 @@ compliance:
   - "UK GDPR"
   - "EU AI Act"
   - "UN Convention on the Rights of the Child"
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "Online Safety Act 2023"
   - "Data Protection Act 2018"
   - "ICO UK GDPR guidance"
@@ -39,10 +39,10 @@ related_policies:
   - "[[Behaviour and Regulation Policy v10.25]]"
   - "[[Prevent Duty Policy v01.26_]]"
   - "[[SEND Policy v01.26]]"
-  - "[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven Academy v10.25]]"
+  - "[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]]"
 source_file: "Responsible Use of AI Policy v10.26.docx"
 ingested: 2026-04-29
-notes: "Source filename labels this v10.26 (October 2026 — future-dated). Verify intended version. / E3 legislative refresh 2026-04-29 — alignment with DfE Generative AI in Education 2025, ICO Children's Code, EU AI Act (compliance + extension), UK GDPR / Data Protection Act 2018, and explicit link between the institutional Diamond Standard (Safety / Sovereignty / Symmetry / Stewardship) and the relational Diamond AI posture (work with AI; do not offload decisions to AI; do not defer entirely from AI). Pending re-signoff."
+notes: ""
 ---
 **Date**: January 2026
 

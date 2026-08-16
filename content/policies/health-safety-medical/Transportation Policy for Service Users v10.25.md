@@ -23,12 +23,12 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "Transportation Policy for Service Users v10.25.docx"
 ingested: 2026-04-29
-notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff."
+notes: ""
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  
 **Coordinator:** Head  
-**Nominated Governor:** Elliot Wassell  
+**Nominated Governor:** the Health and Safety Governor  
 **Version:** v10.25
 
 **Policy Statement and Purpose  

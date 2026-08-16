@@ -30,16 +30,16 @@ related_policies:
   - "[[Risk Assessment Policy v10.25]]"
 source_file: "Supporting Medical Conditions Policy (inc. Administration of Medicines) v10.25.docx"
 ingested: 2026-04-29
-notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff."
+notes: ""
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  
 **Coordinator:** the Health and Safety Lead  
-**Nominated Governor:** Elliot Wassell  
+**Nominated Governor:** the Health and Safety Governor  
 **Version:** v10.25
 
 ## Policy Statement and Purpose
-The Haven is committed to ensuring that learners with medical conditions are fully supported to access education and thrive. We aim to work in partnership with families and health professionals to ensure learners’ health needs are understood and provided for, in line with the **Children and Families Act 2014**, **Supporting Pupils at School with Medical Conditions (DfE, 2015)**, and **KCSIE 2025**.
+The Haven is committed to ensuring that learners with medical conditions are fully supported to access education and thrive. We aim to work in partnership with families and health professionals to ensure learners’ health needs are understood and provided for, in line with the **Children and Families Act 2014**, **Supporting Pupils at School with Medical Conditions (DfE, 2015)**, and **KCSIE 2026**.
 
 ## 1. Scope
   - Applies to all learners with short-term, long-term, or chronic medical conditions.

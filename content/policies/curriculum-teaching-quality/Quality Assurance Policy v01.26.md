@@ -29,8 +29,8 @@ notes: ""
 ---
 **Date: January 2026  
 Review Date: October 2026  
-Coordinator: Kirsten Roy  
-Nominated Governor: Claire Farmer  
+Coordinator: the Head  
+Nominated Governor: the Safeguarding Governor  
 Version: v01.26**
 
 ## 1. Policy Statement and Purpose

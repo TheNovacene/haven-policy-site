@@ -30,12 +30,12 @@ related_policies:
   - "[[Managing Allegations Against Staff Policy v01.26]]"
 source_file: "Governor Role & Responsibilities v10.25.docx"
 ingested: 2026-04-29
-notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff."
+notes: ""
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  
 **Coordinator:** Head  
-**Nominated Governor:** Vicki May  
+**Nominated Governor:** the Co-Chair of Governors  
 **Version:** v10.25
 
 Governors at The Haven are not distant overseers — they are active stewards of integrity, alignment, and care. They help ensure our provision is safe, ethical, legally sound, and aligned with its founding intentions.

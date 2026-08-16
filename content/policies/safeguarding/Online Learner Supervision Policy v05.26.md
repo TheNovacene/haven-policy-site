@@ -19,7 +19,7 @@ themes:
   - "online-safety"
   - "supervision"
 compliance:
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "Online Safety Act 2023"
 applies_to: ["haven"]
 related_policies: []

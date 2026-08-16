@@ -22,7 +22,7 @@ themes:
 compliance:
   - "Health and Safety at Work etc. Act 1974"
   - "Health and Safety (First-Aid) Regulations 1981"
-  - "KCSIE 2025"
+  - "KCSIE 2026"
 applies_to: ["haven"]
 related_policies:
   - "[[Accidents, Incidents and First Aid Policy]]"
@@ -60,7 +60,7 @@ This policy applies to all staff, sessional educators, volunteers and contractor
 
 The Health and Safety (First-Aid) Regulations 1981 require employers to provide adequate and appropriate first aid equipment, facilities and personnel. What is "adequate and appropriate" depends on the circumstances of the organisation — for The Haven, an assessment of first aid needs reflecting a fully online provision with occasional in-person activity. The Haven's assessment of first aid needs is carried out by the Health and Safety Lead as part of the risk assessment cycle and reviewed annually alongside this policy.
 
-KCSIE 2025 places staff training at the centre of keeping children safe. Health-related concerns observed during online sessions can intersect with safeguarding; first aid training at The Haven is therefore designed alongside safeguarding training, not separately from it.
+KCSIE 2026 places staff training at the centre of keeping children safe. Health-related concerns observed during online sessions can intersect with safeguarding; first aid training at The Haven is therefore designed alongside safeguarding training, not separately from it.
 
 ## 4. Levels of training
 

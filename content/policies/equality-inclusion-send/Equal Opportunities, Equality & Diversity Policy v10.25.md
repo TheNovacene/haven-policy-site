@@ -22,7 +22,7 @@ compliance:
   - "Equality Act 2010"
   - "Worker Protection (Amendment of Equality Act 2010) Act 2023"
   - "Human Rights Act 1998"
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "ACAS Code of Practice 2023"
   - "UN Convention on the Rights of the Child"
   - "Worker Protection (Amendment of Equality Act 2010) Act 2023"
@@ -40,12 +40,12 @@ related_policies:
   - "[[Managing Allegations Against Staff Policy v01.26]]"
 source_file: "Equal Opportunities, Equality & Diversity Policy v10.25.docx"
 ingested: 2026-04-29
-notes: "E4 legislative refresh 2026-04-29 — alignment with Worker Protection (Amendment of Equality Act 2010) Act 2023 (preventive duty re sexual harassment, including third-party harassment, in force from 26 October 2024), Equality Act 2010, KCSIE 2025, and ACAS Code of Practice 2023. Pending re-signoff."
+notes: ""
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  
-**Coordinator:** Kirsten Roy  
-**Nominated Governor:** Vicki May  
+**Coordinator:** the Head  
+**Nominated Governor:** the Co-Chair of Governors  
 **Version:** v10.25
 
 ## Policy Statement and Purpose 
@@ -113,10 +113,10 @@ The **Worker Protection (Amendment of Equality Act 2010) Act 2023**, in force fr
 The Haven discharges this duty through the following structural commitments:
 
   - **Risk assessment.** Sexual harassment risk is assessed annually as part of safeguarding governance, with attention to high-risk contexts (online sessions, lone working, in-person meetings, learner-facing roles, and contractor interactions).
-  - **Clear reporting routes.** Staff can report harassment to the Kirsten Roy, Kirsten Roy, or directly to the Cathy Wassell or Vicki May where the concern is about senior staff. Anonymous reporting is supported.
+  - **Clear reporting routes.** Staff can report harassment to the Head, the DSL, or directly to the Proprietor or the Lead Governor where the concern is about senior staff. Anonymous reporting is supported.
   - **Third-party scope.** The duty extends to harassment by parent carers, commissioners, contractors and any other third parties; this is named explicitly in onboarding for staff and addressed in commissioner agreements.
   - **No retaliation.** Reporting harassment in good faith is protected; retaliation is itself a disciplinary matter.
-  - **Visible action.** Reports are recorded, investigated, and reviewed termly by the Kirsten Roy and Vicki May. Anonymised patterns inform CPD and risk-assessment updates.
+  - **Visible action.** Reports are recorded, investigated, and reviewed termly by the Head and the Lead Governor. Anonymised patterns inform CPD and risk-assessment updates.
   - **Training.** Annual training covers what constitutes sexual harassment, the *reasonable steps* standard, intersectionality (especially for racialised and disabled staff), and active bystander practice.
 
 Tribunals can uplift compensation by up to 25% where the preventive duty has been breached. The Haven's standard is to act ahead of breach, not in response to one.

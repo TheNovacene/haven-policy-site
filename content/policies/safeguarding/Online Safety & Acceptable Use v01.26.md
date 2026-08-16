@@ -20,7 +20,7 @@ themes:
   - online-safety
   - safeguarding
 compliance:
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "Online Safety Act 2023"
   - "ICO Children's Code"
   - "Filtering and Monitoring Standards (DfE 2024)"
@@ -45,10 +45,10 @@ related_policies:
   - "[[Data Protection, Confidentiality & Privacy Policy v10.25]]"
   - "[[Managing Allegations Against Staff Policy v01.26]]"
   - "[[RSHE Policy v.02.26]]"
-  - "[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven Academy v10.25]]"
+  - "[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]]"
 source_file: "Online Safety & Acceptable Use v01.26.docx"
 ingested: 2026-04-29
-notes: "E1 legislative refresh 2026-04-29 — alignment with KCSIE 2025, Online Safety Act 2023 (phased duties), DfE Filtering and Monitoring Standards 2024, Worker Protection (Amendment of Equality Act 2010) Act 2023 (third-party harassment duty), and emerging AI safeguarding considerations. Pending DSL + Proprietor sign-off."
+notes: ""
 ---
 **Date:** January 2026  
 **Review Date:** October 2026 (or sooner if statutory guidance changes)  
@@ -386,13 +386,13 @@ The Online Safety Act 2023 places duties on regulated user-to-user and search se
 When a learner discloses, encounters, or appears to have encountered content in any of these categories — on a Haven platform, on an external service, or in their broader online life — staff will:
 
   - Treat the disclosure as a safeguarding concern under the [[Child Protection and Safeguarding Policy v01.26]].
-  - Escalate to Kirsten Roy without delay.
+  - Escalate to the DSL without delay.
   - Where illegal content is involved, follow the escalation route to police or the Internet Watch Foundation as appropriate, and never attempt to view, download, or store the content for evidential purposes — this is a criminal offence and the responsibility of trained law enforcement.
   - Support the learner therapeutically and report to commissioning schools / LAs in line with safeguarding agreements.
 
 ### 9.3 Filtering and monitoring
 
-The Haven's filtering and monitoring arrangements align with the DfE *Filtering and Monitoring Standards* (2024). The Kirsten Roy retains operational responsibility, with technical configuration carried out by the Kirstin Stevens and the outsourced Data Protection Officer, and termly oversight by the Elliot Wassell as part of broader safeguarding governance. Filtering decisions balance protection of children against over-blocking that would disrupt legitimate learning; the proportionality test is documented in the termly review.
+The Haven's filtering and monitoring arrangements align with the DfE *Filtering and Monitoring Standards* (2024) and KCSIE 2026. The DSL, as a member of the senior leadership team, holds named responsibility for filtering and monitoring, with technical configuration carried out by the Technical Lead and the Data Protection Officer, and oversight by the Health and Safety Governor as part of broader safeguarding governance. In line with KCSIE 2026, these arrangements are formally reviewed at least once every academic year, and the review is documented — recording when checks took place, what was checked, any issues identified and the remedial actions taken — alongside the existing termly proportionality review. Filtering decisions balance protection of children against over-blocking that would disrupt legitimate learning.
 
 ## 10. Cyber-Incidents and Data Breaches
 In the event of a cyber-attack or data breach:
@@ -463,6 +463,6 @@ All AI use is overseen by senior leadership and aligned with data protection and
 
   - [[Managing Allegations Against Staff Policy v01.26]]
 
-  - KCSIE 2025
+  - KCSIE 2026
 
   - UK GDPR / Data Protection Act

@@ -22,7 +22,7 @@ themes:
 compliance:
   - "UK GDPR"
   - "Online Safety Act 2023"
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "Filtering and Monitoring Standards (DfE 2024)"
   - "Generative AI in Education (DfE 2025)"
   - "ICO Children's Code"
@@ -40,12 +40,12 @@ related_policies:
   - "[[Business Continuity Plan v01.26]]"
 source_file: "Cyber Security Policy v01.26.docx"
 ingested: 2026-04-29
-notes: "E2 legislative refresh 2026-04-29 — alignment with Online Safety Act 2023 (phased duties), DfE Cyber Security Standards for Schools 2024, DfE Filtering and Monitoring Standards 2024, Generative AI in Education (DfE 2025), ICO Children's Code, and the Haven's Diamond AI posture (work *with* AI; do not offload decisions to AI; do not defer entirely from AI). Pending re-signoff."
+notes: ""
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  
 **Coordinator:** Data Protection Officer (DPO)  
-**Nominated Governor:** Vicki May  
+**Nominated Governor:** the Co-Chair of Governors  
 **Version:** v01.26
 
 ## 1. Policy Statement and Purpose
@@ -66,7 +66,7 @@ It complements and should be read alongside:
   - **[[Prevent Duty Policy v01.26_]]  
     > **
 
-  - **[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven Academy v10.25]]  
+  - **[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]]  
     > **
 
 ## 2. Statutory Guidance
@@ -78,7 +78,7 @@ This policy is aligned with:
 
   - Online Safety Act 2023
 
-  - Keeping Children Safe in Education 2025 (KCSIE)
+  - Keeping Children Safe in Education 2026 (KCSIE)
 
   - National Cyber Security Centre (NCSC) guidance for schools
 
@@ -132,14 +132,14 @@ This policy applies to:
 
   - Learner education on phishing, scams, and safe digital conduct (age-appropriate)
 
-  - Parent workshops/webinars linked to [[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven Academy v10.25]] guidance
+  - Parent workshops/webinars linked to [[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]] guidance
 
 ## 6. AI tools and the Diamond AI Posture
 
 Cyber security and AI risk are increasingly entangled. The Haven follows a **Diamond AI posture** — *work with AI; do not offload decisions to AI; do not defer entirely from AI* — and applies it to cyber security in the following ways:
 
   - **Approved AI tooling only.** AI tools used in Haven systems (assistive AI in Google Workspace, education-grade AI tutoring tools where adopted, AI features in Canvas or Pencil Spaces) must be reviewed and approved under the [[Responsible Use of AI Policy v10.26]] and a DPIA Digital Platforms entry maintained.
-  - **No offloaded security decisions.** AI may assist with anomaly detection, log triage, or phishing classification. Decisions to suspend an account, isolate a device, or notify the ICO remain with the the outsourced Data Protection Officer and Kirsten Roy.
+  - **No offloaded security decisions.** AI may assist with anomaly detection, log triage, or phishing classification. Decisions to suspend an account, isolate a device, or notify the ICO remain with the Data Protection Officer and the Head.
   - **Identifiable data never enters public AI.** Staff must not paste learner-identifiable, safeguarding-sensitive, or commercially confidential data into public AI tools (e.g. consumer ChatGPT, Claude.ai, Gemini consumer tier). Education-tier tools with appropriate data-processing agreements may be used per the AI policy.
   - **AI-generated threats.** Staff are trained to recognise AI-generated phishing, deepfake video calls (especially in safeguarding contexts), and AI-generated impersonation of senior leaders. Verification protocols apply when authorising sensitive actions on the basis of any digital communication.
 

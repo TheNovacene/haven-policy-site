@@ -21,7 +21,7 @@ themes:
 compliance:
   - "Worker Protection (Amendment of Equality Act 2010) Act 2023"
   - "Equality Act 2010"
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "Public Interest Disclosure Act 1998"
   - "ACAS Code of Practice 2023"
   - "Employment Rights Act 1996"
@@ -36,12 +36,12 @@ related_policies:
   - "[[Safer Recruitment and Use of Volunteers Policy v01.26]]"
 source_file: "Grievance and Disciplinary Policy v10.25.docx"
 ingested: 2026-04-29
-notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff. / E4 legislative refresh 2026-04-29 — alignment with Worker Protection (Amendment of Equality Act 2010) Act 2023 (preventive duty re sexual harassment, including third-party harassment, in force from 26 October 2024), Equality Act 2010, KCSIE 2025, and ACAS Code of Practice 2023. Pending re-signoff."
+notes: ""
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  
 **Coordinator:** Head / DSL  
-**Nominated Governor:** Vicki May  
+**Nominated Governor:** the Co-Chair of Governors  
 **Version:** v10.25
 
 ## 1. Purpose
@@ -71,7 +71,7 @@ It is underpinned by:
   - **ACAS Code of Practice (2023)  
     > **
 
-  - **Keeping Children Safe in Education (2025)  
+  - **Keeping Children Safe in Education (2026)  
     > **
 
   - **LA frameworks** and trauma-informed guidance
@@ -159,7 +159,7 @@ The **Worker Protection (Amendment of Equality Act 2010) Act 2023** (in force 26
 
 **Specific provisions:**
 
-  - **Immediate safety review.** On receipt of a sexual harassment grievance, the Kirsten Roy (or Cathy Wassell where the concern is about the Headteacher) immediately considers what interim safeguards the staff member needs — adjusted duties, alternative supervision, withdrawal from the relevant working context — without prejudging investigation outcomes. Suspension is a neutral act and used only where there is no reasonable alternative.
+  - **Immediate safety review.** On receipt of a sexual harassment grievance, the Head (or the Proprietor where the concern is about the Headteacher) immediately considers what interim safeguards the staff member needs — adjusted duties, alternative supervision, withdrawal from the relevant working context — without prejudging investigation outcomes. Suspension is a neutral act and used only where there is no reasonable alternative.
   - **Confidentiality.** Information is shared on a need-to-know basis. The reporter's identity is protected to the maximum extent compatible with fair process.
   - **Third-party respondents.** Where the alleged harasser is a third party (parent carer, commissioner, contractor), The Haven will: end the contract or interaction where the threshold is met; raise the matter with the third party's organisation where one exists; consider commissioner contractual obligations; and protect the affected staff member from continued exposure.
   - **Active bystander follow-up.** Where another staff member witnessed the harassment, their account is sought sensitively and they are supported.

@@ -20,7 +20,7 @@ themes:
   - staff-internet-use
   - online-safety
 compliance:
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "Worker Protection (Amendment of Equality Act 2010) Act 2023"
   - "Equality Act 2010"
   - "UK GDPR"
@@ -40,15 +40,15 @@ related_policies:
   - "[[Prevent Duty Policy v01.26_]]"
   - "[[Online Safety & Acceptable Use v01.26]]"
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"
-  - "[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven Academy v10.25]]"
+  - "[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]]"
 source_file: "Staff Safer Internet Agreement v10.25.docx"
 ingested: 2026-04-29
-notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff. / E2 legislative refresh 2026-04-29 — alignment with Online Safety Act 2023 (phased duties), DfE Cyber Security Standards for Schools 2024, DfE Filtering and Monitoring Standards 2024, Generative AI in Education (DfE 2025), ICO Children's Code, and the Haven's Diamond AI posture (work *with* AI; do not offload decisions to AI; do not defer entirely from AI). Pending re-signoff."
+notes: ""
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  
 **Coordinator:** Head  
-**Nominated Governor:** Claire Farmer  
+**Nominated Governor:** the Safeguarding Governor  
 **Version:** v10.25
 
 **Linked Policies:**
@@ -65,7 +65,7 @@ notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter owner
 
   - [[Prevent Duty Policy v01.26_]]
 
-  - [[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven Academy v10.25]]
+  - [[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]]
 
 ## 1. Purpose
 This agreement sets out the digital expectations for all The Haven staff. It ensures that every interaction, post, message, and online activity reflects our safeguarding, inclusion, and professional standards.
@@ -147,7 +147,7 @@ In practice, I commit to the following:
 
   - I will maintain clear visibility when teaching online and use only approved digital backgrounds.
 
-  - I recognise that my digital conduct forms part of my safeguarding responsibility under KCSIE 2025 and The Haven DSL Addendum.
+  - I recognise that my digital conduct forms part of my safeguarding responsibility under KCSIE 2026 and The Haven DSL Addendum.
 
 ## 5. Cyber Security Responsibilities
   - I will complete The Haven’s annual cyber and online safety training.
@@ -172,7 +172,7 @@ Any breach, error, or concern — even if accidental — must be reported to:
 Reports will be handled supportively, in line with The Haven’s Low-Level Concerns and Grievance Policies.
 
 ## 7. Acknowledgment and Signature
-I confirm that I have read, understood, and agree to follow the The Haven *Staff Safer Internet Agreement* (including its expectations for AI and data-protection practice) and agree to follow it in all professional digital activity. I understand that:
+I confirm that I have read, understood, and agree to follow The Haven *Staff Safer Internet Agreement* (including its expectations for AI and data-protection practice) and agree to follow it in all professional digital activity. I understand that:
 
 • I must protect learner and staff data at all times;
 

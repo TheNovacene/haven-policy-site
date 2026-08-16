@@ -20,7 +20,7 @@ themes:
   - managing-allegations
   - safeguarding
 compliance:
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "Worker Protection (Amendment of Equality Act 2010) Act 2023"
   - "Equality Act 2010"
   - "Online Safety Act 2023"
@@ -39,7 +39,7 @@ related_policies:
   - "[[Behaviour and Regulation Policy v10.25]]"
 source_file: "Managing Allegations Against Staff Policy v01.26.docx"
 ingested: 2026-04-29
-notes: "E1 legislative refresh 2026-04-29 — alignment with KCSIE 2025, Online Safety Act 2023 (phased duties), DfE Filtering and Monitoring Standards 2024, Worker Protection (Amendment of Equality Act 2010) Act 2023 (third-party harassment duty), and emerging AI safeguarding considerations. Pending DSL + Proprietor sign-off."
+notes: ""
 ---
 **Date:** January 2026  
 **Review Date:** October 2026 (or sooner if statutory guidance changes)  
@@ -163,13 +163,13 @@ Examples include boundary blurring, unprofessional digital communication, or ina
 </table>
 
 ### 5.2 Contact Details *(to be kept updated)*
-  - **Head: Kirsten Roy  
+  - **Head**  
     > **Email: head@autisticgirlsnetwork.org
 
-  - **Designated Safeguarding Lead: Kirsten Roy  
+  - **Designated Safeguarding Lead** (role held by the Head)  
     > **Email: dsl@autisticgirlsnetwork.org
 
-  - **Proprietor / Safeguarding Governor: Cathy Wassell  
+  - **Proprietor / Safeguarding Governor**  
     > **Email: cathy@autisticgirlsnetwork.org
 
   - **LADO Contacts:  
@@ -365,7 +365,7 @@ This approach supports:
 
   - [[Grievance and Disciplinary Policy v10.25]]
 
-  - KCSIE 2025 (Part Four)
+  - KCSIE 2026 (Part Four)
 
   - Working Together to Safeguard Children (2023)
 

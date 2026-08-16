@@ -20,7 +20,7 @@ themes:
   - safer-recruitment
   - safeguarding
 compliance:
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "Worker Protection (Amendment of Equality Act 2010) Act 2023"
   - "Equality Act 2010"
   - "UK GDPR"
@@ -43,13 +43,13 @@ related_policies:
   - "[[Whistleblowing Policy v01.26]]"
 source_file: "Safer Recruitment and Use of Volunteers Policy v01.26.docx"
 ingested: 2026-04-29
-notes: "E1 legislative refresh 2026-04-29 — alignment with KCSIE 2025, Online Safety Act 2023 (phased duties), DfE Filtering and Monitoring Standards 2024, Worker Protection (Amendment of Equality Act 2010) Act 2023 (third-party harassment duty), and emerging AI safeguarding considerations. Pending DSL + Proprietor sign-off."
+notes: ""
 ---
 
 **Date: January 2026  
 Review Date: October 2026  
 Coordinator: Head  
-Nominated Governor: Claire Farmer  
+Nominated Governor: the Safeguarding Governor  
 Version: v01.26**
 
 ## 1. Policy Statement and Purpose
@@ -98,7 +98,7 @@ This policy applies to:
 
   - Inclusivity: recruitment is anti-discriminatory, neuro-affirmative, and accessible.
 
-  - Compliance: KCSIE 2025 and Independent School Standards are met in full.
+  - Compliance: KCSIE 2026 and Independent School Standards are met in full.
 
   - Competence: at least one panel member in every recruitment process holds current Safer Recruitment training (refreshed every 5 years).**  
     > **
@@ -125,7 +125,7 @@ All advertisements:
 
   - confirm that an enhanced DBS will be required;
 
-  - make clear that online searches will be undertaken for shortlisted candidates in line with KCSIE 2025.**  
+  - make clear that online searches will be undertaken for shortlisted candidates in line with KCSIE 2026.**  
     > **
 
 ### 4.4 Applications and Shortlisting
@@ -188,7 +188,7 @@ The Haven retains responsibility for confirming the check is appropriate, curren
 ### 5.1 Induction
 **All new staff receive:**
 
-  - Part 1 of KCSIE 2025;
+  - Part 1 of KCSIE 2026;
 
   - safeguarding and whistleblowing briefing;
 
@@ -256,7 +256,7 @@ All governors, trustees, and proprietors:
     > **
 
 ## 9. Record Keeping and the Single Central Record (SCR)
-The Haven maintains a Single Central Record in full compliance with KCSIE 2025.
+The Haven maintains a Single Central Record in full compliance with KCSIE 2026.
 
   - The SCR is stored securely within The Haven’s Google Workspace with restricted access.
 

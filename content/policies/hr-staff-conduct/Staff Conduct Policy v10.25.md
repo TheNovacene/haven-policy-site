@@ -21,7 +21,7 @@ themes:
 compliance:
   - "Worker Protection (Amendment of Equality Act 2010) Act 2023"
   - "Equality Act 2010"
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "UK GDPR"
   - "Data Protection Act 2018"
   - "Online Safety Act 2023"
@@ -44,12 +44,12 @@ related_policies:
   - "[[Prevent Duty Policy v01.26_]]"
 source_file: "Staff Conduct Policy v10.25.docx"
 ingested: 2026-04-29
-notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff. / E4 legislative refresh 2026-04-29 — alignment with Worker Protection (Amendment of Equality Act 2010) Act 2023 (preventive duty re sexual harassment, including third-party harassment, in force from 26 October 2024), Equality Act 2010, KCSIE 2025, and ACAS Code of Practice 2023. Pending re-signoff."
+notes: ""
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  
-**Coordinator:** Kirsten Roy  
-**Nominated Governor:** Vicki May  
+**Coordinator:** the Head  
+**Nominated Governor:** the Co-Chair of Governors  
 **Version:** v10.25
 
 ## 1. Purpose
@@ -205,7 +205,7 @@ Staff must familiarise themselves with and follow these related policies at all 
   - **[[Data Protection, Confidentiality & Privacy Policy v10.25]]  
     > **
 
-  - **[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven Academy v10.25]]: Parent Guide  
+  - **[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]]: Parent Guide  
     > **
 
   - **[[Whistleblowing Policy v01.26]]  

@@ -20,7 +20,7 @@ themes:
   - training
   - quality
 compliance:
-  - "KCSIE 2025"
+  - "KCSIE 2026"
 applies_to: ["haven"]
 related_policies:
   - "[[Staff Induction Policy]]"

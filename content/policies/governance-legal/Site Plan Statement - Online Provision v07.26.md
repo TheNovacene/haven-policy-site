@@ -21,7 +21,7 @@ sign_off_record: []
 themes:
   - governance
 compliance:
-  - "KCSIE 2025"
+  - "KCSIE 2026"
 
 # === Reusability ===
 applies_to: ["haven"]

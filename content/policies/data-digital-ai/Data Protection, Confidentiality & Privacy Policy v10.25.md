@@ -31,15 +31,15 @@ related_policies:
   - "[[Online Safety & Acceptable Use v01.26]]"
   - "[[Staff Conduct Policy v10.25]]"
   - "[[Whistleblowing Policy v01.26]]"
-  - "[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven Academy v10.25]]"
+  - "[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]]"
 source_file: "Data Protection, Confidentiality & Privacy Policy v10.25.docx"
 ingested: 2026-04-29
 notes: "Canonical operational data protection policy. As of A2 remediation 2026-04-29, the previously parallel Confidentiality and Privacy Policy is superseded by this document. The public-facing Privacy Notice ([[Privacy Policy v10.25]]) complements rather than duplicates this policy."
 ---
 **Date**: October 2025  
 **Review Date**: October 2026  
-**Coordinator**: Data Protection Officer (DPO) Cathy Wassell  
-**Nominated Governor**: Vicki May  
+**Coordinator**: Data Protection Officer (DPO)  
+**Nominated Governor**: the Co-Chair of Governors  
 **Version**:10.25
 
 ## 1. Statement of Intent
@@ -72,7 +72,7 @@ This policy aligns with:
 
   - The Privacy and Electronic Communications Regulations 2003
 
-  - DfE Guidance: *Keeping Children Safe in Education (2025)  
+  - DfE Guidance: *Keeping Children Safe in Education (2026)  
     > *
 
   - ICO Guidance: *Guide to the UK GDPR (2022)  
@@ -90,7 +90,7 @@ It operates in conjunction with The Haven’s:
 
   - Records Management Policy
 
-  - [[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven Academy v10.25]] Guide
+  - [[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]] Guide
 
 ## 3. Scope and Principles
 

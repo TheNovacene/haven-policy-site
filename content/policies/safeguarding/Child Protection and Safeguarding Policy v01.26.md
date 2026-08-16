@@ -20,7 +20,7 @@ themes:
   - safeguarding
   - child-protection
 compliance:
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "Online Safety Act 2023"
   - "ICO Children's Code"
   - "Filtering and Monitoring Standards (DfE 2024)"
@@ -49,15 +49,15 @@ related_policies:
   - "[[Accidents, Incidents and First Aid Policy v04.26]]"
 source_file: "Child Protection and Safeguarding Policy v01.26.docx"
 ingested: 2026-04-29
-notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff. / E1 legislative refresh 2026-04-29 — alignment with KCSIE 2025, Online Safety Act 2023 (phased duties), DfE Filtering and Monitoring Standards 2024, Worker Protection (Amendment of Equality Act 2010) Act 2023 (third-party harassment duty), and emerging AI safeguarding considerations. Pending DSL + Proprietor sign-off."
+notes: ""
 ---
-**Approved Date:** October 2025
+**Approved Date:** April 2026
 
-**Review Date**: June 2026
+**Review Date**: April 2027
 
-**Coordinator:** Kirsten Roy
+**Coordinator:** the Designated Safeguarding Lead
 
-**Nominated Governor:** Claire Farmer
+**Nominated Governor:** the Safeguarding Governor
 
 **Version:** 01.26
 
@@ -78,7 +78,7 @@ This policy ensures:
 
 ● A culture of openness, vigilance, and early intervention is fostered.
 
-The Designated Safeguarding Lead (DSL) is Kirsten Roy. Deputy DSL (DDSL) is Tammy McChristie. Both are trained to the appropriate level and are available during core operating hours.
+The Designated Safeguarding Lead (DSL) role is held by the Head; the Deputy DSL (DDSL) role is held by the SENCo. Current postholders' contact details are shared with staff and families at induction, and the DSL is always reachable at dsl@autisticgirlsnetwork.org. Both are trained to the appropriate level and are available during core operating hours.
 
 **Clarification on Digital Environments and Application**
 
@@ -180,7 +180,7 @@ No external community chat platforms are used for learner communication unless e
   - **MASH/Front Door**: Local authority single point of contact for safeguarding referrals (children at risk of significant harm).
 
 ## Types of abuse (what we watch for)
-The Haven recognises categories of abuse, as defined in Keeping Children Safe in Education (2025):
+The Haven recognises categories of abuse, as defined in Keeping Children Safe in Education (2026):
 
 ● Physical abuse
 
@@ -290,9 +290,9 @@ behaviour
 
   - **DSL team (core hours):** [<span class="underline">tammy@autisticgirlsnetwork.org</span>](mailto:tammy@autisticgirlsnetwork.org) or cathy@autisticgirlsnetwork.org
 
-  - **Anonymous reporting (racism & discrimination):** [<span class="underline">https://forms.gle/qGvhiRvGNY46TY7n6 <!-- haven-form: https://forms.gle/qGvhiRvGNY46TY7n6 --></span>](https://forms.gle/qGvhiRvGNY46TY7n6 <!-- haven-form: https://forms.gle/qGvhiRvGNY46TY7n6 -->) (routed to the DSL; reviewed daily).
+  - **Anonymous reporting (racism & discrimination):** [Anonymous reporting form — racism and discrimination](https://forms.gle/qGvhiRvGNY46TY7n6) (routed to the DSL; reviewed daily).
 
-  - **Other anonymous safeguarding concerns:** [<span class="underline">https://forms.gle/qGvhiRvGNY46TY7n6 <!-- haven-form: https://docs.google.com/forms/d/e/1FAIpQLSfIbXnTbaOPCtfGGDO95XXWihHP0cwqQ3xKlbXYUSdiX0ExpQ/viewform --></span>](https://forms.gle/qGvhiRvGNY46TY7n6 <!-- haven-form: https://docs.google.com/forms/d/e/1FAIpQLSfIbXnTbaOPCtfGGDO95XXWihHP0cwqQ3xKlbXYUSdiX0ExpQ/viewform -->)
+  - **Other anonymous safeguarding concerns:** [Anonymous reporting form — safeguarding concerns](https://docs.google.com/forms/d/e/1FAIpQLSfIbXnTbaOPCtfGGDO95XXWihHP0cwqQ3xKlbXYUSdiX0ExpQ/viewform) (routed to the DSL).
   - **Out of hours / emergency:** **999** (immediate risk)
 
 ## Recording safeguarding concerns (what to write, where)

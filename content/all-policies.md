@@ -38,7 +38,7 @@ audience, see the [audience packs](audience/). For a thematic view, see the
 - [Ergonomic Health and Safety Policy](/policies/health-safety-medical/Ergonomic-Health-and-Safety-Policy-v10.25)
 - [Family Attendance Agreement](/policies/attendance-engagement/Family-Attendance-Agreement-v10.25)
 - [First Aid Training Policy](/policies/health-safety-medical/First-Aid-Training-Policy-v08.26)
-- [Governance & Legal Structure](/policies/governance-legal/Governance--and--Legal-Structure-v10.25)
+- [Governance & Legal Structure](/policies/governance-legal/Governance--and--Legal-Structure-v08.26)
 - [Governor Code of Conduct](/policies/governance-legal/Governor-Code-of-Conduct-v10.25)
 - [Governor Role & Responsibilities](/policies/governance-legal/Governor-Role--and--Responsibilities-v10.25)
 - [The Haven Complaints Procedure](/policies/governance-legal/Complaints-Procedure-v10.25)

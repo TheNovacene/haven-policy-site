@@ -30,19 +30,19 @@ related_policies:
   - "[[Transportation Policy for Service Users v10.25]]"
 source_file: "Examinations Policy v10.25.docx"
 ingested: 2026-04-29
-notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff."
+notes: ""
 ---
 *(Approved Learning Partner: Tutors & Exams Ltd)*
 
 **Date:** October 2025  
 **Review Date:** October 2026  
 **Coordinator:** Data Protection Officer (DPO)  
-**Nominated Governor:** Vicki May  
+**Nominated Governor:** the Co-Chair of Governors  
 **Version:** v10.25
 
 ## 1. Purpose
 
-This policy outlines The Haven Academy’s approach to supporting learners through external qualifications, particularly GCSEs. As a trauma-informed, neurodivergent-affirming online provision, our aim is to make the examination process clear, fair, and supportive—reducing stress while enabling every learner to demonstrate what they know.
+This policy outlines The Haven’s approach to supporting learners through external qualifications, particularly GCSEs. As a trauma-informed, neurodivergent-affirming online provision, our aim is to make the examination process clear, fair, and supportive—reducing stress while enabling every learner to demonstrate what they know.
 
 The policy aligns with our partnership agreement (SLA) with **Tutors & Exams Ltd (T&E)** for 2025–26, ensuring consistent timelines, safeguarding, and communication standards.
 
@@ -187,7 +187,7 @@ This policy will be reviewed annually or sooner in response to operational need,
 
 **Contact:  
 ** 📧 exams@autisticgirlsnetwork.org  
-🌐 [<span class="underline">www.thehavenonline.school</span>](https://www.thehavenacademy.school/)
+🌐 [www.thehavenonline.school](www.thehavenonline.school)
 
 ## Appendix: Indicative Fees 2025–26
 

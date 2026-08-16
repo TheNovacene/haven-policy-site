@@ -24,12 +24,12 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "Health and Safety Policy v10.25.docx"
 ingested: 2026-04-29
-notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff."
+notes: ""
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  
 **Coordinator:** the Health and Safety Lead  
-**Nominated Governor:** Elliot Wassell  
+**Nominated Governor:** the Health and Safety Governor  
 **Version:** v10.25
 
 **Policy Statement and Purpose  
@@ -67,7 +67,7 @@ notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter owner
 
   - Venue checks include accessibility, safeguarding, emergency procedures, and medical needs.
 
-  - A named First Aider (currently **Cathy Wassell**) must be available.
+  - A named First Aider (currently **the Proprietor**) must be available.
 
 ## 5. Staff Remote Working
   - Staff are responsible for maintaining a safe home working environment, including:

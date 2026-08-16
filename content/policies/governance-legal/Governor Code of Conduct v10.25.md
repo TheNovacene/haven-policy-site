@@ -32,7 +32,7 @@ notes: ""
 **Date:** October 2025  
 **Review Date:** October 2026  
 **Coordinator:** Head  
-**Nominated Governor:** Vicki May  
+**Nominated Governor:** the Co-Chair of Governors  
 **Version:** v10.25
 
 Governors at The Haven commit to holding space with discernment, responsibility, and relational intelligence. Our code of conduct reflects the trust placed in us by learners, families, and educators.

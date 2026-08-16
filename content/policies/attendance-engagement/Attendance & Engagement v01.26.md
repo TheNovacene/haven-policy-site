@@ -26,7 +26,7 @@ notes: ""
 **Date:** October 2025  
 **Review Date:** October 2026  
 **Coordinator:** Data Protection Officer (DPO)  
-**Nominated Governor:** Vicki May  
+**Nominated Governor:** the Co-Chair of Governors  
 **Version:** v01.26
 
 ## For Parents, Guardians & Learners

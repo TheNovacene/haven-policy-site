@@ -37,7 +37,7 @@ notes: "A2 remediation 2026-04-29 — reframed as public-facing privacy notice (
 **Date:** October 2025  
 **Review Date:** October 2026  
 **Coordinator:** Head  
-**Nominated Governor:** Vicki May  
+**Nominated Governor:** the Co-Chair of Governors  
 **Version:** v10.25
 
 ## Introduction 
@@ -208,7 +208,7 @@ We’ll review this policy regularly and update it when needed. Any significant 
 
 Questions? Concerns? Want to access or update your data?
 
-Contact our Data Protection Officer (DPO): Cathy Wassell
+Contact our Data Protection Officer (DPO): via cathy@autisticgirlsnetwork.org
 
 **The Haven Team**
 

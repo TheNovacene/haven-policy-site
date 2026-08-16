@@ -27,7 +27,7 @@ notes: ""
 **Date:** October 2025  
 **Review Date:** October 2026  
 **Coordinator:** SENDCo  
-**Nominated Governor:** Vicki May  
+**Nominated Governor:** the Co-Chair of Governors  
 **Version:** v10.25
 
 ## Statement of Intent
@@ -51,7 +51,7 @@ We aim to create **learning environments where regulation, reflection, and respo
 ## Legal Framework
 
 This policy complies with the following legislation and guidance:  
-Education Act 1996; Education Act 2002; Education and Inspections Act 2006; Equality Act 2010; Health Act 2006; DfE ‘Keeping Children Safe in Education 2025’; DfE ‘Behaviour in Schools 2024’; DfE ‘Suspension and Permanent Exclusion 2023’; SEND Code of Practice 2015; and associated guidance on mental health, reasonable force, and searching/screening.
+Education Act 1996; Education Act 2002; Education and Inspections Act 2006; Equality Act 2010; Health Act 2006; DfE ‘Keeping Children Safe in Education 2026’; DfE ‘Behaviour in Schools 2024’; DfE ‘Suspension and Permanent Exclusion 2023’; SEND Code of Practice 2015; and associated guidance on mental health, reasonable force, and searching/screening.
 
 ## Roles and Responsibilities
 

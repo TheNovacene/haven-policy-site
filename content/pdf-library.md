@@ -61,7 +61,7 @@ Every published Haven policy is available here as a PDF, regenerated automatical
 - [Charging and Remissions Policy (v05.26)](/pdf/governance-legal/Charging-and-Remissions-Policy-v05.26.pdf)
 - [Communications Policy (v05.26)](/pdf/governance-legal/Communications-Policy-v05.26.pdf)
 - [Development Plan (v05.26)](/pdf/governance-legal/Development-Plan-v05.26.pdf)
-- [Governance & Legal Structure (v10.25)](/pdf/governance-legal/Governance-and-Legal-Structure-v10.25.pdf)
+- [Governance & Legal Structure (v08.26)](/pdf/governance-legal/Governance-and-Legal-Structure-v08.26.pdf)
 - [Governor Code of Conduct (v10.25)](/pdf/governance-legal/Governor-Code-of-Conduct-v10.25.pdf)
 - [Governor Role & Responsibilities (v10.25)](/pdf/governance-legal/Governor-Role-and-Responsibilities-v10.25.pdf)
 - [Site Plan Statement: Online Provision (v07.26)](/pdf/governance-legal/Site-Plan-Statement-Online-Provision-v07.26.pdf)

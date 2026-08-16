@@ -19,7 +19,7 @@ themes:
   - "wellbeing"
   - "mental-health"
 compliance:
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "Equality Act 2010"
 applies_to: ["haven"]
 related_policies: []

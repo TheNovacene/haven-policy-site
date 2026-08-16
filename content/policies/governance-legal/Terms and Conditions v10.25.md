@@ -30,8 +30,8 @@ notes: ""
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  
-**Coordinator:** Cathy Wassell  
-**Nominated Governor:**Vicki May  
+**Coordinator:** the Proprietor  
+**Nominated Governor:**the Co-Chair of Governors  
 **Version:** v10.25
 
 These *Terms and Conditions* (“Terms”) govern the use of The Haven’s services, including our TutorCruncher platform (“the Site”). By accessing or using the Site, you agree to these Terms. If you do not agree, you must not use the Site.
@@ -151,7 +151,7 @@ Sessions cancelled with less than 24 hours’ notice, or missed without notice, 
 ### 6.3 Communication About Absence
 Parents/carers (or commissioning Local Authorities) are expected to inform us of any planned or unplanned absences as early as possible, ideally before the start of the school day.
 
-Absence notifications should be reported on our form here: [<span class="underline">https://docs.google.com/forms/d/e/1FAIpQLScOD8sgLDWwcSaD00X1CaT7mhJe\_2QaEq86ktmmLVUpdT4AfA/viewform</span>](https://docs.google.com/forms/d/e/1FAIpQLScOD8sgLDWwcSaD00X1CaT7mhJe_2QaEq86ktmmLVUpdT4AfA/viewform)
+Absence notifications should be reported on our form here: [https://docs.google.com/forms/d/e/1FAIpQLScOD8sgLDWwcSaD00X1CaT7mhJe\_2QaEq86ktmmLVUpdT4AfA/viewform](https://docs.google.com/forms/d/e/1FAIpQLScOD8sgLDWwcSaD00X1CaT7mhJe\_2QaEq86ktmmLVUpdT4AfA/viewform)
 
 Or sent to: attendance@autisticgirlsnetwork.org
 
@@ -179,7 +179,7 @@ Parents/carers must ensure that:
 
 Where The Haven becomes aware of unsafe conditions, sessions may be suspended until the matter is resolved.
 
-This clause ensures compliance with **KCSIE 2025**, **Independent School Standards (Part 3: Welfare, Health and Safety of Pupils)**, and the **DSL Addendum for Online and Hybrid Safeguarding Contexts**.
+This clause ensures compliance with **KCSIE 2026**, **Independent School Standards (Part 3: Welfare, Health and Safety of Pupils)**, and the **DSL Addendum for Online and Hybrid Safeguarding Contexts**.
 
 ### 7.3 Accidents or Incidents in the Home
 The Haven staff will record and report any incident or visible injury observed during a session in line with safeguarding procedures.
@@ -190,7 +190,7 @@ Parents/carers retain **primary duty of care** for the physical environment duri
 
 ### 7.4 Safeguarding Reports and Digital Records
 All learning and communication through TutorCruncher, Pencil Spaces, and related platforms may generate **attendance, engagement, wellbeing, or safeguarding notes**.  
-These records form part of The Haven’s statutory safeguarding file and are held securely in accordance with the *[[Data Protection, Confidentiality & Privacy Policy v10.25]] (v1.0)* and *Keeping Children Safe in Education 2025*.  
+These records form part of The Haven’s statutory safeguarding file and are held securely in accordance with the *[[Data Protection, Confidentiality & Privacy Policy v10.25]] (v1.0)* and *Keeping Children Safe in Education 2026*.  
 Parents/carers acknowledge that relevant information may be shared, on a need-to-know basis, with the DSL, deputy DSL, or appropriate external agencies (e.g. local authority, health, or social care) where safeguarding or wellbeing concerns arise.
 
 ### 7.5 Raising a Safeguarding Concern
@@ -200,7 +200,7 @@ If any parent, learner, or member of staff has a concern about the conduct of an
 
 - If the concern relates to the DSL or is not addressed appropriately, contact the **Local Authority Designated Officer (LADO)** or **Chair of Governors**.
 
-This aligns with *KCSIE 2025 paras 389-394*.
+This aligns with *KCSIE 2026 paras 389-394*.
 
 ### 7.6 Parent/Carer Duty to Maintain Accurate Information
 Parents/carers must keep their **TutorCruncher profile fully up to date**, including:

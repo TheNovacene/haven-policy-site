@@ -36,8 +36,8 @@ notes: "A4 remediation 2026-04-29 — revised to achieve full compliance with In
 ---
 **Date:** April 2026 (refreshed)  
 **Review Date:** April 2027  
-**Coordinator:** Kirsten Roy  
-**Nominated Governor:** Vicki May  
+**Coordinator:** the Head  
+**Nominated Governor:** the Co-Chair of Governors  
 **Version:** 04.26
 
 ## Policy Statement and Purpose
@@ -52,20 +52,20 @@ This procedure provides a clear, fair, and accessible route for raising concerns
 
   - This procedure applies to complaints from parents/carers, learners, and external partners (including Local Authorities and schools).
   - It does not apply to staff employment concerns, which are covered under [[Grievance and Disciplinary Policy v10.25]].
-  - Safeguarding concerns must be referred directly to the Kirsten Roy and will not be investigated solely under this procedure. See [[Child Protection and Safeguarding Policy v01.26]].
+  - Safeguarding concerns must be referred directly to the DSL and will not be investigated solely under this procedure. See [[Child Protection and Safeguarding Policy v01.26]].
   - Allegations against staff are managed under [[Managing Allegations Against Staff Policy v01.26]].
 
 ## Stages of the Procedure
 
 ### 1. Informal Resolution
 
-  - Concerns should be raised initially with the relevant educator, coordinator, or the Kirsten Roy, where appropriate.
+  - Concerns should be raised initially with the relevant educator, coordinator, or the DSL, where appropriate.
   - We aim to resolve issues quickly and informally wherever possible.
   - Where a parent or carer remains dissatisfied after informal discussion, they may proceed to the formal stage below.
 
 ### 2. Formal Complaint (Stage 1)
 
-  - If unresolved, a formal complaint should be submitted **in writing** to the Cathy Wassell (or nominated senior leader).
+  - If unresolved, a formal complaint should be submitted **in writing** to the Proprietor (or a nominated senior leader).
   - The complaint will be acknowledged within **5 working days**.
   - A thorough, fair investigation will be undertaken.
   - A **written response** will be issued within **20 working days** of acknowledgement, setting out findings, conclusions, and any actions taken.
@@ -82,7 +82,7 @@ The panel will:
   - Consider all relevant evidence in a fair and impartial manner.
   - Make **findings and recommendations**, which will be:
       - Provided in writing to the complainant and, where relevant, the person complained about; and
-      - **Made available for inspection on the premises by the Cathy Wassell and the Kirsten Roy.**
+      - **Made available to the Proprietor and the Head, and to Ofsted on request.**
   - Provide its written decision within **10 working days** of the hearing.
 
 ### 4. Further Escalation

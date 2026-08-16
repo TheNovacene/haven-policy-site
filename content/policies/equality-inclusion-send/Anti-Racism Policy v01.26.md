@@ -22,7 +22,7 @@ themes:
 compliance:
   - "Equality Act 2010"
   - "Worker Protection (Amendment of Equality Act 2010) Act 2023"
-  - "KCSIE 2025"
+  - "KCSIE 2026"
   - "Public Order Act 1986"
   - "Worker Protection (Amendment of Equality Act 2010) Act 2023"
 applies_to: ["haven"]
@@ -35,12 +35,12 @@ related_policies:
   - "[[Prevent Duty Policy v01.26_]]"
 source_file: "Anti-Racism Policy v01.26.docx"
 ingested: 2026-04-29
-notes: "E4 legislative refresh 2026-04-29 — alignment with Worker Protection (Amendment of Equality Act 2010) Act 2023 (preventive duty re sexual harassment, including third-party harassment, in force from 26 October 2024), Equality Act 2010, KCSIE 2025, and ACAS Code of Practice 2023. Pending re-signoff."
+notes: ""
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  
-**Coordinator:** Kirsten Roy  
-**Nominated Governor:** Vicki May  
+**Coordinator:** the Head  
+**Nominated Governor:** the Co-Chair of Governors  
 **Version:** v01.26
 
 At *The Haven*, we recognise that **racism causes harm** — and that makes it a **safeguarding issue**. Every learner has the right to feel **safe, respected, and free to learn** without discrimination or bias. We do not minimise or ignore racial harm — we name it, record it, and respond.
@@ -81,10 +81,10 @@ The **Worker Protection (Amendment of Equality Act 2010) Act 2023** (in force 26
 This means we:
 
   - Assess the risk of racial harassment annually and after any incident.
-  - Maintain visible, multi-route reporting (named adult, Kirsten Roy, anonymous form, Vicki May for concerns about senior staff).
+  - Maintain visible, multi-route reporting (a trusted adult, the DSL, the anonymous reporting form, or the Lead Governor for concerns about senior staff).
   - Train staff annually on racial literacy, microaggressions, structural bias, and active bystander response.
   - Treat retaliation against good-faith reporters as a disciplinary matter.
-  - Review anonymised data termly with the Vicki May and Claire Farmer.
+  - Review anonymised data termly with the Lead Governor and the Safeguarding Governor.
 
 Where a learner experiences racism from a member of staff, this is also escalated under [[Managing Allegations Against Staff Policy v01.26]].
 
@@ -92,9 +92,9 @@ Where a learner experiences racism from a member of staff, this is also escalate
   - Speak to any **trusted adult** at The Haven
 
   - Contact our **Designated Safeguarding Lead**:  
-    > Kirsten Roy | 📧 [<span class="underline">dsl@autisticgirlsnetwork.org</span>](mailto:dsl@autisticgirlsnetwork.org) |
+    > the Head | 📧 [<span class="underline">dsl@autisticgirlsnetwork.org</span>](mailto:dsl@autisticgirlsnetwork.org) |
 
-  - Use our **anonymous reporting form**: [[<span class="underline">Access the form here</span>](https://forms.gle/qGvhiRvGNY46TY7n6 <!-- haven-form: https://forms.gle/eSTE8QvvV3Loegyz5 -->)]
+  - Use our **anonymous reporting form**: [[<span class="underline">Access the form here</span>](https://forms.gle/eSTE8QvvV3Loegyz5)]
 
 For confidential support, learners can also contact **Childline** on **0800 1111**.
 

@@ -31,12 +31,12 @@ related_policies:
   - "[[Accidents, Incidents and First Aid Policy v04.26]]"
 source_file: "Lone Working Policy v10.25.docx"
 ingested: 2026-04-29
-notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff."
+notes: ""
 ---
 **Date:** October 2025  
 **Review Date:** September 2026  
 **Coordinator:** the Health and Safety Lead  
-**Nominated Governor:** Elliot Wassell  
+**Nominated Governor:** the Health and Safety Governor  
 **Version:** 10.25
 
 ## 1. Purpose

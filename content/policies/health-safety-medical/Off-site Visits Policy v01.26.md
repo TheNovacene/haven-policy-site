@@ -25,12 +25,12 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "Off-site Visits Policy v01.26.docx"
 ingested: 2026-04-29
-notes: "Body Coordinator/Nominated Governor lines aligned with frontmatter ownership (C1 remediation 2026-04-29). Pending re-signoff."
+notes: ""
 ---
 **Date:** January 2026  
 **Review Date:** October 2026  
 **Coordinator:** the Health and Safety Lead  
-**Nominated Governor:** Elliot Wassell  
+**Nominated Governor:** the Health and Safety Governor  
 **Version:** v01.26
 
 ## 1. Policy Statement and Purpose
