@@ -311,6 +311,10 @@ This site publishes The Haven's policies in full. The Haven is owned and operate
     <span class="audience-card-title">View all policies (A–Z)</span>
     <span class="audience-card-desc">A single alphabetical list of every published Haven policy.</span>
   </a></li>
+  <li><a href="pdf-library">
+    <span class="audience-card-title">Download policies as PDF</span>
+    <span class="audience-card-desc">Every published policy as a PDF, individually or as a single zip — for framework applications and commissioning paperwork.</span>
+  </a></li>
 </ul>
 
 ## Quick start by audience

@@ -3,6 +3,11 @@ name: Build and deploy Haven Policy Site
 # Builds the Quartz site from the committed content/ folder and deploys to GitHub Pages.
 # To update the site: locally run `python3 scripts/sync-vault.py` to refresh content/ from
 # the Haven Policy Vault, then commit and push. CI takes it from there.
+#
+# PDF generation (scripts/build-pdfs.py) runs in two phases around the Quartz build:
+#   --page  writes content/pdf-library.md BEFORE the build so Quartz renders the page
+#   --pdfs  renders every published policy to public/pdf/ AFTER the build, plus a zip
+# PDFs are never committed — they are regenerated fresh on every deploy.
 
 on:
   push:
@@ -32,11 +37,28 @@ jobs:
         with:
           node-version: 22
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install PDF toolchain
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q libpango-1.0-0 libpangoft2-1.0-0 fonts-crosextra-carlito
+          pip install weasyprint markdown pyyaml
+
+      - name: Generate PDF library page
+        run: python3 scripts/build-pdfs.py --page
+
       - name: Install dependencies
         run: npm ci
 
       - name: Build site
         run: npx quartz build
+
+      - name: Generate policy PDFs
+        run: python3 scripts/build-pdfs.py --pdfs
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
