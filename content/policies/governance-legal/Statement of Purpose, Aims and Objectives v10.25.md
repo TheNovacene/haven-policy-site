@@ -27,7 +27,7 @@ related_policies:
   - "[[Referrals and Admissions Policy]]"
 source_file: "Statement of Purpose, Aims and Objectives v10.25.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "KCSIE reference updated from the 2025 to the 2026 edition on 26 August 2026 (KCSIE 2026 published 7 July 2026, in force 1 September 2026). Citation currency only; the policy was not otherwise re-reviewed. PENDING DSL AND PROPRIETOR SIGN-OFF."
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  
@@ -54,7 +54,7 @@ It should be read alongside The Haven’s full suite of safeguarding and educati
 ## Statutory Guidance
 This Statement is informed by:
 
-  - *Keeping Children Safe in Education (KCSIE) 2025*.
+  - *Keeping Children Safe in Education (KCSIE) 2026*.
 
   - *Working Together to Safeguard Children 2023*.
 

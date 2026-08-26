@@ -2,9 +2,9 @@
 title: "Managing Allegations Against Staff Policy v01.26"
 short_id: "MAASP"
 slug: "managing-allegations-against-staff-policy-v0126"
-version: "04.26"
+version: "08.26"
 status: "live"
-last_reviewed: 2026-04-29
+last_reviewed: 2026-08-26
 next_review: 2027-04-29
 review_cycle: "annual"
 owner_role: "Designated Safeguarding Lead"
@@ -39,13 +39,13 @@ related_policies:
   - "[[Behaviour and Regulation Policy v10.25]]"
 source_file: "Managing Allegations Against Staff Policy v01.26.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Reviewed against Keeping Children Safe in Education 2026 (published 7 July 2026, in force 1 September 2026) on 26 August 2026. Out-of-cycle statutory review; the next scheduled review date is unchanged so that the annual cycle does not collapse onto one date. Filtering and monitoring wording aligned to the Risk Assessment - Learner Access from Personally-Owned Devices. PENDING DSL AND PROPRIETOR SIGN-OFF."
 ---
-**Date:** January 2026  
-**Review Date:** October 2026 (or sooner if statutory guidance changes)  
+**Date:** August 2026  
+**Review Date:** April 2027 (or sooner if statutory guidance changes)  
 **Policy Owner:** Designated Safeguarding Lead (DSL)  
 **Nominated Governor:** Safeguarding Governor  
-**Version:** v01.26
+**Version:** v08.26
 
 ## 1. Policy Statement and Purpose
 The Haven is committed to ensuring that all allegations of abuse or inappropriate conduct involving adults working with children are managed promptly, proportionately, and fairly.
@@ -56,14 +56,14 @@ This policy:
 
   - ensures fair and respectful treatment of staff and volunteers;
 
-  - complies with Keeping Children Safe in Education (KCSIE) 2025 – Part Four, *Working Together to Safeguard Children (2023)*, and Local Authority Designated Officer (LADO) procedures;
+  - complies with Keeping Children Safe in Education (KCSIE) 2026 – Part Four, *Working Together to Safeguard Children (2023)*, and Local Authority Designated Officer (LADO) procedures;
 
   - applies to online, hybrid, and in-person contexts.
 
 ## 2. Scope
 This policy applies to:
 
-  - all employees, contractors, volunteers, governors, and trustees of The Haven;
+  - all employees, contractors, volunteers, agency and supply staff, trainee teachers, governors, and trustees of The Haven. Following Keeping Children Safe in Education 2026 Part Four, allegations against trainee teachers, supply staff and contracted staff are handled in the same way as allegations against employed staff, whatever disciplinary action the employing agency or provider may separately take;
 
   - allegations that meet the harm threshold and low-level concerns;
 
@@ -190,6 +190,8 @@ Where an allegation concerns:
 
   - the **Head** → the concern is reported directly to the **Proprietor / Safeguarding Governor**.
 
+Where the person who would normally receive the allegation is also the person the allegation concerns — or where there is any other conflict of interest — the concern is reported **directly to the Local Authority Designated Officer**, without going through the internal route first. Anyone reporting may take that route at any time, and does not need permission to do so. Keeping Children Safe in Education Part Four is explicit that this direct route exists, and it is stated here so that nobody has to work out for themselves whether it applies.
+
 In these cases:
 
   - the DSL or Principal must not manage or influence the process;
@@ -197,6 +199,9 @@ In these cases:
   - the Proprietor/Safeguarding Governor becomes the case manager;
 
   - the LADO is contacted within one working day.
+
+> [!note] Governance naming — to be confirmed at sign-off
+> The Haven is operated by a charity. Where this policy says “Proprietor / Safeguarding Governor”, the equivalent role under the charity’s governance is to be confirmed against the Governance and Legal Structure document, and the wording aligned, before this version is signed off.
 
 ## 8. Managing the Allegation Process
 ### Stage 1 – Initial Response

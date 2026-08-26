@@ -35,7 +35,7 @@ related_policies:
   - "[[Prevent Duty Policy v01.26_]]"
 source_file: "Anti-Racism Policy v01.26.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
 ---
 **Date:** October 2025  
 **Review Date:** October 2026  

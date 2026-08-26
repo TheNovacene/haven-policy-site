@@ -25,7 +25,7 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "Mental Health and Wellbeing Policy.docx"
 ingested: 2026-05-21
-notes: "Also fits equality-inclusion-send or health-safety-medical — placed in safeguarding because Haven's cohort makes mental health a safeguarding matter."
+notes: "Also fits equality-inclusion-send or health-safety-medical — placed in safeguarding because Haven's cohort makes mental health a safeguarding matter. KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-05-21, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
 ---
 # Mental Health and Well-being Policy
 

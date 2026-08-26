@@ -2,9 +2,9 @@
 title: "Child-on-Child Abuse Policy (Summary for parents)"
 short_id: "CCAPS"
 slug: "child-on-child-abuse-policy-summary-for-parents"
-version: "04.26"
+version: "08.26"
 status: "live"
-last_reviewed: 2026-04-29
+last_reviewed: 2026-08-26
 next_review: 2027-04-29
 review_cycle: "annual"
 owner_role: "Designated Safeguarding Lead"
@@ -39,13 +39,13 @@ related_policies:
   - "[[Prevent Duty Policy v01.26_]]"
 source_file: "Child-on-Child Abuse Policy (Summary for parents) v10.25.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Reviewed against Keeping Children Safe in Education 2026 (published 7 July 2026, in force 1 September 2026) on 26 August 2026. Out-of-cycle statutory review; the next scheduled review date is unchanged so that the annual cycle does not collapse onto one date. Filtering and monitoring wording aligned to the Risk Assessment - Learner Access from Personally-Owned Devices. PENDING DSL AND PROPRIETOR SIGN-OFF."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** August 2026  
+**Review Date:** April 2027  
 **Coordinator:** the Designated Safeguarding Lead  
 **Nominated Governor:** the Safeguarding Governor  
-**Version:** v10.25
+**Version:** v08.26
 
 ## Policy Statement and Purpose
 At The Haven, we recognise that children can and do abuse other children. This behaviour is harmful, unacceptable, and a safeguarding concern. We are committed to creating a culture where child-on-child abuse is never tolerated, minimised, or dismissed as “banter” or “part of growing up.” Our purpose is to protect all learners, support those affected, and ensure a safe, respectful community across both online and in-person settings.
@@ -76,7 +76,9 @@ This policy should be read alongside The Haven’s:
 ## Statutory Guidance
 This policy has due regard to:
 
-  - *Keeping Children Safe in Education (KCSIE) 2025*.
+  - *Keeping Children Safe in Education (KCSIE) 2026*.
+
+  - DfE *Sharing nudes and semi-nudes: advice for education settings working with children and young people*. The Haven uses the term *nudes and semi-nudes*, which includes images that have been digitally altered or wholly generated using AI. A young person who tells us an image of them has been shared will be supported, not blamed.
 
   - *Working Together to Safeguard Children 2023*.
 

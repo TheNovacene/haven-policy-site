@@ -2,9 +2,9 @@
 title: "The Haven – Safer Recruitment and Use of Volunteers Policy"
 short_id: "SRUVP"
 slug: "the-haven-safer-recruitment-and-use-of-volunteers-policy"
-version: "04.26"
+version: "08.26"
 status: "live"
-last_reviewed: 2026-04-29
+last_reviewed: 2026-08-26
 next_review: 2027-04-29
 review_cycle: "annual"
 owner_role: "Designated Safeguarding Lead"
@@ -43,21 +43,21 @@ related_policies:
   - "[[Whistleblowing Policy v01.26]]"
 source_file: "Safer Recruitment and Use of Volunteers Policy v01.26.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Reviewed against Keeping Children Safe in Education 2026 (published 7 July 2026, in force 1 September 2026) on 26 August 2026. Out-of-cycle statutory review; the next scheduled review date is unchanged so that the annual cycle does not collapse onto one date. Filtering and monitoring wording aligned to the Risk Assessment - Learner Access from Personally-Owned Devices. PENDING DSL AND PROPRIETOR SIGN-OFF."
 ---
 
-**Date: January 2026  
-Review Date: October 2026  
+**Date: August 2026  
+Review Date: April 2027  
 Coordinator: Head  
 Nominated Governor: the Safeguarding Governor  
-Version: v01.26**
+Version: v08.26**
 
 ## 1. Policy Statement and Purpose
 The Haven is committed to safeguarding and promoting the welfare of all learners. Safer recruitment is central to this duty. We ensure that all staff, contractors, volunteers, governors, and agency workers are suitable to work with children and that our recruitment practices deter, identify, and reject individuals who may pose a risk.
 
 Our recruitment practices are designed to:
 
-  - Create a safe environment: fully meet the requirements of ***Keeping Children Safe in Education* (KCSIE) 2025** and the **Independent School Standards (Part 4).  
+  - Create a safe environment: fully meet the requirements of ***Keeping Children Safe in Education* (KCSIE) 2026**. The Haven is not a DfE-registered independent school, so the Independent School Standards do not apply to it; where this policy meets or exceeds that benchmark, it does so deliberately rather than as a matter of legal obligation.  
     > **
 
   - Champion equity and neuro-affirmative practice: value diversity, accessibility, and inclusive recruitment processes.
@@ -98,7 +98,7 @@ This policy applies to:
 
   - Inclusivity: recruitment is anti-discriminatory, neuro-affirmative, and accessible.
 
-  - Compliance: KCSIE 2026 and Independent School Standards are met in full.
+  - Compliance: KCSIE 2026 is met in full.
 
   - Competence: at least one panel member in every recruitment process holds current Safer Recruitment training (refreshed every 5 years).**  
     > **

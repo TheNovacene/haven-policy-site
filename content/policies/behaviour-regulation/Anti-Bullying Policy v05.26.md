@@ -25,7 +25,7 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "Anti-Bullying Policy.docx"
 ingested: 2026-05-21
-notes: "Also fits safeguarding — placed in behaviour-regulation because bullying is treated as behaviour, escalating to safeguarding."
+notes: "Also fits safeguarding — placed in behaviour-regulation because bullying is treated as behaviour, escalating to safeguarding. KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-05-21, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
 ---
 # Anti-Bullying Policy
 

@@ -2,9 +2,9 @@
 title: "RSHE Policy v.02.26"
 short_id: "RP"
 slug: "rshe-policy-v0226"
-version: "04.26"
+version: "08.26"
 status: "live"
-last_reviewed: 2026-04-29
+last_reviewed: 2026-08-26
 next_review: 2027-04-29
 review_cycle: "annual"
 owner_role: "Designated Safeguarding Lead"
@@ -41,13 +41,13 @@ related_policies:
   - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"
 source_file: "RSHE Policy v.02.26.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Reviewed against Keeping Children Safe in Education 2026 (published 7 July 2026, in force 1 September 2026) on 26 August 2026. Out-of-cycle statutory review; the next scheduled review date is unchanged so that the annual cycle does not collapse onto one date. Filtering and monitoring wording aligned to the Risk Assessment - Learner Access from Personally-Owned Devices. PENDING DSL AND PROPRIETOR SIGN-OFF."
 ---
 ***Approved Date:** February 2026  
-**Review Date:** February 2027  
+**Review Date:** April 2027  
 **Policy Coordinator:** the Designated Safeguarding Lead  
 **Governance Approval:** the Co-Chair of Governors  
-**Version:** 02.26*
+**Version:** 08.26*
 
 **1. Policy Overview** The Haven is a hybrid-flexible (hyflex), trauma-informed, and neurodivergent-affirming school for learners aged 12–17. We are committed to providing inclusive, developmentally appropriate, and evidence-informed Relationships, Sex, and Health Education (RSHE) that reflects the lived experiences and identities of our learners.
 
@@ -77,7 +77,9 @@ A detailed RSHE curriculum guide is published annually and shared with families.
 
   - Consent and boundaries
 
-  - Online safety and AI risks
+  - Online safety and AI risks, including harmful interactions with AI chatbots and companion-style systems
+
+  - Nudes and semi-nudes — including images that have been digitally altered or wholly generated using AI — and how to seek help without shame if an image has been shared
 
   - Mental health and self-regulation
 

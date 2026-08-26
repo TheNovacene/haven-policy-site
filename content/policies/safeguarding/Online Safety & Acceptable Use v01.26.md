@@ -2,9 +2,9 @@
 title: "Online Safety Policy and Acceptable Use"
 short_id: "OSAU"
 slug: "online-safety-policy-and-acceptable-use"
-version: "04.26"
+version: "08.26"
 status: "live"
-last_reviewed: 2026-04-29
+last_reviewed: 2026-08-26
 next_review: 2027-04-29
 review_cycle: "annual"
 owner_role: "Designated Safeguarding Lead"
@@ -32,8 +32,6 @@ compliance:
   - "Children Act 1989"
   - "Children Act 2004"
   - "Education Act 2002"
-  - "Online Safety Act 2023"
-  - "ICO Children's Code"
 applies_to: ["haven"]
 related_policies:
   - "[[Child Protection and Safeguarding Policy v01.26]]"
@@ -48,13 +46,13 @@ related_policies:
   - "[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]]"
 source_file: "Online Safety & Acceptable Use v01.26.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Reviewed against Keeping Children Safe in Education 2026 (published 7 July 2026, in force 1 September 2026) on 26 August 2026. Out-of-cycle statutory review; the next scheduled review date is unchanged so that the annual cycle does not collapse onto one date. Filtering and monitoring wording aligned to the Risk Assessment - Learner Access from Personally-Owned Devices. PENDING DSL AND PROPRIETOR SIGN-OFF."
 ---
-**Date:** January 2026  
-**Review Date:** October 2026 (or sooner if statutory guidance changes)  
+**Date:** August 2026  
+**Review Date:** April 2027 (or sooner if statutory guidance changes)  
 **Policy Owner:** Designated Safeguarding Lead (DSL)  
 **Nominated Governor:** Safeguarding Governor  
-**Version:** v01.26
+**Version:** v08.26
 
 ## 1. Policy Statement and Purpose
 The Haven is committed to ensuring that children and young people are kept safe when accessing education online. As a primarily online and hybrid provision, digital safety is integral to our safeguarding culture and practice.
@@ -181,7 +179,7 @@ The Haven uses a restricted, approved set of platforms. Use of unapproved platfo
 <p>Learner–staff communication</p>
 </blockquote></td>
 <td><blockquote>
-<p>Monitored; filtered; logged</p>
+<p>Managed accounts; provider-level spam and malware filtering; administrative audit logs</p>
 </blockquote></td>
 </tr>
 <tr class="even">
@@ -320,6 +318,8 @@ The Haven undertakes proportionate due diligence to ensure platforms are safe an
 
   - Patterns of concern inform training, platform settings, or policy review.
 
+  - “Monitoring” in this policy means human supervision of Haven sessions and review of activity within Haven platforms. It does not mean technical monitoring of learner devices, which The Haven does not carry out. See 9.3.
+
 ## 7. Training and Awareness
 ### 7.1 DSL Training Responsibilities
 The DSL is responsible for ensuring that:
@@ -392,7 +392,24 @@ When a learner discloses, encounters, or appears to have encountered content in 
 
 ### 9.3 Filtering and monitoring
 
-The Haven's filtering and monitoring arrangements align with the DfE *Filtering and Monitoring Standards* (2024) and KCSIE 2026. The DSL, as a member of the senior leadership team, holds named responsibility for filtering and monitoring, with technical configuration carried out by the Technical Lead and the Data Protection Officer, and oversight by the Health and Safety Governor as part of broader safeguarding governance. In line with KCSIE 2026, these arrangements are formally reviewed at least once every academic year, and the review is documented — recording when checks took place, what was checked, any issues identified and the remedial actions taken — alongside the existing termly proportionality review. Filtering decisions balance protection of children against over-blocking that would disrupt legitimate learning.
+The DfE *Filtering and Monitoring Standards* (2024) apply to devices and networks that a setting owns or manages, including managed devices taken off site. The Haven has no premises, no managed network and does not issue or manage devices: learners take part from devices they or their families own, on home internet connections The Haven does not administer.
+
+The Haven therefore does not filter or monitor learner devices, browsers, home networks, personal accounts or phones, and receives no keystroke, search-term or content alerts. There is no automated safeguarding alerting. What The Haven does control is the Haven-managed account and the Haven-managed platforms: administrative settings on accounts, restrictions on external contact and third-party application access, platform configuration, persistent session chat, and the checking of every link, video and resource before it is shared. The full analysis, including residual risk, is held in the *Risk Assessment — Learner Access from Personally-Owned Devices*.
+
+Responsibility for filtering and monitoring is held by a named member of the senior leadership team, supported by the Designated Safeguarding Lead and the Technical Lead, with oversight by the Safeguarding Governor. In line with Keeping Children Safe in Education 2026, the arrangements that do exist are reviewed at least once every academic year and the review is recorded — when the checks took place, which accounts, platforms and environments were tested, what was identified, and what was done about it — alongside the existing termly proportionality review.
+
+Where The Haven provides or manages devices in future, the DfE standards will apply in full and a filtering and monitoring product will be required before those devices are issued. Any monitoring introduced will be overt: declared to learners and families before it begins, limited to what is necessary, explained in terms the learner can understand, and recorded in the DPIA. The Haven does not deploy covert monitoring.
+
+### 9.4 Generative AI, and nudes and semi-nudes
+
+Keeping Children Safe in Education 2026 treats generative AI as a risk factor within the contact and conduct categories of the four areas of online risk. The Haven recognises accordingly:
+
+  - **Contact** — harmful interactions with AI chatbots and companion-style systems, including systems that simulate intimacy, dependency or friendship.
+  - **Conduct** — the creation, possession or sharing of nudes and semi-nudes, including images that have been digitally altered or wholly generated using AI.
+
+The Haven uses the term *nudes and semi-nudes* throughout, covering self-generated, AI-generated and altered imagery alike. Incidents are handled under the [[Child Protection and Safeguarding Policy v01.26]] and the DfE guidance *Sharing nudes and semi-nudes: advice for education settings working with children and young people*. Staff do not view, copy, download or store such imagery; the Designated Safeguarding Lead leads the response and escalates to the police or the Internet Watch Foundation where appropriate. A learner who reports an image is supported, not sanctioned.
+
+In-meeting AI assistants and automatic AI note-takers are disabled on Haven platforms. Use of AI by staff and learners is governed by the [[Responsible Use of AI Policy v10.26]].
 
 ## 10. Cyber-Incidents and Data Breaches
 In the event of a cyber-attack or data breach:
@@ -452,7 +469,7 @@ AI must **not** be used to:
 
 All AI use is overseen by senior leadership and aligned with data protection and safeguarding principles.
 
-## 11. Related Policies and Guidance
+## 12. Related Policies and Guidance
   - [[Child Protection and Safeguarding Policy v01.26]]
 
   - Online [[Behaviour and Regulation Policy v10.25]]

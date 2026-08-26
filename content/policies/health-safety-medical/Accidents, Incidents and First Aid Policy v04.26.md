@@ -39,7 +39,7 @@ related_policies:
   - "[[Data Protection, Confidentiality & Privacy Policy v10.25]]"
 source_file: "MERGED: First Aid Policy (Online Context) v01.26.docx + DRAFT (not ratified) Accidents, Incidents and First Aid Policy.docx"
 ingested: 2026-04-29
-notes: "v04.26 — merger of (i) the live First Aid Policy (Online Context) v01.26 and (ii) the unratified DRAFT Accidents, Incidents and First Aid Policy. Adopts the broader unified-incident framework of the DRAFT, retains placement-start and responsible-adult detail from the live version, and updates statutory references to KCSIE 2026, Online Safety Act 2023, and UK GDPR. Signed off 29 April 2026 by Proprietor and Governing Body."
+notes: "v04.26 — merger of (i) the live First Aid Policy (Online Context) v01.26 and (ii) the unratified DRAFT Accidents, Incidents and First Aid Policy. Adopts the broader unified-incident framework of the DRAFT, retains placement-start and responsible-adult detail from the live version, and updates statutory references to KCSIE 2026, Online Safety Act 2023, and UK GDPR. Signed off 29 April 2026 by Proprietor and Governing Body. KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
 ---
 
 **Date:** April 2026

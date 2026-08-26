@@ -3,9 +3,9 @@ title: "Mobile Phone Policy — Learners"
 short_id: "MPPL"
 slug: "mobile-phone-policy-learners"
 subtitle: "Use of mobile phones and personal devices by learners at The Haven"
-version: "05.26"
+version: "08.26"
 status: "live"
-last_reviewed: 2026-05-21
+last_reviewed: 2026-08-26
 next_review: 2027-05-21
 review_cycle: "annual"
 owner_role: "Designated Safeguarding Lead"
@@ -25,12 +25,13 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "Mobile Phone Policy - Learners.docx"
 ingested: 2026-05-21
-notes: ""
+notes: "Reviewed against Keeping Children Safe in Education 2026 (published 7 July 2026, in force 1 September 2026) on 26 August 2026. Out-of-cycle statutory review; the next scheduled review date is unchanged so that the annual cycle does not collapse onto one date. Filtering and monitoring wording aligned to the Risk Assessment - Learner Access from Personally-Owned Devices. PENDING DSL AND PROPRIETOR SIGN-OFF."
 ---
 # Mobile Phone Policy — Learners
 
 > [!info]
-> **Status:** live (signed off 29 April 2026) · **Version:** 05.26 · **Last reviewed:** 2026-05-21 · **Next review:** 2027-05-21
+> **Status:** live · **Version:** 08.26 · **Last reviewed:** 2026-08-26 · **Next review:** 2027-05-21
+> **Last signed off:** 29 April 2026 (v05.26). Revisions of 26 August 2026 are pending sign-off.
 > **Owner:** Designated Safeguarding Lead · **Approved by:** Proprietor + Governing Body
 
 ## 1. Purpose
@@ -74,6 +75,16 @@ These expectations apply equally to other personal devices alongside the learnin
 ### 4.3 Sensory and regulation use
 
 Use of a phone for music, fidget or regulation apps, timers, or calming visual content during a session is welcomed. The learner does not need to ask permission. If a learner needs to step away to use their phone to regulate, this is fine; rejoining is welcomed without comment.
+
+### 4.4 The statutory phone-free expectation, and how it applies here
+
+Keeping Children Safe in Education 2026 states that schools should be mobile phone-free environments by default, with anything other than that by exception only. That expectation is written for settings with premises, where a phone can be handed in at the start of the day and given back at the end.
+
+The Haven has no premises, no managed network and does not issue or manage devices: learners take part from devices they or their families own, on home internet connections The Haven does not administer. Learners are at home, frequently on the same device that is also their phone. The Haven cannot make a learner's home phone-free, does not ask families to attempt it, and will not write a rule it has no way of standing behind. Claiming a phone-free environment would be inaccurate, and inaccuracy in a safeguarding policy is a worse outcome than an honest limitation.
+
+What The Haven asks instead is set out in 4.1 to 4.3: during a live session the phone is either the learning device, or is set aside as far as the learner is able. Where phone use is getting in the way of a learner's learning or wellbeing, the response is the supportive one in section 11, not a sanction.
+
+This adaptation is deliberate. It is recorded here so that it reads as a considered position rather than an omission, and it is revisited whenever the statutory guidance changes or The Haven's device provision changes.
 
 ## 5. Recording, photographing and screenshotting
 

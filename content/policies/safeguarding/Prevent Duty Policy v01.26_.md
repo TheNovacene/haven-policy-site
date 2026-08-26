@@ -2,9 +2,9 @@
 title: "The Haven Prevent Duty Policy"
 short_id: "PDP"
 slug: "the-haven-prevent-duty-policy"
-version: "04.26"
+version: "08.26"
 status: "live"
-last_reviewed: 2026-04-29
+last_reviewed: 2026-08-26
 next_review: 2027-04-29
 review_cycle: "annual"
 owner_role: "Designated Safeguarding Lead"
@@ -40,17 +40,17 @@ related_policies:
   - "[[Staff Conduct Policy v10.25]]"
 source_file: "Prevent Duty Policy v01.26_.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Reviewed against Keeping Children Safe in Education 2026 (published 7 July 2026, in force 1 September 2026) on 26 August 2026. Out-of-cycle statutory review; the next scheduled review date is unchanged so that the annual cycle does not collapse onto one date. Filtering and monitoring wording aligned to the Risk Assessment - Learner Access from Personally-Owned Devices. PENDING DSL AND PROPRIETOR SIGN-OFF."
 ---
-**Date:** October 2025
+**Date:** August 2026
 
-**Review Date:** May 2026
+**Review Date:** April 2027
 
 **Coordinator:** the Designated Safeguarding Lead
 
 **Nominated Governor:** the Safeguarding Governor
 
-**Version:** v01.26
+**Version:** v08.26
 
 ## 1. Scope 
 
@@ -102,11 +102,11 @@ This policy aims to:
 
 ## 7. Online Safety and Digital Resilience
 
-● The Haven deploys age-appropriate filtering and monitoring systems aligned with DfE's "Meeting Digital and Technology Standards in Schools and Colleges" guidance.
+● The DfE guidance *Meeting Digital and Technology Standards in Schools and Colleges* applies to settings that own or manage their own devices and networks. The Haven has no premises, no managed network and does not issue or manage devices: learners take part from devices they or their families own, on home internet connections The Haven does not administer. The Haven therefore does not operate device-level filtering or monitoring. Its controls sit at the level of the Haven-managed account and platform, and the limits are recorded in the *Risk Assessment — Learner Access from Personally-Owned Devices*.
 
 ● Learners are educated about online safety, critical thinking, and misinformation through the curriculum.
 
-● Learner activity on school platforms is monitored, with appropriate escalation routes for concerning behaviour.
+● Learner activity within Haven platforms is visible to staff during supervised sessions, and session chat persists so that a concern can be reviewed factually afterwards. There is no automated alerting or keyword flagging; concerns reach the Designated Safeguarding Lead through disclosure, staff observation and the reporting routes in section 5, and are escalated from there.
 
 ## 8. External Speakers and Partnerships 
 
@@ -192,7 +192,7 @@ This policy aims to:
 
 ○ The Prevent Duty Guidance 2023
 
-○ Keeping Children Safe in Education (KCSIE) 2025
+○ Keeping Children Safe in Education (KCSIE) 2026
 
 ○ Working Together to Safeguard Children 2023
 

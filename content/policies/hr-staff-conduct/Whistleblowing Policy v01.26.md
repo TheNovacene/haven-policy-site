@@ -21,7 +21,7 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "Whistleblowing Policy v01.26.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "KCSIE reference updated from the 2025 to the 2026 edition on 26 August 2026 (KCSIE 2026 published 7 July 2026, in force 1 September 2026). Citation currency only; the policy was not otherwise re-reviewed. PENDING DSL AND PROPRIETOR SIGN-OFF."
 ---
 **Date:** January 2026  
 **Review Date:** October 2026 (or sooner if statutory guidance changes)  
@@ -36,7 +36,7 @@ This policy provides a clear, fair, and transparent framework for raising and re
 
   - the **Public Interest Disclosure Act 1998 (PIDA)**, and
 
-  - **Keeping Children Safe in Education (KCSIE) 2025**.
+  - **Keeping Children Safe in Education (KCSIE) 2026**.
 
 It should be read alongside:
 
