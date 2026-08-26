@@ -193,7 +193,7 @@ Step 3: Restorative and Disciplinary Action
 
 ### 🔹 4. Digital Safety and Communication Controls
 
-The Haven’s hybrid model includes digital platforms such as Pencil Spaces, Google Workspace, and Discord (moderated). The following controls are in place:
+The Haven’s model uses Google Workspace for Education — Google Meet for live sessions and Google Classroom as the learning platform — alongside TutorCruncher for administration. The Haven does not use unmoderated community chat platforms such as Discord for any learner communication. The following controls are in place:
 
 | Area                     | Control Measures                                                                                                   |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------ |

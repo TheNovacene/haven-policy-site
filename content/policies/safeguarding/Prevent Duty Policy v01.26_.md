@@ -160,7 +160,7 @@ This policy aims to:
 
 **d. IT and Filtering:**
 
-● The Haven's approved digital stack — **Google Classroom** (VLE/LMS), **Pencil Spaces** (collaborative whiteboard), **Google Workspace for Education** (Meet, Drive, Gmail) and **TutorCruncher** (administration and safeguarding records) — is configured with role-based access, age-appropriate filtering and active monitoring aligned with the DfE *Filtering and Monitoring Standards* (2024).
+● The Haven's approved digital stack — **Google Classroom** (VLE/LMS), **Google Workspace for Education** (Meet, Drive, Gmail) and **TutorCruncher** (administration and safeguarding records) — is configured with role-based access, age-appropriate filtering and active monitoring aligned with the DfE *Filtering and Monitoring Standards* (2024).
 
 ● The Haven does not use unmoderated community chat platforms (e.g. Discord) for learner communication. All learner interaction is on approved, monitored channels.
 

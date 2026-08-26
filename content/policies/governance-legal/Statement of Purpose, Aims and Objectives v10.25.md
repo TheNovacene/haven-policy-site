@@ -60,7 +60,7 @@ This Statement is informed by:
 
   - *Prevent Duty (Counter-Terrorism and Security Act 2015)*.
 
-  - Independent School Standards Regulations (2014, updated 2019 guidance).
+  - Independent School Standards Regulations (2014, updated 2019 guidance) — adopted as a voluntary benchmark; The Haven is not a DfE-registered independent school and these Standards do not apply to it as a matter of law.
 
   - *Children Acts 1989 and 2004*.
 
@@ -106,6 +106,6 @@ This Statement is informed by:
 ## Monitoring and Review
   - **Termly DSL-led checks**: Review implementation, spot emerging risks, and adapt provision.
 
-  - **Annual review**: Conducted by the DSL and governing board to ensure consistency with KCSIE, Independent School Standards, and other statutory frameworks.
+  - **Annual review**: Conducted by the DSL and governing board to ensure consistency with KCSIE, the Independent School Standards benchmark, and other applicable frameworks.
 
   - **Immediate interim review**: Triggered by significant changes in statutory guidance, Ofsted requirements, or safeguarding risks.

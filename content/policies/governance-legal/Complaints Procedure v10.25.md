@@ -19,8 +19,8 @@ sign_off_record:
 themes:
   - complaints
 compliance:
-  - "Independent School Standards Part 7 (Handling complaints)"
-  - "Education (Independent School Standards) Regulations 2014 (as amended)"
+  - "Independent School Standards Part 7 (Handling complaints) — voluntary benchmark"
+  - "Education (Independent School Standards) Regulations 2014 (as amended) — voluntary benchmark"
   - "Equality Act 2010"
 applies_to: ["haven"]
 related_policies:
@@ -32,7 +32,7 @@ related_policies:
   - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"
 source_file: "Complaints Procedure v10.25.docx"
 ingested: 2026-04-29
-notes: "A4 remediation 2026-04-29 — revised to achieve full compliance with Independent School Standards Part 7 (paragraphs 7.1–7.11). Five gaps closed: 7.3 accessibility statement; 7.7 three-person panel composition; 7.8 parental rights at hearing; 7.9 findings/inspection access; 7.11 confidentiality clause. Signed off 29 April 2026 by Proprietor and Governing Body."
+notes: "A4 remediation 2026-04-29 — revised to align fully with the Independent School Standards Part 7 benchmark (paragraphs 7.1–7.11). Five gaps closed: 7.3 accessibility statement; 7.7 three-person panel composition; 7.8 parental rights at hearing; 7.9 findings/inspection access; 7.11 confidentiality clause. Signed off 29 April 2026 by Proprietor and Governing Body."
 ---
 **Date:** April 2026 (refreshed)  
 **Review Date:** April 2027  
@@ -44,7 +44,7 @@ notes: "A4 remediation 2026-04-29 — revised to achieve full compliance with In
 
 The Haven is committed to listening to learners, parents/carers, and commissioning partners. We welcome feedback and view complaints as an opportunity to learn, improve, and strengthen trust.
 
-This procedure provides a clear, fair, and accessible route for raising concerns. It ensures that all complaints are handled promptly, impartially, and in accordance with the Independent School Standards (Part 7) and the Education (Independent School Standards) Regulations 2014 (as amended).
+This procedure provides a clear, fair, and accessible route for raising concerns. It ensures that all complaints are handled promptly, impartially, and in line with the Independent School Standards (Part 7) and the Education (Independent School Standards) Regulations 2014 (as amended). The Haven is not a DfE-registered independent school and those Standards do not apply to it as a matter of law. They are adopted here as a voluntary benchmark, so that families and commissioners get the same protections a registered setting would provide.
 
 **This policy is available to all parents and carers on request and is published on The Haven's website (https://thehavenonline.school/).**
 
@@ -105,7 +105,7 @@ If the complaint remains unresolved following the panel's decision, parents/care
 ## Monitoring and Review
 
   - Termly DSL-led checks identify patterns and ensure a proportionate response.
-  - Annual review by Governors ensures continued compliance with the **Independent School Standards (Part 7)**.
+  - Annual review by Governors ensures continued alignment with the **Independent School Standards (Part 7)** benchmark.
   - This policy will next be reviewed in **April 2027** or sooner should regulations or practice require amendment.
 
 ## Related Policies

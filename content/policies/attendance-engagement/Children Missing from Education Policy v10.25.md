@@ -34,6 +34,10 @@ notes: ""
 
 **Version:** 10.25
 
+> [!warning] Scope — under review
+> Parts of this policy read across from a maintained or registered school template. Sections 7 and 8 describe admission-register duties under the Education (Pupil Registration) (England) Regulations 2006, which apply to registered schools. **The Haven is not a DfE-registered school and does not hold an admission register in that statutory sense.** Where a learner is placed by a local authority or a commissioning school, the duty to maintain the register and to notify sits with that school or authority; The Haven's duty is to report absence and non-engagement promptly to them so they can discharge it.
+> This policy is scheduled for rebuild alongside the registers work identified in the OEAS Policy Readiness Review. Until then, read sections 7 and 8 as a description of the commissioning school's or local authority's duties and of The Haven's reporting obligations into them, not as duties The Haven holds directly.
+
 ## Statement of intent
 ### Legal framework
 1. Roles and responsibilities

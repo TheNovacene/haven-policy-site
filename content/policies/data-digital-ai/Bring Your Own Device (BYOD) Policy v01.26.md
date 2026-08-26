@@ -71,7 +71,7 @@ The goal is to balance flexibility for staff with robust protection for Haven le
 ## 2. Scope
 This policy applies to all staff, freelancers, contractors, and volunteers who use **personally owned devices** (laptops, tablets, or smartphones) to access:
 
-  - The Haven systems or data (e.g., Google Workspace, TutorCruncher, Google Classroom, Pencil Spaces)
+  - The Haven systems or data (e.g., Google Workspace, Google Meet, Google Classroom, TutorCruncher)
 
   - Learner or family communications
 
@@ -82,7 +82,7 @@ This policy applies to all staff, freelancers, contractors, and volunteers who u
 
   - **Device**: Any personal computer, tablet, or mobile phone used to access Haven data or systems.
 
-  - **Approved Platforms**: Those explicitly authorised by The Haven (e.g., Google Workspace for Education, Pencil Spaces, Google Classroom, TutorCruncher).
+  - **Approved Platforms**: Those explicitly authorised by The Haven (e.g., Google Workspace for Education, Google Meet, Google Classroom, TutorCruncher).
 
   - **Sensitive Data**: Any learner, family, staff, or confidential school information covered under UK GDPR.
 

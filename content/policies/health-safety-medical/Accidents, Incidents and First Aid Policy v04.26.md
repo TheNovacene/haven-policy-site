@@ -195,7 +195,7 @@ See [[Supporting Medical Conditions Policy (inc. Administration of Medicines) v1
 
 ## 10. Recording and Reporting
 
-All accidents, medical events, safeguarding incidents, online safety incidents and near misses are recorded within The Haven's secure safeguarding system.
+All accidents, medical events, safeguarding incidents, online safety incidents and near misses are recorded within The Haven's safeguarding record system, currently TutorCruncher.
 
 Records must include:
 

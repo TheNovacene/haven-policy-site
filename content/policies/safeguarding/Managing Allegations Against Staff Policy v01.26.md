@@ -200,8 +200,10 @@ In these cases:
 
   - the LADO is contacted within one working day.
 
-> [!note] Governance naming — to be confirmed at sign-off
-> The Haven is operated by a charity. Where this policy says “Proprietor / Safeguarding Governor”, the equivalent role under the charity’s governance is to be confirmed against the Governance and Legal Structure document, and the wording aligned, before this version is signed off.
+> [!note] Governance naming
+> Confirmed against the ratified Governance and Legal Structure (v08.26): the Autistic Girls Network **board of trustees acts as proprietor**, and reserved matters — including approval of the annual policy cycle and appointment of the Head — sit with the board. Where this policy says “Proprietor”, that means the charity board of trustees, which is the recipient Keeping Children Safe in Education Part Four intends for an allegation concerning the Head.
+>
+> **One point remains for the board to settle:** this policy currently pairs “Proprietor” with “Safeguarding Governor” as case manager. A governor holding the safeguarding portfolio and the chair of the governing body are not the same role, and Part Four points to the chair. The board should confirm whether the case manager for an allegation concerning the Head is the Co-Chair of Governors, the Safeguarding Governor, or the board collectively, and this policy be aligned at the next review. Whichever is chosen, the direct route to the Local Authority Designated Officer above is unaffected and remains available to any reporter at any time.
 
 ## 8. Managing the Allegation Process
 ### Stage 1 – Initial Response

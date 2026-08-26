@@ -81,7 +81,7 @@ It aims to protect:
 Signing this agreement confirms that you understand, commit to, and will uphold these standards in all professional and digital contexts.
 
 ## 2. Scope
-This agreement applies to all The Haven employees, contractors, volunteers, mentors, and governors who use digital technology for any work-related purpose — including laptops, phones, and online platforms (Pencil Spaces, Google Classroom, Google Workspace, TutorCruncher). Note: The Haven does not use unmoderated community chat platforms (e.g. Discord) for any work-related learner communication.
+This agreement applies to all The Haven employees, contractors, volunteers, mentors, and governors who use digital technology for any work-related purpose — including laptops, phones, and online platforms (Google Meet, Google Classroom, Google Workspace, TutorCruncher). Note: The Haven does not use unmoderated community chat platforms (e.g. Discord) for any work-related learner communication.
 
 ## 3. Core Principles
 To ensure safe and lawful use of digital and AI-based tools, the following roles have defined responsibilities:
@@ -90,7 +90,7 @@ To ensure safe and lawful use of digital and AI-based tools, the following roles
 
 **All staff** - Follow the expectations in this agreement, and seek advice if unsure.
 
-**DPO (CEO)** - Ensure compliance with UK GDPR, monitor incidents, maintain records, and configure AI and data-retention settings — with technical support from the school’s Systems Manager - ensuring AI tools and Workspace remain The Haven-owned and compliant.
+**DPO (CEO)** - Ensure compliance with UK GDPR, monitor incidents, maintain records, and configure AI and data-retention settings — with technical support from the Systems Architect - ensuring AI tools and Workspace remain The Haven-owned and compliant.
 
 ### Safety First
   - I will protect learners’ digital identities and never share identifying details online.

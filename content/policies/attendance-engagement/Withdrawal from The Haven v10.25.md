@@ -38,12 +38,12 @@ notes: ""
 We’re a small, relationship-led, online provision. If your child can (with scaffolding) connect to live sessions, communicate with a mentor, and produce artefacts of learning, they’ll likely thrive. If—after real attempts to adapt—there’s persistent distress or non-engagement, we’ll exit with care: a short transition plan, full handover notes, and pro-rata fees settled.
 
 ## Our fit philosophy (what Haven is and isn’t)
-  - **Is:** neuro-affirming, mentor-centred, artefact-based learning (Google Classroom briefs + Pencil Spaces boards), short live blocks, daily mentor check-ins, optional body-doubling (Open Path).
+  - **Is:** neuro-affirming, mentor-centred, artefact-based learning (Google Classroom briefs + live Google Meet sessions), short live blocks, daily mentor check-ins, optional body-doubling (Open Path).
 
   - **Isn’t:** passive video school, attendance theatre, or 6+ hours on-camera. We measure **participation and artefacts**, not seat time.
 
 ## What we look for (with scaffolding)
-  - **Connection:** can join Pencil Spaces (even via phone at first), respond in chat/emojis, and follow a mentor link.
+  - **Connection:** can join a Google Meet session (even via phone at first), respond in chat/emojis, and follow a mentor link.
 
   - **Communication:** can check in with a mentor daily (voice, chat, or short note) and let us know if they’re opting for independent work that day.
 
@@ -56,7 +56,7 @@ We’re a small, relationship-led, online provision. If your child can (with sca
 ## How we decide (a phased, evidence-based process)
 - **Soft Start (Week 1):** low-stakes onboarding. We remove barriers (accounts, logins, routines). Success = gets into spaces and meets mentor.
 
-- **Weeks 2–3:** Minimum Viable Week. Success = 3+ live touches/week (mentor or class) and **one artefact/week** in Google Classroom/Pencil Spaces.
+- **Weeks 2–3:** Minimum Viable Week. Success = 3+ live touches/week (mentor or class) and **one artefact/week** in Google Classroom.
 
 - **Week 6 Fit Check:** Mentor + parent + learner review. We look at: access, regulation, artefacts, progress toward goals. Decision: continue / continue with adjustments / begin off-ramp.
 

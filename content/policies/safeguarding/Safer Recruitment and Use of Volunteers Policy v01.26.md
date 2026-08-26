@@ -25,7 +25,7 @@ compliance:
   - "Equality Act 2010"
   - "UK GDPR"
   - "Data Protection Act 2018"
-  - "Independent School Standards Part 4"
+  - "Independent School Standards Part 4 — voluntary benchmark"
   - "Childcare (Disqualification) Regulations 2018"
   - "Working Together to Safeguard Children 2023"
   - "Children Act 1989"

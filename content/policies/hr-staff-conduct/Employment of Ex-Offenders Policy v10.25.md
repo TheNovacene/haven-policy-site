@@ -75,7 +75,7 @@ This policy operates under:
   - *Keeping Children Safe in Education 2026  
     > *
 
-  - *Independent School Standards (Part 4 – Suitability of Staff)  
+  - *Independent School Standards (Part 4 – Suitability of Staff) — adopted as a voluntary benchmark; The Haven is not a DfE-registered independent school and these Standards do not apply to it as a matter of law  
     > *
 
 ## 5 Disclosure and Recruitment Process

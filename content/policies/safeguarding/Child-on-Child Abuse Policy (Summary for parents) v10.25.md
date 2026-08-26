@@ -88,7 +88,7 @@ This policy has due regard to:
 
   - *Equality Act 2010*.
 
-  - Independent School Standards (Education (Independent School Standards) Regulations 2014, as amended).
+  - Independent School Standards (Education (Independent School Standards) Regulations 2014, as amended) — adopted as a voluntary benchmark; The Haven is not a DfE-registered independent school and these Standards do not apply to it as a matter of law.
   - Online Safety Act 2023 (in force in stages 2024–2025; user-to-user service duties on content harmful to children).
 
 ## Definitions

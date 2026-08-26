@@ -154,7 +154,7 @@ The Recovery Team is responsible for maintaining business continuity and ensurin
     
       - **Responsibilities:** Student and staff well-being and a compassionate point of contact for families.
 
-  - **Team Member:** the Technical Lead, Technical Lead.
+  - **Team Member:** the Systems Architect.
     
       - **Responsibilities:** Communications, data & systems management.
 

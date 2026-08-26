@@ -74,11 +74,11 @@ We design and deliver a broad, balanced, and flexible curriculum that:
 ## 3. Implementation of Teaching & Learning
 At The Haven, teaching and learning happen across three main modes:
 
-  - **Live (Pencil Spaces):** Small-group and 1:1 sessions with subject tutors. Relational presence is key: even silent participation is valued as symbolic charge.
+  - **Live (Google Meet):** Small-group and 1:1 sessions with subject tutors. Relational presence is key: even silent participation is valued as symbolic charge.
 
   - **Asynchronous (Google Classroom):** Structured online courses with creative prompts, flexible activities, and optional assessments, designed to allow learners to revisit material at their own pace.
 
-  - **Independent Exploration:** Learners may request personal Pencil Spaces for self-directed work, side quests, or creative journaling. Mentors support these but not routinely marked.
+  - **Independent Exploration:** Learners may request personal spaces in Google Classroom for self-directed work, side quests, or creative journaling. Mentors support these but not routinely marked.
 
 Tutors are encouraged to adapt materials in real time, co-create projects with learners, and integrate symbolic tools such as glyphons and reflective journaling.
 
@@ -145,7 +145,7 @@ We measure the success of our teaching and learning through:
 
 All teaching and learning practices at The Haven are rooted in safeguarding and wellbeing.
 
-  - The Haven Cloud (Pencil Spaces) is staff-moderated and designed to balance freedom with safety.
+  - The Haven's online learning environment (Google Classroom and Google Meet) is staff-moderated and designed to balance freedom with safety.
 
   - Digital wellbeing is taught explicitly, including symbolic literacy and relational use of AI.
 

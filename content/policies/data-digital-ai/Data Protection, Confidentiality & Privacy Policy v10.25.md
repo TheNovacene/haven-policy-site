@@ -118,7 +118,7 @@ The Haven processes personal data to support learning, meet statutory duties, ma
 
   - Personal images, video, or voice recordings are never shared publicly without explicit parental consent. Lesson recordings are only available to class members. If recordings need to be shared for safeguarding reasons, the identity of learners not related to the incident will be obscured.
 
-  - Only secure platforms are used (TutorCruncher, Pencil Spaces, Google Classroom, Google Workspace).
+  - Only secure platforms are used (TutorCruncher, Google Meet, Google Classroom, Google Workspace).
 
 *Termly joint DSL/DPO reviews monitor confidentiality breaches.*
 
@@ -150,7 +150,8 @@ Where safeguarding applies, consent may be overridden to prevent harm.
 
   - TutorCruncher – administration, billing, communications
 
-  - Pencil Spaces – teaching and live interaction
+  - Google Meet – live teaching and interaction
+  - Google Classroom – learning platform, resources and assignments
 
   - Google Workspace – secure storage and safeguarding records
 

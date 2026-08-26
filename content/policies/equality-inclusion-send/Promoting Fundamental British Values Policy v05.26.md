@@ -18,7 +18,7 @@ themes:
   - "british-values"
   - "spiritual-moral-social-cultural"
 compliance:
-  - "Independent School Standards (SMSC)"
+  - "Independent School Standards (SMSC) — voluntary benchmark"
   - "Prevent Duty"
 applies_to: ["haven"]
 related_policies: []

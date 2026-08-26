@@ -1,7 +1,7 @@
 {
   "_comment": "Haven role holders. DECISION 2026-08-16 (Proprietor): the public site publishes ROLES, not names — role placeholders substitute to role titles. Actual postholder names are recorded privately in vault _meta/role-holders.md only.",
   "_target": "haven",
-  "_last_updated": "2026-04-29",
+  "_last_updated": "2026-08-26",
   "roles": {
     "{{Proprietor}}": "the Proprietor",
     "{{Headteacher}}": "the Head",
@@ -9,7 +9,9 @@
     "{{Designated Safeguarding Lead}}": "the Designated Safeguarding Lead",
     "{{Deputy DSL}}": "the Deputy DSL",
     "{{SENCo}}": "the SENCo",
-    "{{Technical Lead}}": "the Technical Lead",
+    "{{Systems Architect}}": "the Systems Architect",
+    "{{Technical Lead}}": "the Systems Architect",
+    "{{Systems Manager}}": "the Systems Architect",
     "{{Safeguarding Governor}}": "the Safeguarding Governor",
     "{{Lead Governor}}": "the Co-Chair of Governors",
     "{{H&S Governor}}": "the Health and Safety Governor",

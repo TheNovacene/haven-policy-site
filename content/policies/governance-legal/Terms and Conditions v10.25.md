@@ -179,7 +179,7 @@ Parents/carers must ensure that:
 
 Where The Haven becomes aware of unsafe conditions, sessions may be suspended until the matter is resolved.
 
-This clause ensures compliance with **KCSIE 2026**, **Independent School Standards (Part 3: Welfare, Health and Safety of Pupils)**, and the **DSL Addendum for Online and Hybrid Safeguarding Contexts**.
+This clause aligns with **KCSIE 2026** and the **DSL Addendum for Online and Hybrid Safeguarding Contexts**, and — as a voluntary benchmark rather than a legal obligation — with the **Independent School Standards (Part 3: Welfare, Health and Safety of Pupils)**. The Haven is not a DfE-registered independent school.
 
 ### 7.3 Accidents or Incidents in the Home
 The Haven staff will record and report any incident or visible injury observed during a session in line with safeguarding procedures.
@@ -189,7 +189,7 @@ However, The Haven is **not liable** for accidents or injuries that occur in the
 Parents/carers retain **primary duty of care** for the physical environment during all remote and hybrid learning.
 
 ### 7.4 Safeguarding Reports and Digital Records
-All learning and communication through TutorCruncher, Pencil Spaces, and related platforms may generate **attendance, engagement, wellbeing, or safeguarding notes**.  
+All learning and communication through TutorCruncher, Google Classroom, Google Meet and related platforms may generate **attendance, engagement, wellbeing, or safeguarding notes**.  
 These records form part of The Haven’s statutory safeguarding file and are held securely in accordance with the *[[Data Protection, Confidentiality & Privacy Policy v10.25]] (v1.0)* and *Keeping Children Safe in Education 2026*.  
 Parents/carers acknowledge that relevant information may be shared, on a need-to-know basis, with the DSL, deputy DSL, or appropriate external agencies (e.g. local authority, health, or social care) where safeguarding or wellbeing concerns arise.
 

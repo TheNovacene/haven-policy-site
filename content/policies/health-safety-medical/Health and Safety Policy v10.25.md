@@ -49,6 +49,9 @@ notes: ""
 
   - **Parents/Carers**: Retain primary responsibility for the physical environment in which learners access The Haven provision. The Haven supports them with guidance on safe digital learning spaces.
 
+### Competence
+The Proprietor holds a recognised IOSH-accredited health and safety qualification, and is the point of competent advice for the purposes of the Management of Health and Safety at Work Regulations 1999. The Health and Safety Governor provides governance oversight. Where a matter falls outside that competence, external advice is sought and recorded.
+
 ## 3. Online Health and Safety
   - **Digital Safety**: The Haven follows its **[[Online Safety & Acceptable Use v01.26]] (5.18)** to protect learners from online harms.
 

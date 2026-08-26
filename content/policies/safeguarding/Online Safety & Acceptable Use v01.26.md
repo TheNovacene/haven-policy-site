@@ -132,13 +132,13 @@ The Haven uses a restricted, approved set of platforms. Use of unapproved platfo
 </tr>
 <tr class="even">
 <td><blockquote>
-<p><strong>Pencil Spaces</strong> (or equivalent whiteboard tool)</p>
+<p><strong>Google Slides and in-session annotation</strong></p>
 </blockquote></td>
 <td><blockquote>
-<p>Live collaborative learning</p>
+<p>Collaborative whiteboarding and live annotation during sessions</p>
 </blockquote></td>
 <td><blockquote>
-<p>Controlled room access; no private messaging; session monitoring</p>
+<p>Held within the Haven Workspace tenant; access controlled by Haven account; no private messaging</p>
 </blockquote></td>
 </tr>
 <tr class="odd">
@@ -396,7 +396,7 @@ The DfE *Filtering and Monitoring Standards* (2024) apply to devices and network
 
 The Haven therefore does not filter or monitor learner devices, browsers, home networks, personal accounts or phones, and receives no keystroke, search-term or content alerts. There is no automated safeguarding alerting. What The Haven does control is the Haven-managed account and the Haven-managed platforms: administrative settings on accounts, restrictions on external contact and third-party application access, platform configuration, persistent session chat, and the checking of every link, video and resource before it is shared. The full analysis, including residual risk, is held in the *Risk Assessment — Learner Access from Personally-Owned Devices*.
 
-Responsibility for filtering and monitoring is held by a named member of the senior leadership team, supported by the Designated Safeguarding Lead and the Technical Lead, with oversight by the Safeguarding Governor. In line with Keeping Children Safe in Education 2026, the arrangements that do exist are reviewed at least once every academic year and the review is recorded — when the checks took place, which accounts, platforms and environments were tested, what was identified, and what was done about it — alongside the existing termly proportionality review.
+Responsibility for filtering and monitoring is held by a named member of the senior leadership team, supported by the Designated Safeguarding Lead and the Systems Architect, with oversight by the Safeguarding Governor. In line with Keeping Children Safe in Education 2026, the arrangements that do exist are reviewed at least once every academic year and the review is recorded — when the checks took place, which accounts, platforms and environments were tested, what was identified, and what was done about it — alongside the existing termly proportionality review.
 
 Where The Haven provides or manages devices in future, the DfE standards will apply in full and a filtering and monitoring product will be required before those devices are issued. Any monitoring introduced will be overt: declared to learners and families before it begins, limited to what is necessary, explained in terms the learner can understand, and recorded in the DPIA. The Haven does not deploy covert monitoring.
 

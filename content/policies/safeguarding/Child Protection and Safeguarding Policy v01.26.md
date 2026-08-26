@@ -165,7 +165,7 @@ It is also aligned with:
 ● Local safeguarding partner arrangements (by location of learner or provision)
 
 ## Scope and platforms in use
-The Haven delivers learning in **hyflex environments** (see definitions): live online lessons, occasional in-person activities, and asynchronous resources. The following platforms are in scope and governed by this policy and linked procedures: **Pencil Spaces** (core VLE), **Google Workspace/Meet**, **TutorCruncher** (admin), and **email**.  
+The Haven delivers learning in **hyflex environments** (see definitions): live online lessons, occasional in-person activities, and asynchronous resources. The following platforms are in scope and governed by this policy and linked procedures: **Google Classroom** (core VLE), **Google Meet** (live sessions), **Google Workspace**, **TutorCruncher** (administration and the safeguarding record), and **email**.  
 No external community chat platforms are used for learner communication unless expressly authorised by the DSL and configured to Haven standards.
 
 ## Definitions (key terms)
@@ -222,7 +222,7 @@ The Haven adopts a contextual safeguarding approach, recognising that learners�
 ## Digital Safety and RSHE
 ● The DfE *Filtering and Monitoring Standards* apply to devices and networks a setting owns or manages. The Haven has no premises, no managed network and does not issue or manage devices: learners take part from devices they or their families own, on home internet connections The Haven does not administer. The Haven therefore does not filter or monitor learner devices and receives no automated alerts. Control is exercised over Haven-managed accounts and platforms; the limits of that perimeter, and the controls that stand in their place, are recorded in the *Risk Assessment — Learner Access from Personally-Owned Devices*.
 
-● Responsibility for technical oversight and cyber security rests with the Technical Lead, working with the Data Protection Officer, in line with the DfE *Cyber Security Standards for Schools and Colleges* and current DfE guidance on generative AI in education.
+● Responsibility for technical oversight and cyber security rests with the Systems Architect, working with the Data Protection Officer, in line with the DfE *Cyber Security Standards for Schools and Colleges* and current DfE guidance on generative AI in education.
 
 ● The Haven’s curriculum includes explicit RSHE content on online safety. Teaching addresses the four areas of online risk: content, contact, conduct, and commerce. Following Keeping Children Safe in Education 2026, generative AI is treated as a risk factor within contact and conduct — including harmful interactions with AI chatbots and companion-style systems, and the creation or sharing of nudes and semi-nudes that have been digitally altered or wholly generated using AI. Learners are supported to navigate misinformation, AI risks, sextortion, and digital misogyny.
 
@@ -271,7 +271,7 @@ and escalating online incidents
 
 behaviour
 
-● The Designated Safeguarding Lead reviews online safety concerns and platform-level settings termly to identify safeguarding trends. The Technical Lead and the Data Protection Officer maintain and configure the technical systems. There is no automated alerting on learner device use; concerns reach the DSL through disclosure, staff observation and the reporting routes set out in this policy.
+● The Designated Safeguarding Lead reviews online safety concerns and platform-level settings termly to identify safeguarding trends. The Systems Architect and the Data Protection Officer maintain and configure the technical systems. There is no automated alerting on learner device use; concerns reach the DSL through disclosure, staff observation and the reporting routes set out in this policy.
 
 ## Managing disclosures & reporting (how to act, how to tell us)
 **If a child discloses to you:**
@@ -306,9 +306,9 @@ Use the Haven safeguarding log/system. Record: date/time; who was present; **ver
 
   - Patterns of recurring concern will be flagged for early intervention.
 
-  - All records are digital and maintained through The Haven’s online safeguarding log.
+  - All records are digital and maintained in The Haven's safeguarding record system, currently TutorCruncher. The system in use is named here deliberately; if it is replaced, this policy is updated at the same time.
 
-  - All safeguarding chronologies, family communications, and records of intervention are maintained within the digital safeguarding system.
+  - All safeguarding chronologies, family communications, and records of intervention are maintained within the same system.
 
   - Staff receive training to ensure consistency, curiosity, and compliance in all safeguarding documentation.
 
@@ -350,10 +350,15 @@ Haven uses safer recruitment for onsite and online roles: safeguarding-signalled
 
 ## Out-of-hours provision & lone working (cover and boundaries)
 Out-of-hours provision refers to any online activity conducted beyond normal operating times (e.g. evening or weekend sessions). Where Haven runs activities outside core hours, a **safeguarding-competent lead** is on call. If DSL/Deputy DSL are unavailable, a named senior leader trained to DSL standard provides cover.  
-Staff must comply with the *[[Lone Working Policy v10.25]]*, including venue risk assessments, agreed check-ins, and approved communication channels. For urgent concerns: ensure immediate safety → **999** if required → notify on-call safeguarding lead → record immediately on the safeguarding log → follow Emergency Duty Service as needed.
+Staff must comply with the *[[Lone Working Policy v10.25]]*, including venue risk assessments, agreed check-ins, and approved communication channels. For urgent concerns: ensure immediate safety → **999** if required → notify on-call safeguarding lead → record immediately on the safeguarding log in TutorCruncher → follow Emergency Duty Service as needed.
+
+## Who the Designated Safeguarding Lead is, and how to reach them
+This published policy names the **role**, not the individual. The names and contact details of the current Designated Safeguarding Lead and Deputy Designated Safeguarding Lead are displayed prominently in TutorCruncher, where learners, families, staff and commissioning partners see them on signing in. They are also given at learner and family induction, in staff induction and training, and to commissioners in contracting.
+
+The role is named rather than the person on the public site because publishing an individual's name on an open website makes it searchable against them personally. This is a deliberate decision of the Proprietor, not an omission, and it does not affect anyone's ability to find out who to contact.
 
 ## Filtering & monitoring (leadership oversight)
-Responsibility for filtering and monitoring is held by a named member of the senior leadership team, supported by the Designated Safeguarding Lead and the Technical Lead. In line with Keeping Children Safe in Education 2026, arrangements are reviewed at least once every academic year and the review is recorded — when the checks took place, what was checked, what was identified and what was done about it.
+Responsibility for filtering and monitoring is held by a named member of the senior leadership team, supported by the Designated Safeguarding Lead and the Systems Architect. In line with Keeping Children Safe in Education 2026, arrangements are reviewed at least once every academic year and the review is recorded — when the checks took place, what was checked, what was identified and what was done about it.
 
 What is reviewed reflects what The Haven actually controls: administrative settings on Haven accounts, platform configuration, restrictions on external contact, and the checking of resources before they are shared. The Haven does not operate device-level filtering or automated monitoring of learners, and does not claim to. The safeguarding response to that limitation is educational and relational rather than technical, and is set out in the *Risk Assessment — Learner Access from Personally-Owned Devices*.
 

@@ -92,13 +92,13 @@ Staff may use AI or automation tools only through school-approved accounts withi
 
 **All staff** - Follow the expectations in this agreement, and seek advice if unsure.
 
-**DPO (CEO)** - Ensure compliance with UK GDPR, monitor incidents, maintain records, and configure AI and data-retention settings — with technical support from the Systems Manager - ensuring AI tools and Workspace remain The Haven-owned and compliant.
+**DPO (CEO)** - Ensure compliance with UK GDPR, monitor incidents, maintain records, and configure AI and data-retention settings — with technical support from the Systems Architect - ensuring AI tools and Workspace remain The Haven-owned and compliant.
 
 No identifiable learner, family, or colleague information may be entered into AI systems. Any uncertainty or suspected data exposure must be reported to the DPO and, where safeguarding is affected, to the DSL.
 
 ## 4. Appearance and Environment
 **4.1 Virtual Learning Space  
-**Staff should use The Haven’s approved Pencil Spaces backgrounds during sessions and ensure their environment is calm, quiet, and free from distractions.
+**Staff should use The Haven’s approved backgrounds during live sessions and ensure their environment is calm, quiet, and free from distractions.
 
 **4.2 Clothing & Presentation  
 **While we encourage authenticity, clothing should be appropriate for a learning setting and culturally respectful. Branded The Haven wear will be provided where appropriate.
@@ -154,7 +154,7 @@ All staff are expected to maintain clear, professional boundaries in both their 
 
   - Professional curiosity online (e.g., viewing a student’s social media for safeguarding reasons) may only occur **under DSL guidance** and must be recorded.
 
-  - All communication with learners and families must take place **via approved Haven platforms** (Pencil Spaces, TutorCruncher, Google Classroom or The Haven email).
+  - All communication with learners and families must take place **via approved Haven platforms** (Google Meet, Google Classroom, TutorCruncher or The Haven email).
 
 Any breach of these boundaries is treated as a **low-level concern** under The Haven’s Low-Level Concerns Procedure and may lead to further investigation.
 
