@@ -43,14 +43,14 @@ notes: ""
 ## 2. Roles and Responsibilities
   - **Head/DSL**: Overall responsibility for health and safety, including ensuring compliance with statutory duties.
 
-  - **Health & Safety Coordinator (nominated annually)**: Oversees risk assessments, incident logs, and training.
+  - **Health and Safety Lead**: Named holder of the competent-person function (see Competence below). Oversees risk assessments, incident logs, and training.
 
   - **All Staff**: Responsible for following safe working practices, reporting hazards, and participating in training.
 
   - **Parents/Carers**: Retain primary responsibility for the physical environment in which learners access The Haven provision. The Haven supports them with guidance on safe digital learning spaces.
 
 ### Competence
-The Proprietor holds a recognised IOSH-accredited health and safety qualification, and is the point of competent advice for the purposes of the Management of Health and Safety at Work Regulations 1999. The Health and Safety Governor provides governance oversight. Where a matter falls outside that competence, external advice is sought and recorded.
+The **Health and Safety Lead** holds a recognised IOSH-accredited health and safety qualification and is the point of competent advice for the purposes of the Management of Health and Safety at Work Regulations 1999. The role is currently held by the Proprietor. The Health and Safety Governor provides governance oversight, and is a different person from the Health and Safety Lead. Where a matter falls outside that competence, external advice is sought and recorded.
 
 ## 3. Online Health and Safety
   - **Digital Safety**: The Haven follows its **[[Online Safety & Acceptable Use v01.26]] (5.18)** to protect learners from online harms.
