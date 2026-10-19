@@ -60,4 +60,4 @@ This site publishes The Haven's policies in full. The Haven is owned and operate
 
 ---
 
-Build target: `haven`. Last refresh: 29 April 2026.
+Build target: `haven`. Last refresh: 19 October 2026.

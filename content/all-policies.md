@@ -76,6 +76,7 @@ audience, see the [audience packs](audience/). For a thematic view, see the
 - [Risk Assessment Policy](/policies/health-safety-medical/Risk-Assessment-Policy-v10.25)
 - [RSHE Policy v.02.26](/policies/safeguarding/RSHE-Policy-v.02.26)
 - [SEND Policy](/policies/equality-inclusion-send/SEND-Policy-v01.26)
+- [Service Providers and Data Processors](/policies/data-digital-ai/Service-Providers-and-Data-Processors)
 - [Site Plan Statement: Online Provision](/policies/governance-legal/Site-Plan-Statement---Online-Provision-v07.26)
 - [Smoking and Vaping Policy](/policies/safeguarding/Smoking-and-Vaping-Policy-v05.26)
 - [Staff Conduct Policy](/policies/hr-staff-conduct/Staff-Conduct-Policy-v10.25)
@@ -84,7 +85,7 @@ audience, see the [audience packs](audience/). For a thematic view, see the
 - [Stretch and Challenge Policy](/policies/curriculum-teaching-quality/Stretch-and-Challenge-Policy-v05.26)
 - [Structure of Organisation](/policies/governance-legal/Structure-of-Organisation-v05.26)
 - [Supporting Medical Conditions Policy (inc. Administration of Medicines)](/policies/health-safety-medical/Supporting-Medical-Conditions-Policy-(inc.-Administration-of-Medicines)-v10.25)
-- [Teaching & Learning Policy (2025/26)](/policies/curriculum-teaching-quality/Teaching--and--Learning-Policy-v10.25)
+- [Teaching & Learning Policy (2025–26)](/policies/curriculum-teaching-quality/Teaching--and--Learning-Policy-v10.25)
 - [Transportation Policy for Service Users](/policies/health-safety-medical/Transportation-Policy-for-Service-Users-v10.25)
 - [Whistleblowing Policy](/policies/hr-staff-conduct/Whistleblowing-Policy-v01.26)
 

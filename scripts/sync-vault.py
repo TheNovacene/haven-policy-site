@@ -10,6 +10,7 @@ Usage:
   python3 scripts/sync-vault.py [--target haven|generic|neo] [--vault PATH] [--dry-run]
 """
 
+import datetime as _dt
 import argparse
 import json
 import re
@@ -265,7 +266,10 @@ def _all_policies_md(published_index: list) -> str:
     lines = []
     for entry in sorted_entries:
         slugged_url = quartz_slug(entry["url"])
-        lines.append(f'- [{entry["title"]}](/{slugged_url})')
+        # A "/" in a link label (e.g. "2025/26") is mangled by Quartz's link
+        # processing, which showed only "26)". Use an en dash in the label.
+        label = entry["title"].replace("/", "–")
+        lines.append(f'- [{label}](/{slugged_url})')
     body = "\n".join(lines) if lines else "_No policies published yet._"
 
     return f"""---
@@ -356,7 +360,7 @@ This site publishes The Haven's policies in full. The Haven is owned and operate
 
 ---
 
-Build target: `{target}`. Last refresh: 29 April 2026.
+Build target: `{target}`. Last refresh: {_dt.date.today().strftime("%-d %B %Y")}.
 """
 
 

@@ -7,6 +7,8 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import havenFooterStyle from "./styles/havenFooter.scss"
 
 const HavenFooter: QuartzComponent = ({ }: QuartzComponentProps) => {
+  // Date of the build, so the footer never goes stale.
+  const lastRefresh = new Date().toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" })
   return (
     <footer class="haven-footer">
       <div class="haven-footer-links">
@@ -18,7 +20,7 @@ const HavenFooter: QuartzComponent = ({ }: QuartzComponentProps) => {
         The Haven is part of <a href="https://autisticgirlsnetwork.org/">Autistic Girls Network</a>, registered as a charity in England and Wales (1196655) and in Scotland (SC054837).
       </p>
       <p class="haven-footer-meta">
-        Site generated from the Haven Policy Vault. Last refresh: April 2026.
+        Site generated from the Haven Policy Vault. Last refresh: {lastRefresh}.
       </p>
     </footer>
   )

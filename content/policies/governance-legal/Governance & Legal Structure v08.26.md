@@ -65,7 +65,7 @@ The full accountability chain, tiered structure and role portfolios are set out 
 
 - Safeguarding procedures have regard to Keeping Children Safe in Education (KCSIE 2026) and Working Together to Safeguard Children 2023, and are updated as statutory guidance changes.
 - The full policy library is published at [policies.thehavenonline.school](https://policies.thehavenonline.school/), reviewed on a scheduled annual cycle, and approved through the sign-off route recorded on each policy.
-- Data protection is managed under UK GDPR and the Data Protection Act 2018, with the outsourced Data Protection Officer advising on compliance, DPIAs and breach response.
+- Data protection is managed under UK GDPR and the Data Protection Act 2018, with the Data Protection Officer advising on compliance, DPIAs and breach response.
 
 ## 5. Review
 
