@@ -102,7 +102,7 @@ Exams are registered and charged privately by our Exam Centre Partner, Tutors an
 
   - Entries are processed only when payment is received in full.
 
-  - Typical 2025/26 fees range from **£180–£220 per GCSE subject**, with additional charges for Access Arrangements, NEA handling, or Home Invigilation (see *Haven [[Examinations Policy v10.25]] 2025-26*, Appendix A).
+  - Typical 2025/26 fees range from **£180–£220 per GCSE subject**, with additional charges for Access Arrangements, NEA handling, or Home Invigilation (see *Haven [[Examinations Policy v10.26]] 2025-26*, Appendix A).
 
   - The Haven does not add any administrative surcharge to T&E fees.
 

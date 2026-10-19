@@ -121,7 +121,7 @@ A technology issue would impact our core functions by disrupting our ability to 
 
   - In case of serious disruption, the Proprietor will notify relevant schools & LAs where applicable.
 
-  - Where exams are impacted, reference our [[Examinations Policy v10.25]].
+  - Where exams are impacted, reference our [[Examinations Policy v10.26]].
 
 **Resource Requirements:**
 

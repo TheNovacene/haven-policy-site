@@ -26,7 +26,7 @@ The policies and procurement documents Local Authority commissioners and school-
 
 - [Teaching & Learning Policy](../policies/curriculum-teaching-quality/Teaching--and--Learning-Policy-v10.25)
 - [Quality Assurance Policy](../policies/curriculum-teaching-quality/Quality-Assurance-Policy-v01.26)
-- [The Haven Examinations Policy (2025–26)](../policies/curriculum-teaching-quality/Examinations-Policy-v10.25)
+- [Examinations Policy](../policies/curriculum-teaching-quality/Examinations-Policy-v10.26)
 
 ## Health, safety, and learner welfare
 

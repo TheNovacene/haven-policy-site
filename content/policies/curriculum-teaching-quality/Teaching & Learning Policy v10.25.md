@@ -29,7 +29,7 @@ compliance:
 applies_to: ["haven"]
 related_policies:
   - "[[Quality Assurance Policy v01.26]]"
-  - "[[Examinations Policy v10.25]]"
+  - "[[Examinations Policy v10.26]]"
   - "[[SEND Policy v01.26]]"
   - "[[Responsible Use of AI Policy v10.26]]"
   - "[[Behaviour and Regulation Policy v10.26]]"

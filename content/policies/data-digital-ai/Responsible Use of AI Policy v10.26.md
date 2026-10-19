@@ -35,7 +35,7 @@ related_policies:
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"
   - "[[Staff Safer Internet Agreement v10.25]]"
   - "[[Teaching & Learning Policy v10.25]]"
-  - "[[Examinations Policy v10.25]]"
+  - "[[Examinations Policy v10.26]]"
   - "[[Behaviour and Regulation Policy v10.26]]"
   - "[[Prevent Duty Policy v01.26_]]"
   - "[[SEND Policy v01.26]]"
@@ -406,7 +406,7 @@ This policy will be reviewed annually by the DSL, DPO, and digital learning lead
 
 ● [[Behaviour and Regulation Policy v10.26]]
 
-● [[Examinations Policy v10.25]]
+● [[Examinations Policy v10.26]]
 
 ● [[Prevent Duty Policy v01.26_]]
 
