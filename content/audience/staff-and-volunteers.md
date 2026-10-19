@@ -55,7 +55,7 @@ These are read and acknowledged at induction and re-confirmed annually.
 
 ### Practice frameworks
 
-- [Relational Behaviour and Regulation Policy](../policies/behaviour-regulation/Behaviour-and-Regulation-Policy-v10.25)
+- [Relational Behaviour and Regulation Policy](../policies/behaviour-regulation/Behaviour-and-Regulation-Policy-v10.26)
 - [Teaching & Learning Policy](../policies/curriculum-teaching-quality/Teaching--and--Learning-Policy-v10.25)
 - [Attendance & Engagement](../policies/attendance-engagement/Attendance--and--Engagement-v01.26)
 - [Children Missing from Education Policy](../policies/attendance-engagement/Children-Missing-from-Education-Policy-v10.25)

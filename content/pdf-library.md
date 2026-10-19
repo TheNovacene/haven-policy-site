@@ -22,7 +22,7 @@ Every published Haven policy is available here as a PDF, regenerated automatical
 
 - [Anti-Bullying Policy (v05.26)](/pdf/behaviour-regulation/Anti-Bullying-Policy-v05.26.pdf)
 - [Behaviour Incident Reporting Procedure (v05.26)](/pdf/behaviour-regulation/Behaviour-Incident-Reporting-Procedure-v05.26.pdf)
-- [Relational Behaviour and Regulation Policy (v10.25)](/pdf/behaviour-regulation/Behaviour-and-Regulation-Policy-v10.25.pdf)
+- [Relational Behaviour and Regulation Policy (v10.26)](/pdf/behaviour-regulation/Behaviour-and-Regulation-Policy-v10.26.pdf)
 
 ## Curriculum, teaching and quality
 
@@ -37,13 +37,15 @@ Every published Haven policy is available here as a PDF, regenerated automatical
 
 ## Data, digital and AI
 
-- [Bring Your Own Device (BYOD) Policy (v04.26)](/pdf/data-digital-ai/Bring-Your-Own-Device-(BYOD)-Policy-v01.26.pdf)
+- [Appropriate Policy Document: Special Category and Criminal Offence Data (v10.26)](/pdf/data-digital-ai/Appropriate-Policy-Document-v10.26.pdf)
+- [Bring Your Own Device (BYOD) Policy (v08.26)](/pdf/data-digital-ai/Bring-Your-Own-Device-(BYOD)-Policy-v01.26.pdf)
 - [Cyber Security Policy (v04.26)](/pdf/data-digital-ai/Cyber-Security-Policy-v01.26.pdf)
 - [Data Protection Impact Assessment — Consolidated (v08.26)](/pdf/data-digital-ai/Data-Protection-Impact-Assessment-Consolidated-v08.26.pdf)
 - [Data Retention Policy and Data Breach Procedure (v05.26)](/pdf/data-digital-ai/Data-Retention-Policy-and-Data-Breach-Procedure-v05.26.pdf)
 - [Declaration: Photos, Videos and Lesson Recordings (v05.26)](/pdf/data-digital-ai/Declaration-Photos-Videos-and-Lesson-Recordings-v05.26.pdf)
 - [Internet, Network and Email Policy (v05.26)](/pdf/data-digital-ai/Internet-Network-and-Email-Policy-v05.26.pdf)
-- [Privacy Notices (v05.26)](/pdf/data-digital-ai/Privacy-Notices-v05.26.pdf)
+- [Privacy Notices (v10.26)](/pdf/data-digital-ai/Privacy-Notices-v10.26.pdf)
+- [Service Providers and Data Processors (v10.26)](/pdf/data-digital-ai/Service-Providers-and-Data-Processors.pdf)
 - [The Haven Data Protection, Confidentiality & Privacy Policy (v3.1) (v10.25)](/pdf/data-digital-ai/Data-Protection-Confidentiality-and-Privacy-Policy-v10.25.pdf)
 - [The Haven Privacy Notice (public-facing) (v10.25)](/pdf/data-digital-ai/Privacy-Policy-v10.25.pdf)
 - [The Haven: Responsible Use of AI Policy (v04.26)](/pdf/data-digital-ai/Responsible-Use-of-AI-Policy-v10.26.pdf)
@@ -105,17 +107,17 @@ Every published Haven policy is available here as a PDF, regenerated automatical
 
 ## Safeguarding
 
-- [Child Protection and Safeguarding Policy (v04.26)](/pdf/safeguarding/Child-Protection-and-Safeguarding-Policy-v01.26.pdf)
-- [Child-on-Child Abuse Policy (Summary for parents) (v04.26)](/pdf/safeguarding/Child-on-Child-Abuse-Policy-(Summary-for-parents)-v10.25.pdf)
+- [Child Protection and Safeguarding Policy (v08.26)](/pdf/safeguarding/Child-Protection-and-Safeguarding-Policy-v01.26.pdf)
+- [Child-on-Child Abuse Policy (Summary for parents) (v08.26)](/pdf/safeguarding/Child-on-Child-Abuse-Policy-(Summary-for-parents)-v10.25.pdf)
 - [Drugs and Alcohol Policy (v04.26)](/pdf/safeguarding/Drugs-and-Alcohol-Policy-v10.25.pdf)
-- [Managing Allegations Against Staff Policy (v04.26)](/pdf/safeguarding/Managing-Allegations-Against-Staff-Policy-v01.26.pdf)
+- [Managing Allegations Against Staff Policy (v08.26)](/pdf/safeguarding/Managing-Allegations-Against-Staff-Policy-v01.26.pdf)
 - [Mental Health and Well-being Policy (v05.26)](/pdf/safeguarding/Mental-Health-and-Well-being-Policy-v05.26.pdf)
-- [Mobile Phone Policy — Learners (v05.26)](/pdf/safeguarding/Mobile-Phone-Policy-Learners-v05.26.pdf)
+- [Mobile Phone Policy — Learners (v08.26)](/pdf/safeguarding/Mobile-Phone-Policy-Learners-v05.26.pdf)
 - [Online Learner Supervision Policy (v05.26)](/pdf/safeguarding/Online-Learner-Supervision-Policy-v05.26.pdf)
-- [Online Safety Policy and Acceptable Use (v04.26)](/pdf/safeguarding/Online-Safety-and-Acceptable-Use-v01.26.pdf)
-- [RSHE Policy (v04.26)](/pdf/safeguarding/RSHE-Policy-v.02.26.pdf)
+- [Online Safety Policy and Acceptable Use (v08.26)](/pdf/safeguarding/Online-Safety-and-Acceptable-Use-v01.26.pdf)
+- [RSHE Policy (v08.26)](/pdf/safeguarding/RSHE-Policy-v.02.26.pdf)
 - [Smoking and Vaping Policy (v05.26)](/pdf/safeguarding/Smoking-and-Vaping-Policy-v05.26.pdf)
-- [The Haven Prevent Duty Policy (v04.26)](/pdf/safeguarding/Prevent-Duty-Policy-v01.26.pdf)
-- [The Haven – Safer Recruitment and Use of Volunteers Policy (v04.26)](/pdf/safeguarding/Safer-Recruitment-and-Use-of-Volunteers-Policy-v01.26.pdf)
+- [The Haven Prevent Duty Policy (v08.26)](/pdf/safeguarding/Prevent-Duty-Policy-v01.26.pdf)
+- [The Haven – Safer Recruitment and Use of Volunteers Policy (v08.26)](/pdf/safeguarding/Safer-Recruitment-and-Use-of-Volunteers-Policy-v01.26.pdf)
 
-*79 policies. PDFs are generated from the live policy pages at every site deploy.*
+*81 policies. PDFs are generated from the live policy pages at every site deploy.*

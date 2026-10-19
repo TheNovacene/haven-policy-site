@@ -49,7 +49,7 @@ This policy applies to:
 
   - All families and partner schools engaging with The Haven provision.
 
-It should be read alongside The Haven’s full suite of safeguarding and educational policies, including the **[[Child Protection and Safeguarding Policy v01.26]]**, **[[Behaviour and Regulation Policy v10.25]]**, **[[Attendance & Engagement v01.26]]**, and **[[Examinations Policy v10.25]]**.
+It should be read alongside The Haven’s full suite of safeguarding and educational policies, including the **[[Child Protection and Safeguarding Policy v01.26]]**, **[[Behaviour and Regulation Policy v10.26]]**, **[[Attendance & Engagement v01.26]]**, and **[[Examinations Policy v10.25]]**.
 
 ## Statutory Guidance
 This Statement is informed by:

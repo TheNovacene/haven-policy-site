@@ -18,7 +18,7 @@ compliance:
   - "Data Protection Act 2018"
 applies_to: ["haven"]
 related_policies:
-  - "[[Privacy Notices v05.26]]"
+  - "[[Privacy Notices v10.26]]"
   - "[[Privacy Policy v10.25]]"
   - "[[Data Protection Impact Assessment - Consolidated v08.26]]"
   - "[[Terms and Conditions v10.25]]"

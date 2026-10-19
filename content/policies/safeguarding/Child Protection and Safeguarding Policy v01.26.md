@@ -41,7 +41,7 @@ related_policies:
   - "[[Child-on-Child Abuse Policy (Summary for parents) v10.25]]"
   - "[[RSHE Policy v.02.26]]"
   - "[[Drugs and Alcohol Policy v10.25]]"
-  - "[[Behaviour and Regulation Policy v10.25]]"
+  - "[[Behaviour and Regulation Policy v10.26]]"
   - "[[Staff Conduct Policy v10.25]]"
   - "[[Whistleblowing Policy v01.26]]"
   - "[[Data Protection, Confidentiality & Privacy Policy v10.25]]"

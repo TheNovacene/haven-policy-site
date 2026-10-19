@@ -93,7 +93,7 @@ This policy sets out The Haven’s approach when transport is arranged for off-s
 
   - Lone transport arrangements are avoided; if unavoidable, they must be risk assessed, approved by DSL, and consented to by parents/carers.
 
-  - Learners are reminded of behaviour expectations during travel ([[Behaviour and Regulation Policy v10.25]]).
+  - Learners are reminded of behaviour expectations during travel ([[Behaviour and Regulation Policy v10.26]]).
 
 ## 6. Emergency Procedures
   - Trip Leader ensures emergency plan includes:

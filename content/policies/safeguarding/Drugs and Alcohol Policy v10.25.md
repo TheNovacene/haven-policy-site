@@ -31,7 +31,7 @@ compliance:
 applies_to: ["haven"]
 related_policies:
   - "[[Child Protection and Safeguarding Policy v01.26]]"
-  - "[[Behaviour and Regulation Policy v10.25]]"
+  - "[[Behaviour and Regulation Policy v10.26]]"
   - "[[RSHE Policy v.02.26]]"
   - "[[Prevent Duty Policy v01.26_]]"
   - "[[Staff Conduct Policy v10.25]]"

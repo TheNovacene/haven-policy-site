@@ -67,7 +67,7 @@ This policy sets out how The Haven:
 
   - responds to online safety concerns, cyber incidents, or misuse.
 
-This policy should be read alongside the **[[Child Protection and Safeguarding Policy v01.26]]**, **[[Behaviour and Regulation Policy v10.25]]**, **[[Data Protection, Confidentiality & Privacy Policy v10.25]]**, and **[[Managing Allegations Against Staff Policy v01.26]]**.
+This policy should be read alongside the **[[Child Protection and Safeguarding Policy v01.26]]**, **[[Behaviour and Regulation Policy v10.26]]**, **[[Data Protection, Confidentiality & Privacy Policy v10.25]]**, and **[[Managing Allegations Against Staff Policy v01.26]]**.
 
 ## 2. Scope
 This policy applies to:
@@ -472,7 +472,7 @@ All AI use is overseen by senior leadership and aligned with data protection and
 ## 12. Related Policies and Guidance
   - [[Child Protection and Safeguarding Policy v01.26]]
 
-  - Online [[Behaviour and Regulation Policy v10.25]]
+  - Online [[Behaviour and Regulation Policy v10.26]]
 
   - [[Data Protection, Confidentiality & Privacy Policy v10.25]]
 

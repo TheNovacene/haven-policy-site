@@ -5,6 +5,7 @@
   "roles": {
     "{{Proprietor}}": "the Proprietor",
     "{{Headteacher}}": "the Head",
+    "{{Head}}": "the Head",
     "{{DSL}}": "the Designated Safeguarding Lead",
     "{{Designated Safeguarding Lead}}": "the Designated Safeguarding Lead",
     "{{Deputy DSL}}": "the Deputy DSL",

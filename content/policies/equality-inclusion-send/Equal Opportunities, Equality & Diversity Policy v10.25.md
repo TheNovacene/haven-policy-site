@@ -32,7 +32,7 @@ related_policies:
   - "[[Staff Conduct Policy v10.25]]"
   - "[[Grievance and Disciplinary Policy v10.25]]"
   - "[[Child Protection and Safeguarding Policy v01.26]]"
-  - "[[Behaviour and Regulation Policy v10.25]]"
+  - "[[Behaviour and Regulation Policy v10.26]]"
   - "[[SEND Policy v01.26]]"
   - "[[RSHE Policy v.02.26]]"
   - "[[Whistleblowing Policy v01.26]]"
@@ -52,7 +52,7 @@ notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026
 
 The Haven is committed to eliminating discrimination, advancing equality of opportunity, and fostering positive relations across all parts of our hybrid learning community. We honour the equal worth of every learner, staff member, family, and partner, and we place diversity, inclusion, and anti-racism at the heart of our safeguarding culture.
 
-This policy brings together our statutory duties under the **Equality Act 2010**, the **Human Rights Act 1998**, the **Children Acts 1989 and 2004**, and the **UN Convention on the Rights of the Child**. It should be read alongside The Haven’s Safeguarding Policy, [[Behaviour and Regulation Policy v10.25]] and [[Staff Conduct Policy v10.25]].
+This policy brings together our statutory duties under the **Equality Act 2010**, the **Human Rights Act 1998**, the **Children Acts 1989 and 2004**, and the **UN Convention on the Rights of the Child**. It should be read alongside The Haven’s Safeguarding Policy, [[Behaviour and Regulation Policy v10.26]] and [[Staff Conduct Policy v10.25]].
 
 ## 1. Guiding Principles 
 
@@ -127,12 +127,12 @@ This duty operates alongside the existing prohibition of discrimination and hara
 
 ● Zero tolerance for discrimination, harassment, or bullying, including racism, sexism, ableism, homophobia, transphobia, or xenophobia.
 
-● Incidents are recorded, reviewed termly, and addressed through restorative approaches in line with The Haven’s [[Behaviour and Regulation Policy v10.25]].
+● Incidents are recorded, reviewed termly, and addressed through restorative approaches in line with The Haven’s [[Behaviour and Regulation Policy v10.26]].
 
 ## *Equal Opportunities, Equality & Diversity Policy* — Addendum (October 2025)
 
 This addendum incorporates local authority feedback to clarify The Haven’s procedures for feedback, safeguarding, incident response, and inclusive curriculum review.  
-It should be read in conjunction with The Haven’s [[Child Protection and Safeguarding Policy v01.26]], [[Behaviour and Regulation Policy v10.25]], and Staff Code of Conduct.
+It should be read in conjunction with The Haven’s [[Child Protection and Safeguarding Policy v01.26]], [[Behaviour and Regulation Policy v10.26]], and Staff Code of Conduct.
 
 ### 🔹 1. Inclusive Curriculum Feedback and Review
 

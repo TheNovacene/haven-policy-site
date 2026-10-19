@@ -3,9 +3,9 @@ title: "Privacy Notices"
 short_id: "PN"
 slug: "privacy-notices"
 subtitle: "Employees, Visitors, Students and Parents, and Children Looked After"
-version: "05.26"
+version: "10.26"
 status: "live"
-last_reviewed: 2026-05-21
+last_reviewed: 2026-10-19
 next_review: 2027-05-21
 review_cycle: "annual"
 owner_role: "Data Protection Officer"
@@ -14,6 +14,9 @@ sign_off_record:
   - version: "05.26"
     date: 2026-04-29
     approver_role: "Proprietor + Governing Body"
+  - version: "10.26"
+    date: 2026-10-19
+    approver_role: "Proprietor + Governing Body"
 themes:
   - "data-protection"
   - "privacy"
@@ -21,28 +24,34 @@ compliance:
   - "UK GDPR"
   - "Data Protection Act 2018"
   - "ICO Children's Code"
+  - "Data (Use and Access) Act 2025"
 applies_to: ["haven"]
-related_policies: []
+related_policies:
+  - "[[Appropriate Policy Document v10.26]]"
+  - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
+  - "[[Service Providers and Data Processors]]"
+  - "[[Data Retention Policy and Data Breach Procedure v05.26]]"
 source_file: "Privacy Notices.docx"
 ingested: 2026-05-21
-notes: ""
+notes: "Out-of-cycle update, 19 October 2026. Changes: controller named correctly as Autistic Girls Network; DPO contact dpo@thehavenonline.co.uk replaces the unnamed Data Protection Lead; staff notice now identifies health and DBS information as special category and criminal offence data, with the conditions relied on; learner notice lists mental health, SEND/EHCP and gender identity, removes the ethnicity example (not collected), and names the conditions with a link to the Appropriate Policy Document; data protection complaints route added (Data (Use and Access) Act 2025, in force 19 June 2026); link to the Service Providers page. Change from 'public task where commissioned' to contract confirmed at sign-off. Scheduled next_review unchanged. Signed off 19 October 2026."
 ---
 # Privacy Notices
 
 > [!info]
-> **Status:** live (signed off 29 April 2026) · **Version:** 05.26 · **Last reviewed:** 2026-05-21 · **Next review:** 2027-05-21
+> **Status:** live (signed off 19 October 2026) · **Version:** 10.26 · **Last reviewed:** 2026-10-19 · **Next review:** 2027-05-21
 > **Owner:** Data Protection Officer · **Approved by:** Proprietor + Governing Body
 
 ## Introduction
 
-The Haven (the 'Charity') is the data controller for personal data processed in connection with the Charity and its specialist online education provision, The Haven. Contact details:
+Autistic Girls Network (the 'Charity') is the data controller for personal data processed in connection with its specialist online education provision, The Haven. It is registered with the Information Commissioner's Office (registration ZB867479). Contact details:
 
 - The Haven, 68 South Green Drive, Stratford upon Avon, CV37 9HP
 - Registered charity: 1196655 (England and Wales) and SC054837 (Scotland)
-- Data Protection Lead: contact via the Charity's main contact channel
+- Data Protection Officer: [dpo@thehavenonline.co.uk](mailto:dpo@thehavenonline.co.uk)
+- The service providers who process data for The Haven are listed on the [Service Providers and Data Processors](/policies/data-digital-ai/Service-Providers-and-Data-Processors) page.
 This document contains four separate Privacy Notices, each tailored to a category of data subject. Each is intended to be read on its own and is published in summary form on our website.
 
-Our lawful bases for processing are set out in each notice. Across all notices, you have the right to: be informed; access your data; rectify inaccurate data; request erasure (subject to legal limits); restrict processing; object to processing; data portability; and to complain to the Information Commissioner's Office (ICO). You can exercise any of these rights by contacting the Data Protection Lead. We respond within one month.
+Our lawful bases for processing are set out in each notice. Across all notices, you have the right to: be informed; access your data; rectify inaccurate data; request erasure (subject to legal limits); restrict processing; object to processing; data portability; and to complain to the Information Commissioner's Office (ICO). You can exercise any of these rights by contacting the Data Protection Officer at dpo@thehavenonline.co.uk. We respond within one month.
 
 ## Notice 1: Privacy Notice for Employees, Volunteers and Contractors
 
@@ -64,6 +73,12 @@ Our lawful bases for processing are set out in each notice. Across all notices, 
 - To comply with employment, tax and safeguarding law (legal obligation).
 - For HR management, supervision and quality assurance (legitimate interest).
 - For equality monitoring and reasonable adjustment (legitimate interest and, where required, consent).
+### Special category and criminal offence data
+
+- **Health information** (sickness absence, reasonable adjustments, occupational health) is special category data. It is processed to meet employment and health and safety obligations, under Article 9(2)(b) UK GDPR and Data Protection Act 2018, Schedule 1, paragraph 1 (employment).
+- **DBS information** (the date and certificate number of your check, and any disclosure or barred-list information) is criminal offence data. It is processed for safer recruitment under the same condition, Schedule 1, paragraph 1.
+- **Equality monitoring** information is optional. Where it identifies you, it is processed under Schedule 1, paragraph 8 (equality of opportunity or treatment).
+- How this data is protected and how long it is kept are set out in The Haven's [Appropriate Policy Document](/policies/data-digital-ai/Appropriate-Policy-Document-v10.26).
 ### Who we share it with
 
 - HMRC and pension providers.
@@ -111,8 +126,9 @@ Event records are kept for one year unless a longer period is required (e.g. fin
 - Learner's name, date of birth, address and contact details.
 - Names and contact details of parents, carers and emergency contacts.
 - Education history, including prior attainment, EHCP (where held), and previous school details.
-- SEND information and reasonable adjustment requirements.
-- Medical information relevant to the placement.
+- SEND information, EHCP (where held) and reasonable adjustment requirements.
+- Medical and mental health information relevant to the placement.
+- Gender identity and pronouns, where the learner or family chooses to share them.
 - Records of attendance, engagement and assessment at The Haven.
 - Mentor notes, educator observations and reviews.
 - Safeguarding records, where these arise.
@@ -122,11 +138,16 @@ Event records are kept for one year unless a longer period is required (e.g. fin
 - Information relating to the funding route (private, school, Local Authority).
 ### Why we collect it and our lawful basis
 
-- To provide the educational placement (contract, public task where commissioned).
+- To provide the educational placement (contract with the family or the commissioning body).
 - To meet our statutory safeguarding, education and equality duties (legal obligation, vital interests in some cases).
 - To assess and improve quality of provision (legitimate interest).
 - To share information with funders, commissioners and statutory partners where required (legal obligation, contract).
-- Special category data (e.g. health, ethnicity) is processed on the basis of substantial public interest, vital interests, or explicit consent depending on context.
+- Some of this information is **special category data**: health, mental health, SEND and EHCP information, and any information about sexual orientation, or gender identity where it reveals health or sex life. Safeguarding records may also contain criminal offence data. The Haven processes this information:
+  - to keep learners safe and protect their wellbeing (Data Protection Act 2018, Schedule 1, paragraph 18: safeguarding of children and individuals at risk, and paragraph 36 for criminal offence data);
+  - to make reasonable adjustments under the Equality Act 2010 (Schedule 1, paragraph 6);
+  - in an emergency, to protect someone's life or health (vital interests);
+  - or with explicit consent where sharing is optional.
+- How this data is protected and how long it is kept are set out in The Haven's [Appropriate Policy Document](/policies/data-digital-ai/Appropriate-Policy-Document-v10.26).
 ### Who we share it with
 
 - Local Authorities, where the placement is commissioned or where statutory duty requires.
@@ -180,7 +201,11 @@ Personal data is held on secure systems with access restricted to authorised sta
 
 ### Your rights
 
-You have the right to be informed, access your data, request rectification, request erasure (subject to legal limits), restrict processing, object to processing, data portability, and to make a complaint to the Information Commissioner's Office (ICO). Contact the Data Protection Lead to exercise these rights. Response within one month.
+You have the right to be informed, access your data, request rectification, request erasure (subject to legal limits), restrict processing, object to processing, and data portability. Contact the Data Protection Officer at dpo@thehavenonline.co.uk to exercise these rights. Response within one month.
+
+### Complaints about how your data is handled
+
+You can complain to The Haven about how your personal information has been handled by emailing dpo@thehavenonline.co.uk. Complaints are acknowledged within 30 days and dealt with without undue delay. You can also complain to the Information Commissioner's Office at ico.org.uk at any time.
 
 ### Cookies and website use
 
@@ -192,11 +217,11 @@ These notices are reviewed annually and updated as required. The current version
 
 ## Review
 
-These notices are reviewed annually by the Data Protection Lead and approved by the Board of Governors.
+These notices are reviewed annually by the Data Protection Officer and approved by the Proprietor and governing body.
 
-| Document version | 1.0 |
+| Document version | 10.26 |
 |---|---|
-| Date issued | May 2026 |
+| Date issued | October 2026 |
 | Next review | May 2027 |
-| Document owner | Data Protection Lead |
+| Document owner | Data Protection Officer |
 | Approved by | Board of Governors |

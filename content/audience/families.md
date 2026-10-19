@@ -16,7 +16,7 @@ The policies and guides most relevant to parents and carers of learners at The H
 - [The Haven: Statement of Purpose, Aims and Objectives](../policies/governance-legal/Statement-of-Purpose,-Aims-and-Objectives-v10.25)
 - [Child Protection and Safeguarding Policy](../policies/safeguarding/Child-Protection-and-Safeguarding-Policy-v01.26)
 - [SEND Policy](../policies/equality-inclusion-send/SEND-Policy-v01.26)
-- [Relational Behaviour and Regulation Policy](../policies/behaviour-regulation/Behaviour-and-Regulation-Policy-v10.25)
+- [Relational Behaviour and Regulation Policy](../policies/behaviour-regulation/Behaviour-and-Regulation-Policy-v10.26)
 - [Anti-Racism is Safeguarding Policy](../policies/equality-inclusion-send/Anti-Racism-Policy-v01.26)
 - [Equal Opportunities, Equality & Diversity Policy](../policies/equality-inclusion-send/Equal-Opportunities,-Equality--and--Diversity-Policy-v10.25)
 

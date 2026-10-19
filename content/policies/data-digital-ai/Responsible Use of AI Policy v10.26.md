@@ -36,7 +36,7 @@ related_policies:
   - "[[Staff Safer Internet Agreement v10.25]]"
   - "[[Teaching & Learning Policy v10.25]]"
   - "[[Examinations Policy v10.25]]"
-  - "[[Behaviour and Regulation Policy v10.25]]"
+  - "[[Behaviour and Regulation Policy v10.26]]"
   - "[[Prevent Duty Policy v01.26_]]"
   - "[[SEND Policy v01.26]]"
   - "[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]]"
@@ -404,7 +404,7 @@ This policy will be reviewed annually by the DSL, DPO, and digital learning lead
 
 ● [[Data Protection, Confidentiality & Privacy Policy v10.25]]
 
-● [[Behaviour and Regulation Policy v10.25]]
+● [[Behaviour and Regulation Policy v10.26]]
 
 ● [[Examinations Policy v10.25]]
 

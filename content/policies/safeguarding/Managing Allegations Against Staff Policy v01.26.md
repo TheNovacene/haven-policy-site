@@ -36,7 +36,7 @@ related_policies:
   - "[[Safer Recruitment and Use of Volunteers Policy v01.26]]"
   - "[[Whistleblowing Policy v01.26]]"
   - "[[Grievance and Disciplinary Policy v10.25]]"
-  - "[[Behaviour and Regulation Policy v10.25]]"
+  - "[[Behaviour and Regulation Policy v10.26]]"
 source_file: "Managing Allegations Against Staff Policy v01.26.docx"
 ingested: 2026-04-29
 notes: "Reviewed against Keeping Children Safe in Education 2026 (published 7 July 2026, in force 1 September 2026) on 26 August 2026. Out-of-cycle statutory review; the next scheduled review date is unchanged so that the annual cycle does not collapse onto one date. Filtering and monitoring wording aligned to the Risk Assessment - Learner Access from Personally-Owned Devices. PENDING DSL AND PROPRIETOR SIGN-OFF."
@@ -278,7 +278,7 @@ Each allegation concludes with one of the following determinations:
 
   - Restorative and protective support offered.
 
-  - [[Behaviour and Regulation Policy v10.25]] may apply if a pupil acted maliciously.
+  - [[Behaviour and Regulation Policy v10.26]] may apply if a pupil acted maliciously.
 
 ## 10. Fair Treatment and Support
 The Haven is committed to treating both:
@@ -368,7 +368,7 @@ This approach supports:
 
   - [[Whistleblowing Policy v01.26]]
 
-  - [[Behaviour and Regulation Policy v10.25]]
+  - [[Behaviour and Regulation Policy v10.26]]
 
   - [[Grievance and Disciplinary Policy v10.25]]
 

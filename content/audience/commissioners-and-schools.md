@@ -19,7 +19,7 @@ The policies and procurement documents Local Authority commissioners and school-
 - [Attendance & Engagement](../policies/attendance-engagement/Attendance--and--Engagement-v01.26)
 - [Children Missing from Education Policy](../policies/attendance-engagement/Children-Missing-from-Education-Policy-v10.25)
 - [SEND Policy](../policies/equality-inclusion-send/SEND-Policy-v01.26)
-- [Relational Behaviour and Regulation Policy](../policies/behaviour-regulation/Behaviour-and-Regulation-Policy-v10.25)
+- [Relational Behaviour and Regulation Policy](../policies/behaviour-regulation/Behaviour-and-Regulation-Policy-v10.26)
 - [Equal Opportunities, Equality & Diversity Policy](../policies/equality-inclusion-send/Equal-Opportunities,-Equality--and--Diversity-Policy-v10.25)
 
 ## Curriculum and quality

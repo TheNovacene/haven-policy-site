@@ -34,7 +34,7 @@ applies_to: ["haven"]
 related_policies:
   - "[[Child Protection and Safeguarding Policy v01.26]]"
   - "[[Online Safety & Acceptable Use v01.26]]"
-  - "[[Behaviour and Regulation Policy v10.25]]"
+  - "[[Behaviour and Regulation Policy v10.26]]"
   - "[[SEND Policy v01.26]]"
   - "[[Drugs and Alcohol Policy v10.25]]"
   - "[[Anti-Racism Policy v01.26]]"
