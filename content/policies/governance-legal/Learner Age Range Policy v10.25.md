@@ -24,7 +24,7 @@ related_policies:
   - "[[Referrals and Admissions Policy]]"
   - "[[Statement of Purpose, Aims and Objectives v10.25]]"
   - "[[Teaching & Learning Policy v10.25]]"
-  - "[[RSHE Policy v.02.26]]"
+  - "[[RSHE Policy v10.26]]"
 source_file: "Learner Age Range Policy v10.25.docx"
 ingested: 2026-04-29
 notes: ""

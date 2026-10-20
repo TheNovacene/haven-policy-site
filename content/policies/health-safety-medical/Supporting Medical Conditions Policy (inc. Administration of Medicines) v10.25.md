@@ -24,7 +24,7 @@ compliance:
 applies_to: ["haven"]
 related_policies:
   - "[[Accidents, Incidents and First Aid Policy v04.26]]"
-  - "[[Health and Safety Policy v10.25]]"
+  - "[[Health and Safety Policy v10.26]]"
   - "[[SEND Policy v01.26]]"
   - "[[Child Protection and Safeguarding Policy v01.26]]"
   - "[[Risk Assessment Policy v10.25]]"

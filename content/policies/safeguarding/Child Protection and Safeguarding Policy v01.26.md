@@ -39,12 +39,12 @@ related_policies:
   - "[[Managing Allegations Against Staff Policy v01.26]]"
   - "[[Safer Recruitment and Use of Volunteers Policy v01.26]]"
   - "[[Child-on-Child Abuse Policy (Summary for parents) v10.25]]"
-  - "[[RSHE Policy v.02.26]]"
+  - "[[RSHE Policy v10.26]]"
   - "[[Drugs and Alcohol Policy v10.25]]"
   - "[[Behaviour and Regulation Policy v10.26]]"
   - "[[Staff Conduct Policy v10.25]]"
   - "[[Whistleblowing Policy v01.26]]"
-  - "[[Data Protection, Confidentiality & Privacy Policy v10.25]]"
+  - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
   - "[[Lone Working Policy v10.25]]"
   - "[[Accidents, Incidents and First Aid Policy v04.26]]"
 source_file: "Child Protection and Safeguarding Policy v01.26.docx"
@@ -314,7 +314,7 @@ Use the Haven safeguarding log/system. Record: date/time; who was present; **ver
 
 ## Lesson recordings as evidence (when and how they’re used)
 All live lessons are recorded for quality, training, and safeguarding. Where a concern arises, the DSL may **extract, secure, and disclose** relevant clips as evidence to statutory agencies e.g., MASH/Front Door, Police) or the **LADO** for allegations about adults who work with children.  
-Access is strictly controlled; retention follows Haven’s **[[Data Protection, Confidentiality & Privacy Policy v10.25]]** schedule (UK GDPR / DPA 2018).
+Access is strictly controlled; retention follows Haven’s **[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]** schedule (UK GDPR / DPA 2018).
 
 **Escalation pathways (DSL actions and LADO route)**
 

@@ -30,7 +30,7 @@ The policies and procurement documents Local Authority commissioners and school-
 
 ## Health, safety, and learner welfare
 
-- [Health and Safety Policy](../policies/health-safety-medical/Health-and-Safety-Policy-v10.25)
+- [Health and Safety Policy](../policies/health-safety-medical/Health-and-Safety-Policy-v10.26)
 - [Risk Assessment Policy](../policies/health-safety-medical/Risk-Assessment-Policy-v10.25)
 - [Accidents, Incidents and First Aid Policy](../policies/health-safety-medical/Accidents,-Incidents-and-First-Aid-Policy-v04.26-draft)
 - [Supporting Medical Conditions Policy (inc. Administration of Medicines)](../policies/health-safety-medical/Supporting-Medical-Conditions-Policy-(inc.-Administration-of-Medicines)-v10.25)
@@ -40,7 +40,7 @@ The policies and procurement documents Local Authority commissioners and school-
 
 ## Data protection and privacy
 
-- [Data Protection, Confidentiality & Privacy Policy](../policies/data-digital-ai/Data-Protection,-Confidentiality--and--Privacy-Policy-v10.25)
+- [Data Protection (UK GDPR), Confidentiality and Privacy Policy](../policies/data-digital-ai/Data-Protection-(UK-GDPR),-Confidentiality--and--Privacy-Policy-v10.26)
 - [The Haven Privacy Notice (public-facing)](../policies/data-digital-ai/Privacy-Policy-v10.25)
 - [Cyber Security Policy](../policies/data-digital-ai/Cyber-Security-Policy-v01.26)
 - [The Haven: Responsible Use of AI Policy](../policies/data-digital-ai/Responsible-Use-of-AI-Policy-v10.26)

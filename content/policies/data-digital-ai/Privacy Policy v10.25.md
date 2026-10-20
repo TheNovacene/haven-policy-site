@@ -25,12 +25,12 @@ compliance:
   - "ICO UK GDPR guidance"
 applies_to: ["haven"]
 related_policies:
-  - "[[Data Protection, Confidentiality & Privacy Policy v10.25]]"
+  - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
   - "[[Cyber Security Policy v01.26]]"
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"
 source_file: "Privacy Policy v10.25.docx"
 ingested: 2026-04-29
-notes: "A2 remediation 2026-04-29 — reframed as public-facing privacy notice (the parent/learner-facing communication that goes on the public site). Operational policy is [[Data Protection, Confidentiality & Privacy Policy v10.25]]. This document complements rather than duplicates the operational policy."
+notes: "A2 remediation 2026-04-29 — reframed as public-facing privacy notice (the parent/learner-facing communication that goes on the public site). Operational policy is [[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]. This document complements rather than duplicates the operational policy."
 ---
 **Because your trust matters.**
 

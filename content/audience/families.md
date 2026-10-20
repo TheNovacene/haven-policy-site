@@ -36,4 +36,4 @@ The policies and guides most relevant to parents and carers of learners at The H
 ## Your data and your rights
 
 - [The Haven Privacy Notice (public-facing)](../policies/data-digital-ai/Privacy-Policy-v10.25)
-- [Data Protection, Confidentiality & Privacy Policy](../policies/data-digital-ai/Data-Protection,-Confidentiality--and--Privacy-Policy-v10.25)
+- [Data Protection (UK GDPR), Confidentiality and Privacy Policy](../policies/data-digital-ai/Data-Protection-(UK-GDPR),-Confidentiality--and--Privacy-Policy-v10.26)

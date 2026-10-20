@@ -31,7 +31,7 @@ compliance:
   - "Cyber Security Standards for Schools (DfE 2024)"
 applies_to: ["haven"]
 related_policies:
-  - "[[Data Protection, Confidentiality & Privacy Policy v10.25]]"
+  - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"
   - "[[Staff Safer Internet Agreement v10.25]]"
   - "[[Online Safety & Acceptable Use v01.26]]"
@@ -55,7 +55,7 @@ This policy sets out The Haven’s approach to **preventing, detecting, and resp
 
 It complements and should be read alongside:
 
-  - **[[Data Protection, Confidentiality & Privacy Policy v10.25]]  
+  - **[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]  
     > **
 
   - **[[Staff Conduct Policy v10.25]]**

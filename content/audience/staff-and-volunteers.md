@@ -18,7 +18,7 @@ These are read and acknowledged at induction and re-confirmed annually.
 - [The Haven Prevent Duty Policy](../policies/safeguarding/Prevent-Duty-Policy-v01.26_)
 - [Managing Allegations Against Staff Policy](../policies/safeguarding/Managing-Allegations-Against-Staff-Policy-v01.26)
 - [The Haven – Safer Recruitment and Use of Volunteers Policy](../policies/safeguarding/Safer-Recruitment-and-Use-of-Volunteers-Policy-v01.26)
-- [RSHE Policy](../policies/safeguarding/RSHE-Policy-v.02.26)
+- [RSHE Policy](../policies/safeguarding/RSHE-Policy-v10.26)
 - [Drugs and Alcohol Policy](../policies/safeguarding/Drugs-and-Alcohol-Policy-v10.25)
 
 ### Equality and inclusion
@@ -37,7 +37,7 @@ These are read and acknowledged at induction and re-confirmed annually.
 
 ### Health, safety, and learner welfare
 
-- [Health and Safety Policy](../policies/health-safety-medical/Health-and-Safety-Policy-v10.25)
+- [Health and Safety Policy](../policies/health-safety-medical/Health-and-Safety-Policy-v10.26)
 - [Risk Assessment Policy](../policies/health-safety-medical/Risk-Assessment-Policy-v10.25)
 - [Accidents, Incidents and First Aid Policy](../policies/health-safety-medical/Accidents,-Incidents-and-First-Aid-Policy-v04.26-draft)
 - [Supporting Medical Conditions Policy](../policies/health-safety-medical/Supporting-Medical-Conditions-Policy-(inc.-Administration-of-Medicines)-v10.25)
@@ -48,7 +48,7 @@ These are read and acknowledged at induction and re-confirmed annually.
 
 ### Data, AI, and devices
 
-- [Data Protection, Confidentiality & Privacy Policy](../policies/data-digital-ai/Data-Protection,-Confidentiality--and--Privacy-Policy-v10.25)
+- [Data Protection (UK GDPR), Confidentiality and Privacy Policy](../policies/data-digital-ai/Data-Protection-(UK-GDPR),-Confidentiality--and--Privacy-Policy-v10.26)
 - [Cyber Security Policy](../policies/data-digital-ai/Cyber-Security-Policy-v01.26)
 - [Bring Your Own Device (BYOD) Policy](../policies/data-digital-ai/Bring-Your-Own-Device-(BYOD)-Policy-v01.26)
 - [The Haven: Responsible Use of AI Policy](../policies/data-digital-ai/Responsible-Use-of-AI-Policy-v10.26)

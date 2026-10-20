@@ -31,7 +31,7 @@ compliance:
 applies_to: ["haven"]
 related_policies:
   - "[[Cyber Security Policy v01.26]]"
-  - "[[Data Protection, Confidentiality & Privacy Policy v10.25]]"
+  - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
   - "[[Staff Conduct Policy v10.25]]"
   - "[[Responsible Use of AI Policy v10.26]]"
   - "[[Child Protection and Safeguarding Policy v01.26]]"
@@ -52,7 +52,7 @@ notes: "Reviewed against Keeping Children Safe in Education 2026 (published 7 Ju
 
   - [[Cyber Security Policy v01.26]] (v1.0)
 
-  - [[Data Protection, Confidentiality & Privacy Policy v10.25]] (v1.0)
+  - [[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]] (v1.0)
 
   - [[Staff Conduct Policy v10.25]]
 

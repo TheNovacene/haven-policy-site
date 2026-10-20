@@ -23,7 +23,7 @@ compliance:
   - "Health and Safety at Work etc. Act 1974"
 applies_to: ["haven"]
 related_policies:
-  - "[[Health and Safety Policy v10.25]]"
+  - "[[Health and Safety Policy v10.26]]"
   - "[[Off-site Visits Policy v01.26]]"
   - "[[Lone Working Policy v10.25]]"
   - "[[Accidents, Incidents and First Aid Policy v04.26]]"

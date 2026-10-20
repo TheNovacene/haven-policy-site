@@ -39,7 +39,7 @@ related_policies:
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"
   - "[[Staff Safer Internet Agreement v10.25]]"
   - "[[Responsible Use of AI Policy v10.26]]"
-  - "[[Data Protection, Confidentiality & Privacy Policy v10.25]]"
+  - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
   - "[[Lone Working Policy v10.25]]"
   - "[[Prevent Duty Policy v01.26_]]"
 source_file: "Staff Conduct Policy v10.25.docx"
@@ -140,7 +140,7 @@ By joining The Haven, staff confirm that they have read, understood, and agreed 
 **Purpose  
 **This addendum sits alongside The Haven *Staff Conduct Policy* (2025). It clarifies professional boundaries, digital expectations, and data protection responsibilities for all staff, tutors, contractors, and volunteers working with The Haven.
 
-It should be read in conjunction with The Haven’s **[[Child Protection and Safeguarding Policy v01.26]]**, **[[Whistleblowing Policy v01.26]]**, **[[Data Protection, Confidentiality & Privacy Policy v10.25]]**, and **Staff Acceptable Use Guidelines**.
+It should be read in conjunction with The Haven’s **[[Child Protection and Safeguarding Policy v01.26]]**, **[[Whistleblowing Policy v01.26]]**, **[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]**, and **Staff Acceptable Use Guidelines**.
 
 ## Section 1: Professional Boundaries and Social Media Use
 All staff are expected to maintain clear, professional boundaries in both their **personal and professional** online interactions.
@@ -183,7 +183,7 @@ Staff using personal devices for work must:
 
   - Report immediately to the **DPO** and **DSL** in the event of theft, loss, or suspected data breach.
 
-Failure to report such incidents promptly may constitute a breach of the **[[Data Protection, Confidentiality & Privacy Policy v10.25]]** and could result in disciplinary action.
+Failure to report such incidents promptly may constitute a breach of the **[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]** and could result in disciplinary action.
 
 ## Section 3: Safeguarding and Confidentiality
   - All staff have an **ongoing duty** to uphold The Haven’s **[[Child Protection and Safeguarding Policy v01.26]]** during and outside of teaching hours.
@@ -202,7 +202,7 @@ Staff must familiarise themselves with and follow these related policies at all 
   - **[[Child Protection and Safeguarding Policy v01.26]]  
     > **
 
-  - **[[Data Protection, Confidentiality & Privacy Policy v10.25]]  
+  - **[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]  
     > **
 
   - **[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]]: Parent Guide  

@@ -190,7 +190,7 @@ Parents/carers retain **primary duty of care** for the physical environment duri
 
 ### 7.4 Safeguarding Reports and Digital Records
 All learning and communication through TutorCruncher, Google Classroom, Google Meet and related platforms may generate **attendance, engagement, wellbeing, or safeguarding notes**.  
-These records form part of The Haven’s statutory safeguarding file and are held securely in accordance with the *[[Data Protection, Confidentiality & Privacy Policy v10.25]] (v1.0)* and *Keeping Children Safe in Education 2026*.  
+These records form part of The Haven’s statutory safeguarding file and are held securely in accordance with the *[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]] (v1.0)* and *Keeping Children Safe in Education 2026*.  
 Parents/carers acknowledge that relevant information may be shared, on a need-to-know basis, with the DSL, deputy DSL, or appropriate external agencies (e.g. local authority, health, or social care) where safeguarding or wellbeing concerns arise.
 
 ### 7.5 Raising a Safeguarding Concern
@@ -225,7 +225,7 @@ To ensure appropriate reasonable adjustments, parents/carers agree to:
 All information will be handled sensitively and stored securely.
 
 ### 7.8 Record Keeping and Retention
-Safeguarding, attendance, and wellbeing records are kept securely in line with The Haven’s *[[Data Protection, Confidentiality & Privacy Policy v10.25]]*.  
+Safeguarding, attendance, and wellbeing records are kept securely in line with The Haven’s *[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]*.  
 Such records are retained for the period required by statutory guidance and may be transferred to a learner’s next educational setting or relevant agency when appropriate.
 
 ### 7.9 Parent Conduct and Communication
@@ -239,7 +239,7 @@ Concerns about The Haven services should first be raised informally with the rel
 If unresolved, parents/carers may escalate under the *Grievance Policy* or, where the issue involves safeguarding or staff conduct, via the DSL → LADO route described above.
 
 ## 8. Confidentiality and Data Protection
-We process personal data in accordance with UK GDPR and *The Haven [[Data Protection, Confidentiality & Privacy Policy v10.25]]*.
+We process personal data in accordance with UK GDPR and *The Haven [[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]*.
 
 Information shared via the Site is stored securely and used only for educational purposes.
 

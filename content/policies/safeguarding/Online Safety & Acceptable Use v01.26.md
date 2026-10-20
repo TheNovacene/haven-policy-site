@@ -40,9 +40,9 @@ related_policies:
   - "[[Cyber Security Policy v01.26]]"
   - "[[Staff Safer Internet Agreement v10.25]]"
   - "[[Responsible Use of AI Policy v10.26]]"
-  - "[[Data Protection, Confidentiality & Privacy Policy v10.25]]"
+  - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
   - "[[Managing Allegations Against Staff Policy v01.26]]"
-  - "[[RSHE Policy v.02.26]]"
+  - "[[RSHE Policy v10.26]]"
   - "[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]]"
 source_file: "Online Safety & Acceptable Use v01.26.docx"
 ingested: 2026-04-29
@@ -67,7 +67,7 @@ This policy sets out how The Haven:
 
   - responds to online safety concerns, cyber incidents, or misuse.
 
-This policy should be read alongside the **[[Child Protection and Safeguarding Policy v01.26]]**, **[[Behaviour and Regulation Policy v10.26]]**, **[[Data Protection, Confidentiality & Privacy Policy v10.25]]**, and **[[Managing Allegations Against Staff Policy v01.26]]**.
+This policy should be read alongside the **[[Child Protection and Safeguarding Policy v01.26]]**, **[[Behaviour and Regulation Policy v10.26]]**, **[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]**, and **[[Managing Allegations Against Staff Policy v01.26]]**.
 
 ## 2. Scope
 This policy applies to:
@@ -474,7 +474,7 @@ All AI use is overseen by senior leadership and aligned with data protection and
 
   - Online [[Behaviour and Regulation Policy v10.26]]
 
-  - [[Data Protection, Confidentiality & Privacy Policy v10.25]]
+  - [[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]
 
   - *Online Safety & Acceptable Use*
 

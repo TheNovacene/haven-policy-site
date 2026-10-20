@@ -34,7 +34,7 @@ applies_to: ["haven"]
 related_policies:
   - "[[Cyber Security Policy v01.26]]"
   - "[[Responsible Use of AI Policy v10.26]]"
-  - "[[Data Protection, Confidentiality & Privacy Policy v10.25]]"
+  - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
   - "[[Staff Conduct Policy v10.25]]"
   - "[[Child Protection and Safeguarding Policy v01.26]]"
   - "[[Prevent Duty Policy v01.26_]]"
@@ -57,7 +57,7 @@ notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026
 
   - [[Responsible Use of AI Policy v10.26]] (v1.0, Aug 2025)
 
-  - [[Data Protection, Confidentiality & Privacy Policy v10.25]] (v1.0)
+  - [[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]] (v1.0)
 
   - [[Staff Conduct Policy v10.25]]
 

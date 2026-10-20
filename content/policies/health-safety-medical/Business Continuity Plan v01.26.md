@@ -117,7 +117,7 @@ A technology issue would impact our core functions by disrupting our ability to 
 
   - Aim to restore full platform within 72 hours.
 
-  - Cross Reference with our [[Data Protection, Confidentiality & Privacy Policy v10.25]].
+  - Cross Reference with our [[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]].
 
   - In case of serious disruption, the Proprietor will notify relevant schools & LAs where applicable.
 

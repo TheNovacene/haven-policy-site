@@ -30,7 +30,7 @@ applies_to: ["haven"]
 related_policies:
   - "[[Child Protection and Safeguarding Policy v01.26]]"
   - "[[Online Safety & Acceptable Use v01.26]]"
-  - "[[Health and Safety Policy v10.25]]"
+  - "[[Health and Safety Policy v10.26]]"
 
 # === Source ===
 source_file: "The Haven  Site Plan Statement  Online Provision.pdf"

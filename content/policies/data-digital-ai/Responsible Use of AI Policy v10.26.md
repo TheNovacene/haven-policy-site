@@ -30,7 +30,7 @@ applies_to: ["haven"]
 related_policies:
   - "[[Child Protection and Safeguarding Policy v01.26]]"
   - "[[Online Safety & Acceptable Use v01.26]]"
-  - "[[Data Protection, Confidentiality & Privacy Policy v10.25]]"
+  - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
   - "[[Cyber Security Policy v01.26]]"
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"
   - "[[Staff Safer Internet Agreement v10.25]]"
@@ -402,7 +402,7 @@ This policy will be reviewed annually by the DSL, DPO, and digital learning lead
 
 ● [[Child Protection and Safeguarding Policy v01.26]]
 
-● [[Data Protection, Confidentiality & Privacy Policy v10.25]]
+● [[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]
 
 ● [[Behaviour and Regulation Policy v10.26]]
 

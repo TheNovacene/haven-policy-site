@@ -11,7 +11,7 @@ The full safeguarding-relevant policy set for the Designated Safeguarding Lead, 
 - [Child Protection and Safeguarding Policy](../policies/safeguarding/Child-Protection-and-Safeguarding-Policy-v01.26)
 - [Online Safety and Acceptable Use](../policies/safeguarding/Online-Safety--and--Acceptable-Use-v01.26)
 - [The Haven Prevent Duty Policy](../policies/safeguarding/Prevent-Duty-Policy-v01.26_)
-- [RSHE Policy](../policies/safeguarding/RSHE-Policy-v.02.26)
+- [RSHE Policy](../policies/safeguarding/RSHE-Policy-v10.26)
 - [Drugs and Alcohol Policy](../policies/safeguarding/Drugs-and-Alcohol-Policy-v10.25)
 - [Child-on-Child Abuse Policy (Summary for parents)](../policies/safeguarding/Child-on-Child-Abuse-Policy-(Summary-for-parents)-v10.25)
 
@@ -39,7 +39,7 @@ The full safeguarding-relevant policy set for the Designated Safeguarding Lead, 
 
 ## Information sharing and data
 
-- [Data Protection, Confidentiality & Privacy Policy](../policies/data-digital-ai/Data-Protection,-Confidentiality--and--Privacy-Policy-v10.25)
+- [Data Protection (UK GDPR), Confidentiality and Privacy Policy](../policies/data-digital-ai/Data-Protection-(UK-GDPR),-Confidentiality--and--Privacy-Policy-v10.26)
 - [The Haven Privacy Notice (public-facing)](../policies/data-digital-ai/Privacy-Policy-v10.25)
 - [Submitting Controller Details (DPIA Digital Platforms)](../policies/data-digital-ai/DPIA-Digital-Platforms)
 

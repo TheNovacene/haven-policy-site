@@ -35,7 +35,7 @@ related_policies:
   - "[[Child Protection and Safeguarding Policy v01.26]]"
   - "[[Behaviour and Regulation Policy v10.26]]"
   - "[[Online Safety & Acceptable Use v01.26]]"
-  - "[[RSHE Policy v.02.26]]"
+  - "[[RSHE Policy v10.26]]"
   - "[[Prevent Duty Policy v01.26_]]"
 source_file: "Child-on-Child Abuse Policy (Summary for parents) v10.25.docx"
 ingested: 2026-04-29

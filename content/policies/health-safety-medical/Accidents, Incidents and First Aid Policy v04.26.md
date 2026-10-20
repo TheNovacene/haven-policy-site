@@ -30,13 +30,13 @@ compliance:
 applies_to: ["haven"]
 related_policies:
   - "[[Child Protection and Safeguarding Policy v01.26]]"
-  - "[[Health and Safety Policy v10.25]]"
+  - "[[Health and Safety Policy v10.26]]"
   - "[[Risk Assessment Policy v10.25]]"
   - "[[Off-site Visits Policy v01.26]]"
   - "[[Transportation Policy for Service Users v10.25]]"
   - "[[Lone Working Policy v10.25]]"
   - "[[Supporting Medical Conditions Policy (inc. Administration of Medicines) v10.25]]"
-  - "[[Data Protection, Confidentiality & Privacy Policy v10.25]]"
+  - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
 source_file: "MERGED: First Aid Policy (Online Context) v01.26.docx + DRAFT (not ratified) Accidents, Incidents and First Aid Policy.docx"
 ingested: 2026-04-29
 notes: "v04.26 — merger of (i) the live First Aid Policy (Online Context) v01.26 and (ii) the unratified DRAFT Accidents, Incidents and First Aid Policy. Adopts the broader unified-incident framework of the DRAFT, retains placement-start and responsible-adult detail from the live version, and updates statutory references to KCSIE 2026, Online Safety Act 2023, and UK GDPR. Signed off 29 April 2026 by Proprietor and Governing Body. KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
@@ -157,7 +157,7 @@ This information is documented prior to the start of provision and reviewed regu
 
 ## 7. Emergency Information: Storage and Access
 
-Emergency and medical information is stored securely in line with the [[Data Protection, Confidentiality & Privacy Policy v10.25]] and UK GDPR. Records include:
+Emergency and medical information is stored securely in line with the [[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]] and UK GDPR. Records include:
 
 - Emergency contact details
 - Relevant medical conditions, allergies, and care plans
