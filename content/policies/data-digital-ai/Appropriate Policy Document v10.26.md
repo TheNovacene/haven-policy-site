@@ -27,7 +27,7 @@ related_policies:
   - "[[Data Retention Policy and Data Breach Procedure v05.26]]"
   - "[[Data Protection Impact Assessment - Consolidated v08.26]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
-  - "[[Safer Recruitment and Use of Volunteers Policy v01.26]]"
+  - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
 source_file: "NEO - Appropriate Policy Document v05.26 DRAFT.md (adapted)"
 ingested: 2026-10-19
 notes: "New document, 19 October 2026. The Haven had no Appropriate Policy Document, although the Schedule 1 conditions it relies on (paragraphs 1, 6, 8 and 18, and paragraph 18 via paragraph 36 for criminal offence data) require one. Adapted from the NEO draft but widened to all Haven processing (learners, families and staff). Schedule 1 paragraph numbers checked against the revised text on legislation.gov.uk on 19 October 2026 (no renumbering by the Data (Use and Access) Act 2025). Note: the NEO draft cites safeguarding as paragraph 17 and counselling as paragraph 16; the correct numbers are 18 and 17. Decisions at sign-off (19 October 2026): paragraph 6 retained; document published on the policy site. Signed off 19 October 2026."

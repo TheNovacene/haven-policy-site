@@ -10,7 +10,7 @@ The policies and procurement documents Local Authority commissioners and school-
 - [Online Safety and Acceptable Use](../policies/safeguarding/Online-Safety--and--Acceptable-Use-v01.26)
 - [The Haven Prevent Duty Policy](../policies/safeguarding/Prevent-Duty-Policy-v01.26_)
 - [Managing Allegations Against Staff Policy](../policies/safeguarding/Managing-Allegations-Against-Staff-Policy-v01.26)
-- [The Haven – Safer Recruitment and Use of Volunteers Policy](../policies/safeguarding/Safer-Recruitment-and-Use-of-Volunteers-Policy-v01.26)
+- [Safer Recruitment and Use of Volunteers Policy](../policies/safeguarding/Safer-Recruitment-and-Use-of-Volunteers-Policy-v10.26)
 - [Anti-Racism is Safeguarding Policy](../policies/equality-inclusion-send/Anti-Racism-Policy-v01.26)
 
 ## Provision and learner support

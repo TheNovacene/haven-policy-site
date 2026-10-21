@@ -18,7 +18,7 @@ The full safeguarding-relevant policy set for the Designated Safeguarding Lead, 
 ## Allegations, recruitment, and conduct
 
 - [Managing Allegations Against Staff Policy](../policies/safeguarding/Managing-Allegations-Against-Staff-Policy-v01.26)
-- [The Haven – Safer Recruitment and Use of Volunteers Policy](../policies/safeguarding/Safer-Recruitment-and-Use-of-Volunteers-Policy-v01.26)
+- [Safer Recruitment and Use of Volunteers Policy](../policies/safeguarding/Safer-Recruitment-and-Use-of-Volunteers-Policy-v10.26)
 - [Staff Conduct Policy](../policies/hr-staff-conduct/Staff-Conduct-Policy-v10.25)
 - [Lone Working Policy](../policies/hr-staff-conduct/Lone-Working-Policy-v10.25)
 - [Employment of Ex-Offenders Policy](../policies/hr-staff-conduct/Employment-of-Ex-Offenders-Policy-v10.25)

@@ -146,7 +146,7 @@ This policy operates under:
   - Lessons from case reviews and audit findings inform updates to practice.
 
 ## 10 Linked Policies and Documents
-  - [[Safer Recruitment and Use of Volunteers Policy v01.26]]
+  - [[Safer Recruitment and Use of Volunteers Policy v10.26]]
 
   - [[Managing Allegations Against Staff Policy v01.26]]
 

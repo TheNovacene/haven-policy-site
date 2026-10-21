@@ -33,7 +33,7 @@ related_policies:
   - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"
   - "[[Anti-Racism Policy v01.26]]"
   - "[[Child Protection and Safeguarding Policy v01.26]]"
-  - "[[Safer Recruitment and Use of Volunteers Policy v01.26]]"
+  - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
 source_file: "Grievance and Disciplinary Policy v10.25.docx"
 ingested: 2026-04-29
 notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."

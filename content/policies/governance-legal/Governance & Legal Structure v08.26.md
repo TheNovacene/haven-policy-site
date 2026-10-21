@@ -24,7 +24,7 @@ related_policies:
   - "[[Governor Role & Responsibilities v10.25]]"
   - "[[Terms and Conditions v10.25]]"
   - "[[Complaints Procedure v10.25]]"
-  - "[[Safer Recruitment and Use of Volunteers Policy v01.26]]"
+  - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
   - "[[Child Protection and Safeguarding Policy v01.26]]"
 source_file: ""
 ingested: 2026-08-16

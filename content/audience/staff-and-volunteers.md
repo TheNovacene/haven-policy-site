@@ -17,7 +17,7 @@ These are read and acknowledged at induction and re-confirmed annually.
 - [Online Safety and Acceptable Use](../policies/safeguarding/Online-Safety--and--Acceptable-Use-v01.26)
 - [The Haven Prevent Duty Policy](../policies/safeguarding/Prevent-Duty-Policy-v01.26_)
 - [Managing Allegations Against Staff Policy](../policies/safeguarding/Managing-Allegations-Against-Staff-Policy-v01.26)
-- [The Haven – Safer Recruitment and Use of Volunteers Policy](../policies/safeguarding/Safer-Recruitment-and-Use-of-Volunteers-Policy-v01.26)
+- [Safer Recruitment and Use of Volunteers Policy](../policies/safeguarding/Safer-Recruitment-and-Use-of-Volunteers-Policy-v10.26)
 - [RSHE Policy](../policies/safeguarding/RSHE-Policy-v10.26)
 - [Drugs and Alcohol Policy](../policies/safeguarding/Drugs-and-Alcohol-Policy-v10.25)
 

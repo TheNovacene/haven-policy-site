@@ -32,7 +32,7 @@ related_policies:
   - "[[Managing Allegations Against Staff Policy v01.26]]"
   - "[[Whistleblowing Policy v01.26]]"
   - "[[Grievance and Disciplinary Policy v10.25]]"
-  - "[[Safer Recruitment and Use of Volunteers Policy v01.26]]"
+  - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
   - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"
   - "[[Anti-Racism Policy v01.26]]"
   - "[[Online Safety & Acceptable Use v01.26]]"

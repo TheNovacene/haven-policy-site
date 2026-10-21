@@ -37,7 +37,7 @@ related_policies:
   - "[[Online Safety & Acceptable Use v01.26]]"
   - "[[Prevent Duty Policy v01.26_]]"
   - "[[Managing Allegations Against Staff Policy v01.26]]"
-  - "[[Safer Recruitment and Use of Volunteers Policy v01.26]]"
+  - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
   - "[[Child-on-Child Abuse Policy (Summary for parents) v10.25]]"
   - "[[RSHE Policy v10.26]]"
   - "[[Drugs and Alcohol Policy v10.25]]"
@@ -346,7 +346,7 @@ The DSL coordinates Early Help so learners receive support at the right time. We
 ## Safer recruitment (summary + cross-references)
 Haven uses safer recruitment for onsite and online roles: safeguarding-signalled adverts; structured shortlisting; online footprint checks where appropriate; **enhanced DBS with barred-list**; identity/right-to-work/qualification verification; prohibition and, where relevant, overseas checks; **two references verified pre-start**; Single Central Record maintained and audited.
 
-**Associated policy:** *[[Safer Recruitment and Use of Volunteers Policy v01.26]]* (read alongside this policy).
+**Associated policy:** *[[Safer Recruitment and Use of Volunteers Policy v10.26]]* (read alongside this policy).
 
 ## Out-of-hours provision & lone working (cover and boundaries)
 Out-of-hours provision refers to any online activity conducted beyond normal operating times (e.g. evening or weekend sessions). Where Haven runs activities outside core hours, a **safeguarding-competent lead** is on call. If DSL/Deputy DSL are unavailable, a named senior leader trained to DSL standard provides cover.  

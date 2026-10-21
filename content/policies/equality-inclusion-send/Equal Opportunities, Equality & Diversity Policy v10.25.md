@@ -36,7 +36,7 @@ related_policies:
   - "[[SEND Policy v01.26]]"
   - "[[RSHE Policy v10.26]]"
   - "[[Whistleblowing Policy v01.26]]"
-  - "[[Safer Recruitment and Use of Volunteers Policy v01.26]]"
+  - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
   - "[[Managing Allegations Against Staff Policy v01.26]]"
 source_file: "Equal Opportunities, Equality & Diversity Policy v10.25.docx"
 ingested: 2026-04-29

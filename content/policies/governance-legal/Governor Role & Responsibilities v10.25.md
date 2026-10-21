@@ -25,7 +25,7 @@ related_policies:
   - "[[Governor Code of Conduct v10.25]]"
   - "[[Governance & Legal Structure v10.25]]"
   - "[[Statement of Purpose, Aims and Objectives v10.25]]"
-  - "[[Safer Recruitment and Use of Volunteers Policy v01.26]]"
+  - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
   - "[[Child Protection and Safeguarding Policy v01.26]]"
   - "[[Managing Allegations Against Staff Policy v01.26]]"
 source_file: "Governor Role & Responsibilities v10.25.docx"
