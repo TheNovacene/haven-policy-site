@@ -30,7 +30,7 @@ applies_to: ["haven"]
 related_policies:
   - "[[Behaviour and Regulation Policy v10.26]]"
   - "[[Behaviour Incident Reporting Procedure v05.26]]"
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Child-on-Child Abuse Policy (Summary for parents) v10.25]]"
   - "[[Online Safety & Acceptable Use v01.26]]"
   - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"

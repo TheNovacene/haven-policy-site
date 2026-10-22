@@ -40,7 +40,7 @@ This policy provides a clear, fair, and transparent framework for raising and re
 
 It should be read alongside:
 
-  - [[Child Protection and Safeguarding Policy v01.26]]
+  - [[Child Protection and Safeguarding Policy v10.26]]
 
   - [[Managing Allegations Against Staff Policy v01.26]]
 

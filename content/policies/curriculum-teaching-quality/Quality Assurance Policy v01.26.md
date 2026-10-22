@@ -20,7 +20,7 @@ applies_to: ["haven"]
 related_policies:
   - "[[Teaching & Learning Policy v10.25]]"
   - "[[Examinations Policy v10.26]]"
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Staff Conduct Policy v10.25]]"
   - "[[SEND Policy v01.26]]"
 source_file: "Quality Assurance Policy v01.26.docx"

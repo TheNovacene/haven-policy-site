@@ -34,7 +34,7 @@ compliance:
   - "Education Act 2002"
 applies_to: ["haven"]
 related_policies:
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Prevent Duty Policy v01.26_]]"
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"
   - "[[Information and Cyber Security Policy v10.26]]"
@@ -67,7 +67,7 @@ This policy sets out how The Haven:
 
   - responds to online safety concerns, cyber incidents, or misuse.
 
-This policy should be read alongside the **[[Child Protection and Safeguarding Policy v01.26]]**, **[[Behaviour and Regulation Policy v10.26]]**, **[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]**, and **[[Managing Allegations Against Staff Policy v01.26]]**.
+This policy should be read alongside the **[[Child Protection and Safeguarding Policy v10.26]]**, **[[Behaviour and Regulation Policy v10.26]]**, **[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]**, and **[[Managing Allegations Against Staff Policy v01.26]]**.
 
 ## 2. Scope
 This policy applies to:
@@ -385,7 +385,7 @@ The Online Safety Act 2023 places duties on regulated user-to-user and search se
 
 When a learner discloses, encounters, or appears to have encountered content in any of these categories — on a Haven platform, on an external service, or in their broader online life — staff will:
 
-  - Treat the disclosure as a safeguarding concern under the [[Child Protection and Safeguarding Policy v01.26]].
+  - Treat the disclosure as a safeguarding concern under the [[Child Protection and Safeguarding Policy v10.26]].
   - Escalate to the DSL without delay.
   - Where illegal content is involved, follow the escalation route to police or the Internet Watch Foundation as appropriate, and never attempt to view, download, or store the content for evidential purposes — this is a criminal offence and the responsibility of trained law enforcement.
   - Support the learner therapeutically and report to commissioning schools / LAs in line with safeguarding agreements.
@@ -407,7 +407,7 @@ Keeping Children Safe in Education 2026 treats generative AI as a risk factor wi
   - **Contact** — harmful interactions with AI chatbots and companion-style systems, including systems that simulate intimacy, dependency or friendship.
   - **Conduct** — the creation, possession or sharing of nudes and semi-nudes, including images that have been digitally altered or wholly generated using AI.
 
-The Haven uses the term *nudes and semi-nudes* throughout, covering self-generated, AI-generated and altered imagery alike. Incidents are handled under the [[Child Protection and Safeguarding Policy v01.26]] and the DfE guidance *Sharing nudes and semi-nudes: advice for education settings working with children and young people*. Staff do not view, copy, download or store such imagery; the Designated Safeguarding Lead leads the response and escalates to the police or the Internet Watch Foundation where appropriate. A learner who reports an image is supported, not sanctioned.
+The Haven uses the term *nudes and semi-nudes* throughout, covering self-generated, AI-generated and altered imagery alike. Incidents are handled under the [[Child Protection and Safeguarding Policy v10.26]] and the DfE guidance *Sharing nudes and semi-nudes: advice for education settings working with children and young people*. Staff do not view, copy, download or store such imagery; the Designated Safeguarding Lead leads the response and escalates to the police or the Internet Watch Foundation where appropriate. A learner who reports an image is supported, not sanctioned.
 
 In-meeting AI assistants and automatic AI note-takers are disabled on Haven platforms. Use of AI by staff and learners is governed by the [[Responsible Use of AI Policy v10.26]].
 
@@ -470,7 +470,7 @@ AI must **not** be used to:
 All AI use is overseen by senior leadership and aligned with data protection and safeguarding principles.
 
 ## 12. Related Policies and Guidance
-  - [[Child Protection and Safeguarding Policy v01.26]]
+  - [[Child Protection and Safeguarding Policy v10.26]]
 
   - Online [[Behaviour and Regulation Policy v10.26]]
 

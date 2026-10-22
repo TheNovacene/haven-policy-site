@@ -28,7 +28,7 @@ compliance:
 applies_to: ["haven"]
 related_policies:
   - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Behaviour and Regulation Policy v10.26]]"
   - "[[Staff Conduct Policy v10.25]]"
   - "[[RSHE Policy v10.26]]"

@@ -24,7 +24,7 @@ related_policies:
   - "[[Statement of Purpose, Aims and Objectives v10.25]]"
   - "[[Staff Conduct Policy v10.25]]"
   - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
 source_file: "Governor Code of Conduct v10.25.docx"
 ingested: 2026-04-29
 notes: ""

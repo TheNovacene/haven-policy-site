@@ -107,7 +107,7 @@ Every published Haven policy is available here as a PDF, regenerated automatical
 
 ## Safeguarding
 
-- [Child Protection and Safeguarding Policy (v08.26)](/pdf/safeguarding/Child-Protection-and-Safeguarding-Policy-v01.26.pdf)
+- [Child Protection and Safeguarding Policy (v10.26)](/pdf/safeguarding/Child-Protection-and-Safeguarding-Policy-v10.26.pdf)
 - [Child-on-Child Abuse Policy (Summary for parents) (v08.26)](/pdf/safeguarding/Child-on-Child-Abuse-Policy-(Summary-for-parents)-v10.25.pdf)
 - [Drugs and Alcohol Policy (v04.26)](/pdf/safeguarding/Drugs-and-Alcohol-Policy-v10.25.pdf)
 - [Managing Allegations Against Staff Policy (v08.26)](/pdf/safeguarding/Managing-Allegations-Against-Staff-Policy-v01.26.pdf)

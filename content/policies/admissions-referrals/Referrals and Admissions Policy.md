@@ -22,7 +22,7 @@ related_policies:
   - "[[Learner Age Range Policy v10.25]]"
   - "[[Withdrawal from The Haven v10.25]]"
   - "[[SEND Policy v01.26]]"
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Family Attendance Agreement v10.25]]"
 source_file: "Referrals and Admissions Policy.docx"
 ingested: 2026-04-29
@@ -90,7 +90,7 @@ Referrals must include:
 
   - The Head and SENDCo jointly review the referral to consider suitability, capacity, and any safeguarding information.
 
-  - Where safeguarding concerns are identified, the DSL is notified immediately and responds in line with The Haven's [[Child Protection and Safeguarding Policy v01.26]].
+  - Where safeguarding concerns are identified, the DSL is notified immediately and responds in line with The Haven's [[Child Protection and Safeguarding Policy v10.26]].
 
   - Additional information may be requested from the referrer to clarify need, risk or funding route.
 

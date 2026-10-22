@@ -154,6 +154,6 @@ This policy operates under:
 
   - Grievance Policy
 
-  - [[Child Protection and Safeguarding Policy v01.26]]
+  - [[Child Protection and Safeguarding Policy v10.26]]
 
   - Recruitment Privacy Notice

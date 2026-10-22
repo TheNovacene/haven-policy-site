@@ -31,7 +31,7 @@ related_policies:
   - "[[Anti-Racism Policy v01.26]]"
   - "[[Staff Conduct Policy v10.25]]"
   - "[[Grievance and Disciplinary Policy v10.25]]"
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Behaviour and Regulation Policy v10.26]]"
   - "[[SEND Policy v01.26]]"
   - "[[RSHE Policy v10.26]]"
@@ -121,7 +121,7 @@ The Haven discharges this duty through the following structural commitments:
 
 Tribunals can uplift compensation by up to 25% where the preventive duty has been breached. The Haven's standard is to act ahead of breach, not in response to one.
 
-This duty operates alongside the existing prohibition of discrimination and harassment under the Equality Act 2010, and it does not displace the safeguarding-first response to harassment that involves children or learners (see [[Child Protection and Safeguarding Policy v01.26]] and [[Managing Allegations Against Staff Policy v01.26]]).
+This duty operates alongside the existing prohibition of discrimination and harassment under the Equality Act 2010, and it does not displace the safeguarding-first response to harassment that involves children or learners (see [[Child Protection and Safeguarding Policy v10.26]] and [[Managing Allegations Against Staff Policy v01.26]]).
 
 ## 5. Addressing Prejudice and Discrimination 
 
@@ -132,7 +132,7 @@ This duty operates alongside the existing prohibition of discrimination and hara
 ## *Equal Opportunities, Equality & Diversity Policy* — Addendum (October 2025)
 
 This addendum incorporates local authority feedback to clarify The Haven’s procedures for feedback, safeguarding, incident response, and inclusive curriculum review.  
-It should be read in conjunction with The Haven’s [[Child Protection and Safeguarding Policy v01.26]], [[Behaviour and Regulation Policy v10.26]], and Staff Code of Conduct.
+It should be read in conjunction with The Haven’s [[Child Protection and Safeguarding Policy v10.26]], [[Behaviour and Regulation Policy v10.26]], and Staff Code of Conduct.
 
 ### 🔹 1. Inclusive Curriculum Feedback and Review
 

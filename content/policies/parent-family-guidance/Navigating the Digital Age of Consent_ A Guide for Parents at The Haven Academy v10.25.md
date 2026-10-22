@@ -29,7 +29,7 @@ compliance:
 applies_to: ["haven"]
 related_policies:
   - "[[Online Safety & Acceptable Use v01.26]]"
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
   - "[[Responsible Use of AI Policy v10.26]]"
 source_file: "Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25.docx"

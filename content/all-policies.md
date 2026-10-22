@@ -20,7 +20,7 @@ audience, see the [audience packs](audience/). For a thematic view, see the
 - [Business Continuity Plan](/policies/health-safety-medical/Business-Continuity-Plan-v01.26)
 - [Carbon Reduction Plan](/policies/governance-legal/Carbon-Reduction-Plan-v05.26)
 - [Charging and Remissions Policy](/policies/governance-legal/Charging-and-Remissions-Policy-v05.26)
-- [Child Protection and Safeguarding Policy](/policies/safeguarding/Child-Protection-and-Safeguarding-Policy-v01.26)
+- [Child Protection and Safeguarding Policy](/policies/safeguarding/Child-Protection-and-Safeguarding-Policy-v10.26)
 - [Child-on-Child Abuse Policy (Summary for parents)](/policies/safeguarding/Child-on-Child-Abuse-Policy-(Summary-for-parents)-v10.25)
 - [Children Missing from Education Policy](/policies/attendance-engagement/Children-Missing-from-Education-Policy-v10.25)
 - [Communications Policy](/policies/governance-legal/Communications-Policy-v05.26)

@@ -29,7 +29,7 @@ compliance:
   - "Data Protection Act 2018"
 applies_to: ["haven"]
 related_policies:
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Health and Safety Policy v10.26]]"
   - "[[Risk Assessment Policy v10.25]]"
   - "[[Off-site Visits Policy v01.26]]"
@@ -179,7 +179,7 @@ In any accident or incident, staff must:
 4. Inform the DSL
 5. Record the event within 24 hours
 
-Where safeguarding thresholds are met (per *Keeping Children Safe in Education 2026*), referral to external agencies will be made without delay and in line with the [[Child Protection and Safeguarding Policy v01.26]].
+Where safeguarding thresholds are met (per *Keeping Children Safe in Education 2026*), referral to external agencies will be made without delay and in line with the [[Child Protection and Safeguarding Policy v10.26]].
 
 ## 9. Supporting Learners with Medical Conditions
 

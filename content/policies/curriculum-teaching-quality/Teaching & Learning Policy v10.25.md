@@ -34,7 +34,7 @@ related_policies:
   - "[[Responsible Use of AI Policy v10.26]]"
   - "[[Behaviour and Regulation Policy v10.26]]"
   - "[[RSHE Policy v10.26]]"
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Online Safety & Acceptable Use v01.26]]"
 source_file: "Teaching & Learning Policy v10.25.docx"
 ingested: 2026-04-29

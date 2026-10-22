@@ -26,7 +26,7 @@ related_policies:
   - "[[Health and Safety Policy v10.26]]"
   - "[[Risk Assessment Policy v10.25]]"
   - "[[Off-site Visits Policy v01.26]]"
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Staff Conduct Policy v10.25]]"
   - "[[Accidents, Incidents and First Aid Policy v04.26]]"
 source_file: "Lone Working Policy v10.25.docx"

@@ -112,7 +112,7 @@ Authorities" to ensure alignment with best practices for home education.
 
 This policy operates in conjunction with the following policies:
 
-● [[Child Protection and Safeguarding Policy v01.26]]
+● [[Child Protection and Safeguarding Policy v10.26]]
 
 ● Attendance and Absence Policy
 
@@ -290,7 +290,7 @@ The Haven recognises that CME can act as a vital warning sign to a range of safe
 
 issues. Where there are concerns that a learner missing from education is linked to a
 
-safeguarding issue, action will be taken in line with the [[Child Protection and Safeguarding Policy v01.26]].
+safeguarding issue, action will be taken in line with the [[Child Protection and Safeguarding Policy v10.26]].
 
 In line with the Children Act 2004, The Haven will follow appropriate procedures when carrying out reasonable enquiries, such as the DSL conducting discussions with neighbours, relatives or landlords, to determine whether a child may be at risk of harm.
 

@@ -33,7 +33,7 @@ compliance:
   - "Prevent Duty Guidance 2023"
 applies_to: ["haven"]
 related_policies:
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Online Safety & Acceptable Use v01.26]]"
   - "[[RSHE Policy v10.26]]"
   - "[[Behaviour and Regulation Policy v10.26]]"

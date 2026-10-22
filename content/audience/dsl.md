@@ -8,7 +8,7 @@ The full safeguarding-relevant policy set for the Designated Safeguarding Lead, 
 
 ## Safeguarding core
 
-- [Child Protection and Safeguarding Policy](../policies/safeguarding/Child-Protection-and-Safeguarding-Policy-v01.26)
+- [Child Protection and Safeguarding Policy](../policies/safeguarding/Child-Protection-and-Safeguarding-Policy-v10.26)
 - [Online Safety and Acceptable Use](../policies/safeguarding/Online-Safety--and--Acceptable-Use-v01.26)
 - [The Haven Prevent Duty Policy](../policies/safeguarding/Prevent-Duty-Policy-v01.26_)
 - [RSHE Policy](../policies/safeguarding/RSHE-Policy-v10.26)

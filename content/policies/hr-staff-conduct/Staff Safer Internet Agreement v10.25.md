@@ -36,7 +36,7 @@ related_policies:
   - "[[Responsible Use of AI Policy v10.26]]"
   - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
   - "[[Staff Conduct Policy v10.25]]"
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Prevent Duty Policy v01.26_]]"
   - "[[Online Safety & Acceptable Use v01.26]]"
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"
@@ -61,7 +61,7 @@ notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026
 
   - [[Staff Conduct Policy v10.25]]
 
-  - [[Child Protection and Safeguarding Policy v01.26]]
+  - [[Child Protection and Safeguarding Policy v10.26]]
 
   - [[Prevent Duty Policy v01.26_]]
 

@@ -28,7 +28,7 @@ compliance:
   - "ICO Children's Code"
 applies_to: ["haven"]
 related_policies:
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Online Safety & Acceptable Use v01.26]]"
   - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
   - "[[Information and Cyber Security Policy v10.26]]"
@@ -400,7 +400,7 @@ This policy will be reviewed annually by the DSL, DPO, and digital learning lead
 
 ## 15. Linked Policies 
 
-● [[Child Protection and Safeguarding Policy v01.26]]
+● [[Child Protection and Safeguarding Policy v10.26]]
 
 ● [[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]
 

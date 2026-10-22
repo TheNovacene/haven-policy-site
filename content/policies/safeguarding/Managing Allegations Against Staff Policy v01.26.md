@@ -31,7 +31,7 @@ compliance:
   - "Education Act 2002"
 applies_to: ["haven"]
 related_policies:
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Staff Conduct Policy v10.25]]"
   - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
   - "[[Whistleblowing Policy v01.26]]"
@@ -360,7 +360,7 @@ This approach supports:
   - reduced escalation into serious harm.
 
 ## 14. Related Policies and Guidance
-  - [[Child Protection and Safeguarding Policy v01.26]]
+  - [[Child Protection and Safeguarding Policy v10.26]]
 
   - [[Staff Conduct Policy v10.25]]
 

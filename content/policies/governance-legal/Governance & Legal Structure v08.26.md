@@ -25,7 +25,7 @@ related_policies:
   - "[[Terms and Conditions v10.25]]"
   - "[[Complaints Procedure v10.25]]"
   - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
 source_file: ""
 ingested: 2026-08-16
 notes: "Full replacement of Governance & Legal Structure v10.25 (archived), which described a superseded legal posture. Governing body ratification to be recorded at the next meeting."

@@ -21,7 +21,7 @@ related_policies:
   - "[[Governance & Legal Structure v10.25]]"
   - "[[Terms and Conditions v10.25]]"
   - "[[Teaching & Learning Policy v10.25]]"
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"
   - "[[SEND Policy v01.26]]"
   - "[[Referrals and Admissions Policy]]"
@@ -49,7 +49,7 @@ This policy applies to:
 
   - All families and partner schools engaging with The Haven provision.
 
-It should be read alongside The Haven’s full suite of safeguarding and educational policies, including the **[[Child Protection and Safeguarding Policy v01.26]]**, **[[Behaviour and Regulation Policy v10.26]]**, **[[Attendance & Engagement v01.26]]**, and **[[Examinations Policy v10.26]]**.
+It should be read alongside The Haven’s full suite of safeguarding and educational policies, including the **[[Child Protection and Safeguarding Policy v10.26]]**, **[[Behaviour and Regulation Policy v10.26]]**, **[[Attendance & Engagement v01.26]]**, and **[[Examinations Policy v10.26]]**.
 
 ## Statutory Guidance
 This Statement is informed by:

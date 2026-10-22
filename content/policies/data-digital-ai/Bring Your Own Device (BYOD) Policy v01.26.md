@@ -34,7 +34,7 @@ related_policies:
   - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
   - "[[Staff Conduct Policy v10.25]]"
   - "[[Responsible Use of AI Policy v10.26]]"
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Online Safety & Acceptable Use v01.26]]"
   - "[[Staff Safer Internet Agreement v10.25]]"
   - "[[Grievance and Disciplinary Policy v10.25]]"
@@ -58,7 +58,7 @@ notes: "Reviewed against Keeping Children Safe in Education 2026 (published 7 Ju
 
   - [[Responsible Use of AI Policy v10.26]]
 
-  - [[Child Protection and Safeguarding Policy v01.26]]
+  - [[Child Protection and Safeguarding Policy v10.26]]
 
   - Grievance and Low-Level Concerns Policies
 
@@ -157,7 +157,7 @@ Incidents will be logged in the **Cyber Incident Register** (per [[Information a
 
   - Staff must never engage in one-to-one messaging with learners outside approved channels.
 
-  - Any safeguarding indicators noticed during online sessions must be recorded and escalated in line with the **[[Child Protection and Safeguarding Policy v01.26]]**.
+  - Any safeguarding indicators noticed during online sessions must be recorded and escalated in line with the **[[Child Protection and Safeguarding Policy v10.26]]**.
 
 ## 9. Enforcement
 Failure to comply with this policy may result in:

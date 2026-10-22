@@ -43,7 +43,7 @@ related_policies:
   - "[[Internet, Network and Email Policy v05.26]]"
   - "[[Staff Safer Internet Agreement v10.25]]"
   - "[[Online Safety & Acceptable Use v01.26]]"
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Responsible Use of AI Policy v10.26]]"
   - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
   - "[[Staff Induction Policy v05.26]]"

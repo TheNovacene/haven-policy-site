@@ -28,7 +28,7 @@ compliance:
   - "ACAS Code of Practice 2023"
 applies_to: ["haven"]
 related_policies:
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Managing Allegations Against Staff Policy v01.26]]"
   - "[[Whistleblowing Policy v01.26]]"
   - "[[Grievance and Disciplinary Policy v10.25]]"
@@ -140,7 +140,7 @@ By joining The Haven, staff confirm that they have read, understood, and agreed 
 **Purpose  
 **This addendum sits alongside The Haven *Staff Conduct Policy* (2025). It clarifies professional boundaries, digital expectations, and data protection responsibilities for all staff, tutors, contractors, and volunteers working with The Haven.
 
-It should be read in conjunction with The Haven’s **[[Child Protection and Safeguarding Policy v01.26]]**, **[[Whistleblowing Policy v01.26]]**, **[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]**, and **Staff Acceptable Use Guidelines**.
+It should be read in conjunction with The Haven’s **[[Child Protection and Safeguarding Policy v10.26]]**, **[[Whistleblowing Policy v01.26]]**, **[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]**, and **Staff Acceptable Use Guidelines**.
 
 ## Section 1: Professional Boundaries and Social Media Use
 All staff are expected to maintain clear, professional boundaries in both their **personal and professional** online interactions.
@@ -186,7 +186,7 @@ Staff using personal devices for work must:
 Failure to report such incidents promptly may constitute a breach of the **[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]** and could result in disciplinary action.
 
 ## Section 3: Safeguarding and Confidentiality
-  - All staff have an **ongoing duty** to uphold The Haven’s **[[Child Protection and Safeguarding Policy v01.26]]** during and outside of teaching hours.
+  - All staff have an **ongoing duty** to uphold The Haven’s **[[Child Protection and Safeguarding Policy v10.26]]** during and outside of teaching hours.
 
   - This includes maintaining professional boundaries in all communications, both digital and in-person, and being alert to safeguarding disclosures at all times.
 
@@ -199,7 +199,7 @@ Breaches of confidentiality or safeguarding expectations must be reported immedi
 ## Section 4: Cross-Referenced Policies
 Staff must familiarise themselves with and follow these related policies at all times:
 
-  - **[[Child Protection and Safeguarding Policy v01.26]]  
+  - **[[Child Protection and Safeguarding Policy v10.26]]  
     > **
 
   - **[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]  

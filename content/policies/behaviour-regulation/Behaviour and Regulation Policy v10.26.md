@@ -28,7 +28,7 @@ applies_to: ["haven"]
 related_policies:
   - "[[Anti-Bullying Policy v10.26]]"
   - "[[Behaviour Incident Reporting Procedure v05.26]]"
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Online Safety & Acceptable Use v01.26]]"
   - "[[SEND Policy v01.26]]"
 source_file: "Behaviour and Regulation Policy v10.25.md"

@@ -32,7 +32,7 @@ related_policies:
   - "[[Whistleblowing Policy v01.26]]"
   - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"
   - "[[Anti-Racism Policy v01.26]]"
-  - "[[Child Protection and Safeguarding Policy v01.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
 source_file: "Grievance and Disciplinary Policy v10.25.docx"
 ingested: 2026-04-29
@@ -65,7 +65,7 @@ It is underpinned by:
   - The **[[Staff Conduct Policy v10.25]]  
     > **
 
-  - The **[[Child Protection and Safeguarding Policy v01.26]]  
+  - The **[[Child Protection and Safeguarding Policy v10.26]]  
     > **
 
   - **ACAS Code of Practice (2023)  
