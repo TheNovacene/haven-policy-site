@@ -32,7 +32,7 @@ compliance:
   - "ICO Children's Code"
 applies_to: ["haven"]
 related_policies:
-  - "[[Cyber Security Policy v01.26]]"
+  - "[[Information and Cyber Security Policy v10.26]]"
   - "[[Responsible Use of AI Policy v10.26]]"
   - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
   - "[[Staff Conduct Policy v10.25]]"
@@ -53,7 +53,7 @@ notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026
 
 **Linked Policies:**
 
-  - [[Cyber Security Policy v01.26]] (v1.0, Oct 2025)
+  - [[Information and Cyber Security Policy v10.26]] (v1.0, Oct 2025)
 
   - [[Responsible Use of AI Policy v10.26]] (v1.0, Aug 2025)
 

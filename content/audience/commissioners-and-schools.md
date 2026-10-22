@@ -42,7 +42,7 @@ The policies and procurement documents Local Authority commissioners and school-
 
 - [Data Protection (UK GDPR), Confidentiality and Privacy Policy](../policies/data-digital-ai/Data-Protection-(UK-GDPR),-Confidentiality--and--Privacy-Policy-v10.26)
 - [The Haven Privacy Notice (public-facing)](../policies/data-digital-ai/Privacy-Policy-v10.25)
-- [Cyber Security Policy](../policies/data-digital-ai/Cyber-Security-Policy-v01.26)
+- [Information and Cyber Security Policy](../policies/data-digital-ai/Information-and-Cyber-Security-Policy-v10.26)
 - [The Haven: Responsible Use of AI Policy](../policies/data-digital-ai/Responsible-Use-of-AI-Policy-v10.26)
 - [Submitting Controller Details (DPIA Digital Platforms)](../policies/data-digital-ai/DPIA-Digital-Platforms)
 

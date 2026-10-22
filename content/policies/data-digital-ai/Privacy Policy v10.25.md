@@ -26,7 +26,7 @@ compliance:
 applies_to: ["haven"]
 related_policies:
   - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
-  - "[[Cyber Security Policy v01.26]]"
+  - "[[Information and Cyber Security Policy v10.26]]"
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"
 source_file: "Privacy Policy v10.25.docx"
 ingested: 2026-04-29

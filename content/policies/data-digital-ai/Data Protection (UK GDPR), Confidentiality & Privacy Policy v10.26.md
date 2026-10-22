@@ -33,7 +33,7 @@ related_policies:
   - "[[Privacy Notices v10.26]]"
   - "[[Data Retention Policy and Data Breach Procedure v05.26]]"
   - "[[Data Protection Impact Assessment - Consolidated v08.26]]"
-  - "[[Cyber Security Policy v01.26]]"
+  - "[[Information and Cyber Security Policy v10.26]]"
   - "[[Child Protection and Safeguarding Policy v01.26]]"
   - "[[Responsible Use of AI Policy v10.26]]"
   - "[[Declaration - Photos, Videos and Lesson Recordings v05.26]]"

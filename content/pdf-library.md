@@ -39,11 +39,11 @@ Every published Haven policy is available here as a PDF, regenerated automatical
 
 - [Appropriate Policy Document: Special Category and Criminal Offence Data (v10.26)](/pdf/data-digital-ai/Appropriate-Policy-Document-v10.26.pdf)
 - [Bring Your Own Device (BYOD) Policy (v08.26)](/pdf/data-digital-ai/Bring-Your-Own-Device-(BYOD)-Policy-v01.26.pdf)
-- [Cyber Security Policy (v04.26)](/pdf/data-digital-ai/Cyber-Security-Policy-v01.26.pdf)
 - [Data Protection (UK GDPR), Confidentiality and Privacy Policy (v10.26)](/pdf/data-digital-ai/Data-Protection-(UK-GDPR)-Confidentiality-and-Privacy-Policy-v10.26.pdf)
 - [Data Protection Impact Assessment — Consolidated (v08.26)](/pdf/data-digital-ai/Data-Protection-Impact-Assessment-Consolidated-v08.26.pdf)
 - [Data Retention Policy and Data Breach Procedure (v05.26)](/pdf/data-digital-ai/Data-Retention-Policy-and-Data-Breach-Procedure-v05.26.pdf)
 - [Declaration: Photos, Videos and Lesson Recordings (v05.26)](/pdf/data-digital-ai/Declaration-Photos-Videos-and-Lesson-Recordings-v05.26.pdf)
+- [Information and Cyber Security Policy (v10.26)](/pdf/data-digital-ai/Information-and-Cyber-Security-Policy-v10.26.pdf)
 - [Internet, Network and Email Policy (v05.26)](/pdf/data-digital-ai/Internet-Network-and-Email-Policy-v05.26.pdf)
 - [Privacy Notices (v10.26)](/pdf/data-digital-ai/Privacy-Notices-v10.26.pdf)
 - [Service Providers and Data Processors (v10.26)](/pdf/data-digital-ai/Service-Providers-and-Data-Processors.pdf)

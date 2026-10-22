@@ -49,7 +49,7 @@ These are read and acknowledged at induction and re-confirmed annually.
 ### Data, AI, and devices
 
 - [Data Protection (UK GDPR), Confidentiality and Privacy Policy](../policies/data-digital-ai/Data-Protection-(UK-GDPR),-Confidentiality--and--Privacy-Policy-v10.26)
-- [Cyber Security Policy](../policies/data-digital-ai/Cyber-Security-Policy-v01.26)
+- [Information and Cyber Security Policy](../policies/data-digital-ai/Information-and-Cyber-Security-Policy-v10.26)
 - [Bring Your Own Device (BYOD) Policy](../policies/data-digital-ai/Bring-Your-Own-Device-(BYOD)-Policy-v01.26)
 - [The Haven: Responsible Use of AI Policy](../policies/data-digital-ai/Responsible-Use-of-AI-Policy-v10.26)
 

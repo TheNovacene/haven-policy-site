@@ -31,7 +31,7 @@ related_policies:
   - "[[Child Protection and Safeguarding Policy v01.26]]"
   - "[[Online Safety & Acceptable Use v01.26]]"
   - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
-  - "[[Cyber Security Policy v01.26]]"
+  - "[[Information and Cyber Security Policy v10.26]]"
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"
   - "[[Staff Safer Internet Agreement v10.25]]"
   - "[[Teaching & Learning Policy v10.25]]"

@@ -30,7 +30,7 @@ compliance:
   - "ICO UK GDPR guidance"
 applies_to: ["haven"]
 related_policies:
-  - "[[Cyber Security Policy v01.26]]"
+  - "[[Information and Cyber Security Policy v10.26]]"
   - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
   - "[[Staff Conduct Policy v10.25]]"
   - "[[Responsible Use of AI Policy v10.26]]"
@@ -50,7 +50,7 @@ notes: "Reviewed against Keeping Children Safe in Education 2026 (published 7 Ju
 
 **Linked Policies:**
 
-  - [[Cyber Security Policy v01.26]] (v1.0)
+  - [[Information and Cyber Security Policy v10.26]] (v1.0)
 
   - [[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]] (v1.0)
 
@@ -137,7 +137,7 @@ If a device used for The Haven work is:
   - Lost, stolen, infected with malware, or suspected of breach,  
     > the user must **report immediately** to the **DPO** and **DSL**.
 
-Incidents will be logged in the **Cyber Incident Register** (per [[Cyber Security Policy v01.26]] section 6) and may be reported to the **ICO within 72 hours** if a personal data breach has occurred.
+Incidents will be logged in the **Cyber Incident Register** (per [[Information and Cyber Security Policy v10.26]] section 6) and may be reported to the **ICO within 72 hours** if a personal data breach has occurred.
 
 ## 7. Data Ownership and Privacy
   - All The Haven-related data remains the property of The Haven.
@@ -187,6 +187,6 @@ This *Bring Your Own Device (BYOD) Policy*:
 
   - **Aligns with KCSIE 2026** on staff digital conduct and online safeguarding.
 
-  - **Supports the Haven [[Cyber Security Policy v01.26]]** (Sections 5 & 6) on encryption, MFA, and breach response.
+  - **Supports the Haven [[Information and Cyber Security Policy v10.26]]** (Sections 5 & 6) on encryption, MFA, and breach response.
 
   - Should be issued alongside the **[[Staff Safer Internet Agreement v10.25]]** as part of annual re-induction.
