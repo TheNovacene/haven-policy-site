@@ -2,12 +2,12 @@
 title: "Whistleblowing Policy"
 short_id: "WP"
 slug: "whistleblowing-policy"
-version: "01.26"
+version: "10.26"
 status: "live"
-last_reviewed: 2026-01-01
-next_review: 2027-01-01
+last_reviewed: 2026-10-27
+next_review: 2027-10-01
 review_cycle: "annual"
-owner_role: "Headteacher"
+owner_role: "Head"
 approver_role: "Proprietor"
 sign_off_record:
   - version: "01.26"
@@ -17,17 +17,24 @@ themes:
   - whistleblowing
 compliance:
   - "Public Interest Disclosure Act 1998"
+  - "KCSIE 2026"
 applies_to: ["haven"]
-related_policies: []
-source_file: "Whistleblowing Policy v01.26.docx"
-ingested: 2026-04-29
-notes: "KCSIE reference updated from the 2025 to the 2026 edition on 26 August 2026 (KCSIE 2026 published 7 July 2026, in force 1 September 2026). Citation currency only; the policy was not otherwise re-reviewed. PENDING DSL AND PROPRIETOR SIGN-OFF."
+related_policies:
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
+  - "[[Managing Allegations Against Staff Policy v10.26]]"
+  - "[[Staff Conduct Policy v10.26]]"
+  - "[[Grievance and Disciplinary Policy v10.25]]"
+aliases:
+  - "policies/hr-staff-conduct/Whistleblowing Policy v01.26"
+source_file: "Whistleblowing Policy v01.26.md"
+ingested: 2026-10-27
+notes: "Version 10.26, 27 October 2026, at the Proprietor's request (tender review). Citation and date update only: confirms the KCSIE 2026 citation, rolls the review date from October 2026 to October 2027, and names the Co-Chair of Governors consistently. No change to the procedure. Previous version 01.26 archived."
 ---
-**Date:** January 2026  
-**Review Date:** October 2026 (or sooner if statutory guidance changes)  
-**Policy Owner:** Head of School  
+**Date:** October 2026  
+**Review Date:** October 2027 (or sooner if statutory guidance changes)  
+**Policy Owner:** Head  
 **Nominated Governor:** Safeguarding Governor  
-**Version:** v01.26
+**Version:** 10.26
 
 ## 1. Policy Statement and Purpose
 The Haven is committed to the highest standards of openness, integrity, and accountability. All staff and others connected with the school are encouraged to raise concerns about wrongdoing, malpractice, or safeguarding failures without fear of victimisation, disadvantage, or reprisal.
@@ -36,19 +43,19 @@ This policy provides a clear, fair, and transparent framework for raising and re
 
   - the **Public Interest Disclosure Act 1998 (PIDA)**, and
 
-  - **Keeping Children Safe in Education (KCSIE) 2026**.
+  - **Keeping Children Safe in Education (KCSIE) 2026** (DfE, in force 1 September 2026), in particular Part one on whistleblowing and Part four on allegations and concerns about adults.
 
 It should be read alongside:
 
   - [[Child Protection and Safeguarding Policy v10.26]]
 
-  - [[Managing Allegations Against Staff Policy v01.26]]
+  - [[Managing Allegations Against Staff Policy v10.26]]
 
   - Low-Level Concerns Policy
 
-  - [[Staff Conduct Policy v10.25]]
+  - [[Staff Conduct Policy v10.26]]
 
-  - Grievance and Disciplinary Procedure
+  - [[Grievance and Disciplinary Policy v10.25]]
 
 ## 2. Scope
 This policy applies to:
@@ -100,17 +107,19 @@ Concerns can be raised with:
 
   - the **Designated Safeguarding Lead (DSL)**;
 
-  - the **Head of School**;
+  - the **Head**;
 
-  - the **Chair of Governors / Safeguarding Governor**.
+  - the **Co-Chair of Governors or the Safeguarding Governor**.
 
-If the concern relates to the Head of School, it must be raised directly with the Chair of Governors.
+If the concern relates to the Head, it must be raised directly with the Co-Chair of Governors.
 
 Where a concern involves safeguarding and cannot be addressed internally, or where the whistleblower feels unable to raise it within The Haven, concerns may be raised externally with:
 
   - the **Local Authority Designated Officer (LADO)**, or
 
-  - the **Ofsted whistleblowing hotline** (0300 123 3155).
+  - the **Ofsted whistleblowing hotline** (0300 123 3155), or
+
+  - the **NSPCC whistleblowing advice line** for professionals (0800 028 0285), named in KCSIE 2026 for staff who feel unable to raise a safeguarding concern internally.
 
 ## 5. Recording Concerns (Including Verbal Disclosures)
 All whistleblowing concerns are formally recorded.
@@ -213,7 +222,7 @@ Possible outcomes include:
 
   - A summary of findings is shared with:
     
-      - the Principal / Head of School;
+      - the Head;
     
       - the DSL;
     

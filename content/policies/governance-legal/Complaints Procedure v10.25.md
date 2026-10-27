@@ -24,7 +24,7 @@ compliance:
   - "Equality Act 2010"
 applies_to: ["haven"]
 related_policies:
-  - "[[Whistleblowing Policy v01.26]]"
+  - "[[Whistleblowing Policy v10.26]]"
   - "[[Grievance and Disciplinary Policy v10.25]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Terms and Conditions v10.25]]"
@@ -53,7 +53,7 @@ This procedure provides a clear, fair, and accessible route for raising concerns
   - This procedure applies to complaints from parents/carers, learners, and external partners (including Local Authorities and schools).
   - It does not apply to staff employment concerns, which are covered under [[Grievance and Disciplinary Policy v10.25]].
   - Safeguarding concerns must be referred directly to the DSL and will not be investigated solely under this procedure. See [[Child Protection and Safeguarding Policy v10.26]].
-  - Allegations against staff are managed under [[Managing Allegations Against Staff Policy v01.26]].
+  - Allegations against staff are managed under [[Managing Allegations Against Staff Policy v10.26]].
 
 ## Stages of the Procedure
 
@@ -110,10 +110,10 @@ If the complaint remains unresolved following the panel's decision, parents/care
 
 ## Related Policies
 
-  - [[Whistleblowing Policy v01.26]]
+  - [[Whistleblowing Policy v10.26]]
   - [[Grievance and Disciplinary Policy v10.25]]
   - [[Child Protection and Safeguarding Policy v10.26]]
-  - [[Managing Allegations Against Staff Policy v01.26]]
+  - [[Managing Allegations Against Staff Policy v10.26]]
   - [[Terms and Conditions v10.25]]
   - [[Governance & Legal Structure v10.25]]
   - [[Equal Opportunities, Equality & Diversity Policy v10.25]]

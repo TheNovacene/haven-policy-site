@@ -24,7 +24,7 @@ compliance:
 applies_to: ["haven"]
 related_policies:
   - "[[Attendance & Engagement v01.26]]"
-  - "[[Children Missing from Education Policy v10.25]]"
+  - "[[Children Missing from Education Policy v10.26]]"
   - "[[Behaviour and Regulation Policy v10.26]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Withdrawal from The Haven v10.25]]"

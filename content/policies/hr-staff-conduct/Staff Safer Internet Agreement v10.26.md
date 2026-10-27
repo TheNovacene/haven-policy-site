@@ -2,10 +2,10 @@
 title: "Staff Safer Internet Agreement"
 short_id: "SSIA"
 slug: "staff-safer-internet-agreement"
-version: "04.26"
+version: "10.26"
 status: "live"
-last_reviewed: 2026-04-29
-next_review: 2027-04-29
+last_reviewed: 2026-10-27
+next_review: 2027-10-01
 review_cycle: "annual"
 owner_role: "Designated Safeguarding Lead"
 approver_role: "Proprietor"
@@ -30,26 +30,28 @@ compliance:
   - "Filtering and Monitoring Standards (DfE 2024)"
   - "Online Safety Act 2023"
   - "ICO Children's Code"
+aliases:
+  - "policies/hr-staff-conduct/Staff Safer Internet Agreement v10.25"
 applies_to: ["haven"]
 related_policies:
   - "[[Information and Cyber Security Policy v10.26]]"
   - "[[Responsible Use of AI Policy v10.26]]"
   - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
-  - "[[Staff Conduct Policy v10.25]]"
+  - "[[Staff Conduct Policy v10.26]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
-  - "[[Prevent Duty Policy v01.26_]]"
-  - "[[Online Safety & Acceptable Use v01.26]]"
+  - "[[Prevent Duty Policy v10.26]]"
+  - "[[Online Safety Policy and Acceptable Use v10.26]]"
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"
   - "[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]]"
-source_file: "Staff Safer Internet Agreement v10.25.docx"
-ingested: 2026-04-29
-notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
+source_file: "Staff Safer Internet Agreement v10.25.md"
+ingested: 2026-10-27
+notes: "Version 10.26, 27 October 2026, at the Proprietor's request (tender review). Review date rolled from October 2026 to October 2027. The Proprietor confirmed on 27 October 2026 that no substantive changes are needed for KCSIE 2026 beyond those recorded here, which closes the outstanding-review note added in August 2026. Previous version archived."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** October 2026  
+**Review Date:** October 2027  
 **Coordinator:** Head  
 **Nominated Governor:** the Safeguarding Governor  
-**Version:** v10.25
+**Version:** 10.26
 
 **Linked Policies:**
 
@@ -59,11 +61,11 @@ notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026
 
   - [[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]] (v1.0)
 
-  - [[Staff Conduct Policy v10.25]]
+  - [[Staff Conduct Policy v10.26]]
 
   - [[Child Protection and Safeguarding Policy v10.26]]
 
-  - [[Prevent Duty Policy v01.26_]]
+  - [[Prevent Duty Policy v10.26]]
 
   - [[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]]
 
@@ -179,7 +181,7 @@ I confirm that I have read, understood, and agree to follow The Haven *Staff Saf
 • I must use AI tools only within school-approved systems; and
 
 • I will report any breach or concern immediately to the DPO or DSL.  
-I understand that failure to uphold these standards may lead to proportionate action under the [[Staff Conduct Policy v10.25]].
+I understand that failure to uphold these standards may lead to proportionate action under the [[Staff Conduct Policy v10.26]].
 
 |  |  |
 |  |  |

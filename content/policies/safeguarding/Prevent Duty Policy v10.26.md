@@ -2,9 +2,9 @@
 title: "The Haven Prevent Duty Policy"
 short_id: "PDP"
 slug: "the-haven-prevent-duty-policy"
-version: "08.26"
+version: "10.26"
 status: "live"
-last_reviewed: 2026-08-26
+last_reviewed: 2026-10-27
 next_review: 2027-04-29
 review_cycle: "annual"
 owner_role: "Designated Safeguarding Lead"
@@ -21,28 +21,30 @@ themes:
   - safeguarding
 compliance:
   - "KCSIE 2026"
-  - "Channel Duty Guidance 2023"
+  - "Channel duty guidance (Home Office, 2023)"
   - "Online Safety Act 2023"
   - "Filtering and Monitoring Standards (DfE 2024)"
   - "Generative AI in Education (DfE 2025)"
-  - "Working Together to Safeguard Children 2023"
+  - "Working Together to Safeguard Children 2026"
   - "Children Act 1989"
   - "Children Act 2004"
   - "Education Act 2002"
   - "Counter-Terrorism and Security Act 2015"
-  - "Prevent Duty Guidance 2023"
+  - "Prevent duty guidance: England and Wales (Home Office, 2023, in force 31 December 2023)"
 applies_to: ["haven"]
 related_policies:
   - "[[Child Protection and Safeguarding Policy v10.26]]"
-  - "[[Online Safety & Acceptable Use v01.26]]"
+  - "[[Online Safety Policy and Acceptable Use v10.26]]"
   - "[[RSHE Policy v10.26]]"
   - "[[Behaviour and Regulation Policy v10.26]]"
-  - "[[Staff Conduct Policy v10.25]]"
-source_file: "Prevent Duty Policy v01.26_.docx"
-ingested: 2026-04-29
-notes: "Reviewed against Keeping Children Safe in Education 2026 (published 7 July 2026, in force 1 September 2026) on 26 August 2026. Out-of-cycle statutory review; the next scheduled review date is unchanged so that the annual cycle does not collapse onto one date. Filtering and monitoring wording aligned to the Risk Assessment - Learner Access from Personally-Owned Devices. PENDING DSL AND PROPRIETOR SIGN-OFF."
+  - "[[Staff Conduct Policy v10.26]]"
+aliases:
+  - "policies/safeguarding/Prevent Duty Policy v01.26_"
+source_file: "Prevent Duty Policy v01.26_.md (08.26 content)"
+ingested: 2026-10-27
+notes: "Version 10.26, 27 October 2026, at the Proprietor's request (tender review). Citation update: Working Together to Safeguard Children updated from 2023 to 2026; the Prevent duty guidance is cited precisely as the Home Office guidance for England and Wales issued in 2023 and in force from 31 December 2023, which remains the current statutory guidance as verified on 27 October 2026 (no later edition has been issued). Filename cleaned up (the previous file carried a stray underscore). The 08.26 review of the previous version was never signed off, so this version supersedes it. Next review date unchanged."
 ---
-**Date:** August 2026
+**Date:** October 2026
 
 **Review Date:** April 2027
 
@@ -50,7 +52,7 @@ notes: "Reviewed against Keeping Children Safe in Education 2026 (published 7 Ju
 
 **Nominated Governor:** the Safeguarding Governor
 
-**Version:** v08.26
+**Version:** 10.26
 
 ## 1. Scope 
 
@@ -190,11 +192,11 @@ This policy aims to:
 
 ○ The Counter-Terrorism and Security Act 2015
 
-○ The Prevent Duty Guidance 2023
+○ Prevent duty guidance: England and Wales (Home Office, issued 2023, in force from 31 December 2023), the current statutory guidance under section 29 of the Counter-Terrorism and Security Act 2015
 
 ○ Keeping Children Safe in Education (KCSIE) 2026
 
-○ Working Together to Safeguard Children 2023
+○ Working Together to Safeguard Children 2026
 
 ## 14. Commitment 
 

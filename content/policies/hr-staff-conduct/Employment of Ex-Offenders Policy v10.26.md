@@ -2,12 +2,12 @@
 title: "Employment of Ex-Offenders Policy"
 short_id: "EEOP"
 slug: "employment-of-ex-offenders-policy"
-version: "10.25"
+version: "10.26"
 status: "live"
-last_reviewed: 2025-10-01
-next_review: 2026-10-01
+last_reviewed: 2026-10-27
+next_review: 2027-10-01
 review_cycle: "annual"
-owner_role: "Headteacher"
+owner_role: "Head"
 approver_role: "Proprietor"
 sign_off_record:
   - version: "10.25"
@@ -17,17 +17,27 @@ themes:
   - ex-offenders
 compliance:
   - "Rehabilitation of Offenders Act 1974"
+  - "KCSIE 2026 (Part three)"
+  - "Police Act 1997"
+  - "Equality Act 2010"
+  - "UK GDPR"
+aliases:
+  - "policies/hr-staff-conduct/Employment of Ex-Offenders Policy v10.25"
 applies_to: ["haven"]
-related_policies: []
-source_file: "Employment of Ex-Offenders Policy v10.25.docx"
-ingested: 2026-04-29
-notes: ""
+related_policies:
+  - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
+  - "[[Managing Allegations Against Staff Policy v10.26]]"
+  - "[[Staff Conduct Policy v10.26]]"
+  - "[[Child Protection and Safeguarding Policy v10.26]]"
+source_file: "Employment of Ex-Offenders Policy v10.25.md"
+ingested: 2026-10-27
+notes: "Version 10.26, 27 October 2026, at the Proprietor's request (tender review). Review date rolled from October 2026 to October 2027. The Proprietor confirmed on 27 October 2026 that no substantive changes are needed for KCSIE 2026 beyond those recorded here, which closes the outstanding-review note added in August 2026. Cross-reference to the Safer Recruitment and Use of Volunteers Policy confirmed as version 10.26. Previous version archived."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** October 2026  
+**Review Date:** October 2027  
 **Coordinator:** Head  
 **Nominated Governor:** Designated Safeguarding Lead (DSL)  
-**Version:** v10.25
+**Version:** 10.26
 
 ## 1. Purpose
 This policy ensures that The Haven acts fairly, lawfully, and without discrimination when considering applications from individuals with criminal records.  
@@ -124,7 +134,7 @@ This policy operates under:
 ## 6 During Employment
   - Staff must declare any relevant cautions, convictions, or police investigations that arise during employment.
 
-  - The Haven will review such disclosures in consultation with the LADO and decide whether action is required under the [[Managing Allegations Against Staff Policy v01.26]].
+  - The Haven will review such disclosures in consultation with the LADO and decide whether action is required under the [[Managing Allegations Against Staff Policy v10.26]].
 
   - Support and confidential discussion will be offered to any employee making a self-disclosure.
 
@@ -146,13 +156,13 @@ This policy operates under:
   - Lessons from case reviews and audit findings inform updates to practice.
 
 ## 10 Linked Policies and Documents
-  - [[Safer Recruitment and Use of Volunteers Policy v10.26]]
+  - [[Safer Recruitment and Use of Volunteers Policy v10.26]] (version 10.26, October 2026)
 
-  - [[Managing Allegations Against Staff Policy v01.26]]
+  - [[Managing Allegations Against Staff Policy v10.26]]
 
-  - [[Staff Conduct Policy v10.25]]
+  - [[Staff Conduct Policy v10.26]]
 
-  - Grievance Policy
+  - [[Grievance and Disciplinary Policy v10.25]]
 
   - [[Child Protection and Safeguarding Policy v10.26]]
 

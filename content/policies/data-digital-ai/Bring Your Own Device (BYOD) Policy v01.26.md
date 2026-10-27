@@ -32,11 +32,11 @@ applies_to: ["haven"]
 related_policies:
   - "[[Information and Cyber Security Policy v10.26]]"
   - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
-  - "[[Staff Conduct Policy v10.25]]"
+  - "[[Staff Conduct Policy v10.26]]"
   - "[[Responsible Use of AI Policy v10.26]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
-  - "[[Online Safety & Acceptable Use v01.26]]"
-  - "[[Staff Safer Internet Agreement v10.25]]"
+  - "[[Online Safety Policy and Acceptable Use v10.26]]"
+  - "[[Staff Safer Internet Agreement v10.26]]"
   - "[[Grievance and Disciplinary Policy v10.25]]"
 source_file: "Bring Your Own Device (BYOD) Policy v01.26.docx"
 ingested: 2026-04-29
@@ -54,7 +54,7 @@ notes: "Reviewed against Keeping Children Safe in Education 2026 (published 7 Ju
 
   - [[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]] (v1.0)
 
-  - [[Staff Conduct Policy v10.25]]
+  - [[Staff Conduct Policy v10.26]]
 
   - [[Responsible Use of AI Policy v10.26]]
 
@@ -151,7 +151,7 @@ Incidents will be logged in the **Cyber Incident Register** (per [[Information a
   - The Haven will not access personal, non-work-related content on the device but may verify compliance with data handling standards.
 
 ## 8. Safeguarding and Professional Conduct
-  - BYOD users must maintain **professional digital boundaries** consistent with the [[Staff Conduct Policy v10.25]].
+  - BYOD users must maintain **professional digital boundaries** consistent with the [[Staff Conduct Policy v10.26]].
 
   - Devices used for The Haven sessions must have **neutral, distraction-free backgrounds** and **no visible personal identifiers**.
 
@@ -189,4 +189,4 @@ This *Bring Your Own Device (BYOD) Policy*:
 
   - **Supports the Haven [[Information and Cyber Security Policy v10.26]]** (Sections 5 & 6) on encryption, MFA, and breach response.
 
-  - Should be issued alongside the **[[Staff Safer Internet Agreement v10.25]]** as part of annual re-induction.
+  - Should be issued alongside the **[[Staff Safer Internet Agreement v10.26]]** as part of annual re-induction.

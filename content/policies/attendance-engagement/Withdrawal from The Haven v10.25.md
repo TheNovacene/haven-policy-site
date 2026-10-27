@@ -19,7 +19,7 @@ compliance:
 applies_to: ["haven"]
 related_policies:
   - "[[Attendance & Engagement v01.26]]"
-  - "[[Children Missing from Education Policy v10.25]]"
+  - "[[Children Missing from Education Policy v10.26]]"
   - "[[Family Attendance Agreement v10.25]]"
   - "[[Terms and Conditions v10.25]]"
   - "[[Complaints Procedure v10.25]]"

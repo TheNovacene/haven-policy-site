@@ -2,9 +2,9 @@
 title: "Online Safety Policy and Acceptable Use"
 short_id: "OSAU"
 slug: "online-safety-policy-and-acceptable-use"
-version: "08.26"
+version: "10.26"
 status: "live"
-last_reviewed: 2026-08-26
+last_reviewed: 2026-10-27
 next_review: 2027-04-29
 review_cycle: "annual"
 owner_role: "Designated Safeguarding Lead"
@@ -28,31 +28,33 @@ compliance:
   - "Generative AI in Education (DfE 2025)"
   - "UK GDPR"
   - "Data Protection Act 2018"
-  - "Working Together to Safeguard Children 2023"
+  - "Working Together to Safeguard Children 2026"
   - "Children Act 1989"
   - "Children Act 2004"
   - "Education Act 2002"
+aliases:
+  - "policies/safeguarding/Online Safety & Acceptable Use v01.26"
 applies_to: ["haven"]
 related_policies:
   - "[[Child Protection and Safeguarding Policy v10.26]]"
-  - "[[Prevent Duty Policy v01.26_]]"
+  - "[[Prevent Duty Policy v10.26]]"
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"
   - "[[Information and Cyber Security Policy v10.26]]"
-  - "[[Staff Safer Internet Agreement v10.25]]"
+  - "[[Staff Safer Internet Agreement v10.26]]"
   - "[[Responsible Use of AI Policy v10.26]]"
   - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
-  - "[[Managing Allegations Against Staff Policy v01.26]]"
+  - "[[Managing Allegations Against Staff Policy v10.26]]"
   - "[[RSHE Policy v10.26]]"
   - "[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]]"
-source_file: "Online Safety & Acceptable Use v01.26.docx"
-ingested: 2026-04-29
-notes: "Reviewed against Keeping Children Safe in Education 2026 (published 7 July 2026, in force 1 September 2026) on 26 August 2026. Out-of-cycle statutory review; the next scheduled review date is unchanged so that the annual cycle does not collapse onto one date. Filtering and monitoring wording aligned to the Risk Assessment - Learner Access from Personally-Owned Devices. PENDING DSL AND PROPRIETOR SIGN-OFF."
+source_file: "Online Safety & Acceptable Use v01.26.md (08.26 content)"
+ingested: 2026-10-27
+notes: "Version 10.26, 27 October 2026, at the Proprietor's request (tender review). Housekeeping: the file (and so the URL) said v01.26 while the page said v08.26; filename, header and version now match. Working Together citation updated from 2023 to 2026. No other change to the text of the 08.26 KCSIE 2026 review, which this version supersedes as that review was never formally signed off. Next review date unchanged."
 ---
-**Date:** August 2026  
+**Date:** October 2026  
 **Review Date:** April 2027 (or sooner if statutory guidance changes)  
 **Policy Owner:** Designated Safeguarding Lead (DSL)  
 **Nominated Governor:** Safeguarding Governor  
-**Version:** v08.26
+**Version:** 10.26
 
 ## 1. Policy Statement and Purpose
 The Haven is committed to ensuring that children and young people are kept safe when accessing education online. As a primarily online and hybrid provision, digital safety is integral to our safeguarding culture and practice.
@@ -67,7 +69,7 @@ This policy sets out how The Haven:
 
   - responds to online safety concerns, cyber incidents, or misuse.
 
-This policy should be read alongside the **[[Child Protection and Safeguarding Policy v10.26]]**, **[[Behaviour and Regulation Policy v10.26]]**, **[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]**, and **[[Managing Allegations Against Staff Policy v01.26]]**.
+This policy should be read alongside the **[[Child Protection and Safeguarding Policy v10.26]]**, **[[Behaviour and Regulation Policy v10.26]]**, **[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]**, and **[[Managing Allegations Against Staff Policy v10.26]]**.
 
 ## 2. Scope
 This policy applies to:
@@ -478,7 +480,7 @@ All AI use is overseen by senior leadership and aligned with data protection and
 
   - *Online Safety & Acceptable Use*
 
-  - [[Managing Allegations Against Staff Policy v01.26]]
+  - [[Managing Allegations Against Staff Policy v10.26]]
 
   - KCSIE 2026
 

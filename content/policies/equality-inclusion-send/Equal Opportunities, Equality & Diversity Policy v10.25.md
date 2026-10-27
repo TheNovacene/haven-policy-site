@@ -29,15 +29,15 @@ compliance:
 applies_to: ["haven"]
 related_policies:
   - "[[Anti-Racism Policy v01.26]]"
-  - "[[Staff Conduct Policy v10.25]]"
+  - "[[Staff Conduct Policy v10.26]]"
   - "[[Grievance and Disciplinary Policy v10.25]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Behaviour and Regulation Policy v10.26]]"
   - "[[SEND Policy v01.26]]"
   - "[[RSHE Policy v10.26]]"
-  - "[[Whistleblowing Policy v01.26]]"
+  - "[[Whistleblowing Policy v10.26]]"
   - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
-  - "[[Managing Allegations Against Staff Policy v01.26]]"
+  - "[[Managing Allegations Against Staff Policy v10.26]]"
 source_file: "Equal Opportunities, Equality & Diversity Policy v10.25.docx"
 ingested: 2026-04-29
 notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
@@ -52,7 +52,7 @@ notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026
 
 The Haven is committed to eliminating discrimination, advancing equality of opportunity, and fostering positive relations across all parts of our hybrid learning community. We honour the equal worth of every learner, staff member, family, and partner, and we place diversity, inclusion, and anti-racism at the heart of our safeguarding culture.
 
-This policy brings together our statutory duties under the **Equality Act 2010**, the **Human Rights Act 1998**, the **Children Acts 1989 and 2004**, and the **UN Convention on the Rights of the Child**. It should be read alongside The Haven’s Safeguarding Policy, [[Behaviour and Regulation Policy v10.26]] and [[Staff Conduct Policy v10.25]].
+This policy brings together our statutory duties under the **Equality Act 2010**, the **Human Rights Act 1998**, the **Children Acts 1989 and 2004**, and the **UN Convention on the Rights of the Child**. It should be read alongside The Haven’s Safeguarding Policy, [[Behaviour and Regulation Policy v10.26]] and [[Staff Conduct Policy v10.26]].
 
 ## 1. Guiding Principles 
 
@@ -121,7 +121,7 @@ The Haven discharges this duty through the following structural commitments:
 
 Tribunals can uplift compensation by up to 25% where the preventive duty has been breached. The Haven's standard is to act ahead of breach, not in response to one.
 
-This duty operates alongside the existing prohibition of discrimination and harassment under the Equality Act 2010, and it does not displace the safeguarding-first response to harassment that involves children or learners (see [[Child Protection and Safeguarding Policy v10.26]] and [[Managing Allegations Against Staff Policy v01.26]]).
+This duty operates alongside the existing prohibition of discrimination and harassment under the Equality Act 2010, and it does not displace the safeguarding-first response to harassment that involves children or learners (see [[Child Protection and Safeguarding Policy v10.26]] and [[Managing Allegations Against Staff Policy v10.26]]).
 
 ## 5. Addressing Prejudice and Discrimination 
 

@@ -25,7 +25,7 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "Online Learner Supervision Policy.docx"
 ingested: 2026-05-21
-notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-05-21, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
+notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-05-21, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied. Header table corrected 27 October 2026 (said 1.0; version is 05.26)."
 ---
 # Online Learner Supervision Policy
 
@@ -178,7 +178,7 @@ Where a learner has an EHCP, supervision is shaped by the provision specified in
 
 This policy is reviewed annually by the Head and DSL and approved by the Board of Governors.
 
-| Document version | 1.0 |
+| Document version | 05.26 |
 |---|---|
 | Date issued | May 2026 |
 | Next review | May 2027 |

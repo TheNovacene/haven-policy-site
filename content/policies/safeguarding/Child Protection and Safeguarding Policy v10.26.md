@@ -4,7 +4,7 @@ short_id: "CPSP"
 slug: "child-protection-and-safeguarding-policy"
 version: "10.26"
 status: "live"
-last_reviewed: 2026-10-22
+last_reviewed: 2026-10-27
 next_review: 2027-04-29
 review_cycle: "annual, and each September when KCSIE is reissued"
 owner_role: "Designated Safeguarding Lead"
@@ -46,22 +46,22 @@ compliance:
   - "Education Act 2002"
 applies_to: ["haven"]
 related_policies:
-  - "[[Online Safety & Acceptable Use v01.26]]"
-  - "[[Prevent Duty Policy v01.26_]]"
-  - "[[Managing Allegations Against Staff Policy v01.26]]"
+  - "[[Online Safety Policy and Acceptable Use v10.26]]"
+  - "[[Prevent Duty Policy v10.26]]"
+  - "[[Managing Allegations Against Staff Policy v10.26]]"
   - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
-  - "[[Child-on-Child Abuse Policy (Summary for parents) v10.25]]"
+  - "[[Child-on-Child Abuse Policy (Summary for parents) v10.26]]"
   - "[[RSHE Policy v10.26]]"
-  - "[[Drugs and Alcohol Policy v10.25]]"
+  - "[[Drugs and Alcohol Policy v10.26]]"
   - "[[Behaviour and Regulation Policy v10.26]]"
-  - "[[Staff Conduct Policy v10.25]]"
-  - "[[Whistleblowing Policy v01.26]]"
+  - "[[Staff Conduct Policy v10.26]]"
+  - "[[Whistleblowing Policy v10.26]]"
   - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
   - "[[Lone Working Policy v10.25]]"
   - "[[Accidents, Incidents and First Aid Policy v04.26]]"
 source_file: "Child Protection and Safeguarding Policy v01.26.docx"
 ingested: 2026-04-29
-notes: "Revised 20 and 22 October 2026 at the Proprietor's request, from the Google Doc 'Child Protection and Safeguarding Policy v10.26 REVISED 22 Oct 2026'. 20 October: reviewed against KCSIE 2026 (final edition, in force 1 September 2026) and the DfE Online Education Standards; Annex A (condensed Part one) withdrawn so all staff read Part one in full and annexes cited by title and new letter; safer recruitment updated for the Crime and Policing Act 2026; dsl@ mailbox for all DSL routes; new sections on mental health, young carers, prejudice-based harm, reduced timetables, serious violence, modern slavery, transfer of CP files and informing parents; child-on-child abuse rewritten; Family Help terminology; external reporting routes; admission and attendance registers; Scotland and Wales. 22 October: gap check against KCSIE 2026 and the Online Education Standards. Added Prevent, the FGM reporting duty, forced marriage and honour-based abuse, children missing education, looked-after and previously looked-after children, private fostering, children with a family member in custody; allegations and low-level concerns procedure including concerns about the Head or Proprietor; DBS and TRA referrals; mobile phones; time and resources for the DSL and Deputy; confirmation of receipt for file transfers; register notifications; Appendix B (national contacts); version history table. Settled: children questioning their gender; lesson recordings kept for one year; Monmouthshire entry. Published body is the approved Doc converted to vault markdown with no wording changes; the sign-off table (which named the DSL) is replaced by this record, per the roles-not-names rule. Signed by the DSL 22 October 2026 and confirmed as approved by the Proprietor on 22 October 2026 via the Systems Architect; the Proprietor and Safeguarding Governor signature rows in the Doc were blank at publication. Practice still to put in place per the Head's earlier comments: CP file transfers and the learner safeguarding induction."
+notes: "Revised 20 and 22 October 2026 at the Proprietor's request, from the Google Doc 'Child Protection and Safeguarding Policy v10.26 REVISED 22 Oct 2026'. 20 October: reviewed against KCSIE 2026 (final edition, in force 1 September 2026) and the DfE Online Education Standards; Annex A (condensed Part one) withdrawn so all staff read Part one in full and annexes cited by title and new letter; safer recruitment updated for the Crime and Policing Act 2026; dsl@ mailbox for all DSL routes; new sections on mental health, young carers, prejudice-based harm, reduced timetables, serious violence, modern slavery, transfer of CP files and informing parents; child-on-child abuse rewritten; Family Help terminology; external reporting routes; admission and attendance registers; Scotland and Wales. 22 October: gap check against KCSIE 2026 and the Online Education Standards. Added Prevent, the FGM reporting duty, forced marriage and honour-based abuse, children missing education, looked-after and previously looked-after children, private fostering, children with a family member in custody; allegations and low-level concerns procedure including concerns about the Head or Proprietor; DBS and TRA referrals; mobile phones; time and resources for the DSL and Deputy; confirmation of receipt for file transfers; register notifications; Appendix B (national contacts); version history table. Settled: children questioning their gender; lesson recordings kept for one year; Monmouthshire entry. Published body is the approved Doc converted to vault markdown with no wording changes; the sign-off table (which named the DSL) is replaced by this record, per the roles-not-names rule. Signed by the DSL 22 October 2026 and confirmed as approved by the Proprietor on 22 October 2026 via the Systems Architect; the Proprietor and Safeguarding Governor signature rows in the Doc were blank at publication. Practice still to put in place per the Head's earlier comments: CP file transfers and the learner safeguarding induction. Amended 27 October 2026 at the Proprietor's request (tender review), version number unchanged: new section on children with medical conditions including allergies (KCSIE 2026 paragraph 252); concern-about-the-Head route aligned with the Managing Allegations Against Staff Policy (Co-Chair of Governors as case manager). Amendment to be confirmed by the DSL and Proprietor on publication."
 ---
 **Approved Date:** April 2026 (content revised August and October 2026; see version history)
 
@@ -81,6 +81,7 @@ notes: "Revised 20 and 22 October 2026 at the Proprietor's request, from the Goo
 | 10.26 | April 2026 | Policy approved. |
 | 10.26 | August 2026 | Content revised. |
 | 10.26 | 20 October 2026 | Revised against Keeping Children Safe in Education 2026 (final edition, 1 September 2026) and the DfE Online Education Standards: training and annex references corrected; safer recruitment updated; shared DSL mailbox; new sections on mental health, young carers, prejudice-based harm, reduced timetables, serious violence, modern slavery, transfer of child protection files and informing parents; child-on-child abuse definition rewritten; Family Help terminology; external reporting routes; admission and attendance registers; Scotland and Wales frameworks. |
+| 10.26 | 27 October 2026 | Two additions at the Proprietor's request (tender review): new section on children with medical conditions, including allergies, reflecting the new paragraph in KCSIE 2026 (paragraph 252) on when an incident does and does not warrant a referral; and the route for a concern about the Head aligned with the Managing Allegations Against Staff Policy, under which the Co-Chair of Governors is the case manager on behalf of the Proprietor. |
 | 10.26 | 22 October 2026 | Gap check against KCSIE 2026 and the Online Education Standards. Added: Prevent, FGM reporting duty, forced marriage and honour-based abuse, children missing education, looked-after and previously looked-after children, private fostering, children with a family member in custody; allegations and low-level concerns procedure, including concerns about the Head or Proprietor; DBS and TRA referrals; mobile phones; time and resources for the DSL and Deputy; confirmation of receipt for file transfers; register notifications; Appendix B. Settled: children questioning their gender; lesson recording (kept for one year); Monmouthshire entry. |
 
 ## Statement of Intent
@@ -327,6 +328,10 @@ A learner who is on roll and stops attending without explanation, or whose where
 
 Where a learner is looked after, or was previously looked after, the DSL holds the contact details of the learner’s social worker and the Virtual School Head, makes sure that staff who need to know are told in a proportionate way, and shares concerns with them promptly.
 
+### Children with medical conditions, including allergies
+
+KCSIE 2026 (paragraph 252) adds that children with medical conditions, including allergies, may be at greater risk, and sets out when an incident does and does not warrant a safeguarding referral. Many of The Haven's learners have medical conditions, including allergies, epilepsy, diabetes, chronic illness and conditions that affect eating or sleep. Managing a medical condition is not in itself a safeguarding matter, and an incident that arises from the condition, such as a reaction, a seizure or a missed dose, does not on its own warrant a referral to the local authority. A referral may be appropriate where the circumstances suggest abuse or neglect: for example, where a learner repeatedly goes without essential medication or equipment, where a known allergy or condition is persistently disregarded by those caring for the learner, or where the learner's own account raises concern. Staff who learn of a medical condition tell the SENCo so that it is recorded in the learner's support plan, and tell the DSL where anything about how the condition is being managed causes concern. The DSL applies the same threshold judgement as for any other concern and uses the home local authority's threshold document. Because The Haven's learners are at home during sessions, staff who witness a medical emergency on screen follow the [[Accidents, Incidents and First Aid Policy v04.26]] and the [[Supporting Medical Conditions Policy (inc. Administration of Medicines) v10.25]]: call 999 where needed, stay with the learner on the call, contact the emergency contacts, and tell the DSL.
+
 ### Private fostering
 
 Private fostering is where a child under 16 (under 18 if disabled) lives for 28 days or more with someone who is not a parent or close relative, in an arrangement made by their parents. If staff learn of this, they tell the DSL, who tells the home local authority.
@@ -521,7 +526,7 @@ Who a concern goes to:
 
 - A concern about a member of staff, volunteer, contractor or agency worker goes to the Head, who is also the DSL. The Head considers whether an onward referral to the LADO is required and consults the LADO within one working day.
 
-- A concern about the Head goes to the Proprietor, who considers the onward referral to the LADO.
+- A concern about the Head goes to the Co-Chair of Governors, who acts as case manager on behalf of the Proprietor (the Autistic Girls Network board of trustees) and considers the onward referral to the LADO. The route is set out in full in the Managing Allegations Against Staff Policy.
 
 - A concern about the Proprietor, or any case where there is a conflict of interest, goes straight to the LADO, and the Safeguarding Governor is told.
 

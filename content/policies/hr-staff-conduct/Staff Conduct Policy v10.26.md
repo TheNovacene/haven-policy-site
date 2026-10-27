@@ -2,12 +2,12 @@
 title: "Staff Conduct Policy"
 short_id: "SCP"
 slug: "staff-conduct-policy"
-version: "04.26"
+version: "10.26"
 status: "live"
-last_reviewed: 2026-04-29
-next_review: 2027-04-29
+last_reviewed: 2026-10-27
+next_review: 2027-10-01
 review_cycle: "annual"
-owner_role: "Headteacher"
+owner_role: "Head"
 approver_role: "Proprietor"
 sign_off_record:
   - version: "10.25"
@@ -26,31 +26,33 @@ compliance:
   - "Data Protection Act 2018"
   - "Online Safety Act 2023"
   - "ACAS Code of Practice 2023"
+aliases:
+  - "policies/hr-staff-conduct/Staff Conduct Policy v10.25"
 applies_to: ["haven"]
 related_policies:
   - "[[Child Protection and Safeguarding Policy v10.26]]"
-  - "[[Managing Allegations Against Staff Policy v01.26]]"
-  - "[[Whistleblowing Policy v01.26]]"
+  - "[[Managing Allegations Against Staff Policy v10.26]]"
+  - "[[Whistleblowing Policy v10.26]]"
   - "[[Grievance and Disciplinary Policy v10.25]]"
   - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
   - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"
   - "[[Anti-Racism Policy v01.26]]"
-  - "[[Online Safety & Acceptable Use v01.26]]"
+  - "[[Online Safety Policy and Acceptable Use v10.26]]"
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"
-  - "[[Staff Safer Internet Agreement v10.25]]"
+  - "[[Staff Safer Internet Agreement v10.26]]"
   - "[[Responsible Use of AI Policy v10.26]]"
   - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
   - "[[Lone Working Policy v10.25]]"
-  - "[[Prevent Duty Policy v01.26_]]"
-source_file: "Staff Conduct Policy v10.25.docx"
-ingested: 2026-04-29
-notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
+  - "[[Prevent Duty Policy v10.26]]"
+source_file: "Staff Conduct Policy v10.25.md"
+ingested: 2026-10-27
+notes: "Version 10.26, 27 October 2026, at the Proprietor's request (tender review). Review date rolled from October 2026 to October 2027. The Proprietor confirmed on 27 October 2026 that no substantive changes are needed for KCSIE 2026 beyond those recorded here, which closes the outstanding-review note added in August 2026. Previous version archived."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** October 2026  
+**Review Date:** October 2027  
 **Coordinator:** the Head  
 **Nominated Governor:** the Co-Chair of Governors  
-**Version:** v10.25
+**Version:** 10.26
 
 ## 1. Purpose
 At The Haven, we uphold the highest standards of professional and ethical conduct to create a nurturing, neurodivergent-affirming, and emotionally safe learning environment. This policy outlines our collective responsibility to act with integrity, professionalism, and care in all interactions—with learners, families, and each other.
@@ -69,7 +71,7 @@ The **Worker Protection (Amendment of Equality Act 2010) Act 2023** places a pre
 
   - Treat colleagues, learners, families, contractors, and partners with respect at all times.
   - Recognise that the preventive duty extends to third-party harassment — staff are protected from harassment by parent carers and commissioners, not only by colleagues.
-  - Report any harassment they experience or witness, using the routes in section 8 (and the [[Grievance and Disciplinary Policy v10.25]] / [[Whistleblowing Policy v01.26]]).
+  - Report any harassment they experience or witness, using the routes in section 8 (and the [[Grievance and Disciplinary Policy v10.25]] / [[Whistleblowing Policy v10.26]]).
   - Take active-bystander responsibility — if you witness harassment, do not stand by.
   - Engage with annual training on the Equality Act 2010, the Worker Protection Act, and active bystander practice.
 
@@ -140,7 +142,7 @@ By joining The Haven, staff confirm that they have read, understood, and agreed 
 **Purpose  
 **This addendum sits alongside The Haven *Staff Conduct Policy* (2025). It clarifies professional boundaries, digital expectations, and data protection responsibilities for all staff, tutors, contractors, and volunteers working with The Haven.
 
-It should be read in conjunction with The Haven’s **[[Child Protection and Safeguarding Policy v10.26]]**, **[[Whistleblowing Policy v01.26]]**, **[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]**, and **Staff Acceptable Use Guidelines**.
+It should be read in conjunction with The Haven’s **[[Child Protection and Safeguarding Policy v10.26]]**, **[[Whistleblowing Policy v10.26]]**, **[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]**, and **Staff Acceptable Use Guidelines**.
 
 ## Section 1: Professional Boundaries and Social Media Use
 All staff are expected to maintain clear, professional boundaries in both their **personal and professional** online interactions.
@@ -194,7 +196,7 @@ Failure to report such incidents promptly may constitute a breach of the **[[Dat
 
   - Discussions about learners must never take place in public spaces or on personal messaging apps.
 
-Breaches of confidentiality or safeguarding expectations must be reported immediately to the DSL or through The Haven’s **[[Whistleblowing Policy v01.26]]**.
+Breaches of confidentiality or safeguarding expectations must be reported immediately to the DSL or through The Haven’s **[[Whistleblowing Policy v10.26]]**.
 
 ## Section 4: Cross-Referenced Policies
 Staff must familiarise themselves with and follow these related policies at all times:
@@ -208,13 +210,13 @@ Staff must familiarise themselves with and follow these related policies at all 
   - **[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]]: Parent Guide  
     > **
 
-  - **[[Whistleblowing Policy v01.26]]  
+  - **[[Whistleblowing Policy v10.26]]  
     > **
 
   - **Staff Conduct and Low-Level Concerns Guidance  
     > **
 
-  - **[[Prevent Duty Policy v01.26_]]**
+  - **[[Prevent Duty Policy v10.26]]**
 
 ## Section 5: Accountability and Review
 This addendum forms part of the contractual obligations of all Haven staff and is subject to annual review or earlier if statutory or local authority guidance changes.  

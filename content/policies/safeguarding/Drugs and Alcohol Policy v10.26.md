@@ -2,10 +2,10 @@
 title: "Drugs and Alcohol Policy"
 short_id: "DAP"
 slug: "drugs-and-alcohol-policy"
-version: "04.26"
+version: "10.26"
 status: "live"
-last_reviewed: 2026-04-29
-next_review: 2027-04-29
+last_reviewed: 2026-10-27
+next_review: 2027-10-01
 review_cycle: "annual"
 owner_role: "Designated Safeguarding Lead"
 approver_role: "Proprietor"
@@ -24,27 +24,28 @@ compliance:
   - "Misuse of Drugs Act 1971"
   - "Online Safety Act 2023"
   - "Education Act 2002"
-  - "Working Together to Safeguard Children 2023"
+  - "Working Together to Safeguard Children 2026"
   - "Children Act 1989"
   - "Children Act 2004"
-  - "Education Act 2002"
+aliases:
+  - "policies/safeguarding/Drugs and Alcohol Policy v10.25"
 applies_to: ["haven"]
 related_policies:
   - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Behaviour and Regulation Policy v10.26]]"
   - "[[RSHE Policy v10.26]]"
-  - "[[Prevent Duty Policy v01.26_]]"
-  - "[[Staff Conduct Policy v10.25]]"
-  - "[[Online Safety & Acceptable Use v01.26]]"
-source_file: "Drugs and Alcohol Policy v10.25.docx"
-ingested: 2026-04-29
-notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
+  - "[[Prevent Duty Policy v10.26]]"
+  - "[[Staff Conduct Policy v10.26]]"
+  - "[[Online Safety Policy and Acceptable Use v10.26]]"
+source_file: "Drugs and Alcohol Policy v10.25.md"
+ingested: 2026-10-27
+notes: "Version 10.26, 27 October 2026, at the Proprietor's request (tender review). Review date rolled from October 2026 to October 2027. The Proprietor confirmed on 27 October 2026 that no substantive changes are needed for KCSIE 2026 beyond those recorded here, which closes the outstanding-review note added in August 2026. Working Together citation updated from 2023 to 2026; duplicate Education Act 2002 entry removed. Previous version archived."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** October 2026  
+**Review Date:** October 2027  
 **Coordinator:** the Designated Safeguarding Lead  
 **Nominated Governor:** the Safeguarding Governor  
-**Version:** v10.25
+**Version:** 10.26
 
 # Policy Statement and Purpose
 **  
@@ -68,7 +69,7 @@ This policy has due regard to:
 
   - **Education Act 2002 (s.175)** — duty to safeguard and promote welfare.
 
-  - **Working Together to Safeguard Children (2023)**.
+  - **Working Together to Safeguard Children 2026**.
 
   - **LA Safeguarding and Substance Misuse protocols**.
 
@@ -180,7 +181,7 @@ All staff, contractors, and volunteers must present fit for work and free from t
 
   - Any staff member taking prescribed medication that may impair their ability to teach safely must **inform their line manager confidentially**.
 
-  - Concerns about a colleague’s fitness to work should be raised in line with the **[[Whistleblowing Policy v01.26]]** or **Low-Level Concerns Procedure**.
+  - Concerns about a colleague’s fitness to work should be raised in line with the **[[Whistleblowing Policy v10.26]]** or **Low-Level Concerns Procedure**.
 
   - If a staff member is found to be working under the influence, this will be managed through The Haven’s **Staff Conduct and Disciplinary Framework**, and safeguarding will take precedence.
 

@@ -39,7 +39,7 @@ related_policies:
   - "[[Off-site Visits Policy v01.26]]"
   - "[[Supporting Medical Conditions Policy (inc. Administration of Medicines) v10.25]]"
   - "[[Business Continuity Plan v01.26]]"
-  - "[[Online Safety & Acceptable Use v01.26]]"
+  - "[[Online Safety Policy and Acceptable Use v10.26]]"
 source_file: "Health and Safety Policy v10.25.md"
 ingested: 2026-10-19
 notes: "Annual review (was due 2026-10-01). Changes: overall responsibility placed with the Proprietor as employer (was the Head/DSL); the Health and Safety Lead named consistently (previously also 'Health & Safety Coordinator'); legal framework expanded (MHSWR 1999, DSE Regulations, RIDDOR, First-Aid Regulations); new section on emergencies during live online sessions; DSE assessment for home workers; work-related stress; fire and venue safety for in-person events; outdated cross-reference numbers removed. Written to serve as the single 'health and safety policy' document for commissioners and Ofsted, with the detailed procedures in the related policies. Signed off by the Proprietor 20 October 2026."

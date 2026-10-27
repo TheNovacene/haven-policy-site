@@ -1,10 +1,10 @@
 ---
-title: "Managing Allegations Against Staff Policy v01.26"
+title: "Managing Allegations Against Staff Policy"
 short_id: "MAASP"
-slug: "managing-allegations-against-staff-policy-v0126"
-version: "08.26"
+slug: "managing-allegations-against-staff-policy"
+version: "10.26"
 status: "live"
-last_reviewed: 2026-08-26
+last_reviewed: 2026-10-27
 next_review: 2027-04-29
 review_cycle: "annual"
 owner_role: "Designated Safeguarding Lead"
@@ -20,32 +20,35 @@ themes:
   - managing-allegations
   - safeguarding
 compliance:
-  - "KCSIE 2026"
+  - "KCSIE 2026 (Part four)"
   - "Worker Protection (Amendment of Equality Act 2010) Act 2023"
   - "Equality Act 2010"
   - "Online Safety Act 2023"
   - "Farrer & Co Low-Level Concerns guidance 2023"
-  - "Working Together to Safeguard Children 2023"
+  - "Working Together to Safeguard Children 2026"
   - "Children Act 1989"
   - "Children Act 2004"
   - "Education Act 2002"
 applies_to: ["haven"]
 related_policies:
   - "[[Child Protection and Safeguarding Policy v10.26]]"
-  - "[[Staff Conduct Policy v10.25]]"
+  - "[[Staff Conduct Policy v10.26]]"
   - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
-  - "[[Whistleblowing Policy v01.26]]"
+  - "[[Whistleblowing Policy v10.26]]"
   - "[[Grievance and Disciplinary Policy v10.25]]"
   - "[[Behaviour and Regulation Policy v10.26]]"
-source_file: "Managing Allegations Against Staff Policy v01.26.docx"
-ingested: 2026-04-29
-notes: "Reviewed against Keeping Children Safe in Education 2026 (published 7 July 2026, in force 1 September 2026) on 26 August 2026. Out-of-cycle statutory review; the next scheduled review date is unchanged so that the annual cycle does not collapse onto one date. Filtering and monitoring wording aligned to the Risk Assessment - Learner Access from Personally-Owned Devices. PENDING DSL AND PROPRIETOR SIGN-OFF."
+  - "[[Governance & Legal Structure v08.26]]"
+aliases:
+  - "policies/safeguarding/Managing Allegations Against Staff Policy v01.26"
+source_file: "Managing Allegations Against Staff Policy v01.26.md (08.26 content)"
+ingested: 2026-10-27
+notes: "Version 10.26, 27 October 2026, at the Proprietor's request (tender review). Working Together citation updated from 2023 to 2026 alongside KCSIE 2026. Governance question closed: the Proprietor confirmed on 27 October 2026 that the Co-Chair of Governors (chair of the proprietor board of trustees) is the case manager for an allegation concerning the Head; policy aligned throughout and the open governance note removed. Title and slug corrected (the title carried the version number; the header said 01.26 while the page said 08.26). The 08.26 review of the previous version was never signed off, so this version supersedes it. Next review date unchanged."
 ---
-**Date:** August 2026  
+**Date:** October 2026  
 **Review Date:** April 2027 (or sooner if statutory guidance changes)  
 **Policy Owner:** Designated Safeguarding Lead (DSL)  
 **Nominated Governor:** Safeguarding Governor  
-**Version:** v08.26
+**Version:** 10.26
 
 ## 1. Policy Statement and Purpose
 The Haven is committed to ensuring that all allegations of abuse or inappropriate conduct involving adults working with children are managed promptly, proportionately, and fairly.
@@ -56,7 +59,7 @@ This policy:
 
   - ensures fair and respectful treatment of staff and volunteers;
 
-  - complies with Keeping Children Safe in Education (KCSIE) 2026 – Part Four, *Working Together to Safeguard Children (2023)*, and Local Authority Designated Officer (LADO) procedures;
+  - complies with *Keeping Children Safe in Education 2026* (KCSIE) Part four, *Working Together to Safeguard Children 2026*, and Local Authority Designated Officer (LADO) procedures;
 
   - applies to online, hybrid, and in-person contexts.
 
@@ -97,7 +100,7 @@ An allegation that an adult has:
 ### 4.2 Low-Level Concern
 A concern about behaviour that:
 
-  - is inconsistent with the [[Staff Conduct Policy v10.25]];
+  - is inconsistent with the [[Staff Conduct Policy v10.26]];
 
   - does **not** meet the harm threshold;
 
@@ -121,7 +124,7 @@ Examples include boundary blurring, unprofessional digital communication, or ina
 <tbody>
 <tr class="odd">
 <td><blockquote>
-<p><strong>Principal (Head of School)</strong></p>
+<p><strong>Head</strong></p>
 </blockquote></td>
 <td><blockquote>
 <p>Case manager for allegations unless they are the subject of the allegation</p>
@@ -137,10 +140,10 @@ Examples include boundary blurring, unprofessional digital communication, or ina
 </tr>
 <tr class="odd">
 <td><blockquote>
-<p><strong>Proprietor / Safeguarding Governor</strong></p>
+<p><strong>Co-Chair of Governors</strong> (chair of the proprietor board of trustees)</p>
 </blockquote></td>
 <td><blockquote>
-<p>Acts as case manager if allegation concerns the Principal or DSL</p>
+<p>Case manager where the allegation concerns the Head (who is also the DSL), on behalf of the Proprietor</p>
 </blockquote></td>
 </tr>
 <tr class="even">
@@ -169,41 +172,39 @@ Examples include boundary blurring, unprofessional digital communication, or ina
   - **Designated Safeguarding Lead** (role held by the Head)  
     > **Email: dsl@autisticgirlsnetwork.org
 
-  - **Proprietor / Safeguarding Governor**  
+  - **Co-Chair of Governors** (for allegations concerning the Head)  
     > **Email: cathy@autisticgirlsnetwork.org
 
   - **LADO Contacts:  
     > **The Haven works with multiple Local Authorities.  
-    > Current LADO contact details for each commissioning LA are held in the Safeguarding Contacts Register and on our Safeguarding Policy and are accessible to the DSL, Principal, and Proprietor at all times.
+    > Current LADO contact details for each commissioning LA are held in the Safeguarding Contacts Register and on our Safeguarding Policy and are accessible to the DSL, the Head, and the Proprietor at all times.
 
 ## 6. Reporting Allegations
-  - All allegations or concerns must be reported immediately to the DSL or Principal.
+  - All allegations or concerns must be reported immediately to the DSL or Head.
 
   - No investigation or questioning should take place before LADO consultation.
 
   - Records must be factual, dated, and objective.
 
-## 7. Allegations Concerning the DSL or Principal
-Where an allegation concerns:
+## 7. Allegations Concerning the Head or DSL
+At The Haven the Head is also the Designated Safeguarding Lead. Where an allegation concerns:
 
-  - the **DSL** → the concern is reported directly to the **Principal**.
+  - the **Head (DSL)** → the concern is reported directly to the **Co-Chair of Governors**, who acts as case manager on behalf of the Proprietor (the Autistic Girls Network board of trustees). This follows KCSIE 2026 Part four, which directs an allegation concerning a headteacher to the chair of governors or, in a provision with a proprietor, to the proprietor.
 
-  - the **Head** → the concern is reported directly to the **Proprietor / Safeguarding Governor**.
+  - the **Deputy DSL** → the concern is reported directly to the **Head**.
 
 Where the person who would normally receive the allegation is also the person the allegation concerns — or where there is any other conflict of interest — the concern is reported **directly to the Local Authority Designated Officer**, without going through the internal route first. Anyone reporting may take that route at any time, and does not need permission to do so. Keeping Children Safe in Education Part Four is explicit that this direct route exists, and it is stated here so that nobody has to work out for themselves whether it applies.
 
 In these cases:
 
-  - the DSL or Principal must not manage or influence the process;
+  - the Head must not manage or influence the process;
 
-  - the Proprietor/Safeguarding Governor becomes the case manager;
+  - the Co-Chair of Governors becomes the case manager and keeps the Safeguarding Governor informed;
 
   - the LADO is contacted within one working day.
 
-> [!note] Governance naming
-> Confirmed against the ratified Governance and Legal Structure (v08.26): the Autistic Girls Network **board of trustees acts as proprietor**, and reserved matters — including approval of the annual policy cycle and appointment of the Head — sit with the board. Where this policy says “Proprietor”, that means the charity board of trustees, which is the recipient Keeping Children Safe in Education Part Four intends for an allegation concerning the Head.
->
-> **One point remains for the board to settle:** this policy currently pairs “Proprietor” with “Safeguarding Governor” as case manager. A governor holding the safeguarding portfolio and the chair of the governing body are not the same role, and Part Four points to the chair. The board should confirm whether the case manager for an allegation concerning the Head is the Co-Chair of Governors, the Safeguarding Governor, or the board collectively, and this policy be aligned at the next review. Whichever is chosen, the direct route to the Local Authority Designated Officer above is unaffected and remains available to any reporter at any time.
+> [!note] Governance
+> Under the ratified [[Governance & Legal Structure v08.26]], the Autistic Girls Network board of trustees acts as proprietor and reserved matters, including appointment of the Head, sit with the board. The Proprietor confirmed in October 2026 that the Co-Chair of Governors, as chair of that board, is the case manager for an allegation concerning the Head. Where the Co-Chair is unavailable or conflicted, the other Co-Chair acts. The direct route to the Local Authority Designated Officer above is unaffected and remains available to any reporter at any time.
 
 ## 8. Managing the Allegation Process
 ### Stage 1 – Initial Response
@@ -362,18 +363,20 @@ This approach supports:
 ## 14. Related Policies and Guidance
   - [[Child Protection and Safeguarding Policy v10.26]]
 
-  - [[Staff Conduct Policy v10.25]]
+  - [[Staff Conduct Policy v10.26]]
 
   - [[Safer Recruitment and Use of Volunteers Policy v10.26]]
 
-  - [[Whistleblowing Policy v01.26]]
+  - [[Whistleblowing Policy v10.26]]
 
   - [[Behaviour and Regulation Policy v10.26]]
 
   - [[Grievance and Disciplinary Policy v10.25]]
 
-  - KCSIE 2026 (Part Four)
+  - KCSIE 2026 (Part four)
 
-  - Working Together to Safeguard Children (2023)
+  - Working Together to Safeguard Children 2026
+
+  - [[Governance & Legal Structure v08.26]]
 
   - Farrer & Co: *Developing and Implementing a Low-Level Concerns Policy* (2023)

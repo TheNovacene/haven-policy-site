@@ -4,7 +4,7 @@ short_id: "SRUVP"
 slug: "the-haven-safer-recruitment-and-use-of-volunteers-policy"
 version: "10.26"
 status: "live"
-last_reviewed: 2026-10-20
+last_reviewed: 2026-10-27
 next_review: 2027-04-29
 review_cycle: "annual, and each September when Keeping Children Safe in Education is reissued"
 owner_role: "Designated Safeguarding Lead"
@@ -41,14 +41,14 @@ compliance:
 applies_to: ["haven"]
 related_policies:
   - "[[Child Protection and Safeguarding Policy v10.26]]"
-  - "[[Staff Conduct Policy v10.25]]"
-  - "[[Managing Allegations Against Staff Policy v01.26]]"
+  - "[[Staff Conduct Policy v10.26]]"
+  - "[[Managing Allegations Against Staff Policy v10.26]]"
   - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"
-  - "[[Employment of Ex-Offenders Policy v10.25]]"
-  - "[[Whistleblowing Policy v01.26]]"
+  - "[[Employment of Ex-Offenders Policy v10.26]]"
+  - "[[Whistleblowing Policy v10.26]]"
 source_file: "Safer Recruitment and Use of Volunteers Policy v01.26.md (08.26 content)"
 ingested: 2026-10-20
-notes: "Out-of-cycle update, 20 October 2026, at the Proprietor's request. Main change: the Crime and Policing Act 2026 removed the 'supervision exemption' from regulated activity with effect from 1 September 2026 (Safeguarding Vulnerable Groups Act 2006, Schedule 4). Volunteers who teach, train, instruct, care for or supervise learners frequently, on more than three days in any 30-day period, or overnight, are now in regulated activity whether or not they are supervised, and need an enhanced DBS check with children's barred list information. Paid staff were already in regulated activity and are unaffected. Also: new section 7 on volunteers and the audit of existing volunteers; peer exemption noted for learners helping other learners under staff direction; agency staff may no longer start 'supervised' before checks are confirmed; Part one of KCSIE read in full (the condensed Annex A was withdrawn in KCSIE 2026); those who run recruitment read Part three; Working Together updated to 2026; formatting artefacts from the docx conversion removed; title no longer starts with 'The Haven –'. Act cited at edition level; no section numbers claimed. The 08.26 KCSIE review of the previous version was never signed off, so this version supersedes it. Signed off by the Proprietor 21 October 2026."
+notes: "Out-of-cycle update, 20 October 2026, at the Proprietor's request. Main change: the Crime and Policing Act 2026 removed the 'supervision exemption' from regulated activity with effect from 1 September 2026 (Safeguarding Vulnerable Groups Act 2006, Schedule 4). Volunteers who teach, train, instruct, care for or supervise learners frequently, on more than three days in any 30-day period, or overnight, are now in regulated activity whether or not they are supervised, and need an enhanced DBS check with children's barred list information. Paid staff were already in regulated activity and are unaffected. Also: new section 7 on volunteers and the audit of existing volunteers; peer exemption noted for learners helping other learners under staff direction; agency staff may no longer start 'supervised' before checks are confirmed; Part one of KCSIE read in full (the condensed Annex A was withdrawn in KCSIE 2026); those who run recruitment read Part three; Working Together updated to 2026; formatting artefacts from the docx conversion removed; title no longer starts with 'The Haven –'. Act cited at edition level; no section numbers claimed. The 08.26 KCSIE review of the previous version was never signed off, so this version supersedes it. Signed off by the Proprietor 21 October 2026. Amended 27 October 2026 at the Proprietor's request (tender review), version number unchanged: new section 8A on self-employed and freelance educators (KCSIE 2026 Part three: either obtain the DBS check or see the certificate and confirm it is at the required level); new section 13 on the duty to refer to the DBS and the TRA, stating that it applies equally to volunteers in regulated activity as the rewritten 2026 duty-to-refer section makes explicit; DfE 'Check a teacher's record' named as the service for prohibition and section 128 checks in place of the former TRA Employer Access service. The Proprietor's review cited paragraphs 372 and 428 to 431 of KCSIE 2026; the body cites Part three by section rather than by paragraph number. Amendment to be confirmed by the Proprietor on publication."
 ---
 
 **Date:** October 2026
@@ -66,13 +66,13 @@ Recruitment at The Haven is designed to:
 - **Create a safe environment:** meet Part three of *Keeping Children Safe in Education 2026* (KCSIE) in full. The Haven is not a DfE-registered independent school, so the Independent School Standards do not apply to it; where this policy meets or exceeds that benchmark, it does so deliberately rather than as a legal obligation.
 - **Champion equity and neuro-affirmative practice:** value diversity, accessibility and inclusive recruitment.
 - **Comply with the law:** including the Safeguarding Vulnerable Groups Act 2006 as amended by the Crime and Policing Act 2026, the Equality Act 2010, immigration and right-to-work law, the UK GDPR, the Data Protection Act 2018, and the Worker Protection (Amendment of Equality Act 2010) Act 2023 (the preventive duty on sexual harassment, including by third parties).
-- **Protect personal data:** apply the Recruitment Privacy Notice and the [[Employment of Ex-Offenders Policy v10.25]].
+- **Protect personal data:** apply the Recruitment Privacy Notice and the [[Employment of Ex-Offenders Policy v10.26]].
 
 This policy should be read alongside:
 
 - [[Child Protection and Safeguarding Policy v10.26]]
-- [[Staff Conduct Policy v10.25]]
-- [[Managing Allegations Against Staff Policy v01.26]]
+- [[Staff Conduct Policy v10.26]]
+- [[Managing Allegations Against Staff Policy v10.26]]
 - [[Equal Opportunities, Equality & Diversity Policy v10.25]]
 
 ## 2. Scope
@@ -149,7 +149,7 @@ All appointments are conditional on the satisfactory completion of:
 - professional qualification checks;
 - two references, including the most recent employer, normally covering the previous three years where practicable;
 - overseas criminal record checks or certificates of good conduct, where applicable;
-- prohibition from teaching and section 128 checks, as relevant;
+- prohibition from teaching checks and, for management roles, section 128 checks, as relevant, carried out through the DfE's **Check a teacher's record** service (which replaced the Teaching Regulation Agency's Employer Access service). The same service is used to confirm qualified teacher status and induction;
 - a declaration of suitability to work with children.
 
 **All checks are completed and recorded on the Single Central Record before the person starts work with learners.** Conditional offers stay conditional until then.
@@ -187,7 +187,7 @@ Volunteers are used rarely, and only after a risk assessment by the DSL. Before 
 - for a volunteer in regulated activity, obtains an enhanced DBS check with children's barred list information **before they start**;
 - for a volunteer not in regulated activity, decides on the right level of check (an enhanced check without barred list information, or a basic check) and records why;
 - obtains a reference and a signed declaration of suitability;
-- gives a safeguarding induction, including Part one of KCSIE, and asks the volunteer to sign the [[Staff Conduct Policy v10.25]].
+- gives a safeguarding induction, including Part one of KCSIE, and asks the volunteer to sign the [[Staff Conduct Policy v10.26]].
 
 **Existing volunteers.** Following the Crime and Policing Act 2026, the DSL reviews every current volunteer against the new rules. Any volunteer who previously relied on being supervised, and who is now in regulated activity, must hold an enhanced DBS check with children's barred list information. They do not continue in the role until it is in place. The review and its outcome for each volunteer are recorded on the Single Central Record.
 
@@ -202,7 +202,16 @@ Agency staff are used only where necessary. Where they are engaged:
 - identity is checked at the start of the first session;
 - they are inducted into safeguarding, online safety and expected conduct.
 
-Contractors who have not been checked never work in regulated activity. Allegations about agency staff, contractors or trainees are handled under the [[Managing Allegations Against Staff Policy v01.26]], and The Haven remains responsible for gathering the facts and keeping learners safe.
+Contractors who have not been checked never work in regulated activity. Allegations about agency staff, contractors or trainees are handled under the [[Managing Allegations Against Staff Policy v10.26]], and The Haven remains responsible for gathering the facts and keeping learners safe.
+
+## 8A. Self-employed and freelance educators
+
+Some of The Haven's educators are self-employed. A self-employed person cannot apply for an enhanced DBS check on their own behalf, and KCSIE 2026 Part three sets out the two acceptable routes. For every self-employed or freelance educator, The Haven either:
+
+- **obtains the enhanced DBS check with children's barred list information itself**, as the organisation engaging the person to work in regulated activity; or
+- **sees the person's existing enhanced DBS certificate** and confirms that it was issued for the child workforce, that it includes children's barred list information, and that it is at the level the role requires. Where the certificate is not recent, the DBS Update Service is used with the person's consent, or a new check is obtained.
+
+In either case the check is recorded on the Single Central Record before the person starts work with learners, together with the other pre-appointment checks in section 5.7, including the prohibition check through Check a teacher's record where the person teaches. A self-employed educator who works regularly with learners is in regulated activity in the same way as an employee, and the duty to refer in section 13 applies to them.
 
 ## 9. Governors, trustees and proprietors
 
@@ -230,8 +239,17 @@ Recruitment records are kept securely in line with the UK GDPR and the Data Rete
 - Annual safeguarding and whistleblowing refreshers for all staff.
 - The DSL and staff who administer recruitment are trained in SCR maintenance and audit, and read KCSIE Part three.
 
-## 12. Monitoring and review
+## 13. Duty to refer to the Disclosure and Barring Service and the Teaching Regulation Agency
 
-- Annual report to the Proprietor on safer recruitment compliance, including the volunteer review in section 7.
+The Haven has a **legal duty** under the Safeguarding Vulnerable Groups Act 2006 to refer a person to the Disclosure and Barring Service (DBS) where both of the following apply:
+
+- The Haven has withdrawn permission for the person to engage in regulated activity with children, or would have done so had the person not left, resigned, retired or been made redundant; **and**
+- The Haven thinks the person has engaged in relevant conduct, satisfied the harm test, or received a caution or conviction for a relevant offence.
+
+KCSIE 2026 Part three states explicitly that this duty applies in the same way to **volunteers** in regulated activity as it does to paid staff. At The Haven it therefore covers employees, self-employed and freelance educators, agency workers and volunteers alike. The referral is made by the Head, with advice from the Local Authority Designated Officer where an allegation has been managed under the [[Managing Allegations Against Staff Policy v10.26]], and is made as soon as the conditions are met rather than waiting for the outcome of any police or disciplinary process. Where the person is a teacher and the conduct may amount to unacceptable professional conduct, conduct that may bring the profession into disrepute, or a relevant conviction, The Haven also considers a referral to the **Teaching Regulation Agency**. Failure to make a referral when the duty arises is a criminal offence, and the Proprietor is told of every referral made.
+
+## 14. Monitoring and review
+
+- Annual report to the Proprietor on safer recruitment compliance, including the volunteer review in section 7, checks on self-employed educators under section 8A, and any referrals made under section 13.
 - Termly SCR audits.
 - This policy is reviewed annually, each September when KCSIE is reissued, and after any change in the law on regulated activity or DBS checks.

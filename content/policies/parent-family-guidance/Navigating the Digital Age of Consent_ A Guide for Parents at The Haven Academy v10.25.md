@@ -28,7 +28,7 @@ compliance:
   - "ICO Children's Code"
 applies_to: ["haven"]
 related_policies:
-  - "[[Online Safety & Acceptable Use v01.26]]"
+  - "[[Online Safety Policy and Acceptable Use v10.26]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
   - "[[Responsible Use of AI Policy v10.26]]"

@@ -29,15 +29,15 @@ compliance:
 applies_to: ["haven"]
 related_policies:
   - "[[Child Protection and Safeguarding Policy v10.26]]"
-  - "[[Online Safety & Acceptable Use v01.26]]"
+  - "[[Online Safety Policy and Acceptable Use v10.26]]"
   - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
   - "[[Information and Cyber Security Policy v10.26]]"
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"
-  - "[[Staff Safer Internet Agreement v10.25]]"
+  - "[[Staff Safer Internet Agreement v10.26]]"
   - "[[Teaching & Learning Policy v10.25]]"
   - "[[Examinations Policy v10.26]]"
   - "[[Behaviour and Regulation Policy v10.26]]"
-  - "[[Prevent Duty Policy v01.26_]]"
+  - "[[Prevent Duty Policy v10.26]]"
   - "[[SEND Policy v01.26]]"
   - "[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]]"
 source_file: "Responsible Use of AI Policy v10.26.docx"
@@ -408,8 +408,8 @@ This policy will be reviewed annually by the DSL, DPO, and digital learning lead
 
 ● [[Examinations Policy v10.26]]
 
-● [[Prevent Duty Policy v01.26_]]
+● [[Prevent Duty Policy v10.26]]
 
 ● Digital Consent Guidance for Families
 
-● [[Children Missing from Education Policy v10.25]]
+● [[Children Missing from Education Policy v10.26]]

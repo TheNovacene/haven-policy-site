@@ -30,9 +30,9 @@ related_policies:
   - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Behaviour and Regulation Policy v10.26]]"
-  - "[[Staff Conduct Policy v10.25]]"
+  - "[[Staff Conduct Policy v10.26]]"
   - "[[RSHE Policy v10.26]]"
-  - "[[Prevent Duty Policy v01.26_]]"
+  - "[[Prevent Duty Policy v10.26]]"
 source_file: "Anti-Racism Policy v01.26.docx"
 ingested: 2026-04-29
 notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
@@ -86,7 +86,7 @@ This means we:
   - Treat retaliation against good-faith reporters as a disciplinary matter.
   - Review anonymised data termly with the Lead Governor and the Safeguarding Governor.
 
-Where a learner experiences racism from a member of staff, this is also escalated under [[Managing Allegations Against Staff Policy v01.26]].
+Where a learner experiences racism from a member of staff, this is also escalated under [[Managing Allegations Against Staff Policy v10.26]].
 
 ### How to Report a Concern
   - Speak to any **trusted adult** at The Haven

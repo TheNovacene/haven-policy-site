@@ -27,9 +27,9 @@ compliance:
   - "Employment Rights Act 1996"
 applies_to: ["haven"]
 related_policies:
-  - "[[Staff Conduct Policy v10.25]]"
-  - "[[Managing Allegations Against Staff Policy v01.26]]"
-  - "[[Whistleblowing Policy v01.26]]"
+  - "[[Staff Conduct Policy v10.26]]"
+  - "[[Managing Allegations Against Staff Policy v10.26]]"
+  - "[[Whistleblowing Policy v10.26]]"
   - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"
   - "[[Anti-Racism Policy v01.26]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
@@ -62,7 +62,7 @@ Our aim is to resolve concerns early, informally where possible, and with a shar
 This policy applies to **all Haven staff, contractors, and volunteers**.  
 It is underpinned by:
 
-  - The **[[Staff Conduct Policy v10.25]]  
+  - The **[[Staff Conduct Policy v10.26]]  
     > **
 
   - The **[[Child Protection and Safeguarding Policy v10.26]]  
@@ -166,7 +166,7 @@ The **Worker Protection (Amendment of Equality Act 2010) Act 2023** (in force 26
   - **Tribunal compensation uplift.** Tribunals can uplift compensation by up to 25% where the preventive duty has been breached. The Haven's standard is to discharge the duty proactively — risk assessment, training, clear reporting routes, leadership tone — not to manage to the uplift.
   - **No retaliation.** Retaliation against a reporter or witness is a disciplinary matter under section 5.
 
-This subsection does not displace the safeguarding-first response where the alleged harasser is a staff member and the affected party is a child — see [[Managing Allegations Against Staff Policy v01.26]].
+This subsection does not displace the safeguarding-first response where the alleged harasser is a staff member and the affected party is a child — see [[Managing Allegations Against Staff Policy v10.26]].
 
 ## 5. Disciplinary Procedure
 
@@ -211,7 +211,7 @@ Examples of misconduct include:
 
 ## 6. Safeguarding and Disciplinary Overlap
 
-  - Any allegation involving safeguarding follows **The Haven’s [[Managing Allegations Against Staff Policy v01.26]]**.
+  - Any allegation involving safeguarding follows **The Haven’s [[Managing Allegations Against Staff Policy v10.26]]**.
 
   - Safeguarding concerns are always referred to the **DSL** and, where necessary, **external agencies**.
 

@@ -32,7 +32,7 @@ compliance:
 applies_to: ["haven"]
 related_policies:
   - "[[Child Protection and Safeguarding Policy v10.26]]"
-  - "[[Online Safety & Acceptable Use v01.26]]"
+  - "[[Online Safety Policy and Acceptable Use v10.26]]"
   - "[[Anti-Bullying Policy v10.26]]"
   - "[[Behaviour and Regulation Policy v10.26]]"
   - "[[SEND Policy v01.26]]"

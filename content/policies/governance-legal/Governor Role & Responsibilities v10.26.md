@@ -2,10 +2,10 @@
 title: "Governor Role & Responsibilities"
 short_id: "GRR"
 slug: "governor-role-responsibilities"
-version: "10.25"
+version: "10.26"
 status: "live"
-last_reviewed: 2025-10-01
-next_review: 2026-10-01
+last_reviewed: 2026-10-27
+next_review: 2027-10-01
 review_cycle: "annual"
 owner_role: "Proprietor"
 approver_role: "Governing Body"
@@ -20,25 +20,28 @@ themes:
   - governance
   - governors
 compliance:
+  - "KCSIE 2026 (Part two)"
+aliases:
+  - "policies/governance-legal/Governor Role & Responsibilities v10.25"
 applies_to: ["haven"]
 related_policies:
   - "[[Governor Code of Conduct v10.25]]"
-  - "[[Governance & Legal Structure v10.25]]"
+  - "[[Governance & Legal Structure v08.26]]"
   - "[[Statement of Purpose, Aims and Objectives v10.25]]"
   - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
-  - "[[Managing Allegations Against Staff Policy v01.26]]"
-source_file: "Governor Role & Responsibilities v10.25.docx"
-ingested: 2026-04-29
-notes: ""
+  - "[[Managing Allegations Against Staff Policy v10.26]]"
+source_file: "Governor Role & Responsibilities v10.25.md"
+ingested: 2026-10-27
+notes: "Version 10.26, 27 October 2026, at the Proprietor's request (tender review). Review date rolled from October 2026 to October 2027. Added the expectation that governors read KCSIE Part two and confirm this annually, which the Child Protection and Safeguarding Policy already states. Governance and Legal Structure link updated to the ratified v08.26. Previous version archived."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** October 2026  
+**Review Date:** October 2027  
 **Coordinator:** Head  
 **Nominated Governor:** the Co-Chair of Governors  
-**Version:** v10.25
+**Version:** 10.26
 
-Governors at The Haven are not distant overseers — they are active stewards of integrity, alignment, and care. They help ensure our provision is safe, ethical, legally sound, and aligned with its founding intentions.
+Governors at The Haven are not distant overseers: they are active stewards of integrity, alignment, and care. They help ensure our provision is safe, ethical, legally sound, and aligned with its founding intentions.
 
 ## Core Responsibilities 
 
@@ -46,9 +49,13 @@ Governors at The Haven are not distant overseers — they are active stewards of
 
 ● Ensure compliance with statutory duties (safeguarding, SEND, curriculum, data protection)
 
-> ● Act as critical friends — offering both challenge and encouragement to the leadership team
+● Act as critical friends, offering both challenge and encouragement to the leadership team
 
 ● Support accountability for safeguarding and wellbeing practices, including regular review of DSL reports
+
+● Read Part two of *Keeping Children Safe in Education* (the current edition is KCSIE 2026) and confirm in writing each year that they have done so, as the [[Child Protection and Safeguarding Policy v10.26]] requires. Part two sets out the governing body's and proprietor's responsibilities: making sure the safeguarding policies are in place and followed, appointing and supporting the Designated Safeguarding Lead, overseeing safer recruitment, filtering and monitoring, and the handling of allegations. The Safeguarding Governor also reads Part four
+
+● Receive and act on the annual safeguarding report and the termly Single Central Record audit
 
 ● Monitor the impact of The Haven's curriculum, pedagogy, and learner outcomes (including EHCP targets)
 
@@ -76,4 +83,4 @@ Governors at The Haven are not distant overseers — they are active stewards of
 
 ● Can offer both heart and rigour to their role
 
-Governors are inducted with full clarity on safeguarding, GDPR, and whistleblowing. They are invited to hold space — not status — and to co-create the conditions for trust, transparency, and meaningful accountability.
+Governors are inducted with full clarity on safeguarding (including KCSIE Part two), GDPR, and whistleblowing. They are invited to hold space, not status, and to co-create the conditions for trust, transparency, and meaningful accountability.

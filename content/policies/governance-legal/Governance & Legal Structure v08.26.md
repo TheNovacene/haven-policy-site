@@ -21,7 +21,7 @@ related_policies:
   - "[[Structure of Organisation]]"
   - "[[Statement of Purpose, Aims and Objectives v10.25]]"
   - "[[Governor Code of Conduct v10.25]]"
-  - "[[Governor Role & Responsibilities v10.25]]"
+  - "[[Governor Role & Responsibilities v10.26]]"
   - "[[Terms and Conditions v10.25]]"
   - "[[Complaints Procedure v10.25]]"
   - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
