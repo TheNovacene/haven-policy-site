@@ -217,7 +217,7 @@ The register below is kept current by the Systems Architect and checked each ter
 | Google Workspace (Gmail, Drive, Calendar, Meet, Classroom) | Email, documents, lesson resources, video fallback, asynchronous tasks | Proprietor | Head and Systems Architect (three admins: Proprietor, Head, Systems Architect) | Provider backup; key documents also held in Dropbox and in print |
 | Pencil Spaces | Primary live online classroom | Systems Architect | Head | Google Meet; content held in Drive; export per DPA |
 | Google Classroom | Learning management, asynchronous tasks and fallback classroom alongside Pencil Spaces | Head | Systems Architect | Google Drive originals; Classroom export |
-| TutorCruncher | Administration, learner records and safeguarding records | Operations Lead | Proprietor | Monthly export to Google Drive; invoices reproducible from Xero |
+| TutorCruncher | Administration and learner records | Operations Lead | Proprietor | Monthly export to Google Drive; invoices reproducible from Xero |
 | Haven Today (today.thehavenonline.co.uk) | Timetable portal for learners, families and staff | Systems Architect | Proprietor | Master timetable sheet in Google Drive; timetable can be emailed as PDF |
 | Whiteboard (within Pencil Spaces) | Collaborative whiteboard in lessons | Systems Architect | Proprietor | Shared Google Slides in Google Meet if Pencil Spaces is unavailable |
 | TutorCruncher (safeguarding records) | Safeguarding concerns and chronologies | DSL | Deputy DSL | Secure offline template; uploaded when restored |
