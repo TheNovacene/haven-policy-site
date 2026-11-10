@@ -38,7 +38,7 @@ related_policies:
   - "[[Critical Incident Policy v05.26]]"
   - "[[Off-site Visits Policy v01.26]]"
   - "[[Supporting Medical Conditions Policy (inc. Administration of Medicines) v10.25]]"
-  - "[[Business Continuity Plan v01.26]]"
+  - "[[Business Continuity Plan v11.26]]"
   - "[[Online Safety Policy and Acceptable Use v10.26]]"
 source_file: "Health and Safety Policy v10.25.md"
 ingested: 2026-10-19

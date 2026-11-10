@@ -90,7 +90,7 @@ Every published Haven policy is available here as a PDF, regenerated automatical
 ## Health, safety and medical
 
 - [Accidents, Incidents and First Aid Policy (v04.26)](/pdf/health-safety-medical/Accidents-Incidents-and-First-Aid-Policy-v04.26.pdf)
-- [Business Continuity Plan (v01.26)](/pdf/health-safety-medical/Business-Continuity-Plan-v01.26.pdf)
+- [Business Continuity Plan (v11.26)](/pdf/health-safety-medical/Business-Continuity-Plan-v11.26.pdf)
 - [Covid-19 Procedures and Arrangements (v05.26)](/pdf/health-safety-medical/Covid-19-Procedures-and-Arrangements-v05.26.pdf)
 - [Critical Incident Policy (v05.26)](/pdf/health-safety-medical/Critical-Incident-Policy-v05.26.pdf)
 - [Ergonomic Health and Safety Policy (v10.25)](/pdf/health-safety-medical/Ergonomic-Health-and-Safety-Policy-v10.25.pdf)

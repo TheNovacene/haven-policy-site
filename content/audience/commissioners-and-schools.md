@@ -36,7 +36,7 @@ The policies and procurement documents Local Authority commissioners and school-
 - [Supporting Medical Conditions Policy (inc. Administration of Medicines)](../policies/health-safety-medical/Supporting-Medical-Conditions-Policy-(inc.-Administration-of-Medicines)-v10.25)
 - [Off-site Visits Policy](../policies/health-safety-medical/Off-site-Visits-Policy-v01.26)
 - [Transportation Policy for Service Users](../policies/health-safety-medical/Transportation-Policy-for-Service-Users-v10.25)
-- [Business Continuity Plan](../policies/health-safety-medical/Business-Continuity-Plan-v01.26)
+- [Business Continuity Plan](../policies/health-safety-medical/Business-Continuity-Plan-v11.26)
 
 ## Data protection and privacy
 

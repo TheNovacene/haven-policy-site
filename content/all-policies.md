@@ -17,7 +17,7 @@ audience, see the [audience packs](audience/). For a thematic view, see the
 - [Attendance & Engagement v01.26](/policies/attendance-engagement/Attendance--and--Engagement-v01.26)
 - [Behaviour Incident Reporting Procedure](/policies/behaviour-regulation/Behaviour-Incident-Reporting-Procedure-v05.26)
 - [Bring Your Own Device (BYOD) Policy](/policies/data-digital-ai/Bring-Your-Own-Device-(BYOD)-Policy-v01.26)
-- [Business Continuity Plan](/policies/health-safety-medical/Business-Continuity-Plan-v01.26)
+- [Business Continuity Plan](/policies/health-safety-medical/Business-Continuity-Plan-v11.26)
 - [Carbon Reduction Plan](/policies/governance-legal/Carbon-Reduction-Plan-v05.26)
 - [Charging and Remissions Policy](/policies/governance-legal/Charging-and-Remissions-Policy-v05.26)
 - [Child Protection and Safeguarding Policy](/policies/safeguarding/Child-Protection-and-Safeguarding-Policy-v10.26)

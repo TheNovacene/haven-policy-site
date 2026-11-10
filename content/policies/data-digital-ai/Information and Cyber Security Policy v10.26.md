@@ -47,7 +47,7 @@ related_policies:
   - "[[Responsible Use of AI Policy v10.26]]"
   - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
   - "[[Staff Induction Policy v05.26]]"
-  - "[[Business Continuity Plan v01.26]]"
+  - "[[Business Continuity Plan v11.26]]"
   - "[[Data Protection Impact Assessment - Consolidated v08.26]]"
   - "[[Service Providers and Data Processors]]"
 source_file: "Cyber Security Policy v01.26.md (04.26 content)"
