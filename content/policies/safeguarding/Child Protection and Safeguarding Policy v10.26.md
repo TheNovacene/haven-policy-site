@@ -83,6 +83,7 @@ notes: "Revised 20 and 22 October 2026 at the Proprietor's request, from the Goo
 | 10.26 | 20 October 2026 | Revised against Keeping Children Safe in Education 2026 (final edition, 1 September 2026) and the DfE Online Education Standards: training and annex references corrected; safer recruitment updated; shared DSL mailbox; new sections on mental health, young carers, prejudice-based harm, reduced timetables, serious violence, modern slavery, transfer of child protection files and informing parents; child-on-child abuse definition rewritten; Family Help terminology; external reporting routes; admission and attendance registers; Scotland and Wales frameworks. |
 | 10.26 | 27 October 2026 | Two additions at the Proprietor's request (tender review): new section on children with medical conditions, including allergies, reflecting the new paragraph in KCSIE 2026 (paragraph 252) on when an incident does and does not warrant a referral; and the route for a concern about the Head aligned with the Managing Allegations Against Staff Policy, under which the Co-Chair of Governors is the case manager on behalf of the Proprietor. |
 | 10.26 | 22 October 2026 | Gap check against KCSIE 2026 and the Online Education Standards. Added: Prevent, FGM reporting duty, forced marriage and honour-based abuse, children missing education, looked-after and previously looked-after children, private fostering, children with a family member in custody; allegations and low-level concerns procedure, including concerns about the Head or Proprietor; DBS and TRA referrals; mobile phones; time and resources for the DSL and Deputy; confirmation of receipt for file transfers; register notifications; Appendix B. Settled: children questioning their gender; lesson recording (kept for one year); Monmouthshire entry. |
+| 10.26 | 20 November 2026 | Appendix A: local contacts and referral routes added for Norfolk learners (Children’s Advice and Duty Service, Education Duty Desk and LADO, Services to Home Educators, Transitional Education Service and Norfolk Virtual School), following Norfolk County Council’s review of non-school alternative provision. |
 
 ## Statement of Intent
 
@@ -662,7 +663,7 @@ The Haven distinguishes between absence and ‘missing from education’. Where 
 
 This policy will be reviewed annually, each September when Keeping Children Safe in Education is reissued, or upon significant change in legislation, regulation, or operational model. Feedback from learners, staff and parents will inform updates.
 
-The Appendices to this policy are Appendix A (LADO and allegations contacts by local authority) and Appendix B (national contacts). Further information on specific safeguarding issues is in Types of abuse, Other safeguarding issues staff need to know, and Annex A of Keeping Children Safe in Education 2026.
+The Appendices to this policy are Appendix A (LADO and allegations contacts by local authority, with local contacts and referral routes for Norfolk) and Appendix B (national contacts). Further information on specific safeguarding issues is in Types of abuse, Other safeguarding issues staff need to know, and Annex A of Keeping Children Safe in Education 2026.
 
 ## APPENDIX A
 
@@ -687,6 +688,54 @@ In Scotland there is no LADO; allegations about adults who work with children ar
 | **West Berkshire** | LADO: 01635 503153. Email: LADO.LADO@westberks.gov.uk |
 | **East Hampshire (Hampshire County Council)** | LADO: 01962 876364. Email: LADO@hants.gov.uk |
 | **London Borough of Hounslow** | SAAM Duty Desk: 020 8583 5730 | LADO: 020 8583 4933 / 020 8583 3423. Email: lado@hounslow.gov.uk |
+
+### Norfolk: local contacts and referral routes
+
+These contacts apply to learners who live in Norfolk or are placed with The Haven by Norfolk County Council or a Norfolk school.
+
+**Concern about a child: Children’s Advice and Duty Service (CADS)**
+
+- Professionals’ line: 0344 800 8021
+
+- Hours: Monday to Friday, 9.00am to 5.00pm
+
+- Out of hours: Emergency Duty Team, 0344 800 8020
+
+- When to refer: the DSL or Deputy DSL telephones CADS straight away where a child is experiencing, or is likely to suffer, significant harm. If a learner is in immediate danger, call 999 first.
+
+- Lower-level needs: support that is not urgent safeguarding goes through Norfolk’s online Request for Support form, completed by the DSL.
+
+**Concern about an adult who works with children: Duty Desk and LADO**
+
+- Education Duty Desk: 01603 307797. This is the first point of contact for education settings, where a Duty Adviser (not a LADO) advises on next steps.
+
+- LADO: 01603 223473 or LADO@norfolk.gov.uk
+
+- Timescale: the Head (or the Co-Chair of Governors, if the concern is about the Head, as set out in Allegations and concerns about adults) makes contact immediately, and in any case within one working day.
+
+- Referral: where advised, we complete the LADO referral form and email it to the LADO address.
+
+**Electively home-educated learners: Services to Home Educators**
+
+- Telephone: 01603 307733
+
+- Email: servicestohomeeducatorsadmin@norfolk.gov.uk
+
+- Where we have a safeguarding concern about a Norfolk learner who is electively home educated, the DSL refers to CADS as above and informs Services to Home Educators on the same day.
+
+**Learners placed by the Transitional Education Service (TES)**
+
+- Email: cs.educationalprovision@norfolk.gov.uk
+
+- Where a placement is under the remit of TES, the DSL addresses any concern to the learner’s named TES adviser or key contact on the same day, alongside any CADS referral.
+
+**Children in care and previously in care: Norfolk Virtual School**
+
+- Telephone: 01603 303323
+
+- Email: virtual.schools@norfolk.gov.uk
+
+- Where a placement is under the remit of the Virtual School, the DSL addresses any concern to the learner’s named Virtual School adviser on the same day, alongside any CADS referral and contact with the learner’s social worker.
 
 ## APPENDIX B
 
