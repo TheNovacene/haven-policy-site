@@ -45,8 +45,7 @@ We recognise that many of our learners join The Haven after experiencing barrier
   - Applies across online sessions, hybrid learning, and off-site enrichment.
 
 ## 2. Roles and Responsibilities
-  - **SENCo**: the postholder is completing the government’s National Professional Qualification for Special Educational Needs (NPQ SENCO) is responsible for implementing SEND provision and liaison with the LA. Responsibility for information-system security and GDPR compliance remains with the DPO.*  
-    > *
+  - **SENCo**: the postholder is completing the government’s National Professional Qualification for Special Educational Needs (NPQ SENCO) is responsible for implementing SEND provision and liaison with the LA. Responsibility for information-system security and GDPR compliance remains with the DPO.  
 
   - **DSL/Head**: Ensures SEND provision aligns with safeguarding and school improvement.
 

@@ -70,23 +70,17 @@ Applies to all:
 ## 4 Legal Framework
 This policy operates under:
 
-  - *Rehabilitation of Offenders Act 1974* and *Exceptions Order 1975 (2013 & 2020 amendments)  
-    > *
+  - *Rehabilitation of Offenders Act 1974* and *Exceptions Order 1975 (2013 & 2020 amendments)*  
 
-  - *Police Act 1997* and *DBS Code of Practice  
-    > *
+  - *Police Act 1997* and *DBS Code of Practice*  
 
-  - *Data Protection Act 2018 / UK GDPR  
-    > *
+  - *Data Protection Act 2018 / UK GDPR*  
 
-  - *Equality Act 2010  
-    > *
+  - *Equality Act 2010*  
 
-  - *Keeping Children Safe in Education 2026  
-    > *
+  - *Keeping Children Safe in Education 2026*  
 
-  - *Independent School Standards (Part 4 – Suitability of Staff) — adopted as a voluntary benchmark; The Haven is not a DfE-registered independent school and these Standards do not apply to it as a matter of law  
-    > *
+  - *Independent School Standards (Part 4 – Suitability of Staff) — adopted as a voluntary benchmark; The Haven is not a DfE-registered independent school and these Standards do not apply to it as a matter of law*  
 
 ## 5 Disclosure and Recruitment Process
 - **Advert and Application**  
