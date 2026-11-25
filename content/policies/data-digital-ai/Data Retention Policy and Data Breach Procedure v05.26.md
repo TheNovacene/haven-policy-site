@@ -26,7 +26,7 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "Data Retention and Breach Policy.docx"
 ingested: 2026-05-21
-notes: ""
+notes: "Wording correction 25 November 2026, at the Proprietor's request: the data protection role is titled Data Protection Officer consistently and is recorded as held by the Proprietor. No change to procedure; version unchanged."
 ---
 # Data Retention Policy and Data Breach Procedure
 
@@ -61,7 +61,7 @@ At end of retention, records are securely deleted using methods proportionate to
 
 ### 6. Roles and responsibilities
 
-- Data Protection Lead: Maintains this schedule and oversees its application.
+- Data Protection Officer: Maintains this schedule and oversees its application.
 - Head / DSL: Oversees safeguarding-record retention specifically.
 - System owners: Apply retention rules to the systems they manage.
 - All staff: Follow retention rules in day-to-day work.
@@ -82,16 +82,16 @@ A personal data breach is any breach of security leading to the accidental or un
 - Disclosure of personal data without lawful basis.
 ### 9. Reporting a suspected breach
 
-Any member of staff, volunteer, governor or contractor who becomes aware of a suspected or actual data breach must report it immediately to the Data Protection Lead, regardless of how minor it appears. Reporting routes:
+Any member of staff, volunteer, governor or contractor who becomes aware of a suspected or actual data breach must report it immediately to the Data Protection Officer, regardless of how minor it appears. Reporting routes:
 
-- Email the Data Protection Lead directly.
+- Email the Data Protection Officer directly.
 - In urgent or out-of-hours cases, contact the Head.
 - Where the breach involves safeguarding data, also notify the DSL immediately.
 Delay in reporting is itself a serious concern.
 
 ### 10. Containment and immediate response
 
-On receipt of a report, the Data Protection Lead takes immediate steps to contain the breach. These may include:
+On receipt of a report, the Data Protection Officer takes immediate steps to contain the breach. These may include:
 
 - Recalling or deleting a misdirected email.
 - Suspending compromised accounts or access.
@@ -100,7 +100,7 @@ On receipt of a report, the Data Protection Lead takes immediate steps to contai
 - Identifying which data subjects are affected.
 ### 11. Assessment
 
-Within 24 hours, the Data Protection Lead assesses:
+Within 24 hours, the Data Protection Officer assesses:
 
 - The nature, scope and categories of personal data affected.
 - The number of data subjects affected.
@@ -108,7 +108,7 @@ Within 24 hours, the Data Protection Lead assesses:
 - The risk to rights and freedoms of those data subjects.
 ### 12. Notification to the Information Commissioner's Office (ICO)
 
-Where the breach is likely to result in a risk to the rights and freedoms of data subjects, the ICO is notified within 72 hours of awareness. The Data Protection Lead makes this notification, in line with ICO guidance. Notification covers the nature of the breach, the categories and approximate number of subjects, the likely consequences, and the measures taken or proposed.
+Where the breach is likely to result in a risk to the rights and freedoms of data subjects, the ICO is notified within 72 hours of awareness. The Data Protection Officer makes this notification, in line with ICO guidance. Notification covers the nature of the breach, the categories and approximate number of subjects, the likely consequences, and the measures taken or proposed.
 
 If a notification is not made within 72 hours, the reason for delay is documented.
 
@@ -123,15 +123,15 @@ Where the breach is likely to result in a high risk to the rights and freedoms o
 - Action recommended for the data subject, where relevant.
 ### 14. Record-keeping
 
-All breaches — including those that do not require notification — are logged in the Data Breach Register. The register records the facts, effects and remedial action. The register is reviewed annually by the Data Protection Lead and presented to governors as part of the annual data protection review.
+All breaches — including those that do not require notification — are logged in the Data Breach Register. The register records the facts, effects and remedial action. The register is reviewed annually by the Data Protection Officer and presented to governors as part of the annual data protection review.
 
 ### 15. Lessons learned
 
-After every notifiable breach, and at least annually for the breach register as a whole, the Data Protection Lead conducts a lessons-learned review. Outcomes feed into policy review, staff training, and changes to systems or processes.
+After every notifiable breach, and at least annually for the breach register as a whole, the Data Protection Officer conducts a lessons-learned review. Outcomes feed into policy review, staff training, and changes to systems or processes.
 
 ### 16. Roles and responsibilities
 
-- Data Protection Lead: Owns this procedure; first point of contact for reports; makes ICO and data subject notifications.
+- Data Protection Officer: Owns this procedure; first point of contact for reports; makes ICO and data subject notifications.
 - Head: Oversees response; supports decision-making in serious cases.
 - DSL: Engaged where breach involves safeguarding records.
 - Governors: Receive an annual review of breaches and the breach register.
@@ -146,13 +146,13 @@ After every notifiable breach, and at least annually for the breach register as 
 - Safeguarding and Child Protection Policy
 ## 18. Review
 
-This policy is reviewed annually by the Data Protection Lead and approved by the Board of Governors.
+This policy is reviewed annually by the Data Protection Officer and approved by the Board of Governors.
 
 | Document version | 1.0 |
 |---|---|
 | Date issued | May 2026 |
 | Next review | May 2027 |
-| Document owner | Data Protection Lead |
+| Document owner | Data Protection Officer |
 | Approved by | Board of Governors |
 
 | Category | Examples | Retention period |
