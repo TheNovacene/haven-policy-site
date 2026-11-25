@@ -167,16 +167,16 @@ Examples include boundary blurring, unprofessional digital communication, or ina
 
 ### 5.2 Contact Details *(to be kept updated)*
   - **Head**  
-    > **Email: head@autisticgirlsnetwork.org
+    > Email: head@autisticgirlsnetwork.org
 
   - **Designated Safeguarding Lead** (role held by the Head)  
-    > **Email: dsl@autisticgirlsnetwork.org
+    > Email: dsl@autisticgirlsnetwork.org
 
   - **Co-Chair of Governors** (for allegations concerning the Head)  
-    > **Email: cathy@autisticgirlsnetwork.org
+    > Email: cathy@autisticgirlsnetwork.org
 
-  - **LADO Contacts:  
-    > **The Haven works with multiple Local Authorities.  
+  - **LADO Contacts:**  
+    > The Haven works with multiple Local Authorities.  
     > Current LADO contact details for each commissioning LA are held in the Safeguarding Contacts Register and on our Safeguarding Policy and are accessible to the DSL, the Head, and the Proprietor at all times.
 
 ## 6. Reporting Allegations
