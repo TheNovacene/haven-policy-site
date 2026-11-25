@@ -33,24 +33,24 @@ The policies and procurement documents Local Authority commissioners and school-
 - [Health and Safety Policy](../policies/health-safety-medical/Health-and-Safety-Policy-v10.26)
 - [Risk Assessment Policy](../policies/health-safety-medical/Risk-Assessment-Policy-v10.26)
 - [Accidents, Incidents and First Aid Policy](../policies/health-safety-medical/Accidents,-Incidents-and-First-Aid-Policy-v04.26-draft)
-- [Supporting Medical Conditions Policy (inc. Administration of Medicines)](../policies/health-safety-medical/Supporting-Medical-Conditions-Policy-(inc.-Administration-of-Medicines)-v10.25)
+- [Supporting Medical Conditions Policy (inc. Administration of Medicines)](../policies/health-safety-medical/Supporting-Medical-Conditions-Policy-(inc.-Administration-of-Medicines)-v10.26)
 - [Off-site Visits Policy](../policies/health-safety-medical/Off-site-Visits-Policy-v01.26)
-- [Transportation Policy for Service Users](../policies/health-safety-medical/Transportation-Policy-for-Service-Users-v10.25)
+- [Transportation Policy for Service Users](../policies/health-safety-medical/Transportation-Policy-for-Service-Users-v10.26)
 - [Business Continuity Plan](../policies/health-safety-medical/Business-Continuity-Plan-v11.26)
 
 ## Data protection and privacy
 
 - [Data Protection (UK GDPR), Confidentiality and Privacy Policy](../policies/data-digital-ai/Data-Protection-(UK-GDPR),-Confidentiality--and--Privacy-Policy-v10.26)
-- [The Haven Privacy Notice (public-facing)](../policies/data-digital-ai/Privacy-Policy-v10.25)
+- [The Haven Privacy Notice (public-facing)](../policies/data-digital-ai/Privacy-Policy-v10.26)
 - [Information and Cyber Security Policy](../policies/data-digital-ai/Information-and-Cyber-Security-Policy-v10.26)
 - [The Haven: Responsible Use of AI Policy](../policies/data-digital-ai/Responsible-Use-of-AI-Policy-v10.26)
 - [Submitting Controller Details (DPIA Digital Platforms)](../policies/data-digital-ai/DPIA-Digital-Platforms)
 
 ## Governance, complaints, and accountability
 
-- [The Haven: Statement of Purpose, Aims and Objectives](../policies/governance-legal/Statement-of-Purpose,-Aims-and-Objectives-v10.25)
-- [The Haven – Terms and Conditions](../policies/governance-legal/Terms-and-Conditions-v10.25)
+- [The Haven: Statement of Purpose, Aims and Objectives](../policies/governance-legal/Statement-of-Purpose,-Aims-and-Objectives-v10.26)
+- [The Haven – Terms and Conditions](../policies/governance-legal/Terms-and-Conditions-v10.26)
 - [Governance & Legal Structure](../policies/governance-legal/Governance--and--Legal-Structure-v10.25)
 - [The Haven Complaints Procedure](../policies/governance-legal/Complaints-Procedure-v10.25)
 - [Whistleblowing Policy](../policies/hr-staff-conduct/Whistleblowing-Policy-v01.26)
-- [The Haven Learner Age Range Policy](../policies/governance-legal/Learner-Age-Range-Policy-v10.25)
+- [The Haven Learner Age Range Policy](../policies/governance-legal/Learner-Age-Range-Policy-v10.26)

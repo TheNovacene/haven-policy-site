@@ -20,7 +20,7 @@ The full safeguarding-relevant policy set for the Designated Safeguarding Lead, 
 - [Managing Allegations Against Staff Policy](../policies/safeguarding/Managing-Allegations-Against-Staff-Policy-v01.26)
 - [Safer Recruitment and Use of Volunteers Policy](../policies/safeguarding/Safer-Recruitment-and-Use-of-Volunteers-Policy-v10.26)
 - [Staff Conduct Policy](../policies/hr-staff-conduct/Staff-Conduct-Policy-v10.25)
-- [Lone Working Policy](../policies/hr-staff-conduct/Lone-Working-Policy-v10.25)
+- [Lone Working Policy](../policies/hr-staff-conduct/Lone-Working-Policy-v10.26)
 - [Employment of Ex-Offenders Policy](../policies/hr-staff-conduct/Employment-of-Ex-Offenders-Policy-v10.25)
 - [Whistleblowing Policy](../policies/hr-staff-conduct/Whistleblowing-Policy-v01.26)
 
@@ -34,18 +34,18 @@ The full safeguarding-relevant policy set for the Designated Safeguarding Lead, 
 
 - [Attendance & Engagement](../policies/attendance-engagement/Attendance--and--Engagement-v01.26)
 - [Children Missing from Education Policy](../policies/attendance-engagement/Children-Missing-from-Education-Policy-v10.25)
-- [Family Attendance Agreement](../policies/attendance-engagement/Family-Attendance-Agreement-v10.25)
+- [Family Attendance Agreement](../policies/attendance-engagement/Family-Attendance-Agreement-v10.26)
 - [Relational Behaviour and Regulation Policy](../policies/behaviour-regulation/Behaviour-and-Regulation-Policy-v10.26)
 
 ## Information sharing and data
 
 - [Data Protection (UK GDPR), Confidentiality and Privacy Policy](../policies/data-digital-ai/Data-Protection-(UK-GDPR),-Confidentiality--and--Privacy-Policy-v10.26)
-- [The Haven Privacy Notice (public-facing)](../policies/data-digital-ai/Privacy-Policy-v10.25)
+- [The Haven Privacy Notice (public-facing)](../policies/data-digital-ai/Privacy-Policy-v10.26)
 - [Submitting Controller Details (DPIA Digital Platforms)](../policies/data-digital-ai/DPIA-Digital-Platforms)
 
 ## Risk and safeguarding-adjacent
 
 - [Risk Assessment Policy](../policies/health-safety-medical/Risk-Assessment-Policy-v10.26)
 - [Off-site Visits Policy](../policies/health-safety-medical/Off-site-Visits-Policy-v01.26)
-- [Supporting Medical Conditions Policy](../policies/health-safety-medical/Supporting-Medical-Conditions-Policy-(inc.-Administration-of-Medicines)-v10.25)
+- [Supporting Medical Conditions Policy](../policies/health-safety-medical/Supporting-Medical-Conditions-Policy-(inc.-Administration-of-Medicines)-v10.26)
 - [Accidents, Incidents and First Aid Policy](../policies/health-safety-medical/Accidents,-Incidents-and-First-Aid-Policy-v04.26-draft)
