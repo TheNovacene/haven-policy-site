@@ -42,7 +42,7 @@ related_policies:
   - "[[Privacy Notices v10.26]]"
 source_file: "Data Protection, Confidentiality & Privacy Policy v10.25.md"
 ingested: 2026-10-19
-notes: "Annual review (was due 2026-10-01). Title now includes 'UK GDPR' so that requests for 'your GDPR policy' map to one document. Changes: Data (Use and Access) Act 2025 added (data protection complaints route in force 19 June 2026; SAR timing and 'stop the clock' and recognised legitimate interests in force 5 February 2026); controller position corrected to match the DPIA and Cross-Tenant Sharing Design Note (AGN is controller; commissioning LAs and schools are separate controllers, not The Haven's controllers); processors named; Article 9 condition for health and SEND data stated; Pencil Spaces outage line and duplicate Google Classroom line removed; Freedom of Information Act and Pupil Information Regulations removed (they apply to public authorities and maintained schools, not to The Haven); information-sharing advice updated to the 2024 edition; lesson recording wording aligned to the Lesson Recording - Operational Controls; Tactiq retirement recorded. Old filename slug will change, so update any links to the old page after publishing. Signed off by the Proprietor 20 October 2026."
+notes: "Wording correction 25 November 2026, at the Proprietor's request: states that all live sessions are recorded, consistent with the Child Protection and Safeguarding Policy and the DPIA. Version unchanged. Earlier note: Annual review (was due 2026-10-01). Title now includes 'UK GDPR' so that requests for 'your GDPR policy' map to one document. Changes: Data (Use and Access) Act 2025 added (data protection complaints route in force 19 June 2026; SAR timing and 'stop the clock' and recognised legitimate interests in force 5 February 2026); controller position corrected to match the DPIA and Cross-Tenant Sharing Design Note (AGN is controller; commissioning LAs and schools are separate controllers, not The Haven's controllers); processors named; Article 9 condition for health and SEND data stated; Pencil Spaces outage line and duplicate Google Classroom line removed; Freedom of Information Act and Pupil Information Regulations removed (they apply to public authorities and maintained schools, not to The Haven); information-sharing advice updated to the 2024 edition; lesson recording wording aligned to the Lesson Recording - Operational Controls; Tactiq retirement recorded. Old filename slug will change, so update any links to the old page after publishing. Signed off by the Proprietor 20 October 2026."
 ---
 **Date:** October 2026
 **Review Date:** October 2027
@@ -144,7 +144,7 @@ See the Data Retention Policy and Data Breach Procedure and the Cyber Security P
 ## 11. Images and lesson recordings
 
 - Images, video or voice recordings of learners are never published without parental consent, and the learner's own wishes are respected.
-- Any recording of lessons follows the *Declaration – Photos, Videos and Lesson Recordings* and the *Lesson Recording – Operational Controls*. Routine recording does not begin until those controls have been approved by the DSL, the DPO and the Proprietor.
+- All live lessons are recorded as a standing safeguarding measure. Recording follows the *Declaration – Photos, Videos and Lesson Recordings* and the *Lesson Recording – Operational Controls*.
 - If a recording has to be shared for safeguarding reasons, learners not involved in the incident are obscured.
 
 ## 12. Retention
