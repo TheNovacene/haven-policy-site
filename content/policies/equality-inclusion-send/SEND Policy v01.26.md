@@ -24,7 +24,7 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "SEND Policy v01.26.docx"
 ingested: 2026-04-29
-notes: "Header correction 25 November 2026: the Date, Review Date and Version shown at the top of the policy now match the recorded review (properties above). No change to the policy text."
+notes: "Correction 25 November 2026, at the Proprietor's request: the SENCo has completed the NPQ SENCO (previously recorded as completing it). Header correction 25 November 2026: the Date, Review Date and Version shown at the top of the policy now match the recorded review (properties above). No change to the policy text."
 ---
 **Date:** January 2026  
 **Review Date:** January 2027  
@@ -45,7 +45,7 @@ We recognise that many of our learners join The Haven after experiencing barrier
   - Applies across online sessions, hybrid learning, and off-site enrichment.
 
 ## 2. Roles and Responsibilities
-  - **SENCo**: the postholder is completing the government’s National Professional Qualification for Special Educational Needs (NPQ SENCO) is responsible for implementing SEND provision and liaison with the LA. Responsibility for information-system security and GDPR compliance remains with the DPO.  
+  - **SENCo**: the postholder has completed the government’s National Professional Qualification for Special Educational Needs (NPQ SENCO) and is responsible for implementing SEND provision and liaison with the LA. Responsibility for information-system security and GDPR compliance remains with the DPO.  
 
   - **DSL/Head**: Ensures SEND provision aligns with safeguarding and school improvement.
 
