@@ -21,10 +21,10 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "Attendance & Engagement v01.26.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Header correction 25 November 2026: the Date, Review Date and Version shown at the top of the policy now match the recorded review (properties above). No change to the policy text."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** January 2026  
+**Review Date:** January 2027  
 **Coordinator:** Data Protection Officer (DPO)  
 **Nominated Governor:** the Co-Chair of Governors  
 **Version:** v01.26
@@ -198,7 +198,7 @@ We comply with GDPR and safeguarding law. We may share attendance info with:
 
 ● Local authorities (where commissioned)
 
-We do so in line with our [[Privacy Policy v10.25]] and only with a clear educational or safety purpose.
+We do so in line with our [[Privacy Policy v10.26]] and only with a clear educational or safety purpose.
 
 **Questions or Need Support?**
 
