@@ -25,7 +25,7 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "Staff Induction Policy.docx"
 ingested: 2026-05-21
-notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-05-21, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied. Header table corrected 27 October 2026 (said 1.0; version is 05.26)."
+notes: "Wording correction 25 November 2026, at the Proprietor's request: the data protection role is titled Data Protection Officer consistently and is recorded as held by the Proprietor. No change to procedure; version unchanged. Earlier note: KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-05-21, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied. Header table corrected 27 October 2026 (said 1.0; version is 05.26)."
 ---
 # Staff Induction Policy
 
@@ -92,7 +92,7 @@ Day one is a relational induction, not a paperwork exercise. The new staff membe
 
 - The Head, for orientation to The Haven's mission, ethos and current operational priorities.
 - The Designated Safeguarding Lead, for a structured safeguarding induction covering reporting routes, recognition of concern, and the local context.
-- The Data Protection Lead, for an overview of data handling expectations.
+- The Data Protection Officer, for an overview of data handling expectations.
 - Their line manager, for role-specific induction and to agree the first month's pattern of work.
 - A buddy from the existing team, who provides peer support during induction.
 During the first week, the new staff member shadows sessions, meets the curriculum and mentoring leads as relevant, and completes statutory online training modules (KCSIE, Prevent, online safety, GDPR essentials).
@@ -162,7 +162,7 @@ Adjustments are documented and revisited in supervision.
 - Line manager: Designs and delivers role-specific induction; first point of contact during induction.
 - Buddy: Provides peer support during the first weeks.
 - New staff member: Engages with induction, raises questions, flags adjustments needed.
-- Data Protection Lead: Delivers data protection induction.
+- Data Protection Officer: Delivers data protection induction.
 ## 15. Related documents
 
 - Safer Recruitment Policy
