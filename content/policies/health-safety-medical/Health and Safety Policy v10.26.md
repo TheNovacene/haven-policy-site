@@ -32,7 +32,7 @@ applies_to: ["haven"]
 related_policies:
   - "[[Accidents, Incidents and First Aid Policy v04.26]]"
   - "[[First Aid Training Policy v08.26]]"
-  - "[[Risk Assessment Policy v10.25]]"
+  - "[[Risk Assessment Policy v10.26]]"
   - "[[Ergonomic Health and Safety Policy v10.25]]"
   - "[[Lone Working Policy v10.25]]"
   - "[[Critical Incident Policy v05.26]]"

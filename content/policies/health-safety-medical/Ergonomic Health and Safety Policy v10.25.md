@@ -26,7 +26,7 @@ related_policies:
   - "[[Health and Safety Policy v10.26]]"
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"
   - "[[Lone Working Policy v10.25]]"
-  - "[[Risk Assessment Policy v10.25]]"
+  - "[[Risk Assessment Policy v10.26]]"
   - "[[Business Continuity Plan v11.26]]"
 source_file: "Ergonomic Health and Safety Policy v10.25.docx"
 ingested: 2026-04-29

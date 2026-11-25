@@ -31,7 +31,7 @@ applies_to: ["haven"]
 related_policies:
   - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Health and Safety Policy v10.26]]"
-  - "[[Risk Assessment Policy v10.25]]"
+  - "[[Risk Assessment Policy v10.26]]"
   - "[[Off-site Visits Policy v01.26]]"
   - "[[Transportation Policy for Service Users v10.25]]"
   - "[[Lone Working Policy v10.25]]"

@@ -37,7 +37,7 @@ related_policies:
   - "[[Covid-19 Procedures and Arrangements v05.26]]"
 source_file: "The_Haven_Business_Continuity_Plan_v2_0_DRAFT_Nov_2026 (Google Doc)"
 ingested: 2026-11-10
-notes: "Full rewrite, November 2026, replacing v01.26. Drafted as v2.0 and published as v11.26 to match the site's version numbering, at the Proprietor's instruction. Moved from a two-scenario plan to an operational format with recovery objectives, a risk register, scenario responses, a systems register and a testing schedule, following feedback from a local authority framework evaluation. Postholder names in the source document replaced with role titles, in line with the Proprietor's decision of 16 August 2026 that the public site publishes roles, not names. Section 5.9 laid out as two bullets to match the other scenarios; wording unchanged. Approval confirmed by the Proprietor 10 November 2026."
+notes: "Wording correction 25 November 2026, at the Proprietor's request: the data protection role is titled Data Protection Officer consistently and is recorded as held by the Proprietor. No change to procedure; version unchanged. Earlier note: Full rewrite, November 2026, replacing v01.26. Drafted as v2.0 and published as v11.26 to match the site's version numbering, at the Proprietor's instruction. Moved from a two-scenario plan to an operational format with recovery objectives, a risk register, scenario responses, a systems register and a testing schedule, following feedback from a local authority framework evaluation. Postholder names in the source document replaced with role titles, in line with the Proprietor's decision of 16 August 2026 that the public site publishes roles, not names. Section 5.9 laid out as two bullets to match the other scenarios; wording unchanged. Approval confirmed by the Proprietor 10 November 2026."
 ---
 **Date:** November 2026  
 **Review Date:** November 2027 (six-monthly review by the Leadership Team; full review annually and after any activation)  
@@ -89,7 +89,7 @@ Most of our learners were out of education for months or years before joining Th
 | Proprietor | Chief Executive Officer, Autistic Girls Network | Approves decisions outside the Head's delegated authority; leads on insurers, regulators, legal advice and the Trustee Board; spokesperson for anything public |
 | Safeguarding | DSL; Deputy DSL | Any disruption with a safeguarding dimension; continuity of safeguarding cover during the school day; the Head (or Proprietor) is the designated contact for Council and commissioner safeguarding matters outside school hours and in holidays |
 | Learner support | SENDCo | Continuity of EHCP and SEND support, reasonable adjustments and mentoring for affected learners; liaison with families and commissioners on any temporary change to provision |
-| Systems and data | Systems Architect with the Proprietor as data protection lead | Platform access and restoration, Haven Today, Google Workspace, supplier liaison, data breach assessment, ICO notification |
+| Systems and data | Systems Architect with the Proprietor as Data Protection Officer | Platform access and restoration, Haven Today, Google Workspace, supplier liaison, data breach assessment, ICO notification |
 | Teaching continuity | Head with the educator team | Cover for absent educators; switching lessons to the fallback platform; offline learning packs |
 | Governance | Co-Chairs of the Haven Education Committee (Haven Governors) | Informed of every activation; oversight of the response and the post-incident review |
 
