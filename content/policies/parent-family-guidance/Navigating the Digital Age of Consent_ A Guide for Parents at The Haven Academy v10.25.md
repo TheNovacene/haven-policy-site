@@ -34,13 +34,13 @@ related_policies:
   - "[[Responsible Use of AI Policy v10.26]]"
 source_file: "Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25.docx"
 ingested: 2026-04-29
-notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
+notes: "Header correction 25 November 2026: the Date, Review Date and Version shown at the top of the policy now match the recorded review (properties above). No change to the policy text. Earlier note: KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** April 2026  
+**Review Date:** April 2027  
 **Coordinator:** the Designated Safeguarding Lead  
 **Nominated Governor:** the Safeguarding Governor  
-**Version:** v10.25
+**Version:** v04.26
 
 In our increasingly digital world, understanding how to protect our children's online privacy
 
