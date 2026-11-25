@@ -25,7 +25,7 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "Online Learner Supervision Policy.docx"
 ingested: 2026-05-21
-notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-05-21, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied. Header table corrected 27 October 2026 (said 1.0; version is 05.26)."
+notes: "Wording correction 25 November 2026, at the Proprietor's request: states that all live sessions are recorded, consistent with the Child Protection and Safeguarding Policy and the DPIA. Version unchanged. Earlier note: KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-05-21, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied. Header table corrected 27 October 2026 (said 1.0; version is 05.26)."
 ---
 # Online Learner Supervision Policy
 
@@ -71,7 +71,7 @@ Every live session has at least one Haven educator present and active. Larger se
 - Joining and leaving are managed by the educator.
 - Cameras and microphones are optional; engagement is monitored through whatever means the learner is using.
 - Chat is moderated; private messaging between learners during sessions is disabled by default.
-- Recording of sessions is governed by the Declaration: Photos, Videos and Lesson Recordings policy and the Quality Assurance Policy.
+- All live sessions are recorded. Recording is governed by the Declaration: Photos, Videos and Lesson Recordings policy and the Quality Assurance Policy.
 ### 4.3 Where a learner appears in difficulty during a session
 
 Where an educator notices that a learner appears distressed, withdrawn, or in difficulty, the response is calm and offered, not imposed. Options include:
@@ -89,7 +89,7 @@ Where an educator notices that a learner appears distressed, withdrawn, or in di
 
 - Every 1:1 mentor is appropriately recruited, DBS-checked, inducted and supervised.
 - 1:1 mentoring sessions are scheduled, recorded as attended, and held in approved Haven platforms only.
-- Sessions are recorded where the Quality Assurance Policy or safeguarding considerations indicate; recordings are governed by access restrictions.
+- 1:1 sessions are recorded, as all live sessions are; recordings are governed by access restrictions.
 - Mentors do not contact learners outside Haven channels (see Mobile Phone Policy — Staff).
 ### 5.2 Reflective supervision of mentors
 
