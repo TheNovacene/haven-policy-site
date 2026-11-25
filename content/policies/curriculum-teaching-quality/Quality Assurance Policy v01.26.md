@@ -25,13 +25,13 @@ related_policies:
   - "[[SEND Policy v01.26]]"
 source_file: "Quality Assurance Policy v01.26.docx"
 ingested: 2026-04-29
-notes: "Wording correction 25 November 2026, at the Proprietor's request: states that all live sessions are recorded, consistent with the Child Protection and Safeguarding Policy and the DPIA. Version unchanged."
+notes: "Header correction 25 November 2026: the Date, Review Date and Version shown at the top of the policy now match the recorded review (properties above). No change to the policy text. Earlier note: Wording correction 25 November 2026, at the Proprietor's request: states that all live sessions are recorded, consistent with the Child Protection and Safeguarding Policy and the DPIA. Version unchanged."
 ---
-**Date: January 2026  
-Review Date: October 2026  
-Coordinator: the Head  
-Nominated Governor: the Safeguarding Governor  
-Version: v01.26**
+**Date:** January 2026  
+**Review Date:** January 2027  
+**Coordinator:** the Head  
+**Nominated Governor:** the Safeguarding Governor  
+**Version:** v01.26
 
 ## 1. Policy Statement and Purpose
 The Haven is committed to continuous improvement, accountability, and reflective practice across all areas of its provision. Quality Assurance (QA) ensures that learners receive safe, high-quality, inclusive education, that safeguarding arrangements are effective, and that The Haven meets statutory, regulatory, and commissioning requirements.
@@ -42,8 +42,7 @@ Quality Assurance at The Haven is:
 
   - proportionate to risk and context, and
 
-  - informed by evidence, learner voice, and professional reflection.**  
-    > **
+  - informed by evidence, learner voice, and professional reflection.  
 
 ## 2. Scope
 This policy applies to all aspects of The Haven’s work, including:
@@ -71,8 +70,7 @@ Quality assurance includes both internal monitoring and external verification.
 
   - Proportionate: QA is regular and robust without being excessive or surveillance-driven.
 
-  - Reflective: QA supports professional growth and continuous improvement.**  
-    > **
+  - Reflective: QA supports professional growth and continuous improvement.  
 
 ## 4. Internal Quality Assurance Processes
 ### 4.1 Quality Assuring Teaching and Learning
@@ -84,8 +82,7 @@ Teaching and learning are quality assured through a combination of methods, reco
 
   - Review of lesson plans, resources, and learner work for coherence, accessibility, and progression
 
-  - Reflective supervision and coaching conversations focused on practice, not performance alone**  
-    > **
+  - Reflective supervision and coaching conversations focused on practice, not performance alone  
 
 Quality assurance focuses on:
 
@@ -95,8 +92,7 @@ Quality assurance focuses on:
 
   - neuro-affirmative and trauma-informed practice;
 
-  - appropriate use of digital tools and safeguarding controls.**  
-    > **
+  - appropriate use of digital tools and safeguarding controls.  
 
 ### 4.2 Use of Lesson Recordings and Transcripts
 All live sessions are recorded. For those recordings:
@@ -122,8 +118,7 @@ All use of recordings complies with The Haven’s Online Safety and Data Protect
 ### 4.3 Increasing QA Where Concerns Are Identified
 If a concern is raised about a member of staff (via learner feedback, parent concern, safeguarding alert, or QA finding):
 
-  - The concern is logged and reviewed by senior leadership and/or the DSL**  
-    > **
+  - The concern is logged and reviewed by senior leadership and/or the DSL  
 
   - QA activity may be increased proportionately, which may include:
     
@@ -143,8 +138,7 @@ This enhanced QA is:
 
   - focused on support, improvement, and safeguarding;
 
-  - aligned with the Low-Level Concerns Policy where appropriate.**  
-    > **
+  - aligned with the Low-Level Concerns Policy where appropriate.  
 
 ### 4.4 Safeguarding Quality Assurance
 Safeguarding QA includes:
@@ -153,8 +147,7 @@ Safeguarding QA includes:
 
   - Review of response times, escalation decisions, and information-sharing
 
-  - Annual safeguarding report shared with governors and commissioning bodies where required**  
-    > **
+  - Annual safeguarding report shared with governors and commissioning bodies where required  
 
 ### 4.5 Staff Quality Assurance
   - Annual appraisal and supervision cycle for all staff
@@ -163,16 +156,14 @@ Safeguarding QA includes:
 
   - Monitoring of training completion against statutory requirements (e.g. KCSIE updates, Prevent, online safety)
 
-  - Termly review of low-level concerns to identify themes or patterns**  
-    > **
+  - Termly review of low-level concerns to identify themes or patterns  
 
 ### 4.6 Governance Quality Assurance
   - Governors receive termly dashboards covering safeguarding, attendance, engagement, learner progress, complaints, and QA themes
 
   - Annual review of compliance with statutory guidance and commissioning expectations
 
-  - Oversight of improvement plans and follow-up actions**  
-    > **
+  - Oversight of improvement plans and follow-up actions  
 
 ## 5. Learner and Parent/Carer Voice
 ### 5.1 Learner Feedback
@@ -192,8 +183,7 @@ Learner feedback is:
 
   - triangulated with QA evidence and safeguarding data;
 
-  - used to inform curriculum development, staff training, and system improvements.**  
-    > **
+  - used to inform curriculum development, staff training, and system improvements.  
 
 ### 5.2 Parent/Carer Feedback
 Parent/carer voice is captured through:
@@ -210,8 +200,7 @@ Themes arising from parent feedback inform:
 
   - policy review;
 
-  - staff development priorities.**  
-    > **
+  - staff development priorities.  
 
 ## 6. External Quality Assurance
 External QA includes:
@@ -222,8 +211,7 @@ External QA includes:
 
   - preparation for and cooperation with Ofsted inspection under the Online School Accreditation framework;
 
-  - independent safeguarding or quality audits commissioned periodically for benchmarking and improvement.**  
-    > **
+  - independent safeguarding or quality audits commissioned periodically for benchmarking and improvement.  
 
 ## 7. Roles and Responsibilities
   - Principal / DSL: Overall responsibility for quality assurance, safeguarding oversight, and statutory compliance
@@ -232,8 +220,7 @@ External QA includes:
 
   - Governors: Provide strategic oversight, challenge, and support improvement planning
 
-  - Learners and Parents/Carers: Contribute feedback to inform review and development**  
-    > **
+  - Learners and Parents/Carers: Contribute feedback to inform review and development  
 
 ## 8. Monitoring, Review and Improvement
   - QA operates on a termly review cycle, with annual strategic evaluation
