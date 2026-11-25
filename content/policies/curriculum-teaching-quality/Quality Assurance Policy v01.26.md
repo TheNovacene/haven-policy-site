@@ -25,7 +25,7 @@ related_policies:
   - "[[SEND Policy v01.26]]"
 source_file: "Quality Assurance Policy v01.26.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Wording correction 25 November 2026, at the Proprietor's request: states that all live sessions are recorded, consistent with the Child Protection and Safeguarding Policy and the DPIA. Version unchanged."
 ---
 **Date: January 2026  
 Review Date: October 2026  
@@ -99,7 +99,7 @@ Quality assurance focuses on:
     > **
 
 ### 4.2 Use of Lesson Recordings and Transcripts
-Where sessions are recorded:
+All live sessions are recorded. For those recordings:
 
   - Recordings and/or transcripts may be used for quality assurance, safeguarding review, reflective supervision, and training
 
