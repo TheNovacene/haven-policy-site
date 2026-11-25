@@ -33,9 +33,9 @@ related_policies:
   - "[[Health and Safety Policy v10.26]]"
   - "[[Risk Assessment Policy v10.26]]"
   - "[[Off-site Visits Policy v01.26]]"
-  - "[[Transportation Policy for Service Users v10.25]]"
-  - "[[Lone Working Policy v10.25]]"
-  - "[[Supporting Medical Conditions Policy (inc. Administration of Medicines) v10.25]]"
+  - "[[Transportation Policy for Service Users v10.26]]"
+  - "[[Lone Working Policy v10.26]]"
+  - "[[Supporting Medical Conditions Policy (inc. Administration of Medicines) v10.26]]"
   - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
 source_file: "MERGED: First Aid Policy (Online Context) v01.26.docx + DRAFT (not ratified) Accidents, Incidents and First Aid Policy.docx"
 ingested: 2026-04-29
@@ -117,7 +117,7 @@ For any in-person activity (visits, exams, assessments, hybrid sessions):
 
 Where transportation is arranged or supported by The Haven:
 
-- Appropriate risk assessments and supervision arrangements apply (see [[Transportation Policy for Service Users v10.25]])
+- Appropriate risk assessments and supervision arrangements apply (see [[Transportation Policy for Service Users v10.26]])
 - Staff follow health, safety, and safeguarding procedures, including first aid response expectations
 - Any incidents during transportation are recorded and reported in line with this policy
 
@@ -191,7 +191,7 @@ For learners with known medical needs:
 - Staff will be briefed on specific risks (e.g. epilepsy, severe allergies) where relevant
 - Reasonable adjustments (e.g. breaks, flexible timetables, pacing) will be implemented
 
-See [[Supporting Medical Conditions Policy (inc. Administration of Medicines) v10.25]] for full operational detail.
+See [[Supporting Medical Conditions Policy (inc. Administration of Medicines) v10.26]] for full operational detail.
 
 ## 10. Recording and Reporting
 

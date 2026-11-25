@@ -25,11 +25,11 @@ applies_to: ["haven"]
 related_policies:
   - "[[Health and Safety Policy v10.26]]"
   - "[[Off-site Visits Policy v01.26]]"
-  - "[[Lone Working Policy v10.25]]"
+  - "[[Lone Working Policy v10.26]]"
   - "[[Accidents, Incidents and First Aid Policy v04.26]]"
   - "[[Business Continuity Plan v11.26]]"
-  - "[[Transportation Policy for Service Users v10.25]]"
-  - "[[Ergonomic Health and Safety Policy v10.25]]"
+  - "[[Transportation Policy for Service Users v10.26]]"
+  - "[[Ergonomic Health and Safety Policy v10.26]]"
 aliases:
   - "policies/health-safety-medical/Risk Assessment Policy v10.25"
 source_file: "Risk Assessment Policy v10.25.docx"
@@ -42,8 +42,8 @@ notes: "Version 10.26, annual renewal (was due 2026-10-01). Approved October 202
 **Nominated Governor:** the Health and Safety Governor  
 **Version:** v10.26
 
-**Policy Statement and Purpose  
-**The Haven is committed to identifying, assessing, and mitigating risks across all aspects of our provision. Risk assessment is a statutory duty under the **Health and Safety at Work Act 1974**, the **Management of Health and Safety at Work Regulations 1999**, and **Keeping Children Safe in Education (2026)**. This policy provides the framework for risk management in The Haven’s online-first and hybrid learning environment.
+**Policy Statement and Purpose**  
+The Haven is committed to identifying, assessing, and mitigating risks across all aspects of our provision. Risk assessment is a statutory duty under the **Health and Safety at Work Act 1974**, the **Management of Health and Safety at Work Regulations 1999**, and **Keeping Children Safe in Education (2026)**. This policy provides the framework for risk management in The Haven’s online-first and hybrid learning environment.
 
 ## 1. Scope
   - Applies to all areas of The Haven’s provision, including:

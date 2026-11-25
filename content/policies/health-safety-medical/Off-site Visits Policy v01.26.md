@@ -25,10 +25,10 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "Off-site Visits Policy v01.26.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Header correction 25 November 2026: the Date, Review Date and Version shown at the top of the policy now match the recorded review (properties above). No change to the policy text."
 ---
 **Date:** January 2026  
-**Review Date:** October 2026  
+**Review Date:** January 2027  
 **Coordinator:** the Health and Safety Lead  
 **Nominated Governor:** the Health and Safety Governor  
 **Version:** v01.26
@@ -111,8 +111,7 @@ Where practicable, a pre-visit is conducted by staff to:
 
   - Identify environmental, accessibility, and safeguarding risks
 
-  - Inform the completion of a thorough, location-specific risk assessment**  
-    > **
+  - Inform the completion of a thorough, location-specific risk assessment  
 
 Where a physical pre-visit is not practicable, equivalent checks are carried out using:
 
@@ -153,11 +152,9 @@ Where standards cannot be assured, the visit will not proceed.
 ### 7.2 First Aid and Medication
   - Responsibilities for first aid and medication are managed in line with:
     
-      - **The Haven [[Accidents, Incidents and First Aid Policy v04.26]]  
-        > **
+      - **The Haven [[Accidents, Incidents and First Aid Policy v04.26]]**  
     
-      - **Supporting Learners with Medical Conditions Policy  
-        > **
+      - **Supporting Learners with Medical Conditions Policy**  
 
   - A trained First Aider is designated for each visit
 
@@ -170,13 +167,11 @@ Parents/carers accompanying their child ordinarily retain responsibility for rou
 ## 8. Emergency Procedures and Communication
 In the event of an emergency or serious incident:
 
-- Immediate safety of learners is prioritised**  
-    > **
+- Immediate safety of learners is prioritised  
 
 - Emergency services are contacted where required
 
-- The Trip Leader informs the DSL immediately**  
-    > **
+- The Trip Leader informs the DSL immediately  
 
 - The DSL coordinates communication, including:
     
