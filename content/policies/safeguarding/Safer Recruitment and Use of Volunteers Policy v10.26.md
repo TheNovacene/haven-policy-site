@@ -43,7 +43,7 @@ related_policies:
   - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Staff Conduct Policy v10.26]]"
   - "[[Managing Allegations Against Staff Policy v10.26]]"
-  - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"
+  - "[[Equal Opportunities, Equality & Diversity Policy v10.26]]"
   - "[[Employment of Ex-Offenders Policy v10.26]]"
   - "[[Whistleblowing Policy v10.26]]"
 source_file: "Safer Recruitment and Use of Volunteers Policy v01.26.md (08.26 content)"
@@ -73,7 +73,7 @@ This policy should be read alongside:
 - [[Child Protection and Safeguarding Policy v10.26]]
 - [[Staff Conduct Policy v10.26]]
 - [[Managing Allegations Against Staff Policy v10.26]]
-- [[Equal Opportunities, Equality & Diversity Policy v10.25]]
+- [[Equal Opportunities, Equality & Diversity Policy v10.26]]
 
 ## 2. Scope
 
@@ -130,7 +130,7 @@ All advertisements:
 - Shortlisting is carried out by at least two panel members against the published criteria.
 - Gaps in employment are explored at interview.
 - Reasonable adjustments are offered at every stage.
-- The process follows the [[Equal Opportunities, Equality & Diversity Policy v10.25]].
+- The process follows the [[Equal Opportunities, Equality & Diversity Policy v10.26]].
 
 ### 5.5 Qualifications (including QTS)
 - QTS is required for teaching roles unless the role description states otherwise (for example specialist mentoring or therapeutic roles).
