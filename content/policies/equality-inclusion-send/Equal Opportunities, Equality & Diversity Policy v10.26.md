@@ -2,10 +2,10 @@
 title: "Equal Opportunities, Equality & Diversity Policy"
 short_id: "EOEDP"
 slug: "equal-opportunities-equality-diversity-policy"
-version: "04.26"
+version: "10.26"
 status: "live"
-last_reviewed: 2026-04-29
-next_review: 2027-04-29
+last_reviewed: 2026-10-01
+next_review: 2027-10-01
 review_cycle: "annual"
 owner_role: "Headteacher"
 approver_role: "Proprietor"
@@ -38,15 +38,17 @@ related_policies:
   - "[[Whistleblowing Policy v10.26]]"
   - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
   - "[[Managing Allegations Against Staff Policy v10.26]]"
+aliases:
+  - "policies/equality-inclusion-send/Equal Opportunities, Equality & Diversity Policy v10.25"
 source_file: "Equal Opportunities, Equality & Diversity Policy v10.25.docx"
 ingested: 2026-04-29
-notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
+notes: "Version 10.26, annual renewal. Approved October 2026 (confirmed by the Proprietor 25 November 2026; exact approval date and approver still to be added to sign_off_record). Date and version update only: rolls the review date from October 2026 to October 2027. No change to the policy text. Previous version 10.25 archived. Earlier note: KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** October 2026  
+**Review Date:** October 2027  
 **Coordinator:** the Head  
 **Nominated Governor:** the Co-Chair of Governors  
-**Version:** v10.25
+**Version:** v10.26
 
 ## Policy Statement and Purpose 
 

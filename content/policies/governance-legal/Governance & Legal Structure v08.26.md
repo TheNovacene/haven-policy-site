@@ -28,7 +28,7 @@ related_policies:
   - "[[Child Protection and Safeguarding Policy v10.26]]"
 source_file: ""
 ingested: 2026-08-16
-notes: "Full replacement of Governance & Legal Structure v10.25 (archived), which described a superseded legal posture. Governing body ratification to be recorded at the next meeting."
+notes: "Wording correction 25 November 2026, at the Proprietor's request: the data protection role is titled Data Protection Officer consistently and is recorded as held by the Proprietor. No change to procedure; version unchanged. Earlier note: Full replacement of Governance & Legal Structure v10.25 (archived), which described a superseded legal posture. Governing body ratification to be recorded at the next meeting."
 ---
 # Governance & Legal Structure
 
@@ -49,7 +49,7 @@ Learners join The Haven through commissioning arrangements with local authoritie
 - **The charity board (proprietor).** The Autistic Girls Network board of trustees acts as proprietor. Reserved matters — budget, reserves, appointment of the Head, approval of the annual policy cycle, and any change to legal structure — sit with the board.
 - **The governing body.** A governing body with designated portfolio roles (including a Lead Governor, a Safeguarding Governor and a Health and Safety Governor) provides challenge and oversight of the provision's education, safeguarding and operational practice, meeting termly. Governor conduct and responsibilities are set out in the Governor Code of Conduct and Governor Role & Responsibilities.
 - **Executive leadership.** The Head leads the provision day to day and is accountable to the proprietor. Safeguarding leadership sits with the Designated Safeguarding Lead, supported by a Deputy DSL, with cover arrangements as described in the Child Protection and Safeguarding Policy.
-- **External advice.** The Haven engages independent SEND, governance, safeguarding and data protection advisers; the Data Protection Officer role is held by an external consultant.
+- **External advice.** The Haven engages independent SEND, governance, safeguarding and data protection advisers; the Data Protection Officer role is held by the Proprietor.
 - **Learner and family voice.** Feedback routes for learners and families feed governor reporting, alongside the formal Complaints Procedure.
 
 The full accountability chain, tiered structure and role portfolios are set out in the Structure of Organisation.

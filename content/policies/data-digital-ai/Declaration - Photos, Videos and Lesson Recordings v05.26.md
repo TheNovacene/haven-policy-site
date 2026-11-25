@@ -26,7 +26,7 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "Declaration of Photos and Videos.docx"
 ingested: 2026-05-21
-notes: ""
+notes: "Wording correction 25 November 2026, at the Proprietor's request: the data protection role is titled Data Protection Officer consistently and is recorded as held by the Proprietor. No change to procedure; version unchanged."
 ---
 # Declaration: Photos, Videos and Lesson Recordings
 
@@ -60,7 +60,7 @@ Families and learners are informed at the point of admission that sessions may b
 
 ## 5. Promotional photographs and videos
 
-Photographs and videos used for promotional purposes (website, social media, fundraising, annual report, press) are only used with explicit, written, informed and revocable consent from the learner (where age and capacity allow) and from a parent or carer. Consent is recorded in writing and held by the Data Protection Lead.
+Photographs and videos used for promotional purposes (website, social media, fundraising, annual report, press) are only used with explicit, written, informed and revocable consent from the learner (where age and capacity allow) and from a parent or carer. Consent is recorded in writing and held by the Data Protection Officer.
 
 Consent is specific and not blanket. Consent for one purpose is not consent for another. Consent can be withdrawn at any time, after which the image or recording is removed from future use; reasonable efforts are made to remove it from existing material, recognising that some externally published material may persist.
 
@@ -78,11 +78,11 @@ Where photographs or videos are shared via third-party platforms (e.g. social me
 
 ## 9. Withdrawal of consent
 
-Consent can be withdrawn at any time by contacting the Data Protection Lead. Withdrawal is honoured promptly.
+Consent can be withdrawn at any time by contacting the Data Protection Officer. Withdrawal is honoured promptly.
 
 ## 10. Roles and responsibilities
 
-- Data Protection Lead: Maintains consent records and oversees use.
+- Data Protection Officer: Maintains consent records and oversees use.
 - DSL: Oversees the safeguarding aspects of image and recording use.
 - Head: Approves promotional material featuring identifiable individuals.
 - All staff: Follow this policy in any photography, video or recording activity.
@@ -96,11 +96,11 @@ Consent can be withdrawn at any time by contacting the Data Protection Lead. Wit
 - Safeguarding and Child Protection Policy
 ## 12. Review
 
-This declaration is reviewed annually by the Data Protection Lead and the DSL and approved by the Board of Governors.
+This declaration is reviewed annually by the Data Protection Officer and the DSL and approved by the Board of Governors.
 
 | Document version | 1.0 |
 |---|---|
 | Date issued | May 2026 |
 | Next review | May 2027 |
-| Document owner | Data Protection Lead / DSL |
+| Document owner | Data Protection Officer / DSL |
 | Approved by | Board of Governors |

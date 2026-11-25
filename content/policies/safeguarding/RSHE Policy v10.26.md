@@ -36,7 +36,7 @@ related_policies:
   - "[[Anti-Bullying Policy v10.26]]"
   - "[[Behaviour and Regulation Policy v10.26]]"
   - "[[SEND Policy v01.26]]"
-  - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"
+  - "[[Equal Opportunities, Equality & Diversity Policy v10.26]]"
 source_file: "RSHE Policy v.02.26.md"
 ingested: 2026-10-19
 notes: "Out-of-cycle update, 19 October 2026, answering OEAS feedback that the policy did not name online bullying or the protected characteristics. Adds sections 4 (online relationships and online bullying) and 5 (equality and the protected characteristics). Also: refers to the revised DfE RSHE statutory guidance (published 15 July 2025, implementation expected by September 2026) as a voluntary benchmark, since The Haven is not a registered school; adds the guidance's new topics (misogyny and online sub-cultures, deepfakes, the law on indecent images, sexual harassment); adds parents' access to a representative sample of materials; removes 'school' wording. FOR DSL REVIEW BEFORE SIGN-OFF: the 'gender identity' topic wording has not been re-checked against the 2025 guidance's section on gender identity; the DSL should confirm it. Scheduled next_review unchanged. Signed off by the Proprietor 20 October 2026."

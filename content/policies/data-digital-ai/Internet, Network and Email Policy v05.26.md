@@ -25,7 +25,7 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "Internet, Network & Email Policy.docx"
 ingested: 2026-05-21
-notes: ""
+notes: "Wording correction 25 November 2026, at the Proprietor's request: the data protection role is titled Data Protection Officer consistently and is recorded as held by the Proprietor. No change to procedure; version unchanged."
 ---
 # Internet, Network and Email Policy
 
@@ -49,7 +49,7 @@ This policy applies to all staff, volunteers, contractors, governors and learner
 ## 3. Principles
 
 - Digital infrastructure is provided to support The Haven's mission. Its use should be consistent with that mission.
-- Security and privacy are everyone's responsibility, not just the Data Protection Lead's.
+- Security and privacy are everyone's responsibility, not just the Data Protection Officer's.
 - Filtering and monitoring exist to keep learners safe, not to surveil staff.
 - Reasonable personal use of the internet by staff during breaks is permitted; the rules below describe what is not.
 - Where personal devices touch Haven business, BYOD Policy expectations apply.
@@ -86,7 +86,7 @@ The Haven's networks are configured to support secure, reliable access to learni
 - Network access requires authenticated credentials; credentials must not be shared.
 - Devices connecting to The Haven's networks must meet basic security expectations: supported operating system, up-to-date security patches, active malware protection where applicable.
 - Multi-factor authentication is required for accounts with access to learner or staff personal data.
-- Suspected security incidents — phishing, suspected account compromise, lost devices — are reported immediately to the Data Protection Lead.
+- Suspected security incidents — phishing, suspected account compromise, lost devices — are reported immediately to the Data Protection Officer.
 Detailed cyber security expectations are set out in the Cyber Security Policy.
 
 ## 6. Email
@@ -107,11 +107,11 @@ Every member of staff is issued with a Haven email account. Haven business is co
 - Auto-forwarding from Haven email to a personal account is not permitted.
 ### 6.3 Phishing and email security
 
-Staff are trained to recognise phishing and similar attacks. Suspected phishing emails are reported to the Data Protection Lead and not forwarded onwards. Staff do not click on suspicious links, enable macros from unknown sources, or open unexpected attachments.
+Staff are trained to recognise phishing and similar attacks. Suspected phishing emails are reported to the Data Protection Officer and not forwarded onwards. Staff do not click on suspicious links, enable macros from unknown sources, or open unexpected attachments.
 
 ### 6.4 Personal use of Haven email
 
-Reasonable, occasional personal use of Haven email is permitted, provided it does not compromise security, productivity, or the standards in section 6.2. Personal use does not create an expectation of privacy: the Haven email system remains a Haven asset and may be accessed by the Data Protection Lead or Head where there is a legitimate need.
+Reasonable, occasional personal use of Haven email is permitted, provided it does not compromise security, productivity, or the standards in section 6.2. Personal use does not create an expectation of privacy: the Haven email system remains a Haven asset and may be accessed by the Data Protection Officer or Head where there is a legitimate need.
 
 ## 7. Learner internet, network and email use
 
@@ -145,7 +145,7 @@ Use of artificial intelligence tools accessed via The Haven's internet — inclu
 
 ## 11. Roles and responsibilities
 
-- Data Protection Lead: Owns this policy; coordinates security incidents; oversees filtering, monitoring and email security arrangements.
+- Data Protection Officer: Owns this policy; coordinates security incidents; oversees filtering, monitoring and email security arrangements.
 - Head: Approves access and addresses breaches that constitute conduct or safeguarding concerns.
 - DSL: Leads safeguarding response where internet, network or email use crosses into safeguarding.
 - Line managers: Reinforce expectations in their teams.
@@ -166,11 +166,11 @@ Use of artificial intelligence tools accessed via The Haven's internet — inclu
 - Family Attendance Agreement
 ## 13. Review
 
-This policy is reviewed annually by the Data Protection Lead and approved by the Board of Governors.
+This policy is reviewed annually by the Data Protection Officer and approved by the Board of Governors.
 
 | Document version | 1.0 |
 |---|---|
 | Date issued | May 2026 |
 | Next review | May 2027 |
-| Document owner | Data Protection Lead |
+| Document owner | Data Protection Officer |
 | Approved by | Board of Governors |

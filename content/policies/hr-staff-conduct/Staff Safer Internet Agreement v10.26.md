@@ -45,7 +45,7 @@ related_policies:
   - "[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]]"
 source_file: "Staff Safer Internet Agreement v10.25.md"
 ingested: 2026-10-27
-notes: "Version 10.26, 27 October 2026, at the Proprietor's request (tender review). Review date rolled from October 2026 to October 2027. The Proprietor confirmed on 27 October 2026 that no substantive changes are needed for KCSIE 2026 beyond those recorded here, which closes the outstanding-review note added in August 2026. Previous version archived."
+notes: "Wording correction 25 November 2026, at the Proprietor's request: the data protection role is titled Data Protection Officer consistently and is recorded as held by the Proprietor. No change to procedure; version unchanged. Earlier note: Version 10.26, 27 October 2026, at the Proprietor's request (tender review). Review date rolled from October 2026 to October 2027. The Proprietor confirmed on 27 October 2026 that no substantive changes are needed for KCSIE 2026 beyond those recorded here, which closes the outstanding-review note added in August 2026. Previous version archived."
 ---
 **Date:** October 2026  
 **Review Date:** October 2027  
@@ -92,7 +92,7 @@ To ensure safe and lawful use of digital and AI-based tools, the following roles
 
 **All staff** - Follow the expectations in this agreement, and seek advice if unsure.
 
-**DPO (CEO)** - Ensure compliance with UK GDPR, monitor incidents, maintain records, and configure AI and data-retention settings — with technical support from the Systems Architect - ensuring AI tools and Workspace remain The Haven-owned and compliant.
+**DPO (Proprietor)** - Ensure compliance with UK GDPR, monitor incidents, maintain records, and configure AI and data-retention settings — with technical support from the Systems Architect - ensuring AI tools and Workspace remain The Haven-owned and compliant.
 
 ### Safety First
   - I will protect learners’ digital identities and never share identifying details online.

@@ -2,10 +2,10 @@
 title: "Risk Assessment Policy"
 short_id: "RAP"
 slug: "risk-assessment-policy"
-version: "10.25"
+version: "10.26"
 status: "live"
-last_reviewed: 2025-10-01
-next_review: 2026-10-01
+last_reviewed: 2026-10-01
+next_review: 2027-10-01
 review_cycle: "annual"
 owner_role: "Health and Safety Lead"
 approver_role: "Proprietor"
@@ -30,15 +30,17 @@ related_policies:
   - "[[Business Continuity Plan v11.26]]"
   - "[[Transportation Policy for Service Users v10.25]]"
   - "[[Ergonomic Health and Safety Policy v10.25]]"
+aliases:
+  - "policies/health-safety-medical/Risk Assessment Policy v10.25"
 source_file: "Risk Assessment Policy v10.25.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Version 10.26, annual renewal (was due 2026-10-01). Approved October 2026 (confirmed by the Proprietor 25 November 2026; exact approval date and approver still to be added to sign_off_record). Date and version update only: rolls the review date from October 2026 to October 2027. No change to the policy text. Previous version 10.25 archived."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** October 2026  
+**Review Date:** October 2027  
 **Coordinator:** Head  
 **Nominated Governor:** the Health and Safety Governor  
-**Version:** v10.25
+**Version:** v10.26
 
 **Policy Statement and Purpose  
 **The Haven is committed to identifying, assessing, and mitigating risks across all aspects of our provision. Risk assessment is a statutory duty under the **Health and Safety at Work Act 1974**, the **Management of Health and Safety at Work Regulations 1999**, and **Keeping Children Safe in Education (2026)**. This policy provides the framework for risk management in The Haven’s online-first and hybrid learning environment.

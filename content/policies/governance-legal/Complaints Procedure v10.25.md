@@ -29,7 +29,7 @@ related_policies:
   - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Terms and Conditions v10.25]]"
   - "[[Governance & Legal Structure v10.25]]"
-  - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"
+  - "[[Equal Opportunities, Equality & Diversity Policy v10.26]]"
 source_file: "Complaints Procedure v10.25.docx"
 ingested: 2026-04-29
 notes: "A4 remediation 2026-04-29 — revised to align fully with the Independent School Standards Part 7 benchmark (paragraphs 7.1–7.11). Five gaps closed: 7.3 accessibility statement; 7.7 three-person panel composition; 7.8 parental rights at hearing; 7.9 findings/inspection access; 7.11 confidentiality clause. Signed off 29 April 2026 by Proprietor and Governing Body."
@@ -116,4 +116,4 @@ If the complaint remains unresolved following the panel's decision, parents/care
   - [[Managing Allegations Against Staff Policy v10.26]]
   - [[Terms and Conditions v10.25]]
   - [[Governance & Legal Structure v10.25]]
-  - [[Equal Opportunities, Equality & Diversity Policy v10.25]]
+  - [[Equal Opportunities, Equality & Diversity Policy v10.26]]

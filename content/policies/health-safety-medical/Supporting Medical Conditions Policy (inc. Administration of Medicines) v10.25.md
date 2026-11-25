@@ -27,7 +27,7 @@ related_policies:
   - "[[Health and Safety Policy v10.26]]"
   - "[[SEND Policy v01.26]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
-  - "[[Risk Assessment Policy v10.25]]"
+  - "[[Risk Assessment Policy v10.26]]"
 source_file: "Supporting Medical Conditions Policy (inc. Administration of Medicines) v10.25.docx"
 ingested: 2026-04-29
 notes: ""

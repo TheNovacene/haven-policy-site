@@ -30,7 +30,7 @@ related_policies:
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"
 source_file: "Privacy Policy v10.25.docx"
 ingested: 2026-04-29
-notes: "A2 remediation 2026-04-29 — reframed as public-facing privacy notice (the parent/learner-facing communication that goes on the public site). Operational policy is [[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]. This document complements rather than duplicates the operational policy."
+notes: "Wording correction 25 November 2026, at the Proprietor's request: the data protection role is titled Data Protection Officer consistently and is recorded as held by the Proprietor. No change to procedure; version unchanged. Earlier note: A2 remediation 2026-04-29 — reframed as public-facing privacy notice (the parent/learner-facing communication that goes on the public site). Operational policy is [[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]. This document complements rather than duplicates the operational policy."
 ---
 **Because your trust matters.**
 
@@ -208,7 +208,7 @@ We’ll review this policy regularly and update it when needed. Any significant 
 
 Questions? Concerns? Want to access or update your data?
 
-Contact our Data Protection Officer (DPO): via cathy@autisticgirlsnetwork.org
+Contact our Data Protection Officer (DPO): [dpo@thehavenonline.co.uk](mailto:dpo@thehavenonline.co.uk)
 
 **The Haven Team**
 

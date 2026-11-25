@@ -33,7 +33,7 @@ related_policies:
   - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Child-on-Child Abuse Policy (Summary for parents) v10.26]]"
   - "[[Online Safety Policy and Acceptable Use v10.26]]"
-  - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"
+  - "[[Equal Opportunities, Equality & Diversity Policy v10.26]]"
   - "[[Anti-Racism Policy v01.26]]"
 source_file: "Anti-Bullying Policy v05.26.md"
 ingested: 2026-10-19

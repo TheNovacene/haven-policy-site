@@ -30,7 +30,7 @@ related_policies:
   - "[[Staff Conduct Policy v10.26]]"
   - "[[Managing Allegations Against Staff Policy v10.26]]"
   - "[[Whistleblowing Policy v10.26]]"
-  - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"
+  - "[[Equal Opportunities, Equality & Diversity Policy v10.26]]"
   - "[[Anti-Racism Policy v01.26]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"

@@ -24,7 +24,7 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "Critical Incident Policy.docx"
 ingested: 2026-05-21
-notes: ""
+notes: "Wording correction 25 November 2026, at the Proprietor's request: the data protection role is titled Data Protection Officer consistently and is recorded as held by the Proprietor. No change to procedure; version unchanged."
 ---
 # Critical Incident Policy
 
@@ -69,7 +69,7 @@ On notification of a critical incident, the Critical Incident Team (CIT) convene
 - The Head (or in their absence, the Proprietor).
 - The Designated Safeguarding Lead.
 - The Operations Lead.
-- The Data Protection Lead (where the incident has data or communication implications).
+- The Data Protection Officer (where the incident has data or communication implications).
 - Any other person whose role makes their inclusion necessary.
 The CIT is convened by phone, video or in person, immediately. The Head chairs. Where the Head is the subject of the incident or otherwise unavailable, the Proprietor chairs.
 
@@ -163,7 +163,7 @@ After the incident review, the Head leads a structured reflection with the CIT t
 - Head: Chairs CIT; leads response.
 - DSL: Co-leads response, particularly for safeguarding-related incidents; manages statutory safeguarding partnerships.
 - Operations Lead: Operational coordination; timetable adjustments.
-- Data Protection Lead: Data, communication and ICO notification.
+- Data Protection Officer: Data, communication and ICO notification.
 - All staff: Follow CIT instructions; record what they know; refer concerns; do not speak externally.
 - Governors: Receive briefing; provide challenge and support; oversight of post-incident review.
 ## 11. Related documents

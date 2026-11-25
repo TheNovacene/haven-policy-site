@@ -22,7 +22,7 @@ related_policies:
   - "[[Terms and Conditions v10.25]]"
   - "[[Teaching & Learning Policy v10.25]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
-  - "[[Equal Opportunities, Equality & Diversity Policy v10.25]]"
+  - "[[Equal Opportunities, Equality & Diversity Policy v10.26]]"
   - "[[SEND Policy v01.26]]"
   - "[[Referrals and Admissions Policy]]"
 source_file: "Statement of Purpose, Aims and Objectives v10.25.docx"
