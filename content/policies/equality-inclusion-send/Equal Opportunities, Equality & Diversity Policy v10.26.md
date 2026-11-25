@@ -42,7 +42,7 @@ aliases:
   - "policies/equality-inclusion-send/Equal Opportunities, Equality & Diversity Policy v10.25"
 source_file: "Equal Opportunities, Equality & Diversity Policy v10.25.docx"
 ingested: 2026-04-29
-notes: "Version 10.26, annual renewal. Approved October 2026 (confirmed by the Proprietor 25 November 2026; exact approval date and approver still to be added to sign_off_record). Date and version update only: rolls the review date from October 2026 to October 2027. No change to the policy text. Previous version 10.25 archived. Earlier note: KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
+notes: "Addition 25 November 2026, at the Proprietor's request: new section naming the nine protected characteristics in the Equality Act 2010, matching the Anti-Bullying and RSHE policies. The digital controls table no longer claims automated safety filters, as The Haven has no automated alerting (consistent with the Child Protection and Safeguarding, Online Safety and Prevent Duty policies). Version unchanged. Earlier note: Version 10.26, annual renewal. Approved October 2026 (confirmed by the Proprietor 25 November 2026; exact approval date and approver still to be added to sign_off_record). Date and version update only: rolls the review date from October 2026 to October 2027. No change to the policy text. Previous version 10.25 archived. Earlier note: KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
 ---
 **Date:** October 2026  
 **Review Date:** October 2027  
@@ -55,6 +55,22 @@ notes: "Version 10.26, annual renewal. Approved October 2026 (confirmed by the P
 The Haven is committed to eliminating discrimination, advancing equality of opportunity, and fostering positive relations across all parts of our hybrid learning community. We honour the equal worth of every learner, staff member, family, and partner, and we place diversity, inclusion, and anti-racism at the heart of our safeguarding culture.
 
 This policy brings together our statutory duties under the **Equality Act 2010**, the **Human Rights Act 1998**, the **Children Acts 1989 and 2004**, and the **UN Convention on the Rights of the Child**. It should be read alongside The Haven’s Safeguarding Policy, [[Behaviour and Regulation Policy v10.26]] and [[Staff Conduct Policy v10.26]].
+
+## The Protected Characteristics
+
+The Equality Act 2010 protects people from discrimination, harassment and victimisation because of nine protected characteristics. This policy covers all nine:
+
+1. Age
+2. Disability, including autism, ADHD and other neurodivergence, mental health conditions and long-term illness
+3. Gender reassignment
+4. Marriage and civil partnership
+5. Pregnancy and maternity
+6. Race, including colour, nationality and ethnic or national origin
+7. Religion or belief, including lack of belief
+8. Sex
+9. Sexual orientation
+
+The Haven's commitment goes further than the law requires. We also work to prevent unfair treatment linked to gender identity, culture, socioeconomic background, being a young carer or care-experienced, and any other aspect of who a person is.
 
 ## 1. Guiding Principles 
 
@@ -201,7 +217,7 @@ The Haven’s model uses Google Workspace for Education — Google Meet for live
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------ |
 | Chat functions           | Moderated by staff during lessons; inappropriate messages can be deleted or muted immediately.                     |
 | Lesson monitoring        | All sessions are recorded; chat transcripts are reviewable by the DSL or senior leadership team if concerns arise. |
-| Automated safety filters | Key words or offensive content are flagged to staff for review in real time.                                       |
+| Automated alerts         | The Haven does not use automated alerting or keyword flagging. Concerns reach the DSL through staff moderation, disclosure and the reporting routes in this policy. |
 
 Any incident detected in these digital environments triggers the same safeguarding reporting and restorative protocols as in-person harm.
 
