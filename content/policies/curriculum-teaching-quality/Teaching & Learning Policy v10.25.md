@@ -109,8 +109,7 @@ Our approach to assessment is affirming, relational, and learner-led.
     
       - Thruday – Neurodivergent Self-Assessments
     
-      - Empowerment Passport – *This Is Me Too  
-        > *
+      - Empowerment Passport – *This Is Me Too*  
 
 Assessment outcomes feed into learner profiles on TutorCruncher and Google Classroom, forming a living document of strengths, preferences, and goals.
 
