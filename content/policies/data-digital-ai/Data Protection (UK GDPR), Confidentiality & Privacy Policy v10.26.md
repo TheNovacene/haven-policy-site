@@ -29,7 +29,7 @@ compliance:
   - "KCSIE 2026"
 applies_to: ["haven"]
 related_policies:
-  - "[[Privacy Policy v10.25]]"
+  - "[[Privacy Policy v10.26]]"
   - "[[Privacy Notices v10.26]]"
   - "[[Data Retention Policy and Data Breach Procedure v05.26]]"
   - "[[Data Protection Impact Assessment - Consolidated v08.26]]"

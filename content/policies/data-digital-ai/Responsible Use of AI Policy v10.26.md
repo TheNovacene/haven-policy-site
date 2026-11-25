@@ -66,11 +66,9 @@ This policy establishes a **rights-led, consent-first framework** for the use of
 
 It exists to:
 
-  - Protect the **rights, dignity, and developmental freedom of children and young people  
-    > **
+  - Protect the **rights, dignity, and developmental freedom of children and young people**  
 
-  - Ensure organisational compliance with, and extension beyond, the **EU AI Act  
-    > **
+  - Ensure organisational compliance with, and extension beyond, the **EU AI Act**  
 
   - Provide **clear operational guidance** for staff and leaders
 
@@ -106,11 +104,9 @@ Where conflicts arise between efficiency, optimisation, or institutional conveni
 
 This policy meets and extends the EU AI Act by:
 
-  - Treating **all child-related AI systems as high-risk by default  
-    > **
+  - Treating **all child-related AI systems as high-risk by default**  
 
-  - Requiring **human oversight, auditability, and contestability  
-    > **
+  - Requiring **human oversight, auditability, and contestability**  
 
   - Prohibiting prohibited practices outright
 
@@ -217,8 +213,7 @@ AI exists to support human care and judgement — not replace it.
 
   - AI must strengthen relationships, not simulate them
 
-  - Systems must include **clear stopping conditions  
-    > **
+  - Systems must include **clear stopping conditions**  
 
   - Optimisation must never override dignity, care, or consent
 
@@ -382,14 +377,11 @@ Relational systems shape meaning, behaviour, and possibility.
 
 This policy exists to ensure that:
 
-  - **coherence never replaces care  
-    > **
+  - **coherence never replaces care**  
 
-  - **assistance never overrides agency  
-    > **
+  - **assistance never overrides agency**  
 
-  - **technology never outruns consent  
-    > **
+  - **technology never outruns consent**  
 
 The Diamond Standard is not about limiting innovation.  
 It is about **civilising it**.
