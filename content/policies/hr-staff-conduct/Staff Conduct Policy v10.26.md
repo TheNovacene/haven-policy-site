@@ -42,7 +42,7 @@ related_policies:
   - "[[Staff Safer Internet Agreement v10.26]]"
   - "[[Responsible Use of AI Policy v10.26]]"
   - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
-  - "[[Lone Working Policy v10.25]]"
+  - "[[Lone Working Policy v10.26]]"
   - "[[Prevent Duty Policy v10.26]]"
 source_file: "Staff Conduct Policy v10.25.md"
 ingested: 2026-10-27
@@ -61,8 +61,8 @@ At The Haven, we uphold the highest standards of professional and ethical conduc
 This policy applies to all The Haven team members, including employees, freelance educators, SENCOs, mentors, volunteers, and contractors—regardless of contract type, location, or working hours.
 
 ## 3. Standards of Conduct
-**3.1 Professionalism  
-**Staff are expected to uphold The Haven’s mission of trauma-informed, inclusive practice and act with professionalism in all circumstances—showing reliability, discretion, and alignment with The Haven’s learner-centred values.
+**3.1 Professionalism**  
+Staff are expected to uphold The Haven’s mission of trauma-informed, inclusive practice and act with professionalism in all circumstances—showing reliability, discretion, and alignment with The Haven’s learner-centred values.
 
 **3.2 Respect & Boundaries**
 Every human at The Haven — learner, parent carer, colleague, or partner — must be treated with dignity, compassion, and fairness. Bullying, exclusion, harassment (including sexual harassment, racial harassment, and harassment based on any protected characteristic), or any demeaning behaviour is not tolerated.
@@ -77,14 +77,14 @@ The **Worker Protection (Amendment of Equality Act 2010) Act 2023** places a pre
 
 Reporting in good faith is protected; retaliation is itself a disciplinary matter.
 
-**3.3 Confidentiality  
-**Staff must protect personal and sensitive information. Data relating to learners, families, and colleagues must be handled in line with **UK GDPR** and the **Data Protection Act 2018**, and only disclosed where legally required or explicitly authorised.
+**3.3 Confidentiality**  
+Staff must protect personal and sensitive information. Data relating to learners, families, and colleagues must be handled in line with **UK GDPR** and the **Data Protection Act 2018**, and only disclosed where legally required or explicitly authorised.
 
-**3.4 Compliance  
-**Staff must comply with all applicable safeguarding laws, professional standards, and internal policies, including those related to online education, child protection, and digital safety.
+**3.4 Compliance**  
+Staff must comply with all applicable safeguarding laws, professional standards, and internal policies, including those related to online education, child protection, and digital safety.
 
-**3.5 Cyber Safety  
-**As an online-first setting, staff must follow secure digital practices, use only approved platforms for communication, and report any safeguarding or technical concerns without delay.
+**3.5 Cyber Safety**  
+As an online-first setting, staff must follow secure digital practices, use only approved platforms for communication, and report any safeguarding or technical concerns without delay.
 
 **3.6 Use of AI and Digital Tools**
 
@@ -99,34 +99,34 @@ Staff may use AI or automation tools only through school-approved accounts withi
 No identifiable learner, family, or colleague information may be entered into AI systems. Any uncertainty or suspected data exposure must be reported to the DPO and, where safeguarding is affected, to the DSL.
 
 ## 4. Appearance and Environment
-**4.1 Virtual Learning Space  
-**Staff should use The Haven’s approved backgrounds during live sessions and ensure their environment is calm, quiet, and free from distractions.
+**4.1 Virtual Learning Space**  
+Staff should use The Haven’s approved backgrounds during live sessions and ensure their environment is calm, quiet, and free from distractions.
 
-**4.2 Clothing & Presentation  
-**While we encourage authenticity, clothing should be appropriate for a learning setting and culturally respectful. Branded The Haven wear will be provided where appropriate.
+**4.2 Clothing & Presentation**  
+While we encourage authenticity, clothing should be appropriate for a learning setting and culturally respectful. Branded The Haven wear will be provided where appropriate.
 
 ## 5. Communication & Social Media
-**5.1 Sensitive Information  
-**Staff must never share confidential information about The Haven learners or staff on social media.
+**5.1 Sensitive Information**  
+Staff must never share confidential information about The Haven learners or staff on social media.
 
-**5.2 Online Boundaries  
-**Personal social media interaction with learners is strictly prohibited. All professional communication must take place on The Haven platforms, which are secure and monitored.
+**5.2 Online Boundaries**  
+Personal social media interaction with learners is strictly prohibited. All professional communication must take place on The Haven platforms, which are secure and monitored.
 
-**5.3 Professional Channels  
-**Staff may not use personal email, phone numbers, or messaging apps for work-related contact. Use of unapproved platforms for learner communication is a breach of this policy.
+**5.3 Professional Channels**  
+Staff may not use personal email, phone numbers, or messaging apps for work-related contact. Use of unapproved platforms for learner communication is a breach of this policy.
 
 ## 6. Pre-Employment Checks
 All prospective staff must complete enhanced DBS checks, safeguarding declarations, and social media screening before being onboarded.
 
 ## 7. Expectations & Development
-**7.1 Timeliness & Reliability  
-**Staff are expected to be punctual, prepared, and responsive.
+**7.1 Timeliness & Reliability**  
+Staff are expected to be punctual, prepared, and responsive.
 
-**7.2 Continuous Development  
-**Regular CPD is core to our work. All staff must engage in relevant training, especially in ADHD, autism, trauma-informed practice, and safeguarding.
+**7.2 Continuous Development**  
+Regular CPD is core to our work. All staff must engage in relevant training, especially in ADHD, autism, trauma-informed practice, and safeguarding.
 
-**7.3 Reporting Challenges  
-**If you're struggling in your role, communicate openly with a senior leader or designated support contact. We operate on mutual respect and proactive care.
+**7.3 Reporting Challenges**  
+If you're struggling in your role, communicate openly with a senior leader or designated support contact. We operate on mutual respect and proactive care.
 
 ## 8. Violations
 Any breach of this policy may lead to formal action, including termination of contract. Concerns or breaches must be reported without delay — safeguarding concerns to the DSL, and data-protection or technical breaches to the DPO.
@@ -139,8 +139,8 @@ By joining The Haven, staff confirm that they have read, understood, and agreed 
 
 # Addendum for Code of Conduct Policy
 
-**Purpose  
-**This addendum sits alongside The Haven *Staff Conduct Policy* (2025). It clarifies professional boundaries, digital expectations, and data protection responsibilities for all staff, tutors, contractors, and volunteers working with The Haven.
+**Purpose**  
+This addendum sits alongside The Haven *Staff Conduct Policy* (2025). It clarifies professional boundaries, digital expectations, and data protection responsibilities for all staff, tutors, contractors, and volunteers working with The Haven.
 
 It should be read in conjunction with The Haven’s **[[Child Protection and Safeguarding Policy v10.26]]**, **[[Whistleblowing Policy v10.26]]**, **[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]**, and **Staff Acceptable Use Guidelines**.
 
@@ -201,20 +201,15 @@ Breaches of confidentiality or safeguarding expectations must be reported immedi
 ## Section 4: Cross-Referenced Policies
 Staff must familiarise themselves with and follow these related policies at all times:
 
-  - **[[Child Protection and Safeguarding Policy v10.26]]  
-    > **
+  - **[[Child Protection and Safeguarding Policy v10.26]]**  
 
-  - **[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]  
-    > **
+  - **[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]**  
 
-  - **[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]]: Parent Guide  
-    > **
+  - **[[Navigating the Digital Age of Consent_ A Guide for Parents at The Haven v10.25]]: Parent Guide**  
 
-  - **[[Whistleblowing Policy v10.26]]  
-    > **
+  - **[[Whistleblowing Policy v10.26]]**  
 
-  - **Staff Conduct and Low-Level Concerns Guidance  
-    > **
+  - **Staff Conduct and Low-Level Concerns Guidance**  
 
   - **[[Prevent Duty Policy v10.26]]**
 

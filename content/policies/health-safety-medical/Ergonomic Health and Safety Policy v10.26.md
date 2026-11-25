@@ -2,10 +2,10 @@
 title: "Ergonomic Health and Safety Policy"
 short_id: "EHSP"
 slug: "ergonomic-health-and-safety-policy"
-version: "10.25"
+version: "10.26"
 status: "live"
-last_reviewed: 2025-10-01
-next_review: 2026-10-01
+last_reviewed: 2026-10-01
+next_review: 2027-10-01
 review_cycle: "annual"
 owner_role: "Health and Safety Lead"
 approver_role: "Proprietor"
@@ -25,18 +25,20 @@ applies_to: ["haven"]
 related_policies:
   - "[[Health and Safety Policy v10.26]]"
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"
-  - "[[Lone Working Policy v10.25]]"
+  - "[[Lone Working Policy v10.26]]"
   - "[[Risk Assessment Policy v10.26]]"
   - "[[Business Continuity Plan v11.26]]"
+aliases:
+  - "policies/health-safety-medical/Ergonomic Health and Safety Policy v10.25"
 source_file: "Ergonomic Health and Safety Policy v10.25.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Version 10.26, annual renewal (was due October 2026). Approved; confirmed by the Proprietor 25 November 2026 (exact approval date and approver still to be added to sign_off_record). Date and version update only: rolls the review date to October 2027. No change to the policy text. Previous version 10.25 archived."
 ---
-**Date:** October 2025  
-**Review Date:** September 2026  
+**Date:** October 2026  
+**Review Date:** October 2027  
 **Coordinator:** the Health and Safety Lead  
 **Nominated Governor:** the Health and Safety Governor  
-**Version:** 10.25
+**Version:** 10.26
 
 ## 1. Purpose
 To safeguard the health, safety, and wellbeing of all The Haven staff by ensuring safe use of laptops, screens, and other display screen equipment (DSE). This section sets out expectations, support, and training to reduce risks of musculoskeletal disorders, repetitive strain injury (RSI), and other health impacts.
@@ -90,30 +92,30 @@ The Haven will provide (or fund):
 
 ## Practical Checklists
 #### DSE / Ergonomics Self-Assessment Checklist
-**Workstation Setup  
-** ☐ My screen is at eye level and about arm’s length away.  
+**Workstation Setup**  
+☐ My screen is at eye level and about arm’s length away.  
 ☐ I use an external keyboard and mouse (not just a laptop keyboard).  
 ☐ My chair supports my back, and my feet rest flat or on a footrest.  
 ☐ My wrists are straight, and forearms roughly horizontal.  
 ☐ My screen is positioned to avoid glare.
 
-**Work Routine  
-** ☐ I take short breaks (5–10 minutes) at least once every hour.  
+**Work Routine**  
+☐ I take short breaks (5–10 minutes) at least once every hour.  
 ☐ I stand/stretch at least every 20–30 minutes.  
 ☐ I follow the 20–20–20 rule for eye health.
 
-**Environment  
-** ☐ My workspace has good lighting and ventilation.  
+**Environment**  
+☐ My workspace has good lighting and ventilation.  
 ☐ I keep cables and equipment organised to avoid hazards.
 
-**Wellbeing & Adjustments  
-** ☐ I have no ongoing discomfort or pain when working.  
+**Wellbeing & Adjustments**  
+☐ I have no ongoing discomfort or pain when working.  
 ☐ I know how to request additional equipment or adjustments.  
 ☐ I know who to contact (line manager/DSL/Wellbeing lead) if I have concerns.
 
 Staff should complete this checklist annually and after any significant change in the working environment.
 
-**Agreed:  
-**Signed by the Proprietor — Date: 03/09/25
+**Agreed:**  
+Signed by the Proprietor — Date: 03/09/25
 
 Signed by the Co-Chair of Governors — Date: 03/09/25

@@ -48,8 +48,8 @@ notes: "Version 10.26, 27 October 2026, at the Proprietor's request (tender revi
 **Version:** 10.26
 
 # Policy Statement and Purpose
-**  
-**The Haven is committed to safeguarding learners from the risks associated with drugs, alcohol, and substance misuse. While The Haven operates primarily online, we recognise that learners may face pressures, exposure, or exploitation linked to drugs and alcohol both in their home environments and in digital spaces. This policy sets out The Haven’s preventative education, response protocols, and partnership working with families, local authorities, and external agencies.
+
+The Haven is committed to safeguarding learners from the risks associated with drugs, alcohol, and substance misuse. While The Haven operates primarily online, we recognise that learners may face pressures, exposure, or exploitation linked to drugs and alcohol both in their home environments and in digital spaces. This policy sets out The Haven’s preventative education, response protocols, and partnership working with families, local authorities, and external agencies.
 
 ## 1. Scope
   - Applies to all The Haven staff, learners, parents/carers, contractors, and volunteers.
@@ -102,8 +102,8 @@ All concerns must be reported immediately to the **DSL**, recorded, and reviewed
 ### 4.1. Responding When a Learner Discloses Substance Use or Risk of Exploitation
 If a learner discloses that they are **actively using substances**, are **in possession**, or are **being pressured, exploited or coerced** into substance use, staff must:
 
-- **Stay calm, listen, and avoid shock or judgment.  
-    > ** The immediate aim is to keep the learner safe and supported, not to investigate.
+- **Stay calm, listen, and avoid shock or judgment.**  
+    > The immediate aim is to keep the learner safe and supported, not to investigate.
 
 - **Do not ask leading questions** such as “Who gave it to you?” or “How often?” — instead, use open, neutral prompts such as:
     
@@ -121,8 +121,7 @@ If a learner discloses that they are **actively using substances**, are **in pos
     
       - Note the learner’s exact words, time, date, and who was present.
 
-- **DSL Action:  
-    > **
+- **DSL Action:**  
     
       - Assess level of risk (e.g. exploitation, trafficking, county lines, self-harm).
     
@@ -133,17 +132,17 @@ If a learner discloses that they are **actively using substances**, are **in pos
 ### 4.2. Awareness and Online Safety in Practice
 The Haven integrates **substance misuse education** into digital safety and wellbeing learning:
 
-  - **Curriculum Integration:  
-    > **RSHE and Wellbeing sessions explore the risks of online drug promotion, social media challenges, and substance-related grooming.
+  - **Curriculum Integration:**  
+    > RSHE and Wellbeing sessions explore the risks of online drug promotion, social media challenges, and substance-related grooming.
 
-  - **Digital Literacy:  
-    > **Learners are taught to question online content, recognise manipulation, and identify unsafe communities or “plug” accounts.
+  - **Digital Literacy:**  
+    > Learners are taught to question online content, recognise manipulation, and identify unsafe communities or “plug” accounts.
 
-  - **Tutor Vigilance:  
-    > **Staff are trained to notice signs of online intoxication, risk-taking behaviour, or references to drug culture in chat.
+  - **Tutor Vigilance:**  
+    > Staff are trained to notice signs of online intoxication, risk-taking behaviour, or references to drug culture in chat.
 
-  - **Safe Conversations:  
-    > **Tutors model open, stigma-free dialogue and know how to escalate emerging concerns via the DSL.
+  - **Safe Conversations:**  
+    > Tutors model open, stigma-free dialogue and know how to escalate emerging concerns via the DSL.
 
 Every online space used by The Haven is moderated in line with the **Online Safety and Behaviour Policies** to prevent exposure to harmful or illegal content.
 
@@ -152,11 +151,9 @@ When the DSL identifies a need for external support, The Haven may refer or sign
 
   - **Young People’s Substance Misuse Services** (e.g. local *CGL*, *We Are With You*, or *Change Grow Live*)
 
-  - **Early Help or Family Support Teams  
-    > **
+  - **Early Help or Family Support Teams**  
 
-  - **CAMHS or Youth Counselling  
-    > **
+  - **CAMHS or Youth Counselling**  
 
   - **Police / Exploitation or County Lines Units** (where criminal activity or coercion is suspected)
 

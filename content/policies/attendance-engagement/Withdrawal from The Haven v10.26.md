@@ -2,10 +2,10 @@
 title: "How does The Haven decide if our child is a good fit? What’s the off-ramp if it isn’t?"
 short_id: "WTH"
 slug: "how-does-the-haven-decide-if-our-child-is-a-good-fit-whats-the-off-ramp-if-it-isnt"
-version: "10.25"
+version: "10.26"
 status: "live"
-last_reviewed: 2025-10-01
-next_review: 2026-10-01
+last_reviewed: 2026-10-01
+next_review: 2027-10-01
 review_cycle: "annual"
 owner_role: "Headteacher"
 approver_role: "Proprietor"
@@ -20,19 +20,21 @@ applies_to: ["haven"]
 related_policies:
   - "[[Attendance & Engagement v01.26]]"
   - "[[Children Missing from Education Policy v10.26]]"
-  - "[[Family Attendance Agreement v10.25]]"
-  - "[[Terms and Conditions v10.25]]"
+  - "[[Family Attendance Agreement v10.26]]"
+  - "[[Terms and Conditions v10.26]]"
   - "[[Complaints Procedure v10.25]]"
   - "[[Referrals and Admissions Policy]]"
+aliases:
+  - "policies/attendance-engagement/Withdrawal from The Haven v10.25"
 source_file: "Withdrawal from The Haven v10.25.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Version 10.26, annual renewal (was due October 2026). Approved; confirmed by the Proprietor 25 November 2026 (exact approval date and approver still to be added to sign_off_record). Date and version update only: rolls the review date to October 2027. No change to the policy text. Previous version 10.25 archived."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** October 2026  
+**Review Date:** October 2027  
 **Coordinator:** tba  
 **Nominated Governor:** tba  
-**Version:** v10.25
+**Version:** v10.26
 
 ### TL;DR
 We’re a small, relationship-led, online provision. If your child can (with scaffolding) connect to live sessions, communicate with a mentor, and produce artefacts of learning, they’ll likely thrive. If—after real attempts to adapt—there’s persistent distress or non-engagement, we’ll exit with care: a short transition plan, full handover notes, and pro-rata fees settled.

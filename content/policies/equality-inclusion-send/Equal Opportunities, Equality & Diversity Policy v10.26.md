@@ -206,8 +206,7 @@ Step 3: Restorative and Disciplinary Action
 
   - A Restorative Reflection Meeting is held with all parties involved, facilitated by pastoral staff.
 
-  - Persistent or serious incidents result in referral to the commissioner and may trigger multi-agency involvement.**  
-    > **
+  - Persistent or serious incidents result in referral to the commissioner and may trigger multi-agency involvement.  
 
 ### 🔹 4. Digital Safety and Communication Controls
 
@@ -257,8 +256,7 @@ Training is delivered through The Haven’s termly safeguarding CPD programme an
 
   - Equality and diversity expectations are integrated into co-designed behaviour agreements and online safety inductions.
 
-  - Learners are reminded that The Haven is a place of belonging where everyone has the right to feel safe, valued, and represented.**  
-    > **
+  - Learners are reminded that The Haven is a place of belonging where everyone has the right to feel safe, valued, and represented.  
 
 ### 🔹 8. Monitoring and Review
 
@@ -266,5 +264,4 @@ Training is delivered through The Haven’s termly safeguarding CPD programme an
 
   - Data informs curriculum improvement, training priorities, and accessibility developments.
 
-  - The policy is reviewed annually, or earlier if national equality guidance or safeguarding legislation changes.**  
-    > **
+  - The policy is reviewed annually, or earlier if national equality guidance or safeguarding legislation changes.  

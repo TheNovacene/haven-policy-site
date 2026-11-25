@@ -2,10 +2,10 @@
 title: "The Haven Learner Age Range Policy"
 short_id: "LARP"
 slug: "the-haven-learner-age-range-policy"
-version: "10.25"
+version: "10.26"
 status: "live"
-last_reviewed: 2025-10-01
-next_review: 2026-10-01
+last_reviewed: 2026-10-01
+next_review: 2027-10-01
 review_cycle: "annual"
 owner_role: "Headteacher"
 approver_role: "Proprietor"
@@ -22,18 +22,20 @@ compliance:
 applies_to: ["haven"]
 related_policies:
   - "[[Referrals and Admissions Policy]]"
-  - "[[Statement of Purpose, Aims and Objectives v10.25]]"
+  - "[[Statement of Purpose, Aims and Objectives v10.26]]"
   - "[[Teaching & Learning Policy v10.25]]"
   - "[[RSHE Policy v10.26]]"
+aliases:
+  - "policies/governance-legal/Learner Age Range Policy v10.25"
 source_file: "Learner Age Range Policy v10.25.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Version 10.26, annual renewal (was due October 2026). Approved; confirmed by the Proprietor 25 November 2026 (exact approval date and approver still to be added to sign_off_record). Date and version update only: rolls the review date to October 2027. No change to the policy text. Previous version 10.25 archived."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** October 2026  
+**Review Date:** October 2027  
 **Coordinator:** Head  
 **Nominated Governor:** the Co-Chair of Governors  
-**Version:** v10.25
+**Version:** v10.26
 
 ## Why We Currently Accept Learners Aged 12–17 
 

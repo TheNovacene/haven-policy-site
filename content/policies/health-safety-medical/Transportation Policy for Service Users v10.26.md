@@ -2,10 +2,10 @@
 title: "Transportation Policy for Service Users"
 short_id: "TPSU"
 slug: "transportation-policy-for-service-users"
-version: "10.25"
+version: "10.26"
 status: "live"
-last_reviewed: 2025-10-01
-next_review: 2026-10-01
+last_reviewed: 2026-10-01
+next_review: 2027-10-01
 review_cycle: "annual"
 owner_role: "Health and Safety Lead"
 approver_role: "Proprietor"
@@ -21,18 +21,20 @@ themes:
 compliance:
 applies_to: ["haven"]
 related_policies: []
+aliases:
+  - "policies/health-safety-medical/Transportation Policy for Service Users v10.25"
 source_file: "Transportation Policy for Service Users v10.25.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Version 10.26, annual renewal (was due October 2026). Approved; confirmed by the Proprietor 25 November 2026 (exact approval date and approver still to be added to sign_off_record). Date and version update only: rolls the review date to October 2027. No change to the policy text. Previous version 10.25 archived."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** October 2026  
+**Review Date:** October 2027  
 **Coordinator:** Head  
 **Nominated Governor:** the Health and Safety Governor  
-**Version:** v10.25
+**Version:** v10.26
 
-**Policy Statement and Purpose  
-**The Haven is primarily an online provision. Learners usually access provision from home, and responsibility for day-to-day transport rests with parents/carers or Local Authorities (where transport assistance is part of an Education, Health and Care Plan).
+**Policy Statement and Purpose**  
+The Haven is primarily an online provision. Learners usually access provision from home, and responsibility for day-to-day transport rests with parents/carers or Local Authorities (where transport assistance is part of an Education, Health and Care Plan).
 
 This policy sets out The Haven’s approach when transport is arranged for off-site or hybrid activities, ensuring safety, safeguarding, and clarity of roles.
 
@@ -80,7 +82,7 @@ This policy sets out The Haven’s approach when transport is arranged for off-s
 
   - **Staff Cars**: Staff may not transport learners in private vehicles unless:
     
-      - Approved by Head/DSL. Staff who are transporting students in their own cars have had the following documents checked by the leadership team prior to agreeing transport: MOT, Driving License, appropriate insurance, DBS and Update Service, Agreement with [[Lone Working Policy v10.25]] if transporting a student 1:1
+      - Approved by Head/DSL. Staff who are transporting students in their own cars have had the following documents checked by the leadership team prior to agreeing transport: MOT, Driving License, appropriate insurance, DBS and Update Service, Agreement with [[Lone Working Policy v10.26]] if transporting a student 1:1
     
       - Risk assessment completed.
     

@@ -2,7 +2,7 @@
 title: "Referrals and Admissions Policy"
 short_id: "RAP"
 slug: "referrals-and-admissions-policy"
-version: "unversioned"
+version: "10.26"
 status: "live"
 review_cycle: "annual"
 owner_role: "Headteacher"
@@ -17,22 +17,24 @@ themes:
 compliance:
 applies_to: ["haven"]
 related_policies:
-  - "[[Statement of Purpose, Aims and Objectives v10.25]]"
-  - "[[Terms and Conditions v10.25]]"
-  - "[[Learner Age Range Policy v10.25]]"
-  - "[[Withdrawal from The Haven v10.25]]"
+  - "[[Statement of Purpose, Aims and Objectives v10.26]]"
+  - "[[Terms and Conditions v10.26]]"
+  - "[[Learner Age Range Policy v10.26]]"
+  - "[[Withdrawal from The Haven v10.26]]"
   - "[[SEND Policy v01.26]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
-  - "[[Family Attendance Agreement v10.25]]"
+  - "[[Family Attendance Agreement v10.26]]"
 source_file: "Referrals and Admissions Policy.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Version 10.26, annual renewal (review was due August 2026). Approved; confirmed by the Proprietor 25 November 2026 (exact approval date and approver still to be added to sign_off_record). Date and version update only. No change to the policy text."
+last_reviewed: 2026-10-01
+next_review: 2027-10-01
 ---
-**Date:** November 2025  
-**Review Date:** August 2026  
+**Date:** October 2026  
+**Review Date:** October 2027  
 **Coordinator:** the Head  
 **Nominated Governor:** the Co-Chair of Governors  
-**Version:** v01.26
+**Version:** v10.26
 
 ## Section 1 – The Policy
 ### 1.1 Introduction
@@ -201,8 +203,8 @@ For learners requiring subject-specific catch-up or targeted support.
 
   - End-of-term summary
 
-**Typical Duration:  
-** 5–10 weeks (half-termly or termly blocks)
+**Typical Duration:**  
+5–10 weeks (half-termly or termly blocks)
 
 ### 3.2 Alternative Provision (AP) Package
 For learners needing a full or part-time curriculum outside a mainstream setting.
@@ -219,8 +221,8 @@ For learners needing a full or part-time curriculum outside a mainstream setting
 
   - Termly multi-agency review
 
-**Duration:  
-** Termly, renewable following review.
+**Duration:**  
+Termly, renewable following review.
 
 ### 3.3 Commissioning and Service Level Agreements
 All packages require a signed SLA detailing:

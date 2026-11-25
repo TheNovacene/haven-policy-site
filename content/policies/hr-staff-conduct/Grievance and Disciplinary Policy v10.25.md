@@ -36,13 +36,13 @@ related_policies:
   - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
 source_file: "Grievance and Disciplinary Policy v10.25.docx"
 ingested: 2026-04-29
-notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
+notes: "Header correction 25 November 2026: the Date, Review Date and Version shown at the top of the policy now match the recorded review (properties above). No change to the policy text. Earlier note: KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** April 2026  
+**Review Date:** April 2027  
 **Coordinator:** Head / DSL  
 **Nominated Governor:** the Co-Chair of Governors  
-**Version:** v10.25
+**Version:** v04.26
 
 ## 1. Purpose
 
@@ -62,17 +62,13 @@ Our aim is to resolve concerns early, informally where possible, and with a shar
 This policy applies to **all Haven staff, contractors, and volunteers**.  
 It is underpinned by:
 
-  - The **[[Staff Conduct Policy v10.26]]  
-    > **
+  - The **[[Staff Conduct Policy v10.26]]**  
 
-  - The **[[Child Protection and Safeguarding Policy v10.26]]  
-    > **
+  - The **[[Child Protection and Safeguarding Policy v10.26]]**  
 
-  - **ACAS Code of Practice (2023)  
-    > **
+  - **ACAS Code of Practice (2023)**  
 
-  - **Keeping Children Safe in Education (2026)  
-    > **
+  - **Keeping Children Safe in Education (2026)**  
 
   - **LA frameworks** and trauma-informed guidance
 
@@ -113,8 +109,7 @@ A formal grievance can be raised when:
 
 To raise a grievance:
 
-  - Write to a senior leader or designated governor, **or  
-    > **
+  - Write to a senior leader or designated governor, **or**  
 
   - Share the concern verbally in a recorded conversation if writing is a barrier
 

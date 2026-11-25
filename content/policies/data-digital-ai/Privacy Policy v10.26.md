@@ -2,10 +2,10 @@
 title: "The Haven Privacy Notice (public-facing)"
 short_id: "PP"
 slug: "the-haven-privacy-policy"
-version: "10.25"
+version: "10.26"
 status: "live"
-last_reviewed: 2025-10-01
-next_review: 2026-10-01
+last_reviewed: 2026-10-01
+next_review: 2027-10-01
 review_cycle: "annual"
 owner_role: "Data Protection Officer"
 approver_role: "Proprietor"
@@ -28,17 +28,19 @@ related_policies:
   - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
   - "[[Information and Cyber Security Policy v10.26]]"
   - "[[Bring Your Own Device (BYOD) Policy v01.26]]"
+aliases:
+  - "policies/data-digital-ai/Privacy Policy v10.25"
 source_file: "Privacy Policy v10.25.docx"
 ingested: 2026-04-29
-notes: "Wording correction 25 November 2026, at the Proprietor's request: the data protection role is titled Data Protection Officer consistently and is recorded as held by the Proprietor. No change to procedure; version unchanged. Earlier note: A2 remediation 2026-04-29 — reframed as public-facing privacy notice (the parent/learner-facing communication that goes on the public site). Operational policy is [[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]. This document complements rather than duplicates the operational policy."
+notes: "Version 10.26, annual renewal (was due October 2026). Approved; confirmed by the Proprietor 25 November 2026 (exact approval date and approver still to be added to sign_off_record). Date and version update only: rolls the review date to October 2027. No change to the policy text. Previous version 10.25 archived. Earlier note: Wording correction 25 November 2026, at the Proprietor's request: the data protection role is titled Data Protection Officer consistently and is recorded as held by the Proprietor. No change to procedure; version unchanged. Earlier note: A2 remediation 2026-04-29 — reframed as public-facing privacy notice (the parent/learner-facing communication that goes on the public site). Operational policy is [[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]. This document complements rather than duplicates the operational policy."
 ---
 **Because your trust matters.**
 
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** October 2026  
+**Review Date:** October 2027  
 **Coordinator:** Head  
 **Nominated Governor:** the Co-Chair of Governors  
-**Version:** v10.25
+**Version:** v10.26
 
 ## Introduction 
 

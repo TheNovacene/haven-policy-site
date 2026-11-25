@@ -2,10 +2,10 @@
 title: "Supporting Medical Conditions Policy (inc. Administration of Medicines)"
 short_id: "SMCPA"
 slug: "supporting-medical-conditions-policy-inc-administration-of-medicines"
-version: "10.25"
+version: "10.26"
 status: "live"
-last_reviewed: 2025-10-01
-next_review: 2026-10-01
+last_reviewed: 2026-10-01
+next_review: 2027-10-01
 review_cycle: "annual"
 owner_role: "Health and Safety Lead"
 approver_role: "Proprietor"
@@ -28,15 +28,17 @@ related_policies:
   - "[[SEND Policy v01.26]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Risk Assessment Policy v10.26]]"
+aliases:
+  - "policies/health-safety-medical/Supporting Medical Conditions Policy (inc. Administration of Medicines) v10.25"
 source_file: "Supporting Medical Conditions Policy (inc. Administration of Medicines) v10.25.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Version 10.26, annual renewal (was due October 2026). Approved; confirmed by the Proprietor 25 November 2026 (exact approval date and approver still to be added to sign_off_record). Date and version update only: rolls the review date to October 2027. No change to the policy text. Previous version 10.25 archived."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** October 2026  
+**Review Date:** October 2027  
 **Coordinator:** the Health and Safety Lead  
 **Nominated Governor:** the Health and Safety Governor  
-**Version:** v10.25
+**Version:** v10.26
 
 ## Policy Statement and Purpose
 The Haven is committed to ensuring that learners with medical conditions are fully supported to access education and thrive. We aim to work in partnership with families and health professionals to ensure learners’ health needs are understood and provided for, in line with the **Children and Families Act 2014**, **Supporting Pupils at School with Medical Conditions (DfE, 2015)**, and **KCSIE 2026**.

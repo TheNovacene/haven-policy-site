@@ -2,10 +2,10 @@
 title: "The Haven: Statement of Purpose, Aims and Objectives"
 short_id: "SPAO"
 slug: "the-haven-statement-of-purpose-aims-and-objectives"
-version: "10.25"
+version: "10.26"
 status: "live"
-last_reviewed: 2025-10-01
-next_review: 2026-10-01
+last_reviewed: 2026-10-01
+next_review: 2027-10-01
 review_cycle: "annual"
 owner_role: "Proprietor"
 approver_role: "Governing Body"
@@ -19,21 +19,23 @@ compliance:
 applies_to: ["haven"]
 related_policies:
   - "[[Governance & Legal Structure v10.25]]"
-  - "[[Terms and Conditions v10.25]]"
+  - "[[Terms and Conditions v10.26]]"
   - "[[Teaching & Learning Policy v10.25]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Equal Opportunities, Equality & Diversity Policy v10.26]]"
   - "[[SEND Policy v01.26]]"
   - "[[Referrals and Admissions Policy]]"
+aliases:
+  - "policies/governance-legal/Statement of Purpose, Aims and Objectives v10.25"
 source_file: "Statement of Purpose, Aims and Objectives v10.25.docx"
 ingested: 2026-04-29
-notes: "KCSIE reference updated from the 2025 to the 2026 edition on 26 August 2026 (KCSIE 2026 published 7 July 2026, in force 1 September 2026). Citation currency only; the policy was not otherwise re-reviewed. PENDING DSL AND PROPRIETOR SIGN-OFF."
+notes: "Version 10.26, annual renewal (was due October 2026). Approved; confirmed by the Proprietor 25 November 2026 (exact approval date and approver still to be added to sign_off_record). Date and version update only: rolls the review date to October 2027. No change to the policy text. Previous version 10.25 archived. Earlier note: KCSIE reference updated from the 2025 to the 2026 edition on 26 August 2026 (KCSIE 2026 published 7 July 2026, in force 1 September 2026). Citation currency only; the policy was not otherwise re-reviewed. PENDING DSL AND PROPRIETOR SIGN-OFF."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** October 2026  
+**Review Date:** October 2027  
 **Coordinator:** Head  
 **Nominated Governor:** the Co-Chair of Governors  
-**Version:** v10.25
+**Version:** v10.26
 
 ## Policy Statement and Purpose
 The Haven exists to provide a safe, inclusive, and neurodivergent-affirming hybrid education environment in which every learner can thrive academically, socially, and emotionally. Safeguarding and wellbeing sit at the heart of our practice. We recognise that meaningful learning can only occur when children feel secure, valued, and respected.

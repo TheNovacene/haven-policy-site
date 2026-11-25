@@ -27,7 +27,7 @@ related_policies:
   - "[[Whistleblowing Policy v10.26]]"
   - "[[Grievance and Disciplinary Policy v10.25]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
-  - "[[Terms and Conditions v10.25]]"
+  - "[[Terms and Conditions v10.26]]"
   - "[[Governance & Legal Structure v10.25]]"
   - "[[Equal Opportunities, Equality & Diversity Policy v10.26]]"
 source_file: "Complaints Procedure v10.25.docx"
@@ -114,6 +114,6 @@ If the complaint remains unresolved following the panel's decision, parents/care
   - [[Grievance and Disciplinary Policy v10.25]]
   - [[Child Protection and Safeguarding Policy v10.26]]
   - [[Managing Allegations Against Staff Policy v10.26]]
-  - [[Terms and Conditions v10.25]]
+  - [[Terms and Conditions v10.26]]
   - [[Governance & Legal Structure v10.25]]
   - [[Equal Opportunities, Equality & Diversity Policy v10.26]]

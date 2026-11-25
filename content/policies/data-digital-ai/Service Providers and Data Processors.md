@@ -19,9 +19,9 @@ compliance:
 applies_to: ["haven"]
 related_policies:
   - "[[Privacy Notices v10.26]]"
-  - "[[Privacy Policy v10.25]]"
+  - "[[Privacy Policy v10.26]]"
   - "[[Data Protection Impact Assessment - Consolidated v08.26]]"
-  - "[[Terms and Conditions v10.25]]"
+  - "[[Terms and Conditions v10.26]]"
 source_file: ""
 ingested: 2026-10-19
 notes: "Public list of The Haven's data processors, created 19 October 2026 so that clause 8.3 of the Terms and Conditions has a real page to link to. The filename deliberately has no version suffix, so the web address stays the same when the list changes (the T&Cs and Privacy Notice link to it). Version is tracked in frontmatter. Factual list rather than a policy; update it whenever a provider is added or removed, at the same time as the DPIA and processor register."

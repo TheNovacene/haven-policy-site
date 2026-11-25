@@ -38,13 +38,13 @@ related_policies:
   - "[[Online Safety Policy and Acceptable Use v10.26]]"
 source_file: "Teaching & Learning Policy v10.25.docx"
 ingested: 2026-04-29
-notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
+notes: "Header correction 25 November 2026: the Date, Review Date and Version shown at the top of the policy now match the recorded review (properties above). No change to the policy text. Earlier note: KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** April 2026  
+**Review Date:** April 2027  
 **Coordinator:** Head  
 **Nominated Governor:** the Co-Chair of Governors  
-**Version:** v10.25
+**Version:** v04.26
 
 ## 1. Purpose & Ethos
 The Haven exists to provide a trauma-informed, neurodivergent-affirming, and relational online education for learners aged 12–17.  
@@ -91,11 +91,9 @@ Our approach to assessment is affirming, relational, and learner-led.
     
       - Tools: project-based tasks, creative challenges, self-reflection, and conversation.
     
-      - Assessments are **opt-in, co-designed, and low-pressure.  
-        > **
+      - Assessments are **opt-in, co-designed, and low-pressure.**  
 
-  - **Principles for any external benchmarking:  
-    > **
+  - **Principles for any external benchmarking:**  
     
       - Always framed as exploration, not diagnosis.
     
@@ -105,8 +103,7 @@ Our approach to assessment is affirming, relational, and learner-led.
     
       - Emphasis on strengths and preferred learning styles, not just “gaps.”
 
-  - **Examples of free/low-cost screening tools (optional):  
-    > **
+  - **Examples of free/low-cost screening tools (optional):**  
     
       - Dyslexia South – Literacy & Maths Screeners
     

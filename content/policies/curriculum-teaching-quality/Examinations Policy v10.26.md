@@ -31,7 +31,7 @@ related_policies:
   - "[[SEND Policy v01.26]]"
   - "[[Behaviour and Regulation Policy v10.26]]"
   - "[[Responsible Use of AI Policy v10.26]]"
-  - "[[Terms and Conditions v10.25]]"
+  - "[[Terms and Conditions v10.26]]"
 source_file: "Examinations Policy v10.25.md"
 ingested: 2026-10-19
 notes: "Annual review (was due 2026-10-01), 19 October 2026, aligned with The Haven's current SLA with Tutors & Exams (TE) and TE's 2026-27 process, using the NEO exams page as the model. Changes: summer 2027 deadlines replace summer 2026; families now apply directly to TE using The Haven's learning partner code; 'home invigilation' replaced by TE's remote invigilation service; 2025-26 indicative fee table removed (families are pointed to TE's published fees); coordinator corrected from DPO to Examinations Officer; year removed from the title. Deadlines: the standard entry deadline (7 Feb 2027), late fees (from 8 Feb 2027) and final close (4 Apr 2027) were checked on TE's entry deadline page on 19 Oct 2026; the access arrangements deadline (20 Dec 2026) and the coursework/practical/speaking close (14 Mar 2027) come from TE's 2026-27 calendar as used on the NEO page and should be rechecked on TE's access arrangements page. Section 3 qualifications list updated 19 Oct 2026 to match the Haven Curriculum Offer 2026-27 (IGCSE English Language, English Literature, Maths, Science (Double Award), History, Psychology; AQA Unit Awards noted as non-exam). T&Cs clause 5A should be rolled forward to match. Signed off by the Head 19 October 2026."

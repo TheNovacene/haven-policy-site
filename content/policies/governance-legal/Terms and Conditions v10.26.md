@@ -2,10 +2,10 @@
 title: "The Haven – Terms and Conditions"
 short_id: "TC"
 slug: "the-haven-terms-and-conditions"
-version: "10.25"
+version: "10.26"
 status: "live"
-last_reviewed: 2025-10-01
-next_review: 2026-10-01
+last_reviewed: 2026-10-01
+next_review: 2027-10-01
 review_cycle: "annual"
 owner_role: "Proprietor"
 approver_role: "Governing Body"
@@ -18,21 +18,23 @@ themes:
 compliance:
 applies_to: ["haven"]
 related_policies:
-  - "[[Statement of Purpose, Aims and Objectives v10.25]]"
+  - "[[Statement of Purpose, Aims and Objectives v10.26]]"
   - "[[Referrals and Admissions Policy]]"
-  - "[[Withdrawal from The Haven v10.25]]"
+  - "[[Withdrawal from The Haven v10.26]]"
   - "[[Complaints Procedure v10.25]]"
-  - "[[Privacy Policy v10.25]]"
-  - "[[Family Attendance Agreement v10.25]]"
+  - "[[Privacy Policy v10.26]]"
+  - "[[Family Attendance Agreement v10.26]]"
+aliases:
+  - "policies/governance-legal/Terms and Conditions v10.25"
 source_file: "Terms and Conditions v10.25.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Version 10.26, annual renewal (was due October 2026). Approved; confirmed by the Proprietor 25 November 2026 (exact approval date and approver still to be added to sign_off_record). Date and version update only: rolls the review date to October 2027. No change to the policy text. Previous version 10.25 archived."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** October 2026  
+**Review Date:** October 2027  
 **Coordinator:** the Proprietor  
 **Nominated Governor:**the Co-Chair of Governors  
-**Version:** v10.25
+**Version:** v10.26
 
 These *Terms and Conditions* (“Terms”) govern the use of The Haven’s services, including our TutorCruncher platform (“the Site”). By accessing or using the Site, you agree to these Terms. If you do not agree, you must not use the Site.
 
@@ -85,8 +87,8 @@ Local Authority clients will be invoiced in line with agreed funding arrangement
 Exams are registered and charged privately by our Exam Centre Partner, Tutors and Exams.
 
 ### 5A. Examinations (Private Candidate Entries)
-**5A.1 Exam Partner  
-**The Haven partners with **Tutors & Exams Ltd (T&E)**, a national private-candidate examination centre network, to facilitate GCSE and other external qualifications. The Haven does **not** operate its own exam hall or hold centre approval from any awarding body. Learners are entered as **private candidates** through T&E or another approved provider.
+**5A.1 Exam Partner**  
+The Haven partners with **Tutors & Exams Ltd (T&E)**, a national private-candidate examination centre network, to facilitate GCSE and other external qualifications. The Haven does **not** operate its own exam hall or hold centre approval from any awarding body. Learners are entered as **private candidates** through T&E or another approved provider.
 
 **5A.2 Responsibilities**
 
@@ -132,8 +134,8 @@ Exams are registered and charged privately by our Exam Centre Partner, Tutors an
 
   - The Haven is not liable for costs or refunds related to exams cancelled or amended by the family, T&E, or an awarding body.
 
-**5A.7 Wellbeing and Support  
-**The Haven provides pacing plans, regulation-aware preparation, and emotional-support check-ins before and during exam periods. Success is measured by wellbeing and growth as well as academic results.
+**5A.7 Wellbeing and Support**  
+The Haven provides pacing plans, regulation-aware preparation, and emotional-support check-ins before and during exam periods. Success is measured by wellbeing and growth as well as academic results.
 
 ## 6. Attendance, Cancellations, and Missed Sessions
 ### 6.1 Core Provision (Enrolled Learners)

@@ -24,16 +24,16 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "SEND Policy v01.26.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Header correction 25 November 2026: the Date, Review Date and Version shown at the top of the policy now match the recorded review (properties above). No change to the policy text."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** January 2026  
+**Review Date:** January 2027  
 **Coordinator:** the SENCo  
 **Nominated Governor:** the Co-Chair of Governors  
 **Version:** v01.26
 
-**Policy Statement and Purpose  
-**The Haven is a trauma-informed, neurodivergent-affirming hybrid provision for learners aged 12–17. We are committed to inclusion and to ensuring that learners with Special Educational Needs and Disabilities (SEND) are supported to access education, make progress, and thrive.
+**Policy Statement and Purpose**  
+The Haven is a trauma-informed, neurodivergent-affirming hybrid provision for learners aged 12–17. We are committed to inclusion and to ensuring that learners with Special Educational Needs and Disabilities (SEND) are supported to access education, make progress, and thrive.
 
 We recognise that many of our learners join The Haven after experiencing barriers in other settings. This policy outlines how we identify, assess, and meet SEND within our online-first and hybrid provision, in line with the **Children and Families Act 2014**, the **SEND Code of Practice 2015**, the **Equality Act 2010**, and **KCSIE 2026**.
 

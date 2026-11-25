@@ -32,7 +32,7 @@ applies_to: ["haven"]
 related_policies:
   - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Attendance & Engagement v01.26]]"
-  - "[[Withdrawal from The Haven v10.25]]"
+  - "[[Withdrawal from The Haven v10.26]]"
   - "[[Referrals and Admissions Policy]]"
 source_file: "Children Missing from Education Policy v10.25.md (rebuilt)"
 ingested: 2026-10-27
@@ -75,7 +75,7 @@ This policy has regard to:
 - *Elective home education: departmental guidance for local authorities* (DfE)
 - Education (Pupil Registration) (England) Regulations 2006, as amended, as they apply to the registered school or placing authority
 
-It operates alongside the [[Child Protection and Safeguarding Policy v10.26]], the [[Attendance & Engagement v01.26]] policy, the [[Referrals and Admissions Policy]] and [[Withdrawal from The Haven v10.25]].
+It operates alongside the [[Child Protection and Safeguarding Policy v10.26]], the [[Attendance & Engagement v01.26]] policy, the [[Referrals and Admissions Policy]] and [[Withdrawal from The Haven v10.26]].
 
 ## 4. Definitions
 
@@ -158,7 +158,7 @@ The Haven does not hold a statutory admission register, so it does not "delete" 
 - for a learner with a social worker or a Virtual School Head, tells them;
 - transfers the learner's safeguarding file in line with the [[Child Protection and Safeguarding Policy v10.26]] and confirms receipt.
 
-The planned process for ending a placement is in [[Withdrawal from The Haven v10.25]].
+The planned process for ending a placement is in [[Withdrawal from The Haven v10.26]].
 
 ## 11. Attendance codes and reporting to commissioners
 

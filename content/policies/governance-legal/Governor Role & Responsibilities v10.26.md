@@ -25,9 +25,9 @@ aliases:
   - "policies/governance-legal/Governor Role & Responsibilities v10.25"
 applies_to: ["haven"]
 related_policies:
-  - "[[Governor Code of Conduct v10.25]]"
+  - "[[Governor Code of Conduct v10.26]]"
   - "[[Governance & Legal Structure v08.26]]"
-  - "[[Statement of Purpose, Aims and Objectives v10.25]]"
+  - "[[Statement of Purpose, Aims and Objectives v10.26]]"
   - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Managing Allegations Against Staff Policy v10.26]]"

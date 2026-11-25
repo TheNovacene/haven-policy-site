@@ -2,10 +2,10 @@
 title: "Lone Working Policy"
 short_id: "LWP"
 slug: "lone-working-policy"
-version: "10.25"
+version: "10.26"
 status: "live"
-last_reviewed: 2025-10-01
-next_review: 2026-10-01
+last_reviewed: 2026-10-01
+next_review: 2027-10-01
 review_cycle: "annual"
 owner_role: "Health and Safety Lead"
 approver_role: "Proprietor"
@@ -29,15 +29,17 @@ related_policies:
   - "[[Child Protection and Safeguarding Policy v10.26]]"
   - "[[Staff Conduct Policy v10.26]]"
   - "[[Accidents, Incidents and First Aid Policy v04.26]]"
+aliases:
+  - "policies/hr-staff-conduct/Lone Working Policy v10.25"
 source_file: "Lone Working Policy v10.25.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Version 10.26, annual renewal (was due October 2026). Approved; confirmed by the Proprietor 25 November 2026 (exact approval date and approver still to be added to sign_off_record). Date and version update only: rolls the review date to October 2027. No change to the policy text. Previous version 10.25 archived."
 ---
-**Date:** October 2025  
-**Review Date:** September 2026  
+**Date:** October 2026  
+**Review Date:** October 2027  
 **Coordinator:** the Health and Safety Lead  
 **Nominated Governor:** the Health and Safety Governor  
-**Version:** 10.25
+**Version:** 10.26
 
 ## 1. Purpose
 This policy exists to protect staff, learners, contractors, and volunteers when working without direct supervision—whether online, in hybrid contexts, or during rare in-person support activities. It ensures that lone working at The Haven is conducted safely, transparently, and in alignment with statutory safeguarding frameworks and our neurodivergent-affirming, trauma-informed ethos.
@@ -110,21 +112,21 @@ This policy applies to all The Haven employees, contractors, mentors, and volunt
   - Policy to be reviewed annually or sooner if statutory guidance changes.
 
 ## 10. Practical Lone Working Checklist
-**Before a Lone Working Session  
-**☐ Confirm session is logged and risk assessed.  
+**Before a Lone Working Session**  
+☐ Confirm session is logged and risk assessed.  
 ☐ Notify Supervisor/DSL of start and expected end time.  
 ☐ Ensure you are using a Haven-approved platform.  
 ☐ Check your working environment is safe, private, and free from interruptions.  
 ☐ Have emergency contacts (DSL, Deputy DSL, emergency services) accessible.
 
-**During a Lone Working Session  
-**☐ Keep chat logs/recordings enabled if required.  
+**During a Lone Working Session**  
+☐ Keep chat logs/recordings enabled if required.  
 ☐ Remain alert to safeguarding indicators (withdrawal, coded language, distress).  
 ☐ Maintain professional boundaries at all times.  
 ☐ Escalate immediately if a concern arises.
 
-**After a Lone Working Session  
-**☐ Check out with line manager/DSL.  
+**After a Lone Working Session**  
+☐ Check out with line manager/DSL.  
 ☐ Log any safeguarding concerns on the appropriate system.  
 ☐ Record the session in lone working log.  
 ☐ Access reflective supervision if the session was challenging.

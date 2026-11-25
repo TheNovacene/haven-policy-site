@@ -57,7 +57,7 @@ related_policies:
   - "[[Staff Conduct Policy v10.26]]"
   - "[[Whistleblowing Policy v10.26]]"
   - "[[Data Protection (UK GDPR), Confidentiality & Privacy Policy v10.26]]"
-  - "[[Lone Working Policy v10.25]]"
+  - "[[Lone Working Policy v10.26]]"
   - "[[Accidents, Incidents and First Aid Policy v04.26]]"
 source_file: "Child Protection and Safeguarding Policy v01.26.docx"
 ingested: 2026-04-29
@@ -331,7 +331,7 @@ Where a learner is looked after, or was previously looked after, the DSL holds t
 
 ### Children with medical conditions, including allergies
 
-KCSIE 2026 (paragraph 252) adds that children with medical conditions, including allergies, may be at greater risk, and sets out when an incident does and does not warrant a safeguarding referral. Many of The Haven's learners have medical conditions, including allergies, epilepsy, diabetes, chronic illness and conditions that affect eating or sleep. Managing a medical condition is not in itself a safeguarding matter, and an incident that arises from the condition, such as a reaction, a seizure or a missed dose, does not on its own warrant a referral to the local authority. A referral may be appropriate where the circumstances suggest abuse or neglect: for example, where a learner repeatedly goes without essential medication or equipment, where a known allergy or condition is persistently disregarded by those caring for the learner, or where the learner's own account raises concern. Staff who learn of a medical condition tell the SENCo so that it is recorded in the learner's support plan, and tell the DSL where anything about how the condition is being managed causes concern. The DSL applies the same threshold judgement as for any other concern and uses the home local authority's threshold document. Because The Haven's learners are at home during sessions, staff who witness a medical emergency on screen follow the [[Accidents, Incidents and First Aid Policy v04.26]] and the [[Supporting Medical Conditions Policy (inc. Administration of Medicines) v10.25]]: call 999 where needed, stay with the learner on the call, contact the emergency contacts, and tell the DSL.
+KCSIE 2026 (paragraph 252) adds that children with medical conditions, including allergies, may be at greater risk, and sets out when an incident does and does not warrant a safeguarding referral. Many of The Haven's learners have medical conditions, including allergies, epilepsy, diabetes, chronic illness and conditions that affect eating or sleep. Managing a medical condition is not in itself a safeguarding matter, and an incident that arises from the condition, such as a reaction, a seizure or a missed dose, does not on its own warrant a referral to the local authority. A referral may be appropriate where the circumstances suggest abuse or neglect: for example, where a learner repeatedly goes without essential medication or equipment, where a known allergy or condition is persistently disregarded by those caring for the learner, or where the learner's own account raises concern. Staff who learn of a medical condition tell the SENCo so that it is recorded in the learner's support plan, and tell the DSL where anything about how the condition is being managed causes concern. The DSL applies the same threshold judgement as for any other concern and uses the home local authority's threshold document. Because The Haven's learners are at home during sessions, staff who witness a medical emergency on screen follow the [[Accidents, Incidents and First Aid Policy v04.26]] and the [[Supporting Medical Conditions Policy (inc. Administration of Medicines) v10.26]]: call 999 where needed, stay with the learner on the call, contact the emergency contacts, and tell the DSL.
 
 ### Private fostering
 
@@ -573,7 +573,7 @@ Following the **Crime and Policing Act 2026**, any member of staff or volunteer 
 
 Out-of-hours provision refers to any online activity conducted beyond normal operating times (e.g. evening or weekend sessions). Where The Haven runs activities outside core hours, a **safeguarding-competent lead** is on call. If DSL/Deputy DSL are unavailable, a named senior leader trained to DSL standard provides cover. Cover arrangements are clear, reliable and known to all staff, and the dsl@ mailbox is accessible to whoever is providing cover.
 
-Staff must comply with the [[Lone Working Policy v10.25]], including venue risk assessments, agreed check-ins, and approved communication channels. For urgent concerns: ensure immediate safety, then **999** if required, then notify the on-call safeguarding lead, record immediately on the safeguarding log in TutorCruncher, and follow the Emergency Duty Service route as needed.
+Staff must comply with the [[Lone Working Policy v10.26]], including venue risk assessments, agreed check-ins, and approved communication channels. For urgent concerns: ensure immediate safety, then **999** if required, then notify the on-call safeguarding lead, record immediately on the safeguarding log in TutorCruncher, and follow the Emergency Duty Service route as needed.
 
 ## Who the Designated Safeguarding Lead is, and how to reach them
 

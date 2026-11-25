@@ -2,10 +2,10 @@
 title: "Governor Code of Conduct"
 short_id: "GCC"
 slug: "governor-code-of-conduct"
-version: "10.25"
+version: "10.26"
 status: "live"
-last_reviewed: 2025-10-01
-next_review: 2026-10-01
+last_reviewed: 2026-10-01
+next_review: 2027-10-01
 review_cycle: "annual"
 owner_role: "Proprietor"
 approver_role: "Governing Body"
@@ -21,19 +21,21 @@ applies_to: ["haven"]
 related_policies:
   - "[[Governor Role & Responsibilities v10.26]]"
   - "[[Governance & Legal Structure v10.25]]"
-  - "[[Statement of Purpose, Aims and Objectives v10.25]]"
+  - "[[Statement of Purpose, Aims and Objectives v10.26]]"
   - "[[Staff Conduct Policy v10.26]]"
   - "[[Safer Recruitment and Use of Volunteers Policy v10.26]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
+aliases:
+  - "policies/governance-legal/Governor Code of Conduct v10.25"
 source_file: "Governor Code of Conduct v10.25.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Version 10.26, annual renewal (was due October 2026). Approved; confirmed by the Proprietor 25 November 2026 (exact approval date and approver still to be added to sign_off_record). Date and version update only: rolls the review date to October 2027. No change to the policy text. Previous version 10.25 archived."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** October 2026  
+**Review Date:** October 2027  
 **Coordinator:** Head  
 **Nominated Governor:** the Co-Chair of Governors  
-**Version:** v10.25
+**Version:** v10.26
 
 Governors at The Haven commit to holding space with discernment, responsibility, and relational intelligence. Our code of conduct reflects the trust placed in us by learners, families, and educators.
 

@@ -2,10 +2,10 @@
 title: "Family Attendance Agreement"
 short_id: "FAA"
 slug: "family-attendance-agreement"
-version: "10.25"
+version: "10.26"
 status: "live"
-last_reviewed: 2025-10-01
-next_review: 2026-10-01
+last_reviewed: 2026-10-01
+next_review: 2027-10-01
 review_cycle: "annual"
 owner_role: "Headteacher"
 approver_role: "Proprietor"
@@ -27,16 +27,18 @@ related_policies:
   - "[[Children Missing from Education Policy v10.26]]"
   - "[[Behaviour and Regulation Policy v10.26]]"
   - "[[Child Protection and Safeguarding Policy v10.26]]"
-  - "[[Withdrawal from The Haven v10.25]]"
+  - "[[Withdrawal from The Haven v10.26]]"
+aliases:
+  - "policies/attendance-engagement/Family Attendance Agreement v10.25"
 source_file: "Family Attendance Agreement v10.25.docx"
 ingested: 2026-04-29
-notes: ""
+notes: "Version 10.26, annual renewal (was due October 2026). Approved; confirmed by the Proprietor 25 November 2026 (exact approval date and approver still to be added to sign_off_record). Date and version update only: rolls the review date to October 2027. No change to the policy text. Previous version 10.25 archived."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** October 2026  
+**Review Date:** October 2027  
 **Coordinator:** Head  
 **Nominated Governor:** the Co-Chair of Governors  
-**Version:** v10.25
+**Version:** v10.26
 
 ## Building Trust. Encouraging Rhythm. Supporting Growth.
 At The Haven, we believe that learning happens best when students feel safe, seen, and

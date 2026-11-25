@@ -89,22 +89,19 @@ This policy operates under:
     > *
 
 ## 5 Disclosure and Recruitment Process
-- **Advert and Application  
-    > **
+- **Advert and Application**  
     
       - All job adverts state that an enhanced DBS check (with barred list information where appropriate) is required.
     
       - Applicants are informed that The Haven has a policy on the recruitment of ex-offenders and can request a copy at the start of the process.
 
-- **Disclosure of Criminal Records  
-    > **
+- **Disclosure of Criminal Records**  
     
       - Applicants are asked to disclose only information that is *not* “protected” under the Rehabilitation of Offenders Act (2013 & 2020 filtering rules).
     
       - Disclosures are requested only after short-listing and before appointment.
 
-- **Consideration of Disclosures  
-    > **
+- **Consideration of Disclosures**  
     
       - A criminal record will not automatically bar employment.
     
@@ -124,8 +121,7 @@ This policy operates under:
     
       - A risk assessment is completed by the DSL and Head of Learning before a decision is made.
 
-- **Information Storage  
-    > **
+- **Information Storage**  
     
       - Disclosure information is kept confidentially within The Haven Google Workspace secure drive (access limited to DSL and Senior Admin).
     
