@@ -26,7 +26,7 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "Declaration of Photos and Videos.docx"
 ingested: 2026-05-21
-notes: "Wording correction 25 November 2026, at the Proprietor's request: the data protection role is titled Data Protection Officer consistently and is recorded as held by the Proprietor. No change to procedure; version unchanged."
+notes: "Wording correction 25 November 2026, at the Proprietor's request: states that all live sessions are recorded, consistent with the Child Protection and Safeguarding Policy and the DPIA. Version unchanged. Earlier note: Wording correction 25 November 2026, at the Proprietor's request: the data protection role is titled Data Protection Officer consistently and is recorded as held by the Proprietor. No change to procedure; version unchanged."
 ---
 # Declaration: Photos, Videos and Lesson Recordings
 
@@ -46,7 +46,7 @@ This document sets out how The Haven uses photographs, videos and lesson recordi
 - Videos and recordings made for promotional, training or educational purposes.
 ## 3. Lesson recordings
 
-Live online sessions may be recorded for the following purposes only:
+All live online sessions are recorded as a standing safeguarding measure. Recordings are used for the following purposes only:
 
 - Quality assurance, in line with the Quality Assurance Policy.
 - Safeguarding review, where a concern has been raised.
@@ -56,7 +56,7 @@ Recordings and transcripts are accessible only to authorised senior staff and th
 
 ## 4. Consent for lesson recording
 
-Families and learners are informed at the point of admission that sessions may be recorded for the purposes listed above. Continued participation constitutes acceptance of the practice. Where a learner asks not to appear on camera or have their voice recorded, the request is honoured and noted; the learner may still participate fully through chat or other means.
+Families and learners are informed at the point of admission that all live sessions are recorded for the purposes listed above. Continued participation constitutes acceptance of the practice. Where a learner asks not to appear on camera or have their voice recorded, the request is honoured and noted; the learner may still participate fully through chat or other means.
 
 ## 5. Promotional photographs and videos
 
