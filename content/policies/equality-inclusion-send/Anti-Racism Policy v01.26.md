@@ -35,13 +35,13 @@ related_policies:
   - "[[Prevent Duty Policy v10.26]]"
 source_file: "Anti-Racism Policy v01.26.docx"
 ingested: 2026-04-29
-notes: "KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
+notes: "Header correction 25 November 2026: the Date, Review Date and Version shown at the top of the policy now match the recorded review (properties above). No change to the policy text. Earlier note: KCSIE citation-currency check 26 August 2026: this policy cites the 2026 edition but was last substantively reviewed on 2026-04-29, before KCSIE 2026 was published on 7 July 2026. The citation has not been altered; the substantive review against KCSIE 2026 is outstanding and is scheduled for the next review date. Recorded so the gap is visible rather than implied."
 ---
-**Date:** October 2025  
-**Review Date:** October 2026  
+**Date:** April 2026  
+**Review Date:** April 2027  
 **Coordinator:** the Head  
 **Nominated Governor:** the Co-Chair of Governors  
-**Version:** v01.26
+**Version:** v04.26
 
 At *The Haven*, we recognise that **racism causes harm** — and that makes it a **safeguarding issue**. Every learner has the right to feel **safe, respected, and free to learn** without discrimination or bias. We do not minimise or ignore racial harm — we name it, record it, and respond.
 
@@ -56,8 +56,7 @@ This includes:
 
 We also recognise:
 
-  - The lasting impact of **racial trauma  
-    > **
+  - The lasting impact of **racial trauma**  
 
   - The risk of **adultification**, especially for Black and global majority children
 
