@@ -22,7 +22,7 @@ applies_to: ["haven"]
 related_policies: []
 source_file: "Structure of Organisation.docx"
 ingested: 2026-05-21
-notes: ""
+notes: "Wording correction 25 November 2026, at the Proprietor's request: the data protection role is titled Data Protection Officer consistently and is recorded as held by the Proprietor. No change to procedure; version unchanged."
 ---
 # Structure of Organisation
 
@@ -57,7 +57,7 @@ Volunteers, where engaged, are recruited and inducted to the same safeguarding s
 ## 7. Reporting lines
 
 - Governors → Proprietor.
-- Proprietor → Head; Operations Lead; Data Protection Lead.
+- Proprietor → Head; Operations Lead. The Proprietor also holds the Data Protection Officer role.
 - Head → Educators, mentor coordinator, SEND lead, DSL (where separate).
 - DSL → Reports to the Head, with direct escalation route to the Proprietor and to the Nominated Safeguarding Governor.
 - Educators → Head / curriculum lead.
@@ -100,7 +100,7 @@ This document is reviewed annually by the Proprietor and approved by the Board o
 | Head | Operational leadership of the online education provision. Accountable for educational quality, safeguarding, attendance, staff supervision and statutory compliance. |
 | Designated Safeguarding Lead (DSL) | Statutory lead for safeguarding. May be combined with the Head role or separate. Manages safeguarding referrals, training and reporting. |
 | Director of Operations / Operations Lead | Day-to-day operational management, systems, HR coordination, family communications. |
-| Data Protection Lead | Oversight of UK GDPR compliance, privacy notices, data retention and breach response. |
+| Data Protection Officer | Oversight of UK GDPR compliance, privacy notices, data retention and breach response. The role is held by the Proprietor. |
 
 | Function | Lead / responsibility |
 |---|---|
