@@ -24,7 +24,7 @@ These are read and acknowledged at induction and re-confirmed annually.
 ### Equality and inclusion
 
 - [Anti-Racism is Safeguarding Policy](../policies/equality-inclusion-send/Anti-Racism-Policy-v01.26)
-- [Equal Opportunities, Equality & Diversity Policy](../policies/equality-inclusion-send/Equal-Opportunities,-Equality--and--Diversity-Policy-v10.25)
+- [Equal Opportunities, Equality & Diversity Policy](../policies/equality-inclusion-send/Equal-Opportunities,-Equality--and--Diversity-Policy-v10.26)
 - [SEND Policy](../policies/equality-inclusion-send/SEND-Policy-v01.26)
 
 ### Conduct, internet, and grievance
@@ -38,7 +38,7 @@ These are read and acknowledged at induction and re-confirmed annually.
 ### Health, safety, and learner welfare
 
 - [Health and Safety Policy](../policies/health-safety-medical/Health-and-Safety-Policy-v10.26)
-- [Risk Assessment Policy](../policies/health-safety-medical/Risk-Assessment-Policy-v10.25)
+- [Risk Assessment Policy](../policies/health-safety-medical/Risk-Assessment-Policy-v10.26)
 - [Accidents, Incidents and First Aid Policy](../policies/health-safety-medical/Accidents,-Incidents-and-First-Aid-Policy-v04.26-draft)
 - [Supporting Medical Conditions Policy](../policies/health-safety-medical/Supporting-Medical-Conditions-Policy-(inc.-Administration-of-Medicines)-v10.25)
 - [Ergonomic Health and Safety Policy](../policies/health-safety-medical/Ergonomic-Health-and-Safety-Policy-v10.25)

@@ -20,7 +20,7 @@ The policies and procurement documents Local Authority commissioners and school-
 - [Children Missing from Education Policy](../policies/attendance-engagement/Children-Missing-from-Education-Policy-v10.25)
 - [SEND Policy](../policies/equality-inclusion-send/SEND-Policy-v01.26)
 - [Relational Behaviour and Regulation Policy](../policies/behaviour-regulation/Behaviour-and-Regulation-Policy-v10.26)
-- [Equal Opportunities, Equality & Diversity Policy](../policies/equality-inclusion-send/Equal-Opportunities,-Equality--and--Diversity-Policy-v10.25)
+- [Equal Opportunities, Equality & Diversity Policy](../policies/equality-inclusion-send/Equal-Opportunities,-Equality--and--Diversity-Policy-v10.26)
 
 ## Curriculum and quality
 
@@ -31,7 +31,7 @@ The policies and procurement documents Local Authority commissioners and school-
 ## Health, safety, and learner welfare
 
 - [Health and Safety Policy](../policies/health-safety-medical/Health-and-Safety-Policy-v10.26)
-- [Risk Assessment Policy](../policies/health-safety-medical/Risk-Assessment-Policy-v10.25)
+- [Risk Assessment Policy](../policies/health-safety-medical/Risk-Assessment-Policy-v10.26)
 - [Accidents, Incidents and First Aid Policy](../policies/health-safety-medical/Accidents,-Incidents-and-First-Aid-Policy-v04.26-draft)
 - [Supporting Medical Conditions Policy (inc. Administration of Medicines)](../policies/health-safety-medical/Supporting-Medical-Conditions-Policy-(inc.-Administration-of-Medicines)-v10.25)
 - [Off-site Visits Policy](../policies/health-safety-medical/Off-site-Visits-Policy-v01.26)
